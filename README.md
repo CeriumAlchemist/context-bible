@@ -12,9 +12,9 @@ Phase 1 (foundation):
 - [x] Book, chapter and verse pages
 - [x] KJV text with the surrounding verses shown dimmed
 - [x] Comparison with BSB and ASV
-- [ ] Original-language word study (STEPBible data)
-- [ ] Cross-references (OpenBible.info)
-- [ ] Places (OpenBible.info geocoding)
+- [x] Original-language word study: Hebrew/Greek word, pronunciation, Strong's number, lexicon meaning
+- [x] Cross-references (top 8 by reader votes)
+- [x] Places named in the verse, with map links
 
 Phase 2 adds the AI-drafted, source-checked context cards.
 
@@ -27,7 +27,7 @@ npm test
 npm run build
 ```
 
-The translation files in `data/translations/` are checked in. To rebuild them from their sources, run `npm run build:data`. The script checks that each translation has 66 books, the right chapter counts and 31,102 verses.
+The data files in `data/` are checked in. To rebuild the translations, run `npm run build:data`; to rebuild the word study, lexicons, cross-references and places, run `npm run build:study` afterwards (it sizes everything from the KJV). The script checks that each translation has 66 books, the right chapter counts and 31,102 verses.
 
 ## Layout
 
@@ -39,6 +39,9 @@ The translation files in `data/translations/` are checked in. To rebuild them fr
 | `lib/bible.ts` | Reads a chapter from `data/translations` |
 | `app/` | Next.js pages: home, `/[book]`, `/[book]/[chapter]`, `/[book]/[chapter]/[verse]`, and `/go?q=` for search |
 | `scripts/build-data.ts` | Downloads and normalizes the translations |
+| `lib/study.ts` | Reads words, lexicon entries, cross-references and places |
+| `components/StudySections.tsx` | The word study, cross-reference and place sections of the verse page |
+| `scripts/build-study-data.ts` | Builds `data/words`, `data/lexicon`, `data/crossrefs` and `data/places.json` |
 
 ## Sources and licenses
 
@@ -49,5 +52,13 @@ The translation files in `data/translations/` are checked in. To rebuild them fr
 | American Standard Version (1901) | Public domain | [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) |
 
 The KJV comes from aruljohn rather than scrollmapper because scrollmapper's copy drops some punctuation and prints "Lord" where the KJV has "LORD" (for example, Genesis 1:2 and 2:4).
+
+| Data | License | Source |
+| --- | --- | --- |
+| Hebrew and Greek words, Strong's tags, brief lexicons | CC BY 4.0, Tyndale House Cambridge | [STEPBible-Data](https://github.com/STEPBible/STEPBible-Data) (TAHOT, TAGNT, TBESH, TBESG) |
+| Cross-references with votes | CC BY, OpenBible.info | [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) extras |
+| Places and coordinates | CC BY 4.0, OpenBible.info | [openbibleinfo/Bible-Geocoding-Data](https://github.com/openbibleinfo/Bible-Geocoding-Data) |
+
+Verse numbers follow the KJV. Hebrew words follow the Leningrad text with its Qere readings, and Greek words are limited to those in the KJV's Greek (Scrivener 1894). Eight verses have no word data yet because the source numbers them differently: John 7:53, Romans 16:25-27, 2 Corinthians 13:13-14 and Philippians 1:16-17.
 
 AMP, ESV, NLT and ICB are copyrighted and are not included. They need a license or API agreement from their publishers.
