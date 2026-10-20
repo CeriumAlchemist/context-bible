@@ -238,6 +238,122 @@ sup {
   color: var(--muted);
 }
 
+h3 {
+  font-size: 0.95rem;
+  margin: 16px 0 8px;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.source {
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.words {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.95rem;
+}
+
+.words th,
+.words td {
+  text-align: left;
+  vertical-align: top;
+  padding: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.words .original {
+  font-family: "SBL Hebrew", "SBL Greek", "Ezra SIL", "Times New Roman", serif;
+  font-size: 1.3rem;
+  white-space: nowrap;
+}
+
+.words .strongs {
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+}
+
+.words summary {
+  cursor: pointer;
+}
+
+.definition {
+  white-space: pre-line;
+  font-size: 0.85rem;
+  color: var(--muted);
+  max-width: 40ch;
+}
+
+/* On phones each word becomes a small card instead of a wide table row. */
+@media (max-width: 640px) {
+  .words thead {
+    display: none;
+  }
+
+  .words tr {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 4px 12px;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .words td {
+    padding: 0;
+    border: 0;
+  }
+
+  .words td:nth-child(1) {
+    font-weight: 600;
+  }
+
+  .words td:nth-child(2) {
+    grid-row: span 2;
+    text-align: right;
+  }
+
+  .words td:nth-child(5) {
+    grid-column: 1 / -1;
+  }
+
+  .definition {
+    max-width: none;
+  }
+}
+
+.crossrefs,
+.places {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.crossrefs li,
+.places li {
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.crossrefs a {
+  display: block;
+  font-weight: 600;
+}
+
+.crossrefs span {
+  font-family: var(--serif);
+}
+
+.place-links {
+  display: inline-flex;
+  gap: 12px;
+  margin-left: 12px;
+  font-size: 0.9rem;
+}
+
 .chapter-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(48px, 1fr));

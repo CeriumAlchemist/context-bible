@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "typecheck": "tsc --noEmit",
-    "build:data": "tsx scripts/build-data.ts"
+    "build:data": "tsx scripts/build-data.ts",
+    "build:study": "tsx scripts/build-study-data.ts"
   },
   "dependencies": {
     "next": "^15.5.28",

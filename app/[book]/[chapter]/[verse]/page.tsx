@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { CrossReferences, Places, WordStudy } from "@/components/StudySections";
 import { loadChapter } from "@/lib/bible";
 import { bookBySlug } from "@/lib/books";
 import { formatReference, type Reference } from "@/lib/reference";
@@ -82,6 +83,10 @@ export default async function VersePage({ params }: { params: Params }) {
           sources. Coming with the context cards.
         </p>
       </section>
+
+      <Places book={book} chapter={chapter} verses={selected} />
+      <WordStudy book={book} chapter={chapter} verses={selected} />
+      <CrossReferences book={book} chapter={chapter} verses={selected} />
 
       <section>
         <h2>Other translations</h2>
