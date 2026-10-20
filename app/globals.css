@@ -377,3 +377,103 @@ h3 {
   justify-content: space-between;
   margin-top: 32px;
 }
+
+.card {
+  margin: 24px 0;
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+}
+
+.card-head {
+  margin-bottom: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.card-head h2 {
+  margin: 0;
+}
+
+.badge {
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.badge.reviewed {
+  background: var(--accent);
+  color: var(--bg);
+}
+
+.card .lead {
+  font-size: 1.1rem;
+}
+
+.five-w {
+  display: grid;
+  grid-template-columns: 5em 1fr;
+  gap: 4px 16px;
+  margin: 16px 0;
+}
+
+.five-w dt {
+  font-weight: 600;
+  padding-top: 2px;
+}
+
+.five-w dd {
+  margin: 0;
+}
+
+.five-w p,
+.card p {
+  margin: 0 0 8px;
+}
+
+@media (max-width: 640px) {
+  .five-w {
+    grid-template-columns: 1fr;
+  }
+}
+
+.misuse,
+.differ {
+  margin: 16px 0;
+  padding: 12px;
+  border-left: 3px solid var(--accent);
+  background: var(--accent-soft);
+  border-radius: 0 8px 8px 0;
+}
+
+.misuse h3,
+.differ h3 {
+  margin-top: 0;
+}
+
+.sources {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  vertical-align: baseline;
+}
+
+.sources a,
+.sources span {
+  font-size: 0.75rem;
+  padding: 0 6px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  text-decoration: none;
+  color: var(--muted);
+}
+
+.outline {
+  padding-left: 20px;
+}

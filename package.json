@@ -9,12 +9,15 @@
     "start": "next start",
     "typecheck": "tsc --noEmit",
     "build:data": "tsx scripts/build-data.ts",
-    "build:study": "tsx scripts/build-study-data.ts"
+    "build:study": "tsx scripts/build-study-data.ts",
+    "cards": "tsx scripts/generate-cards.ts"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.135.0",
     "next": "^15.5.28",
     "react": "^19.3.1",
-    "react-dom": "^19.3.1"
+    "react-dom": "^19.3.1",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@types/node": "^26.6.5",

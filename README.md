@@ -16,7 +16,31 @@ Phase 1 (foundation):
 - [x] Cross-references (top 8 by reader votes)
 - [x] Places named in the verse, with map links
 
-Phase 2 adds the AI-drafted, source-checked context cards.
+Phase 2 (context cards):
+
+- [x] Book overview for 1 Timothy (`data/books/1-timothy.json`), shown on the book page
+- [x] Card format, grounding packet, automated checks and a second AI checking pass
+- [x] Card display on the verse page; cards with any open problem stay hidden
+- [ ] Generate the 1 Timothy cards (needs an Anthropic API key)
+- [ ] Human review of the most-quoted verses
+
+## Context cards
+
+Each card is written by Claude from one verse's *source packet* only: the KJV chapter (`v:`), the book overview (`b:`), lexicon entries for the verse's words (`w:`), cross-references (`x:`) and places (`p:`). Every statement on the card lists the ids it rests on, and the page links them.
+
+```sh
+export ANTHROPIC_API_KEY=...            # or sign in with `ant auth login`
+npm run cards -- 1-timothy --dry-run    # show the prompt for 1:1; no API calls
+npm run cards -- 1-timothy 1 3          # one verse
+npm run cards -- 1-timothy              # the whole book (113 verses); existing cards are skipped
+```
+
+Every card goes through two checks before it can be shown:
+
+1. **Automated:** every statement cites at least one source it was actually given, every Scripture reference it writes is a real verse, key words are words in the verse, and the lead is at most 3 sentences.
+2. **A second Claude pass** reads each statement against its cited sources and lists anything unsupported, overstated, or presenting one tradition's reading as the only one.
+
+A card with anything from either check is saved but not shown. Setting `"status": "reviewed"` (and `"reviewedBy"`) in its file marks it reviewed by a person. Cards are stored in `data/cards/<book>/<chapter>.<verse>.json`.
 
 ## Running it
 
@@ -41,6 +65,10 @@ The data files in `data/` are checked in. To rebuild the translations, run `npm 
 | `scripts/build-data.ts` | Downloads and normalizes the translations |
 | `lib/study.ts` | Reads words, lexicon entries, cross-references and places |
 | `components/StudySections.tsx` | The word study, cross-reference and place sections of the verse page |
+| `lib/cards/` | Card schema, source packet, automated checks, loading |
+| `components/ContextCard.tsx` | The card on the verse page |
+| `scripts/generate-cards.ts` | Writes and checks cards with Claude |
+| `data/books/` | Book overviews |
 | `scripts/build-study-data.ts` | Builds `data/words`, `data/lexicon`, `data/crossrefs` and `data/places.json` |
 
 ## Sources and licenses

@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { ContextCardView } from "@/components/ContextCard";
 import { CrossReferences, Places, WordStudy } from "@/components/StudySections";
 import { loadChapter } from "@/lib/bible";
 import { bookBySlug } from "@/lib/books";
+import { loadCard } from "@/lib/cards/store";
 import { formatReference, type Reference } from "@/lib/reference";
 import { PRIMARY, TRANSLATIONS } from "@/lib/translations";
 
@@ -48,6 +50,9 @@ export default async function VersePage({ params }: { params: Params }) {
   const to = Math.min(kjv.length, end + SURROUNDING);
   const selected = Array.from({ length: end - start + 1 }, (_, i) => start + i);
 
+  // Cards are written per verse; a range shows the first verse's card.
+  const card = await loadCard(book, chapter, start);
+
   const others = await Promise.all(
     TRANSLATIONS.filter((t) => t.id !== PRIMARY.id).map(async (t) => ({
       t,
@@ -76,13 +81,7 @@ export default async function VersePage({ params }: { params: Params }) {
         })}
       </section>
 
-      <section className="placeholder">
-        <h2>In context</h2>
-        <p>
-          Who is speaking and to whom, what is happening, when and where, and why it matters, each with its
-          sources. Coming with the context cards.
-        </p>
-      </section>
+      <ContextCardView book={book} stored={card} />
 
       <Places book={book} chapter={chapter} verses={selected} />
       <WordStudy book={book} chapter={chapter} verses={selected} />
