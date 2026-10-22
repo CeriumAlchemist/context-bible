@@ -29,7 +29,7 @@ Phase 2 (context cards):
 Each card is written by Claude from one verse's *source packet* only: the KJV chapter (`v:`), the book overview (`b:`), lexicon entries for the verse's words (`w:`), cross-references (`x:`) and places (`p:`). Every statement on the card lists the ids it rests on, and the page links them.
 
 ```sh
-export ANTHROPIC_API_KEY=...            # or sign in with `ant auth login`
+export ANTHROPIC_API_KEY=...            # or sign in with `ant auth login`; in a Claude cloud environment use CONTEXT_CARDS_KEY
 npm run cards -- 1-timothy --dry-run    # show the prompt for 1:1; no API calls
 npm run cards -- 1-timothy 1 3          # one verse
 npm run cards -- 1-timothy              # the whole book (113 verses); existing cards are skipped

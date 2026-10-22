@@ -7,7 +7,7 @@
  *   npm run cards -- 1-timothy --dry-run  print the prompt for the first verse; no API calls
  *
  * Each card is written by Claude from the verse's source packet only, checked automatically,
- * then read against its sources by a second Claude pass. Needs ANTHROPIC_API_KEY (or an `ant auth login` profile).
+ * then read against its sources by a second Claude pass. Needs CONTEXT_CARDS_KEY or ANTHROPIC_API_KEY (or an `ant auth login` profile).
  * Existing cards are skipped unless --force is given.
  */
 import Anthropic from "@anthropic-ai/sdk";
@@ -103,7 +103,9 @@ async function main() {
     return;
   }
 
-  const client = new Anthropic();
+  // CONTEXT_CARDS_KEY is for cloud environments, where ANTHROPIC_API_KEY and ANTHROPIC_BASE_URL are reserved.
+  const cloudKey = process.env.CONTEXT_CARDS_KEY;
+  const client = cloudKey ? new Anthropic({ apiKey: cloudKey, baseURL: "https://api.anthropic.com" }) : new Anthropic();
   const versesIn = await kjvVerseCounter();
   const outDir = path.join(process.cwd(), "data", "cards", book.slug);
   await mkdir(outDir, { recursive: true });
