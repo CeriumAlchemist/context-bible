@@ -114,15 +114,7 @@
         ]
       }
     },
-    "christians_differ": {
-      "text": "Traditions differ on what it means that the church is \"the pillar and ground of the truth.\" Catholic and Orthodox readers often see it as support for the church's role in authoritatively guarding and teaching the truth. Many Protestant readers see the church as holding up and displaying a truth whose source lies in God and Christ, not in the church itself.",
-      "sources": [
-        "v:3.15",
-        "v:3.16",
-        "w:G4769",
-        "w:G1477"
-      ]
-    },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G3624H",
@@ -190,17 +182,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
-    {
-      "claim": "christians_differ",
-      "reason": "None of the cited sources mention Catholic, Orthodox, or Protestant interpretations. The specific attributions of views to these traditions have no support in the cited material."
-    }
-  ],
+  "unsupported": [],
   "resolved": [
     {
       "claim": "key_words.3",
       "reason": "The lexicon defines a pillar as 'regarded especially as a support.' The added idea that the church 'makes it visible' (display) is not in the cited source.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "None of the cited sources mention Catholic, Orthodox, or Protestant interpretations. The specific attributions of views to these traditions have no support in the cited material.",
+      "fix": "note removed at Kourtland's direction: it described later church traditions rather than the text"
     }
   ]
 }

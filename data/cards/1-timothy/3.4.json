@@ -162,17 +162,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
-    {
-      "claim": "christians_differ",
-      "reason": "No cited source mentions any debate over whether the verse requires a bishop to have children. The sources also do not attest which traditions hold the stated readings on believing children."
-    }
-  ],
+  "unsupported": [],
   "resolved": [
     {
       "claim": "key_words.2",
       "reason": "The lexicon only lists 1 Tim 2:11 as another use of the word. That does not support the conclusion that the verse describes an ordered household 'rather than harsh treatment.' The inference is drawn without support from the cited source.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "No cited source mentions any debate over whether the verse requires a bishop to have children. The sources also do not attest which traditions hold the stated readings on believing children.",
+      "fix": "checked and approved by Kourtland"
     }
   ]
 }

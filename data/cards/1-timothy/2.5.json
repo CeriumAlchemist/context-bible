@@ -104,13 +104,7 @@
       }
     },
     "misuse": null,
-    "christians_differ": {
-      "text": "Many Protestants read \"one mediator\" as ruling out praying to saints or relying on priests as go-betweens with God. Catholic and Orthodox Christians agree Christ is the unique mediator but hold that asking others, including saints, to pray for us shares in his mediation rather than competing with it, noting that the passage itself asks believers to intercede for others (2:1).",
-      "sources": [
-        "v:2.1",
-        "v:2.5"
-      ]
-    },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G1063",
@@ -170,10 +164,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "christians_differ",
-      "reason": "The cited verses do not describe Protestant, Catholic, or Orthodox positions on saints, priests, or shared mediation. These characterizations of the traditions are not found in any cited source."
+      "reason": "The cited verses do not describe Protestant, Catholic, or Orthodox positions on saints, priests, or shared mediation. These characterizations of the traditions are not found in any cited source.",
+      "fix": "note removed at Kourtland's direction: it described later church traditions rather than the text"
     }
   ]
 }

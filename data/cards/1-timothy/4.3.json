@@ -111,13 +111,7 @@
         ]
       }
     },
-    "christians_differ": {
-      "text": "Some Protestants have read this verse as a warning against church rules like required clerical celibacy or set days of abstaining from meat. Catholic and Orthodox Christians answer that the verse condemns those who call marriage or food evil, not voluntary disciplines that still honor them as good. The verse itself speaks of forbidding marriage and refusing what God created as good.",
-      "sources": [
-        "v:4.3",
-        "v:4.4"
-      ]
-    },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G2967",
@@ -173,17 +167,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
-    {
-      "claim": "christians_differ",
-      "reason": "The cited sources are only the verse texts. They say nothing about Protestant, Catholic, or Orthodox readings, clerical celibacy, or fasting days, so these attributions to traditions are unsupported."
-    }
-  ],
+  "unsupported": [],
   "resolved": [
     {
       "claim": "key_words.0",
       "reason": "The lexicon gives only 'hinder, restrain, forbid, withhold.' Saying the fault is imposing a ban on others 'not a person's own choice' is an interpretive conclusion the entry does not make, and it takes one side of a disputed reading.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "The cited sources are only the verse texts. They say nothing about Protestant, Catholic, or Orthodox readings, clerical celibacy, or fasting days, so these attributions to traditions are unsupported.",
+      "fix": "note removed at Kourtland's direction: it described later church traditions rather than the text"
     }
   ]
 }

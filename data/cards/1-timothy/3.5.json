@@ -98,7 +98,7 @@
     },
     "misuse": null,
     "christians_differ": {
-      "text": "Traditions differ on what the \"bishop\" (overseer) office is. Some see it as a distinct, higher office over several churches. Others treat it as the same role as elder or pastor, noting that Acts 20:28 calls elders \"overseers.\" Readers also differ on whether this verse requires a leader to be married with children, or simply requires that any household he has be well managed.",
+      "text": "Traditions differ on what the \"bishop\" (overseer) office is. Some see it as a distinct, higher office over several churches. Others treat it as the same role as elder or pastor, noting that in Acts 20:28 Paul calls the Ephesian elders \"overseers.\" Readers also differ on whether this verse requires a leader to be married with children, or simply requires that any household he has be well managed.",
       "sources": [
         "v:3.1",
         "v:3.4",
@@ -160,12 +160,7 @@
     }
   },
   "problems": [],
-  "unsupported": [
-    {
-      "claim": "christians_differ",
-      "reason": "No cited source says some traditions see the bishop as a higher office over several churches. Acts 20:28 calls its hearers 'overseers' but does not call them elders. The cited sources also do not describe a debate over whether leaders must be married with children."
-    }
-  ],
+  "unsupported": [],
   "resolved": [
     {
       "claim": "why.for_readers",
@@ -181,6 +176,11 @@
       "claim": "key_words.1",
       "reason": "The lexicon gives only the reference Luke 10:34-35. It does not mention the Good Samaritan or a wounded man. The conclusion that leadership is pictured as 'tender care, not just control' is interpretation the source does not state.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "No cited source says some traditions see the bishop as a higher office over several churches. Acts 20:28 calls its hearers 'overseers' but does not call them elders. The cited sources also do not describe a debate over whether leaders must be married with children.",
+      "fix": "checked and approved by Kourtland"
     }
   ]
 }

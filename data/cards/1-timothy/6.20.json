@@ -118,14 +118,7 @@
         ]
       }
     },
-    "christians_differ": {
-      "text": "The verse does not list what the 'deposit' contains. Catholic and Orthodox readers often see it as the whole apostolic faith, passed on by both word and writing, and link it with verses like 2 Thessalonians 2:15. Many Protestant readers see it as the gospel teaching now found in Scripture.",
-      "sources": [
-        "v:6.20",
-        "w:G3866",
-        "x:2-thessalonians.2.15"
-      ]
-    },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G3866",
@@ -182,10 +175,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "christians_differ",
-      "reason": "None of the cited sources say how Catholic, Orthodox, or Protestant readers understand the 'deposit'. 2 Thessalonians 2:15 mentions traditions taught by word or epistle, but nothing cited ties it to 1 Timothy 6:20 or attributes these views to any tradition."
+      "reason": "None of the cited sources say how Catholic, Orthodox, or Protestant readers understand the 'deposit'. 2 Thessalonians 2:15 mentions traditions taught by word or epistle, but nothing cited ties it to 1 Timothy 6:20 or attributes these views to any tradition.",
+      "fix": "note removed at Kourtland's direction: it described later church traditions rather than the text"
     }
   ]
 }

@@ -166,17 +166,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
-    {
-      "claim": "christians_differ",
-      "reason": "No cited source says that 'many on both sides' read verse 20's 'may learn' as pointing to possible restoration. The verse states a corrective purpose, but the claim about how interpreters read it is not supported."
-    }
-  ],
+  "unsupported": [],
   "resolved": [
     {
       "claim": "key_words.1",
       "reason": "The lexicon only says the word is used metaphorically of shipwreck regarding faith. Saying faith is 'lost, not merely damaged' takes one side of the interpretive debate that christians_differ itself presents as open.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "No cited source says that 'many on both sides' read verse 20's 'may learn' as pointing to possible restoration. The verse states a corrective purpose, but the claim about how interpreters read it is not supported.",
+      "fix": "checked and approved by Kourtland"
     }
   ]
 }

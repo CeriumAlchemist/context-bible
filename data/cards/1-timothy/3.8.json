@@ -173,12 +173,7 @@
     }
   },
   "problems": [],
-  "unsupported": [
-    {
-      "claim": "christians_differ",
-      "reason": "None of the cited sources mentions churches differing over whether deacons are ordained officers or lay helpers. The lexicon entry only defines the word as servant."
-    }
-  ],
+  "unsupported": [],
   "resolved": [
     {
       "claim": "what",
@@ -189,6 +184,11 @@
       "claim": "key_words.1",
       "reason": "The lexicon gives 'reverend, venerable, grave, serious.' Nothing in the sources supports the qualification 'not gloomy.'",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "None of the cited sources mentions churches differing over whether deacons are ordained officers or lay helpers. The lexicon entry only defines the word as servant.",
+      "fix": "checked and approved by Kourtland"
     }
   ]
 }

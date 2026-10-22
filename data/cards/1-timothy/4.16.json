@@ -101,7 +101,7 @@
     },
     "misuse": null,
     "christians_differ": {
-      "text": "Readers differ on what \"save thyself\" means. Some take it as Timothy persevering toward final salvation. Others read it mainly as being kept safe from the false teaching described in 4:1, and still others discuss how this saving relates to God's grace. The word for save can describe salvation as past, present, or future.",
+      "text": "Readers differ on what \"save thyself\" means. Some take it as Timothy persevering toward final salvation. Others read it mainly as being kept safe from the false teaching described in 4:1. The word for save can describe salvation as past, present, or future.",
       "sources": [
         "v:4.1",
         "v:4.16",
@@ -161,10 +161,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "christians_differ",
-      "reason": "None of the cited sources describe differing interpretations of 'save thyself'. The perseverance reading, the protection-from-false-teaching reading, and the grace discussion are not documented. The lexicon only notes that salvation can be past, present, or future."
+      "reason": "None of the cited sources describe differing interpretations of 'save thyself'. The perseverance reading, the protection-from-false-teaching reading, and the grace discussion are not documented. The lexicon only notes that salvation can be past, present, or future.",
+      "fix": "checked and approved by Kourtland"
     }
   ]
 }

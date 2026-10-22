@@ -188,12 +188,7 @@
     }
   },
   "problems": [],
-  "unsupported": [
-    {
-      "claim": "christians_differ",
-      "reason": "The cited sources give only a lexical gloss ('sodomite'), the word's two occurrences, and the verse texts. They do not say the word's sense is debated, describe what 'many traditions' hold, or mention any Christians arguing for a narrower, exploitative meaning."
-    }
-  ],
+  "unsupported": [],
   "resolved": [
     {
       "claim": "key_words.2",
@@ -204,6 +199,11 @@
       "claim": "takeaway",
       "reason": "Calling Paul the 'first example' relies on 1:16 ('in me first… for a pattern'), which this claim does not cite. The cited 1:15 says only that Paul is 'chief' of sinners.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "The cited sources give only a lexical gloss ('sodomite'), the word's two occurrences, and the verse texts. They do not say the word's sense is debated, describe what 'many traditions' hold, or mention any Christians arguing for a narrower, exploitative meaning.",
+      "fix": "checked and approved by Kourtland"
     }
   ]
 }
