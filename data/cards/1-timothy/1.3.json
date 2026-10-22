@@ -32,11 +32,12 @@
         ]
       },
       "affected": {
-        "text": "\"Some\" unnamed people in the Ephesian church who were teaching other doctrine. Later in the chapter Paul names two who had wrecked their faith, Hymenaeus and Alexander.",
+        "text": "\"Some\" unnamed people in the Ephesian church who were teaching other doctrine. Later in the chapter Paul names two who \"made shipwreck\" of their faith, Hymenaeus and Alexander.",
         "sources": [
           "v:1.3",
           "v:1.6",
           "v:1.7",
+          "v:1.19",
           "v:1.20"
         ]
       }
@@ -168,10 +169,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "who.affected",
-      "reason": "The cited verse 1:20 names Hymenaeus and Alexander, but the statement that they 'wrecked their faith' comes from 1:19, which is not cited. None of the cited sources says it."
+      "reason": "The cited verse 1:20 names Hymenaeus and Alexander, but the statement that they 'wrecked their faith' comes from 1:19, which is not cited. None of the cited sources says it.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

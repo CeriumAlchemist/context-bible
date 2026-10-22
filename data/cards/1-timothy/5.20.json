@@ -73,7 +73,7 @@
     },
     "why": {
       "purpose": {
-        "text": "Leaders who keep sinning harm the church. Open correction protects the church and warns others, which matches the letter's aim of right conduct in God's household.",
+        "text": "Paul gives the reason himself: open rebuke is \"that others also may fear.\" This fits the letter's aim of right conduct in God's household.",
         "sources": [
           "v:5.20",
           "b:purpose"
@@ -117,10 +117,9 @@
         "strong": "G1651",
         "english": "rebuke",
         "why_it_matters": {
-          "text": "The word can mean to convict, to reprove, or to expose. It implies showing someone their fault on real grounds, which fits the need for witnesses in 5:19. It is not simply scolding.",
+          "text": "The word can mean to convict, to reprove, or to expose. The lexicon lists this verse under \"reprove, rebuke.\"",
           "sources": [
-            "w:G1651",
-            "v:5.19"
+            "w:G1651"
           ]
         }
       },
@@ -156,14 +155,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "why.purpose",
-      "reason": "The cited sources do not say that leaders who 'keep sinning' harm the church, or that open correction 'protects' the church. Verse 5:20 states only the warning purpose ('that others also may fear'). The ongoing-sin reading and the protective rationale are added interpretation."
+      "reason": "The cited sources do not say that leaders who 'keep sinning' harm the church, or that open correction 'protects' the church. Verse 5:20 states only the warning purpose ('that others also may fear'). The ongoing-sin reading and the protective rationale are added interpretation.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.0",
-      "reason": "The lexicon places 1 Tim 5:20 under the sense 'reprove, rebuke,' not 'convict' or 'expose.' The claim that the word here implies showing a fault 'on real grounds' and is 'not simply scolding' goes beyond what the lexicon says about this verse."
+      "reason": "The lexicon places 1 Tim 5:20 under the sense 'reprove, rebuke,' not 'convict' or 'expose.' The claim that the word here implies showing a fault 'on real grounds' and is 'not simply scolding' goes beyond what the lexicon says about this verse.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

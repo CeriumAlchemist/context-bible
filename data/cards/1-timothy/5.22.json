@@ -9,7 +9,7 @@
   "generatedAt": "2026-10-22T01:52:35.467Z",
   "card": {
     "in_context": {
-      "text": "This verse sits in Paul's instructions to Timothy about church elders (5:17-21). Elders who lead well deserve honor, accusations against them need two or three witnesses, and sinning elders are to be rebuked publicly. Paul then warns Timothy not to lay hands on anyone hastily, that is, not to rush to appoint someone. If he does, he shares in that person's sins.",
+      "text": "This verse sits in Paul's instructions to Timothy about church elders (5:17-21). Elders who lead well deserve honor, accusations against them need witnesses, and those who sin are rebuked publicly. Paul then tells Timothy to lay hands suddenly on no one, nor share in other men's sins.",
       "sources": [
         "v:5.17",
         "v:5.19",
@@ -171,8 +171,6 @@
       ]
     }
   },
-  "problems": [
-    "in_context: 4 sentences; keep it to 3"
-  ],
+  "problems": [],
   "unsupported": []
 }

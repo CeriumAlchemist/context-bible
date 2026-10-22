@@ -72,8 +72,9 @@
     },
     "why": {
       "purpose": {
-        "text": "This verse opens a section on prayer and conduct in worship. It shows Timothy what the church's public prayers should include.",
+        "text": "This verse continues the section on prayer and conduct in worship that begins at 2:1. It shows Timothy what the church's public prayers should include.",
         "sources": [
+          "v:2.1",
           "b:outline",
           "b:purpose"
         ]
@@ -167,10 +168,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "why.purpose",
-      "reason": "The outline places the start of the prayer-and-worship section at 2:1, so this verse continues the section rather than opening it."
+      "reason": "The outline places the start of the prayer-and-worship section at 2:1, so this verse continues the section rather than opening it.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

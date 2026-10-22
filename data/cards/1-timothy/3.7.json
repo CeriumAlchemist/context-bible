@@ -129,7 +129,7 @@
         "strong": "G3803",
         "english": "snare",
         "why_it_matters": {
-          "text": "This is a trap. The same image appears in 1 Timothy 6:9 and 2 Timothy 2:26, where people are taken captive in the devil's snare.",
+          "text": "The word means a trap or snare. The letter uses it again in 6:9 of those who want to be rich, and 2 Timothy 2:26 speaks of \"the snare of the devil.\"",
           "sources": [
             "w:G3803",
             "x:1-timothy.6.9",
@@ -158,10 +158,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.2",
-      "reason": "Only 2 Timothy 2:26 speaks of being taken captive in the devil's snare. 1 Timothy 6:9 mentions a snare for those who want to be rich, but it does not mention the devil or captivity."
+      "reason": "Only 2 Timothy 2:26 speaks of being taken captive in the devil's snare. 1 Timothy 6:9 mentions a snare for those who want to be rich, but it does not mention the devil or captivity.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

@@ -9,12 +9,11 @@
   "generatedAt": "2026-10-22T01:45:16.716Z",
   "card": {
     "in_context": {
-      "text": "Paul has just told the men of the church to pray without anger or quarrelling (2:8). \"In like manner\" he now turns to the women. He asks them to be marked by modesty, self-control, and good works rather than costly display (2:9-10). This sits within a chapter on prayer and conduct in worship.",
+      "text": "Paul has just told the men to pray without wrath and doubting (2:8). \"In like manner\" he now turns to the women. He asks them to be marked by modesty, self-control, and good works rather than costly display (2:9-10).",
       "sources": [
         "v:2.8",
         "v:2.9",
         "v:2.10",
-        "b:outline",
         "w:G5615"
       ]
     },
@@ -70,11 +69,10 @@
       }
     },
     "where": {
-      "text": "The instruction is for the church at Ephesus, a wealthy port city and capital of the Roman province of Asia. Its wealth helps explain the warning against gold, pearls, and costly clothing.",
+      "text": "The instruction is for the church at Ephesus, a wealthy port city and capital of the Roman province of Asia.",
       "sources": [
         "b:destination",
-        "b:recipients",
-        "w:G4185"
+        "b:recipients"
       ]
     },
     "why": {
@@ -179,7 +177,7 @@
       }
     ],
     "takeaway": {
-      "text": "In context, this verse is about character in worship, not a detailed dress code. Modesty and self-control, shown through good works, matter more than displays of wealth.",
+      "text": "Paul asks women to be marked by modesty and self-control, and by good works rather than displays of wealth.",
       "sources": [
         "v:2.9",
         "v:2.10",
@@ -187,21 +185,23 @@
       ]
     }
   },
-  "problems": [
-    "in_context: 4 sentences; keep it to 3"
-  ],
-  "unsupported": [
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "takeaway",
-      "reason": "Calling the verse 'not a detailed dress code' is one interpretive reading. The card itself notes that some traditions apply the listed items directly, so this presents one view as the only reading."
+      "reason": "Calling the verse 'not a detailed dress code' is one interpretive reading. The card itself notes that some traditions apply the listed items directly, so this presents one view as the only reading.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "where",
-      "reason": "No cited source says Ephesus's wealth explains the warning against gold, pearls, and costly clothing. The causal link is the card's own inference, not stated in the sources."
+      "reason": "No cited source says Ephesus's wealth explains the warning against gold, pearls, and costly clothing. The causal link is the card's own inference, not stated in the sources.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "in_context",
-      "reason": "The cited verse 2:8 says 'without wrath and doubting'. Nothing in the sources mentions quarrelling, so the claim misstates its cited text."
+      "reason": "The cited verse 2:8 says 'without wrath and doubting'. Nothing in the sources mentions quarrelling, so the claim misstates its cited text.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

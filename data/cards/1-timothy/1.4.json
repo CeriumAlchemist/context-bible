@@ -31,12 +31,11 @@
         ]
       },
       "affected": {
-        "text": "The \"some\" in Ephesus who were teaching other doctrine. They wanted to be teachers of the law but did not understand what they were saying. Two are named later: Hymenaeus and Alexander.",
+        "text": "The \"some\" in Ephesus who were teaching other doctrine. They wanted to be teachers of the law but did not understand what they were saying (1:6-7).",
         "sources": [
           "v:1.3",
           "v:1.6",
-          "v:1.7",
-          "v:1.20"
+          "v:1.7"
         ]
       }
     },
@@ -168,10 +167,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "who.affected",
-      "reason": "Verse 1:20 names Hymenaeus and Alexander among those who 'made shipwreck' of faith (1:19). It does not identify them as the 'some' teaching other doctrine in 1:3, so the claim treats a possible link as stated fact."
+      "reason": "Verse 1:20 names Hymenaeus and Alexander among those who 'made shipwreck' of faith (1:19). It does not identify them as the 'some' teaching other doctrine in 1:3, so the claim treats a possible link as stated fact.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

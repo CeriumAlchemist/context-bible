@@ -142,7 +142,7 @@
         "strong": "G1248",
         "english": "ministry",
         "why_it_matters": {
-          "text": "The word means service, the work of a servant. It is used even of household duties. Paul describes his calling as service rather than status.",
+          "text": "The word means the office and work of a servant: service, ministry. It is used even of household duties.",
           "sources": [
             "w:G1248"
           ]
@@ -159,10 +159,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.3",
-      "reason": "The lexicon defines the word as 'the office and work of a διάκονος, service, ministry.' It does not support the contrast 'service rather than status,' and it even includes 'office.' That contrast is the card's own interpretation."
+      "reason": "The lexicon defines the word as 'the office and work of a διάκονος, service, ministry.' It does not support the contrast 'service rather than status,' and it even includes 'office.' That contrast is the card's own interpretation.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

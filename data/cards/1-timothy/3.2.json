@@ -43,7 +43,7 @@
       }
     },
     "what": {
-      "text": "The verse lists qualities an overseer must have. He must be above reproach, faithful in marriage, sober, self-controlled, orderly, welcoming to strangers, and able to teach. These are mostly marks of character, not of talent or status.",
+      "text": "The verse lists qualities an overseer must have. He must be above reproach, \"the husband of one wife,\" sober, self-controlled, orderly, welcoming to strangers, and able to teach.",
       "sources": [
         "v:3.2",
         "w:G0423",
@@ -51,8 +51,7 @@
         "w:G4998",
         "w:G2887",
         "w:G5382",
-        "w:G1317",
-        "b:themes"
+        "w:G1317"
       ]
     },
     "when": {
@@ -167,11 +166,11 @@
         "strong": "G1317",
         "english": "apt to teach",
         "why_it_matters": {
-          "text": "This is the one item in the list about skill rather than character. Other passages link it to holding and explaining sound teaching.",
+          "text": "The word means apt at teaching. Paul asks the same of \"the servant of the Lord\" in 2 Timothy 2:24, and Titus 1:9 links it to holding fast sound doctrine.",
           "sources": [
             "w:G1317",
-            "x:titus.1.9",
-            "x:2-timothy.2.24"
+            "x:2-timothy.2.24",
+            "x:titus.1.9"
           ]
         }
       }
@@ -187,14 +186,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "what",
-      "reason": "Renders 'the husband of one wife' as 'faithful in marriage', which is only one of several readings (the card itself notes polygamy and remarriage views). It presents one interpretation as the meaning."
+      "reason": "Renders 'the husband of one wife' as 'faithful in marriage', which is only one of several readings (the card itself notes polygamy and remarriage views). It presents one interpretation as the meaning.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.4",
-      "reason": "The cited sources only define the word as 'apt at teaching'. They do not say it is the one item in the list about skill rather than character; that is the card's own judgment."
+      "reason": "The cited sources only define the word as 'apt at teaching'. They do not say it is the one item in the list about skill rather than character; that is the card's own judgment.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

@@ -140,7 +140,7 @@
         "strong": "G5042",
         "english": "childbearing",
         "why_it_matters": {
-          "text": "This word appears only here in the New Testament. With no other New Testament uses to compare, its exact sense here is hard to settle.",
+          "text": "The word means child-bearing. This is the only place it appears in the New Testament.",
           "sources": [
             "w:G5042"
           ]
@@ -179,10 +179,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.1",
-      "reason": "The lexicon confirms the word is unique to this verse in the NT, but it gives a plain gloss ('child-bearing') and cites a use in Aristotle. It says nothing about the word's sense being hard to settle, so that part is added."
+      "reason": "The lexicon confirms the word is unique to this verse in the NT, but it gives a plain gloss ('child-bearing') and cites a use in Aristotle. It says nothing about the word's sense being hard to settle, so that part is added.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

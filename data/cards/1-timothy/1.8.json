@@ -83,9 +83,9 @@
         ]
       },
       "big_picture": {
-        "text": "The goal of Paul's charge is \"charity out of a pure heart, and of a good conscience, and of faith unfeigned\" (1:5). Elsewhere Paul says the same thing about the law: \"the law is holy, and the commandment holy, and just, and good\" (Romans 7:12).",
+        "text": "Paul says the same thing about the law in Romans: \"the law is holy, and the commandment holy, and just, and good\" (Romans 7:12), and \"I consent unto the law that it is good\" (Romans 7:16).",
         "sources": [
-          "v:1.5",
+          "v:1.8",
           "x:romans.7.12",
           "x:romans.7.16"
         ]
@@ -158,10 +158,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "why.big_picture",
-      "reason": "The claim says Romans 7:12 says 'the same thing' as 1:5, but 1:5 is about the goal of the charge (charity, a pure heart, faith), not the law's goodness. Romans 7:12 matches 1:8, which is not cited here, so the comparison is mismatched."
+      "reason": "The claim says Romans 7:12 says 'the same thing' as 1:5, but 1:5 is about the goal of the charge (charity, a pure heart, faith), not the law's goodness. Romans 7:12 matches 1:8, which is not cited here, so the comparison is mismatched.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

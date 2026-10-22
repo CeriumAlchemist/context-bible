@@ -124,7 +124,7 @@
         "strong": "G3874",
         "english": "exhortation",
         "why_it_matters": {
-          "text": "The word covers both urging and encouraging. It means applying Scripture to people's lives, not only correcting them.",
+          "text": "The word means exhortation or encouragement, and can also mean an appeal or entreaty.",
           "sources": [
             "w:G3874"
           ]
@@ -146,7 +146,7 @@
         "strong": "G4337",
         "english": "give attendance",
         "why_it_matters": {
-          "text": "The verb means to turn one's mind to something and attend to it. It calls for steady, focused care, not occasional effort.",
+          "text": "The verb means to turn one's mind to something and attend to it.",
           "sources": [
             "w:G4337"
           ]
@@ -164,14 +164,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.1",
-      "reason": "The lexicon defines the word as 'exhortation, encouragement' or 'appeal, entreaty'. It says nothing about applying Scripture to people's lives or about correction, so that part of the claim adds content the source does not give."
+      "reason": "The lexicon defines the word as 'exhortation, encouragement' or 'appeal, entreaty'. It says nothing about applying Scripture to people's lives or about correction, so that part of the claim adds content the source does not give.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.3",
-      "reason": "The lexicon gives 'turn one's mind to, attend to'. The claim that the verb calls for steady care rather than occasional effort (a point about ongoing action) is not in the cited source."
+      "reason": "The lexicon gives 'turn one's mind to, attend to'. The claim that the verb calls for steady care rather than occasional effort (a point about ongoing action) is not in the cited source.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

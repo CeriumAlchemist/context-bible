@@ -149,7 +149,7 @@
         "strong": "G5292",
         "english": "subjection",
         "why_it_matters": {
-          "text": "The word means submission or subjection. The same word appears in 1 Timothy 3:4 for children's submission in a household. Paul does not say here whom the submission is directed to.",
+          "text": "The word means submission or subjection. It appears again in 1 Timothy 3:4. This verse does not say whom the submission is directed to.",
           "sources": [
             "w:G5292",
             "v:2.11"
@@ -168,10 +168,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.2",
-      "reason": "The lexicon only lists 1 Timothy 3:4 as a reference. It does not say that verse concerns children's submission in a household, and the text of 3:4 is not among the sources."
+      "reason": "The lexicon only lists 1 Timothy 3:4 as a reference. It does not say that verse concerns children's submission in a household, and the text of 3:4 is not among the sources.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

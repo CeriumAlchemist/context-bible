@@ -108,10 +108,11 @@
         "strong": "G4413J",
         "english": "first",
         "why_it_matters": {
-          "text": "The Greek word can mean first in time or first in rank. Here it is glossed \"foremost.\" It links back to Paul calling himself \"chief\" of sinners in 1:15, so the point is that Paul was the leading example, not only the earliest.",
+          "text": "The word means first, and is glossed \"foremost\" here. Paul has just called himself \"chief\" of sinners (1:15), and now says Christ showed his patience \"in me first\" as a pattern for later believers.",
           "sources": [
             "w:G4413J",
-            "v:1.15"
+            "v:1.15",
+            "v:1.16"
           ]
         }
       },
@@ -149,7 +150,7 @@
         "strong": "G1653",
         "english": "obtained mercy",
         "why_it_matters": {
-          "text": "The verb is passive: \"I was shown mercy.\" Paul received this mercy and did not earn it, as in 1:13.",
+          "text": "The verb is passive: \"I was shown mercy.\" Paul presents mercy as something done to him, as he also says in 1:13.",
           "sources": [
             "w:G1653",
             "v:1.13"
@@ -167,14 +168,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.0",
-      "reason": "The cited lexicon lists only the time/place sense, plus the 'foremost' gloss. The claim goes further and states as settled that the point is Paul as the leading example rather than the earliest. That treats one interpretation as the only reading."
+      "reason": "The cited lexicon lists only the time/place sense, plus the 'foremost' gloss. The claim goes further and states as settled that the point is Paul as the leading example rather than the earliest. That treats one interpretation as the only reading.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.4",
-      "reason": "The passive form shows only that Paul received mercy. 'Did not earn it' is a theological inference that neither the lexicon nor 1:13 states. In fact 1:13 gives a reason ('because I did it ignorantly in unbelief')."
+      "reason": "The passive form shows only that Paul received mercy. 'Did not earn it' is a theological inference that neither the lexicon nor 1:13 states. In fact 1:13 gives a reason ('because I did it ignorantly in unbelief').",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

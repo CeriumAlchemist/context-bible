@@ -139,7 +139,7 @@
         "strong": "G4291",
         "english": "rule",
         "why_it_matters": {
-          "text": "It means to preside or lead. The same verb is used in this letter for managing one's own household (3:4-5), so it suggests caring oversight rather than domination.",
+          "text": "It means to preside, rule, or lead. The letter uses a form of the same verb for ruling one's own household (3:4-5).",
           "sources": [
             "w:G4291"
           ]
@@ -177,10 +177,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.1",
-      "reason": "The lexicon defines the verb only as 'preside, rule, govern' and 'direct, maintain'. Its use for managing a household does not establish 'caring oversight rather than domination'; that contrast is interpretation the cited source does not make."
+      "reason": "The lexicon defines the verb only as 'preside, rule, govern' and 'direct, maintain'. Its use for managing a household does not establish 'caring oversight rather than domination'; that contrast is interpretation the cited source does not make.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

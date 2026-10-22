@@ -161,9 +161,10 @@
         "strong": "G4769",
         "english": "pillar",
         "why_it_matters": {
-          "text": "A pillar is seen especially as a support. The church holds the truth up and makes it visible.",
+          "text": "A pillar is regarded especially as a support. Paul calls the church the pillar \"of the truth.\"",
           "sources": [
-            "w:G4769"
+            "w:G4769",
+            "v:3.15"
           ]
         }
       },
@@ -193,10 +194,13 @@
     {
       "claim": "christians_differ",
       "reason": "None of the cited sources mention Catholic, Orthodox, or Protestant interpretations. The specific attributions of views to these traditions have no support in the cited material."
-    },
+    }
+  ],
+  "resolved": [
     {
       "claim": "key_words.3",
-      "reason": "The lexicon defines a pillar as 'regarded especially as a support.' The added idea that the church 'makes it visible' (display) is not in the cited source."
+      "reason": "The lexicon defines a pillar as 'regarded especially as a support.' The added idea that the church 'makes it visible' (display) is not in the cited source.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

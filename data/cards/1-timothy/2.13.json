@@ -153,9 +153,10 @@
         "strong": "G4413G",
         "english": "first",
         "why_it_matters": {
-          "text": "In the New Testament this word refers to time, \"before\" or \"first.\" Paul's point here rests on the order of creation.",
+          "text": "The word means first. Paul's point rests on the order of creation: \"Adam was first formed, then Eve.\"",
           "sources": [
-            "w:G4413G"
+            "w:G4413G",
+            "v:2.13"
           ]
         }
       },
@@ -182,10 +183,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.2",
-      "reason": "The lexicon's 'in NT always of Time' applies to the comparative πρότερος, not to πρῶτος, the word in this verse. The claim carries that restriction over to πρῶτος, which the source does not support."
+      "reason": "The lexicon's 'in NT always of Time' applies to the comparative πρότερος, not to πρῶτος, the word in this verse. The claim carries that restriction over to πρῶτος, which the source does not support.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

@@ -89,7 +89,7 @@
         ]
       },
       "for_readers": {
-        "text": "Respect for a leader is earned by character, not by age or title. The same call to be a pattern appears for Titus and for elders in 1 Peter.",
+        "text": "Respect for a leader is earned by example, not by age or title. The same call to be a pattern appears for Titus and in 1 Peter 5:3.",
         "sources": [
           "v:4.12",
           "x:titus.2.7",
@@ -115,9 +115,10 @@
         "strong": "G2706",
         "english": "despise",
         "why_it_matters": {
-          "text": "The word means \"to think little of.\" The concern is people dismissing Timothy's teaching as unimportant because of his youth.",
+          "text": "The word means to think little of, or despise. Paul tells Timothy not to let anyone despise his youth.",
           "sources": [
-            "w:G2706"
+            "w:G2706",
+            "v:4.12"
           ]
         }
       },
@@ -156,7 +157,7 @@
         "strong": "G0047",
         "english": "purity",
         "why_it_matters": {
-          "text": "The word means purity. The letter uses it again when Timothy is told how to treat others in the church (5:2).",
+          "text": "The word means purity. The letter uses it again in 5:2.",
           "sources": [
             "w:G0047"
           ]
@@ -172,18 +173,22 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "why.for_readers",
-      "reason": "The cited 1 Peter 5:3 text does not mention elders; it speaks only of not being lords over God's heritage but being examples to the flock."
+      "reason": "The cited 1 Peter 5:3 text does not mention elders; it speaks only of not being lords over God's heritage but being examples to the flock.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.0",
-      "reason": "The cited lexicon entry only defines the word as 'think little of, despise.' Narrowing it to dismissing Timothy's teaching specifically goes beyond the source, and the verse speaks of despising his youth, meaning Timothy himself."
+      "reason": "The cited lexicon entry only defines the word as 'think little of, despise.' Narrowing it to dismissing Timothy's teaching specifically goes beyond the source, and the verse speaks of despising his youth, meaning Timothy himself.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.4",
-      "reason": "The lexicon only lists 5:2 as another occurrence of the word. It does not say that verse is about how Timothy should treat others in the church, and 5:2 is not among the cited sources."
+      "reason": "The lexicon only lists 5:2 as another occurrence of the word. It does not say that verse is about how Timothy should treat others in the church, and 5:2 is not among the cited sources.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

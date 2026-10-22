@@ -94,7 +94,7 @@
         ]
       },
       "for_readers": {
-        "text": "False teaching can look strict and holy, yet reject good gifts God made. Readers are pointed to test teaching by God's word and to give thanks for what God created.",
+        "text": "False teaching can look strict and holy, yet reject good gifts God made. Paul says everything God created is good and is to be received with thanksgiving.",
         "sources": [
           "v:4.3",
           "v:4.4",
@@ -176,10 +176,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "why.for_readers",
-      "reason": "In 4:5, \"sanctified by the word of God and prayer\" refers to food being made holy. It is not an instruction to test teaching by God's word, so the cited verses do not support that point."
+      "reason": "In 4:5, \"sanctified by the word of God and prayer\" refers to food being made holy. It is not an instruction to test teaching by God's word, so the cited verses do not support that point.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

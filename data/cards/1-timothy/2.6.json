@@ -155,9 +155,10 @@
         "strong": "G3142",
         "english": "to be testified",
         "why_it_matters": {
-          "text": "The Greek is a noun, \"testimony\" or \"witness.\" Christ's self-giving is itself the testimony, not just something later talked about.",
+          "text": "The Greek is a noun meaning testimony, witness, or proof. Paul goes on to say he was appointed a preacher of this message (2:7).",
           "sources": [
-            "w:G3142"
+            "w:G3142",
+            "v:2.7"
           ]
         }
       },
@@ -183,10 +184,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.3",
-      "reason": "The lexicon only defines μαρτύριον as testimony or witness. It does not say that Christ's self-giving is itself the testimony 'not just something later talked about.' That is one interpretive reading presented as the only one, and verse 7, which speaks of preaching, allows the proclamation reading."
+      "reason": "The lexicon only defines μαρτύριον as testimony or witness. It does not say that Christ's self-giving is itself the testimony 'not just something later talked about.' That is one interpretive reading presented as the only one, and verse 7, which speaks of preaching, allows the proclamation reading.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

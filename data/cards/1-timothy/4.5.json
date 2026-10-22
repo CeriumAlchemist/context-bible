@@ -106,9 +106,10 @@
         "strong": "G0037",
         "english": "it is sanctified",
         "why_it_matters": {
-          "text": "The word means to make holy or set apart for God. Applied to things, it means dedicating them to God's use. So the verse is not saying prayer changes the food. It says the food is set apart for a godly purpose.",
+          "text": "The word means to make holy, consecrate, or set apart for God. Here it is used of food received with thanksgiving.",
           "sources": [
             "w:G0037",
+            "v:4.4",
             "v:4.5"
           ]
         }
@@ -117,7 +118,7 @@
         "strong": "G1783",
         "english": "prayer",
         "why_it_matters": {
-          "text": "This word means a petition or request, and Paul uses it earlier for the prayers he urges for all people. It points to real prayer offered to God, matching the \"thanksgiving\" of verse 4.",
+          "text": "This word means a petition or request. Paul uses the plural earlier in the letter (2:1). It matches the \"thanksgiving\" of verse 4.",
           "sources": [
             "w:G1783",
             "v:4.4"
@@ -147,14 +148,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.0",
-      "reason": "The lexicon gives 'set apart for God' as one sense, but it also lists 'to purify.' Flatly stating that the verse is 'not saying prayer changes the food' adopts one interpretation as the only reading, which the cited sources do not establish."
+      "reason": "The lexicon gives 'set apart for God' as one sense, but it also lists 'to purify.' Flatly stating that the verse is 'not saying prayer changes the food' adopts one interpretation as the only reading, which the cited sources do not establish.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.1",
-      "reason": "The lexicon only lists 1 Tim 2:1 as another occurrence (plural). No cited source gives the content of 2:1, so the claim that Paul uses the word 'for the prayers he urges for all people' is unsupported."
+      "reason": "The lexicon only lists 1 Tim 2:1 as another occurrence (plural). No cited source gives the content of 2:1, so the claim that Paul uses the word 'for the prayers he urges for all people' is unsupported.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

@@ -123,7 +123,7 @@
         "strong": "G2967",
         "english": "forbidding",
         "why_it_matters": {
-          "text": "The word means to hinder or prevent. The fault Paul names is imposing a ban on others, not a person's own choice.",
+          "text": "The word means to hinder, restrain, or forbid. Here it is used of forbidding marriage.",
           "sources": [
             "w:G2967",
             "v:4.3"
@@ -177,10 +177,13 @@
     {
       "claim": "christians_differ",
       "reason": "The cited sources are only the verse texts. They say nothing about Protestant, Catholic, or Orthodox readings, clerical celibacy, or fasting days, so these attributions to traditions are unsupported."
-    },
+    }
+  ],
+  "resolved": [
     {
       "claim": "key_words.0",
-      "reason": "The lexicon gives only 'hinder, restrain, forbid, withhold.' Saying the fault is imposing a ban on others 'not a person's own choice' is an interpretive conclusion the entry does not make, and it takes one side of a disputed reading."
+      "reason": "The lexicon gives only 'hinder, restrain, forbid, withhold.' Saying the fault is imposing a ban on others 'not a person's own choice' is an interpretive conclusion the entry does not make, and it takes one side of a disputed reading.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

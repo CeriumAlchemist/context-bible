@@ -132,7 +132,7 @@
         "strong": "G0784",
         "english": "without spot",
         "why_it_matters": {
-          "text": "The word means spotless or unstained. Peter uses it of Christ as a lamb, which gives a picture of moral purity.",
+          "text": "The word means spotless or unstained. 2 Peter 3:14 uses it of believers found \"without spot.\"",
           "sources": [
             "w:G0784",
             "x:2-peter.3.14"
@@ -161,10 +161,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.2",
-      "reason": "The lexicon only lists 1 Pet 1:19 as a reference for 'spotless'. Neither cited source says Peter applies the word to Christ as a lamb, and the cited 2 Peter 3:14 is about believers, not Christ."
+      "reason": "The lexicon only lists 1 Pet 1:19 as a reference for 'spotless'. Neither cited source says Peter applies the word to Christ as a lamb, and the cited 2 Peter 3:14 is about believers, not Christ.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

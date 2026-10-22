@@ -43,7 +43,7 @@
       }
     },
     "what": {
-      "text": "The verse sets character standards for deacons. They must be serious and worthy of respect, say the same thing to everyone, not be devoted to much wine, and not chase dishonest gain. These traits largely echo the bishop's list in 3:3.",
+      "text": "The verse sets character standards for deacons. They must be serious and worthy of respect, say the same thing to everyone, not be given to much wine, and not chase dishonest gain. The last two also appear in the bishop's list in 3:3.",
       "sources": [
         "v:3.8",
         "x:1-timothy.3.3",
@@ -101,12 +101,11 @@
     },
     "misuse": null,
     "christians_differ": {
-      "text": "The verse is cited on both sides of the debate about alcohol. Some read \"not given to much wine,\" together with Paul telling Timothy to \"use a little wine\" (5:23), as allowing moderate drinking. Others point to warnings like Leviticus 10:9 and read the verse as encouraging abstinence. Churches also differ on whether deacons hold an ordained office or serve as lay helpers. The verse itself only gives character traits.",
+      "text": "The verse is cited on both sides of the debate about alcohol. Some read \"not given to much wine,\" together with Paul telling Timothy to \"use a little wine\" (5:23), as allowing moderate drinking. Others point to warnings like Leviticus 10:9 and read the verse as encouraging abstinence.",
       "sources": [
         "v:3.8",
         "x:1-timothy.5.23",
-        "x:leviticus.10.9",
-        "w:G1249"
+        "x:leviticus.10.9"
       ]
     },
     "key_words": [
@@ -124,7 +123,7 @@
         "strong": "G4586",
         "english": "grave",
         "why_it_matters": {
-          "text": "It means serious, dignified, worthy of respect, not gloomy. The same word describes the deacons' wives (or women) in 3:11.",
+          "text": "It means grave, serious, worthy of respect. The same word describes the women in 3:11.",
           "sources": [
             "w:G4586",
             "v:3.11"
@@ -176,16 +175,20 @@
   "problems": [],
   "unsupported": [
     {
-      "claim": "what",
-      "reason": "Only two of the four traits (wine, filthy lucre) appear in 3:3. 'Grave' and 'not doubletongued' are not there, so 'largely echo' overstates the overlap."
-    },
-    {
       "claim": "christians_differ",
       "reason": "None of the cited sources mentions churches differing over whether deacons are ordained officers or lay helpers. The lexicon entry only defines the word as servant."
+    }
+  ],
+  "resolved": [
+    {
+      "claim": "what",
+      "reason": "Only two of the four traits (wine, filthy lucre) appear in 3:3. 'Grave' and 'not doubletongued' are not there, so 'largely echo' overstates the overlap.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.1",
-      "reason": "The lexicon gives 'reverend, venerable, grave, serious.' Nothing in the sources supports the qualification 'not gloomy.'"
+      "reason": "The lexicon gives 'reverend, venerable, grave, serious.' Nothing in the sources supports the qualification 'not gloomy.'",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

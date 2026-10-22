@@ -83,7 +83,7 @@
         ]
       },
       "big_picture": {
-        "text": "The letter aims to guide conduct in God's household and stresses that leaders must be people of proven character. Fair process for elders is part of that. The next verse warns against appointing anyone hastily.",
+        "text": "The letter aims to guide conduct in God's household and stresses that leaders must be people of proven character. Fair process for elders is part of that. The next verse adds, \"Lay hands suddenly on no man.\"",
         "sources": [
           "b:purpose",
           "b:themes",
@@ -167,10 +167,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "why.big_picture",
-      "reason": "Verse 5:22 says only 'Lay hands suddenly on no man.' None of the cited sources say this means appointing leaders. The card presents that one reading as the verse's plain meaning."
+      "reason": "Verse 5:22 says only 'Lay hands suddenly on no man.' None of the cited sources say this means appointing leaders. The card presents that one reading as the verse's plain meaning.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

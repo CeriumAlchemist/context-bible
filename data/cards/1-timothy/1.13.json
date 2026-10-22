@@ -118,9 +118,10 @@
         "strong": "G5197",
         "english": "injurious",
         "why_it_matters": {
-          "text": "The Greek word means a violent, insolent man. It is stronger than the KJV's \"injurious\" might suggest, and it shows Paul's past included arrogant violence, not just wrong ideas.",
+          "text": "The Greek word means a violent, insolent man. Paul uses it to describe his own past alongside \"blasphemer\" and \"persecutor.\"",
           "sources": [
-            "w:G5197"
+            "w:G5197",
+            "v:1.13"
           ]
         }
       },
@@ -168,10 +169,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.0",
-      "reason": "The lexicon simply gives 'injurious' as the English rendering of 'a violent, insolent man'. It does not say the Greek is stronger than the KJV's 'injurious', so that comparison is unsupported."
+      "reason": "The lexicon simply gives 'injurious' as the English rendering of 'a violent, insolent man'. It does not say the Greek is stronger than the KJV's 'injurious', so that comparison is unsupported.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

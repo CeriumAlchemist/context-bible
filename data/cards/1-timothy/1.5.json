@@ -142,10 +142,9 @@
         "strong": "G0505",
         "english": "unfeigned",
         "why_it_matters": {
-          "text": "The word means not pretended, without hypocrisy. Paul contrasts real faith with the show of those who want to be teachers but do not understand what they say.",
+          "text": "The word means unfeigned: genuine, not pretended. Paul uses the same word for Timothy's own \"unfeigned faith\" in 2 Timothy 1:5.",
           "sources": [
             "w:G0505",
-            "v:1.7",
             "x:2-timothy.1.5"
           ]
         }
@@ -161,10 +160,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.3",
-      "reason": "The lexicon supports 'unfeigned,' but no cited source says Paul contrasts sincere faith with a 'show' put on by the would-be teachers. Verse 7 says they do not understand what they say; it does not charge them with pretense or hypocrisy."
+      "reason": "The lexicon supports 'unfeigned,' but no cited source says Paul contrasts sincere faith with a 'show' put on by the would-be teachers. Verse 7 says they do not understand what they say; it does not charge them with pretense or hypocrisy.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

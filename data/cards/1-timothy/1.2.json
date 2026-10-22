@@ -130,7 +130,7 @@
         "strong": "G1656",
         "english": "mercy",
         "why_it_matters": {
-          "text": "The word means pity or compassion. In the Greek Old Testament it mostly translates the Hebrew word for God's steadfast love. Paul later says he himself received this mercy.",
+          "text": "The word means mercy, pity, or compassion. In the Greek Old Testament it chiefly translates the Hebrew word chesed. Paul later says he himself \"obtained mercy\" (1:13, 1:16).",
           "sources": [
             "w:G1656",
             "v:1.13",
@@ -149,10 +149,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.2",
-      "reason": "The lexicon only says the LXX chiefly uses ἔλεος for חֶσֶד. It gives no gloss of that Hebrew word, so calling it specifically 'God's steadfast love' adds a definition the source doesn't provide and narrows a term also used of human kindness."
+      "reason": "The lexicon only says the LXX chiefly uses ἔλεος for חֶσֶד. It gives no gloss of that Hebrew word, so calling it specifically 'God's steadfast love' adds a definition the source doesn't provide and narrows a term also used of human kindness.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

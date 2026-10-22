@@ -103,7 +103,7 @@
         "strong": "G3466",
         "english": "mystery",
         "why_it_matters": {
-          "text": "The word means a secret that is now revealed, not something hard to understand. \"The mystery of the faith\" is the truth God has made known in Christ, as verse 16 spells out.",
+          "text": "In the New Testament this word means a secret or a truth once hidden. Verse 16 sets out the content of \"the mystery of godliness.\"",
           "sources": [
             "w:G3466",
             "v:3.16"
@@ -155,10 +155,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.0",
-      "reason": "The cited lexicon defines μυστήριον as a secret 'that may not be revealed,' adding only that it is not intrinsically hard to understand. It does not define the word as 'a secret that is now revealed.' The revelation idea is an inference from 3:16 and should not be presented as the word's meaning."
+      "reason": "The cited lexicon defines μυστήριον as a secret 'that may not be revealed,' adding only that it is not intrinsically hard to understand. It does not define the word as 'a secret that is now revealed.' The revelation idea is an inference from 3:16 and should not be presented as the word's meaning.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

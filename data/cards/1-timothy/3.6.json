@@ -41,7 +41,7 @@
       }
     },
     "what": {
-      "text": "Paul says an overseer must not be a \"novice,\" a word that means a newly planted person, or new convert. The risk is that he becomes puffed up with pride and falls into the same judgment as the devil.",
+      "text": "Paul says an overseer must not be a \"novice,\" a word that means newly planted, or a new convert. The risk is that he becomes puffed up with pride and falls into \"the condemnation of the devil.\"",
       "sources": [
         "v:3.6",
         "w:G3504",
@@ -160,10 +160,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "what",
-      "reason": "It states as plain fact that he 'falls into the same judgment as the devil,' which is only one reading. The cited διάβολος entry lists 1 Tim 3:6 under 'slanderer, false accuser,' and the card's own christians_differ notes this alternative."
+      "reason": "It states as plain fact that he 'falls into the same judgment as the devil,' which is only one reading. The cited διάβολος entry lists 1 Tim 3:6 under 'slanderer, false accuser,' and the card's own christians_differ notes this alternative.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

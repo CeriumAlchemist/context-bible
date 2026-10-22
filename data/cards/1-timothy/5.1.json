@@ -80,9 +80,10 @@
         ]
       },
       "big_picture": {
-        "text": "The letter treats the church as God's household, and this verse applies that literally: members are fathers, mothers, brothers and sisters. Respect for the old echoes the Law's command to honour the aged.",
+        "text": "The letter treats the church as God's household (3:15), and this verse tells Timothy to treat older men \"as a father\" and younger men \"as brethren.\" Respect for the old echoes the Law's command to honour the aged.",
         "sources": [
           "b:purpose",
+          "v:5.1",
           "v:5.2",
           "x:leviticus.19.32"
         ]
@@ -154,10 +155,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "why.big_picture",
-      "reason": "The verse is a simile: treat an older man \"as a father\" and younger men \"as brethren.\" Saying it applies the household image \"literally\" contradicts the text. None of the cited sources says church members are literally family."
+      "reason": "The verse is a simile: treat an older man \"as a father\" and younger men \"as brethren.\" Saying it applies the household image \"literally\" contradicts the text. None of the cited sources says church members are literally family.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

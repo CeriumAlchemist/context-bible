@@ -133,7 +133,7 @@
         "strong": "G2271",
         "english": "silence",
         "why_it_matters": {
-          "text": "Hēsuchia means quietness or stillness. It is used for a quiet way of life in 2 Thessalonians 3:12, so it need not mean total speechlessness.",
+          "text": "The word means quietness, stillness, or silence. The lexicon places this verse under the sense \"stillness, silence\"; in 2 Thessalonians 3:12 the same word means a quiet way of life.",
           "sources": [
             "w:G2271"
           ]
@@ -161,10 +161,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.1",
-      "reason": "The lexicon lists 1 Timothy 2:11-12 under sense 2, 'stillness, silence,' not under the 'quietness' sense used for 2 Thessalonians 3:12. Using 2 Thessalonians to argue that the word here need not mean silence goes against the cited source's own classification of this verse."
+      "reason": "The lexicon lists 1 Timothy 2:11-12 under sense 2, 'stillness, silence,' not under the 'quietness' sense used for 2 Thessalonians 3:12. Using 2 Thessalonians to argue that the word here need not mean silence goes against the cited source's own classification of this verse.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

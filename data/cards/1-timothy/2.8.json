@@ -136,9 +136,10 @@
         "strong": "G3709",
         "english": "wrath",
         "why_it_matters": {
-          "text": "This is human anger, the kind other letters tell believers to put away. Paul wants prayer free of it.",
+          "text": "This is human anger. Paul wants prayer offered without it.",
           "sources": [
-            "w:G3709"
+            "w:G3709",
+            "v:2.8"
           ]
         }
       },
@@ -146,7 +147,7 @@
         "strong": "G1261",
         "english": "doubting",
         "why_it_matters": {
-          "text": "The KJV says 'doubting', but the word means reasoning or inward questioning and here may imply evil intention or dispute. It points more to quarreling than to weak faith.",
+          "text": "The KJV says \"doubting.\" The word means reasoning or inward questioning, and the lexicon suggests it may carry a sense of evil intention here.",
           "sources": [
             "w:G1261"
           ]
@@ -173,14 +174,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.3",
-      "reason": "The lexicon gives the core sense as 'reasoning, inward questioning', which is close to the KJV's 'doubting'. It only says the word 'perh.' implies evil intention here. The claim's firm conclusion that the word points to quarreling rather than weak faith overstates that hedged entry and dismisses a reading the source still allows."
+      "reason": "The lexicon gives the core sense as 'reasoning, inward questioning', which is close to the KJV's 'doubting'. It only says the word 'perh.' implies evil intention here. The claim's firm conclusion that the word points to quarreling rather than weak faith overstates that hedged entry and dismisses a reading the source still allows.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.2",
-      "reason": "The lexicon only lists references (Eph 4:31, Col 3:8, Jas 1:19-20) under human anger. It does not say that other letters tell believers to put such anger away, so that detail goes beyond the cited source."
+      "reason": "The lexicon only lists references (Eph 4:31, Col 3:8, Jas 1:19-20) under human anger. It does not say that other letters tell believers to put such anger away, so that detail goes beyond the cited source.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

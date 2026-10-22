@@ -67,5 +67,7 @@ export interface StoredCard {
   problems: string[];
   /** Claims the second AI pass could not match to their sources. */
   unsupported: { claim: string; reason: string }[];
+  /** Flags from the second AI pass that were fixed by rewriting the claim afterwards. */
+  resolved?: { claim: string; reason: string; fix: string }[];
   reviewedBy?: string;
 }

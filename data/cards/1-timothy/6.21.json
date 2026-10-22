@@ -103,7 +103,7 @@
         "strong": "G1861",
         "english": "professing",
         "why_it_matters": {
-          "text": "The word means to profess or lay claim to something. The lexicon notes that here it is knowledge (gnosis) being claimed. These people were not openly rejecting faith; they boasted of a superior knowledge that led them away.",
+          "text": "The word means to profess or lay claim to something. The lexicon notes that here it is knowledge (gnosis) being claimed, the \"science falsely so called\" of 6:20.",
           "sources": [
             "w:G1861",
             "v:6.20"
@@ -114,7 +114,7 @@
         "strong": "G0795",
         "english": "erred / went astray",
         "why_it_matters": {
-          "text": "The root idea is to miss the mark, like an arrow missing a target. It pictures drifting off course rather than a single act. The same word is used in 1 Timothy 1:6 and 2 Timothy 2:18.",
+          "text": "The word means to miss the mark, or fail. The same word is used in 1 Timothy 1:6 and 2 Timothy 2:18.",
           "sources": [
             "w:G0795",
             "x:1-timothy.1.6",
@@ -126,11 +126,10 @@
         "strong": "G4102G",
         "english": "faith",
         "why_it_matters": {
-          "text": "With the article (\"the faith\"), it points to the shared Christian faith itself, the body of truth entrusted to Timothy. It refers to more than a private feeling.",
+          "text": "The word means faith, belief, or trust. Here, with the article, Paul speaks of erring concerning \"the faith.\"",
           "sources": [
             "w:G4102G",
-            "w:G3588",
-            "v:6.20"
+            "w:G3588"
           ]
         }
       }
@@ -144,18 +143,22 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.0",
-      "reason": "The lexicon only says the word means 'to profess' and that γνῶσιν is the object here. The claim that these people were not openly rejecting the faith but boasting of a superior knowledge goes beyond the cited sources."
+      "reason": "The lexicon only says the word means 'to profess' and that γνῶσιν is the object here. The claim that these people were not openly rejecting the faith but boasting of a superior knowledge goes beyond the cited sources.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.1",
-      "reason": "The lexicon gives 'miss the mark, fail' but says nothing about gradual drifting as opposed to a single act. That contrast is not in the sources."
+      "reason": "The lexicon gives 'miss the mark, fail' but says nothing about gradual drifting as opposed to a single act. That contrast is not in the sources.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.2",
-      "reason": "The cited pistis entry shows only the active sense (belief, trust), and the article entry says nothing about this. Equating 'the faith' with the body of truth entrusted to Timothy is an interpretive link the sources do not make."
+      "reason": "The cited pistis entry shows only the active sense (belief, trust), and the article entry says nothing about this. Equating 'the faith' with the body of truth entrusted to Timothy is an interpretive link the sources do not make.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

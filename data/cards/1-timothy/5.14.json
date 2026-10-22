@@ -185,7 +185,7 @@
       }
     ],
     "takeaway": {
-      "text": "This verse is Paul's practical advice for younger widows in Ephesus, not a blanket rule for all women. Its concern is that believers live in a way that gives critics no grounds to slander the church.",
+      "text": "Paul gives this advice about younger widows in Ephesus so that believers give critics no grounds to speak reproachfully of the church. Christians differ on how far it applies beyond that setting.",
       "sources": [
         "v:5.11",
         "v:5.14",
@@ -195,10 +195,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "takeaway",
-      "reason": "Calling the verse 'not a blanket rule for all women' states one interpretive position as settled fact. The card's own christians_differ entry notes that some Christians read it as a lasting pattern for women's household roles."
+      "reason": "Calling the verse 'not a blanket rule for all women' states one interpretive position as settled fact. The card's own christians_differ entry notes that some Christians read it as a lasting pattern for women's household roles.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

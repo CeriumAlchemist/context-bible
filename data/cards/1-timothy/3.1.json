@@ -112,7 +112,7 @@
         "strong": "G1984",
         "english": "office of a bishop",
         "why_it_matters": {
-          "text": "The Greek word means oversight or a charge, the office of an overseer. It describes a role of watching over and caring for people, not a title of rank.",
+          "text": "The Greek word means oversight or a charge, especially the office of an overseer. Acts 20:28 uses the related word \"overseers\" for those who feed the flock.",
           "sources": [
             "w:G1984",
             "x:acts.20.28"
@@ -173,10 +173,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.0",
-      "reason": "The lexicon defines the word as 'office, charge, esp. office of an ἐπίσκοπος'. Nothing cited says it is 'not a title of rank', and calling it an 'office' arguably points the other way. That contrast is the card's own interpretation."
+      "reason": "The lexicon defines the word as 'office, charge, esp. office of an ἐπίσκοπος'. Nothing cited says it is 'not a title of rank', and calling it an 'office' arguably points the other way. That contrast is the card's own interpretation.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

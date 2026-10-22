@@ -73,11 +73,10 @@
     },
     "why": {
       "purpose": {
-        "text": "Leaders are visible and easy targets for gossip or false charges. Requiring witnesses protects good elders from unfounded attacks, while verse 20 makes sure real sin is still dealt with openly.",
+        "text": "Requiring two or three witnesses guards elders against an accusation that rests on one person's word. Verse 20 makes sure real sin is still dealt with openly.",
         "sources": [
           "v:5.19",
-          "v:5.20",
-          "v:5.13"
+          "v:5.20"
         ]
       },
       "big_picture": {
@@ -137,7 +136,7 @@
         "strong": "G2724",
         "english": "an accusation",
         "why_it_matters": {
-          "text": "This is a formal charge, the same word used of the charge against Jesus (John 18:29) and of children 'accused of riot' (Titus 1:6). It is about an official complaint, not ordinary disagreement.",
+          "text": "The word means an accusation or charge. Titus 1:6 uses it of children \"accused of riot.\"",
           "sources": [
             "w:G2724",
             "x:titus.1.6"
@@ -167,14 +166,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "why.purpose",
-      "reason": "The cited sources never say leaders are visible or easy targets for gossip or false charges. Verse 5:13 describes idle younger widows who tattle, not attacks on elders, so the stated rationale is the card's own reading rather than anything in the text."
+      "reason": "The cited sources never say leaders are visible or easy targets for gossip or false charges. Verse 5:13 describes idle younger widows who tattle, not attacks on elders, so the stated rationale is the card's own reading rather than anything in the text.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.2",
-      "reason": "The lexicon lists John 18:29 as a use of the word, but neither it nor any cited source gives that verse's text or says the charge there was against Jesus."
+      "reason": "The lexicon lists John 18:29 as a use of the word, but neither it nor any cited source gives that verse's text or says the charge there was against Jesus.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

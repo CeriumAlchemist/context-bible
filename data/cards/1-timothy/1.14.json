@@ -119,9 +119,8 @@
         "strong": "G5485",
         "english": "grace",
         "why_it_matters": {
-          "text": "Grace here means God's favour freely given. It explains why Paul, a former persecutor, 'obtained mercy' rather than judgment.",
+          "text": "Paul says this grace was \"exceeding abundant\" toward him, a former persecutor who \"obtained mercy\" (1:13).",
           "sources": [
-            "w:G5485",
             "v:1.13",
             "v:1.14"
           ]
@@ -151,10 +150,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.1",
-      "reason": "The cited lexicon entry for χάρις is truncated. It only shows the objective sense (gracefulness, loveliness, graciousness of speech) and never gives the definition 'God's favour freely given.' The verses cited do not define the word either."
+      "reason": "The cited lexicon entry for χάρις is truncated. It only shows the objective sense (gracefulness, loveliness, graciousness of speech) and never gives the definition 'God's favour freely given.' The verses cited do not define the word either.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

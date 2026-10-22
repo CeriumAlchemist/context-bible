@@ -9,7 +9,7 @@
   "generatedAt": "2026-10-22T01:50:58.605Z",
   "card": {
     "in_context": {
-      "text": "This verse sits in Paul's instructions about caring for widows (5:3-16). He sets rules for which widows may be put on the church's official list: those who are at least sixty, faithful in marriage, and known for good works (5:9-10).",
+      "text": "This verse sits in Paul's instructions about caring for widows (5:3-16). He sets rules for which widows may be put on the church's list: those at least sixty, \"the wife of one man,\" and known for good works (5:9-10).",
       "sources": [
         "v:5.3",
         "v:5.9",
@@ -155,10 +155,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "in_context",
-      "reason": "It renders \"wife of one man\" as \"faithful in marriage,\" which is only one reading. The card itself notes in christians_differ that others take it to mean married only once, and the cited verse does not define the phrase."
+      "reason": "It renders \"wife of one man\" as \"faithful in marriage,\" which is only one reading. The card itself notes in christians_differ that others take it to mean married only once, and the cited verse does not define the phrase.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

@@ -120,7 +120,7 @@
         "strong": "G0247",
         "english": "otherwise",
         "why_it_matters": {
-          "text": "This simple word for 'otherwise' points back to good works that are not yet obvious. The verse is not about bad people here, but about hidden good that will surface.",
+          "text": "The word means otherwise. Readers take \"they that are otherwise\" either as good works not yet obvious or as works that are not good; either way, they \"cannot be hid.\"",
           "sources": [
             "w:G0247",
             "v:5.25"
@@ -149,10 +149,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.1",
-      "reason": "The cited sources don't settle what 'they that are otherwise' refers to. The lexicon gives only 'otherwise', and the phrase can mean good works not yet obvious or works that are not good. The claim flatly rules out the second reading and presents one interpretation as the only one."
+      "reason": "The cited sources don't settle what 'they that are otherwise' refers to. The lexicon gives only 'otherwise', and the phrase can mean good works not yet obvious or works that are not good. The claim flatly rules out the second reading and presents one interpretation as the only one.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

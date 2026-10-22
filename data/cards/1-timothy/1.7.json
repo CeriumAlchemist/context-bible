@@ -105,7 +105,7 @@
         "strong": "G3547",
         "english": "teachers of the law",
         "why_it_matters": {
-          "text": "This rare word is used elsewhere in the New Testament for recognized teachers of the Jewish law. It shows these people wanted a formal, respected teaching role, not just a casual say.",
+          "text": "The word means a teacher of the law. Besides this verse, the New Testament uses it only in Luke 5:17 and Acts 5:34.",
           "sources": [
             "w:G3547"
           ]
@@ -142,10 +142,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.0",
-      "reason": "The lexicon entry only lists Luke 5:17 and Acts 5:34 as other uses. It does not say these refer to recognized or respected Jewish law teachers. It also does not show that the people in 1 Timothy wanted a formal, respected teaching role; that inference goes beyond the cited source."
+      "reason": "The lexicon entry only lists Luke 5:17 and Acts 5:34 as other uses. It does not say these refer to recognized or respected Jewish law teachers. It also does not show that the people in 1 Timothy wanted a formal, respected teaching role; that inference goes beyond the cited source.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

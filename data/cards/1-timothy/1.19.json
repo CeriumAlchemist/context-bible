@@ -104,10 +104,9 @@
     },
     "misuse": null,
     "christians_differ": {
-      "text": "Christians read 'made shipwreck' differently. Some traditions see it as proof that real believers can fall away and lose salvation, and they link it with Hebrews 6:4-6. Others hold that true believers are kept safe, so they read it as the collapse of a faith that was only professed, or as serious damage short of final loss. Verse 20's hope that the men 'may learn' is read by many on both sides as pointing to possible restoration.",
+      "text": "Christians read \"made shipwreck\" differently. Some see it as proof that real believers can fall away, and link it with Hebrews 6:4-6. Others hold that true believers are kept safe, and read it as the collapse of a faith that was only professed, or as serious damage short of final loss.",
       "sources": [
         "v:1.19",
-        "v:1.20",
         "x:hebrews.6.4",
         "x:hebrews.6.6"
       ]
@@ -127,9 +126,10 @@
         "strong": "G3489",
         "english": "made shipwreck",
         "why_it_matters": {
-          "text": "This is the literal word for suffering shipwreck, which Paul also uses of his own wrecks at sea in 2 Corinthians 11:25. Here it is a picture of faith broken up and lost, not merely damaged.",
+          "text": "This is the ordinary word for suffering shipwreck, which Paul also uses of his own wrecks at sea in 2 Corinthians 11:25. Here it is used as a picture of what happened \"concerning faith.\"",
           "sources": [
-            "w:G3489"
+            "w:G3489",
+            "v:1.19"
           ]
         }
       },
@@ -168,12 +168,15 @@
   "problems": [],
   "unsupported": [
     {
-      "claim": "key_words.1",
-      "reason": "The lexicon only says the word is used metaphorically of shipwreck regarding faith. Saying faith is 'lost, not merely damaged' takes one side of the interpretive debate that christians_differ itself presents as open."
-    },
-    {
       "claim": "christians_differ",
       "reason": "No cited source says that 'many on both sides' read verse 20's 'may learn' as pointing to possible restoration. The verse states a corrective purpose, but the claim about how interpreters read it is not supported."
+    }
+  ],
+  "resolved": [
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon only says the word is used metaphorically of shipwreck regarding faith. Saying faith is 'lost, not merely damaged' takes one side of the interpretive debate that christians_differ itself presents as open.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

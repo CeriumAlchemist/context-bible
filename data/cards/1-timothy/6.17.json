@@ -104,7 +104,7 @@
     "misuse": {
       "popular_reading": "The phrase \"God giveth us richly all things to enjoy\" is sometimes quoted alone as a promise that God wants believers to gain wealth, or as approval for pursuing luxury.",
       "in_context_reading": {
-        "text": "The verse is a warning to people who are already rich: do not be proud or trust in money. It comes right after a warning that those who \"will be rich\" fall into a snare (6:9). The enjoyment it mentions is meant to lead to generosity and good works (6:18).",
+        "text": "The verse is a warning to people who are already rich: do not be proud or trust in money. It comes right after a warning that those who \"will be rich\" fall into a snare (6:9), and the next verse charges the rich to do good and share (6:18).",
         "sources": [
           "v:6.9",
           "v:6.17",
@@ -166,10 +166,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "misuse",
-      "reason": "The verses do not say that the enjoyment God gives is meant to lead to generosity. 6:17 speaks of enjoyment, and 6:18 separately charges the rich to do good and share, without linking the two as purpose and result."
+      "reason": "The verses do not say that the enjoyment God gives is meant to lead to generosity. 6:17 speaks of enjoyment, and 6:18 separately charges the rich to do good and share, without linking the two as purpose and result.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

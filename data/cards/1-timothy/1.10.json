@@ -159,7 +159,7 @@
         "strong": "G0733",
         "english": "them that defile themselves with mankind",
         "why_it_matters": {
-          "text": "This compound of 'male' and 'bed' is glossed 'sodomite' and occurs only here and in 1 Corinthians 6:9. That rarity is why its precise meaning is discussed.",
+          "text": "The word is a compound glossed \"sodomite.\" In the New Testament it occurs only here and in 1 Corinthians 6:9.",
           "sources": [
             "w:G0733",
             "x:1-corinthians.6.9"
@@ -178,11 +178,12 @@
       }
     ],
     "takeaway": {
-      "text": "Paul names real wrongs to show what God's law is for, and measures them against healthy teaching. He then points to Christ, who came to save sinners, with Paul himself as the first example.",
+      "text": "Paul names real wrongs to show what God's law is for, and measures them against sound doctrine. He then points to Christ, who came to save sinners, with Paul himself as the pattern of that mercy.",
       "sources": [
         "v:1.10",
         "v:1.11",
-        "v:1.15"
+        "v:1.15",
+        "v:1.16"
       ]
     }
   },
@@ -191,14 +192,18 @@
     {
       "claim": "christians_differ",
       "reason": "The cited sources give only a lexical gloss ('sodomite'), the word's two occurrences, and the verse texts. They do not say the word's sense is debated, describe what 'many traditions' hold, or mention any Christians arguing for a narrower, exploitative meaning."
-    },
+    }
+  ],
+  "resolved": [
     {
       "claim": "key_words.2",
-      "reason": "No cited source says the word's precise meaning is discussed, or that its rarity is the reason for any such discussion."
+      "reason": "No cited source says the word's precise meaning is discussed, or that its rarity is the reason for any such discussion.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "takeaway",
-      "reason": "Calling Paul the 'first example' relies on 1:16 ('in me first… for a pattern'), which this claim does not cite. The cited 1:15 says only that Paul is 'chief' of sinners."
+      "reason": "Calling Paul the 'first example' relies on 1:16 ('in me first… for a pattern'), which this claim does not cite. The cited 1:15 says only that Paul is 'chief' of sinners.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

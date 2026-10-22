@@ -88,7 +88,7 @@
         ]
       },
       "for_readers": {
-        "text": "Character shown in private life matters for public leadership. The Old Testament priest Eli is a warning: he did not restrain his sons, and God judged his house.",
+        "text": "Character shown at home matters for leading the church. 1 Samuel gives a warning: God judged a house \"because his sons made themselves vile, and he restrained them not.\"",
         "sources": [
           "v:3.5",
           "x:1-samuel.3.13",
@@ -121,7 +121,7 @@
         "strong": "G1959",
         "english": "take care of",
         "why_it_matters": {
-          "text": "Paul shifts from \"rule\" to \"take care of\" when he speaks of the church. This rare verb is also used in Luke 10:34-35 of the Good Samaritan caring for the wounded man, so church leadership is pictured as tender care, not just control.",
+          "text": "Paul shifts from \"rule\" to \"take care of\" when he speaks of the church. This verb is used elsewhere in the New Testament only in Luke 10:34-35.",
           "sources": [
             "w:G1959",
             "v:3.5"
@@ -151,7 +151,7 @@
       }
     ],
     "takeaway": {
-      "text": "Leading God's people is like leading a family, only larger. Paul says the best proof that someone can care for the church is how faithfully he cares for his own home.",
+      "text": "Leading God's people is like leading a family, only larger. Paul asks how a man who cannot rule his own house could take care of the church of God.",
       "sources": [
         "v:3.4",
         "v:3.5",
@@ -162,20 +162,25 @@
   "problems": [],
   "unsupported": [
     {
+      "claim": "christians_differ",
+      "reason": "No cited source says some traditions see the bishop as a higher office over several churches. Acts 20:28 calls its hearers 'overseers' but does not call them elders. The cited sources also do not describe a debate over whether leaders must be married with children."
+    }
+  ],
+  "resolved": [
+    {
       "claim": "why.for_readers",
-      "reason": "The cited verses never name Eli or call him a priest. That identification comes from outside the cited text."
+      "reason": "The cited verses never name Eli or call him a priest. That identification comes from outside the cited text.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "takeaway",
-      "reason": "Paul does not call home management the 'best proof'. Verse 5 only asks how a man who cannot rule his house could care for the church. Calling it the best proof overstates the text."
-    },
-    {
-      "claim": "christians_differ",
-      "reason": "No cited source says some traditions see the bishop as a higher office over several churches. Acts 20:28 calls its hearers 'overseers' but does not call them elders. The cited sources also do not describe a debate over whether leaders must be married with children."
+      "reason": "Paul does not call home management the 'best proof'. Verse 5 only asks how a man who cannot rule his house could care for the church. Calling it the best proof overstates the text.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.1",
-      "reason": "The lexicon gives only the reference Luke 10:34-35. It does not mention the Good Samaritan or a wounded man. The conclusion that leadership is pictured as 'tender care, not just control' is interpretation the source does not state."
+      "reason": "The lexicon gives only the reference Luke 10:34-35. It does not mention the Good Samaritan or a wounded man. The conclusion that leadership is pictured as 'tender care, not just control' is interpretation the source does not state.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

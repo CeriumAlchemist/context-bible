@@ -135,7 +135,7 @@
         "strong": "G1203",
         "english": "masters",
         "why_it_matters": {
-          "text": "This word for master implied absolute ownership and unchecked power. That shows how hard the slaves' situation was.",
+          "text": "This word for master is the counterpart of servant, and the lexicon notes it can carry a sense of absolute ownership.",
           "sources": [
             "w:G1203"
           ]
@@ -163,10 +163,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.2",
-      "reason": "The lexicon only cites Thayer contrasting δεσπότης with κύριος as denoting absolute ownership. The added conclusion that this 'shows how hard the slaves' situation was' goes beyond the source."
+      "reason": "The lexicon only cites Thayer contrasting δεσπότης with κύριος as denoting absolute ownership. The added conclusion that this 'shows how hard the slaves' situation was' goes beyond the source.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

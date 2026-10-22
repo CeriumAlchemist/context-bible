@@ -80,7 +80,7 @@
         ]
       },
       "big_picture": {
-        "text": "The letter teaches that sound belief and godly living belong together. Paul pictures the Christian life as a contest elsewhere too, and near the end of his life he says, \"I have fought a good fight\" (2 Timothy 4:7).",
+        "text": "The letter teaches that sound belief and godly living belong together. The same picture of a contest appears elsewhere: \"I have fought a good fight\" (2 Timothy 4:7).",
         "sources": [
           "b:themes",
           "w:G0073",
@@ -101,7 +101,7 @@
     "misuse": {
       "popular_reading": "Often quoted as a general battle cry for any struggle, or as permission to be combative and argue hard for one's views.",
       "in_context_reading": {
-        "text": "In context, Timothy is told to withdraw from \"strifes of words\" and disputes (6:4-5) and to pursue meekness (6:11). The word for \"fight\" mainly pictures an athlete's contest. The struggle is to keep faith and godly character, not to quarrel.",
+        "text": "In context, Timothy is told to withdraw from \"strifes of words\" and disputes (6:4-5) and to pursue meekness (6:11). The struggle Paul has in mind is to keep the faith and godly character, not to quarrel.",
         "sources": [
           "v:6.4",
           "v:6.5",
@@ -117,7 +117,7 @@
         "strong": "G0073",
         "english": "fight",
         "why_it_matters": {
-          "text": "Agōn first meant a gathering for games, then a contest or struggle. Here it describes the Christian life as an athlete's contest rather than warfare against enemies.",
+          "text": "Agōn first meant a gathering for games, then a contest, struggle, or trial. The lexicon lists this verse where it describes the Christian life as a contest and struggle.",
           "sources": [
             "w:G0073",
             "x:1-corinthians.9.25"
@@ -169,18 +169,22 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "why.big_picture",
-      "reason": "No cited source says 2 Timothy 4:7 was written near the end of Paul's life. Treating Paul as its author also passes over the authorship debate noted in the sources."
+      "reason": "No cited source says 2 Timothy 4:7 was written near the end of Paul's life. Treating Paul as its author also passes over the authorship debate noted in the sources.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.0",
-      "reason": "The lexicon gives 'contest, struggle' with no contrast to warfare. The same letter even uses 'war a good warfare' (1:18), so 'rather than warfare against enemies' goes beyond the sources."
+      "reason": "The lexicon gives 'contest, struggle' with no contrast to warfare. The same letter even uses 'war a good warfare' (1:18), so 'rather than warfare against enemies' goes beyond the sources.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "misuse",
-      "reason": "Saying the word 'mainly' pictures an athlete's contest overstates the lexicons. They also give 'to fight, struggle, strive' and 'contest, struggle, trial' without naming athletics as the main sense here."
+      "reason": "Saying the word 'mainly' pictures an athlete's contest overstates the lexicons. They also give 'to fight, struggle, strive' and 'contest, struggle, trial' without naming athletics as the main sense here.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

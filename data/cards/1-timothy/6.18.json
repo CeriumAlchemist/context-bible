@@ -99,7 +99,7 @@
         "strong": "G4147",
         "english": "be rich",
         "why_it_matters": {
-          "text": "Paul uses the same word for being rich that describes the wealthy in verse 17. He turns it around: the rich should become rich \"in\" good works. This plays on their status and redirects it.",
+          "text": "The verb means to be rich. Paul charges the rich of verse 17 to be rich \"in good works.\"",
           "sources": [
             "w:G4147",
             "v:6.17",
@@ -111,7 +111,7 @@
         "strong": "G2130",
         "english": "ready to distribute",
         "why_it_matters": {
-          "text": "The Greek word means generous or ready to give. It describes a settled willingness to hand over what one has, not a one-time gift.",
+          "text": "The Greek word means ready to impart, or generous in distributing.",
           "sources": [
             "w:G2130"
           ]
@@ -148,14 +148,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.0",
-      "reason": "The sources do not show that verse 17 uses the same Greek word. The lexicon entry for πλουτέω only cross-references πλούσιος, and v17's 'rich' is in fact the adjective πλούσιος, not the verb πλουτεῖν."
+      "reason": "The sources do not show that verse 17 uses the same Greek word. The lexicon entry for πλουτέω only cross-references πλούσιος, and v17's 'rich' is in fact the adjective πλούσιος, not the verb πλουτεῖν.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.1",
-      "reason": "The lexicon gives only 'ready to impart' / 'generous in distributing'. The contrast of a 'settled willingness' with 'not a one-time gift' is an added interpretation the source does not state."
+      "reason": "The lexicon gives only 'ready to impart' / 'generous in distributing'. The contrast of a 'settled willingness' with 'not a one-time gift' is an added interpretation the source does not state.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

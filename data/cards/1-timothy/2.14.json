@@ -102,7 +102,7 @@
     "misuse": {
       "popular_reading": "Quoted to claim that women are by nature more gullible than men, or that women bear the blame for sin entering the world.",
       "in_context_reading": {
-        "text": "The verse serves Paul's argument about who teaches in the Ephesian church. It is not a general statement about women's minds. Genesis shows Adam also ate and also sinned. Paul elsewhere warns all believers that they could be deceived as Eve was.",
+        "text": "In context the verse supports Paul's instruction in 2:12 by pointing to Eve's deception. Genesis also records that Adam ate and sinned (Genesis 3:6, 3:12). Paul elsewhere warns all believers that they could be deceived as Eve was (2 Corinthians 11:3).",
         "sources": [
           "v:2.12",
           "v:2.14",
@@ -157,7 +157,7 @@
       }
     ],
     "takeaway": {
-      "text": "This verse supports a specific instruction about teaching in the Ephesian church by pointing to Eve's deception in Genesis. It is not a verdict that women are weaker in mind. Christians still disagree on whether it sets a rule for every church.",
+      "text": "This verse gives the second reason for Paul's instruction in 2:12, pointing to Eve's deception in Genesis. Paul uses the same example to warn all believers in 2 Corinthians 11:3. Christians still disagree on whether 2:12 sets a rule for every church.",
       "sources": [
         "v:2.12",
         "v:2.14",
@@ -166,14 +166,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "takeaway",
-      "reason": "The sources do not say the verse is 'not a verdict that women are weaker in mind,' nor do they limit it to the Ephesian church. This is one interpretive position stated as fact, and some readers have historically read it otherwise."
+      "reason": "The sources do not say the verse is 'not a verdict that women are weaker in mind,' nor do they limit it to the Ephesian church. This is one interpretive position stated as fact, and some readers have historically read it otherwise.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "misuse",
-      "reason": "The cited sources do not state that the verse is 'not a general statement about women's minds' or that it only concerns who teaches in the Ephesian church. That is one interpretation presented as the only reading."
+      "reason": "The cited sources do not state that the verse is 'not a general statement about women's minds' or that it only concerns who teaches in the Ephesian church. That is one interpretation presented as the only reading.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

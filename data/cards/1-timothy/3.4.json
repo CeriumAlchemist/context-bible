@@ -101,11 +101,10 @@
     },
     "misuse": null,
     "christians_differ": {
-      "text": "Christians differ on what \"children in subjection\" requires. Some read it together with Titus 1:6 (\"having faithful children\") and say a leader's children must be believers. Others say it means children who are orderly and respectful while still under his care. Traditions also differ on whether the verse requires a bishop to have children or only describes how he must lead them if he does.",
+      "text": "Christians differ on what \"children in subjection\" requires. Some read it together with Titus 1:6 (\"having faithful children\") and say a leader's children must be believers. Others say it means children who are orderly and respectful while under his care.",
       "sources": [
         "v:3.4",
-        "x:titus.1.6",
-        "w:G5292"
+        "x:titus.1.6"
       ]
     },
     "key_words": [
@@ -135,7 +134,7 @@
         "strong": "G5292",
         "english": "subjection",
         "why_it_matters": {
-          "text": "The word means submission or orderly subjection. The letter uses the same word in 2:11, so it describes an ordered household rather than harsh treatment.",
+          "text": "The word means submission or subjection. The letter uses the same word in 2:11.",
           "sources": [
             "w:G5292"
           ]
@@ -165,12 +164,15 @@
   "problems": [],
   "unsupported": [
     {
-      "claim": "key_words.2",
-      "reason": "The lexicon only lists 1 Tim 2:11 as another use of the word. That does not support the conclusion that the verse describes an ordered household 'rather than harsh treatment.' The inference is drawn without support from the cited source."
-    },
-    {
       "claim": "christians_differ",
       "reason": "No cited source mentions any debate over whether the verse requires a bishop to have children. The sources also do not attest which traditions hold the stated readings on believing children."
+    }
+  ],
+  "resolved": [
+    {
+      "claim": "key_words.2",
+      "reason": "The lexicon only lists 1 Tim 2:11 as another use of the word. That does not support the conclusion that the verse describes an ordered household 'rather than harsh treatment.' The inference is drawn without support from the cited source.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

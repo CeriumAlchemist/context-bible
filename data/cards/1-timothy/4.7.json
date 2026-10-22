@@ -134,7 +134,7 @@
         "strong": "G1128",
         "english": "exercise",
         "why_it_matters": {
-          "text": "The root of our word \"gymnasium,\" it means to train the body or mind. Paul pictures godliness as something practiced with effort, which leads into his comparison with bodily training in 4:8.",
+          "text": "The word means to exercise or train the body or mind. Paul pictures godliness as something practiced with effort, which leads into his comparison with bodily training in 4:8.",
           "sources": [
             "w:G1128",
             "v:4.8"
@@ -162,10 +162,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.3",
-      "reason": "The cited lexicon entry gives the meaning (exercise or train, originally to exercise naked) but says nothing about the word being the root of English \"gymnasium.\""
+      "reason": "The cited lexicon entry gives the meaning (exercise or train, originally to exercise naked) but says nothing about the word being the root of English \"gymnasium.\"",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

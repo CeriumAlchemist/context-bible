@@ -9,7 +9,7 @@
   "generatedAt": "2026-10-22T01:53:32.024Z",
   "card": {
     "in_context": {
-      "text": "This verse finishes Paul's description of false teachers that begins in 6:3. They reject the 'wholesome words' of Jesus, love arguments, and treat religion as a way to make money. Timothy is told to keep away from them. The next verse turns their idea around: 'godliness with contentment is great gain.'",
+      "text": "This verse finishes Paul's description of false teachers that begins in 6:3: they reject the \"wholesome words\" of Jesus, love arguments, and suppose that gain is godliness. Timothy is told to withdraw from them. The next verse turns their idea around: \"godliness with contentment is great gain.\"",
       "sources": [
         "v:6.3",
         "v:6.4",
@@ -164,8 +164,6 @@
       ]
     }
   },
-  "problems": [
-    "in_context: 4 sentences; keep it to 3"
-  ],
+  "problems": [],
   "unsupported": []
 }

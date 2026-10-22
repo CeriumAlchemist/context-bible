@@ -117,7 +117,7 @@
         "strong": "G1321",
         "english": "teach",
         "why_it_matters": {
-          "text": "This word means to instruct. Paired with \"command,\" it shows Timothy should both direct the church and explain the reasons behind what he tells them.",
+          "text": "This word means to teach or instruct. Paul pairs it with \"command.\"",
           "sources": [
             "w:G1321",
             "w:G3853"
@@ -146,10 +146,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.1",
-      "reason": "The lexicon only defines the word as 'to teach (i.e. instruct)'. It says nothing about explaining the reasons behind instructions, so the contrast with 'command' goes beyond the cited source."
+      "reason": "The lexicon only defines the word as 'to teach (i.e. instruct)'. It says nothing about explaining the reasons behind instructions, so the contrast with 'command' goes beyond the cited source.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

@@ -71,10 +71,12 @@
     },
     "why": {
       "purpose": {
-        "text": "Paul wants the church to support widows who are truly in need and of proven character. Families should care for their own widows, so the church can help those who are \"widows indeed.\"",
+        "text": "Paul wants the church to support widows who are truly in need and well reported of for good works (5:9-10). Families should care for their own widows, so the church can help those who are \"widows indeed.\"",
         "sources": [
           "v:5.4",
           "v:5.8",
+          "v:5.9",
+          "v:5.10",
           "v:5.16"
         ]
       },
@@ -164,10 +166,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "why.purpose",
-      "reason": "The cited verses (5:4, 5:8, 5:16) cover family responsibility and church relief for 'widows indeed.' None of them says the widows must be 'of proven character.' That requirement comes from 5:9-10, which this claim does not cite."
+      "reason": "The cited verses (5:4, 5:8, 5:16) cover family responsibility and church relief for 'widows indeed.' None of them says the widows must be 'of proven character.' That requirement comes from 5:9-10, which this claim does not cite.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

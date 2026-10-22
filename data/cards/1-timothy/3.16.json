@@ -142,10 +142,10 @@
         "strong": "G1344",
         "english": "justified",
         "why_it_matters": {
-          "text": "Here the word means \"shown to be righteous,\" not \"forgiven.\" Christ was shown to be in the right by the Spirit.",
+          "text": "Here the word means \"shown to be righteous\" or vindicated, not \"forgiven.\" The verse says this happened \"in the Spirit.\"",
           "sources": [
             "w:G1344",
-            "x:1-john.5.6"
+            "v:3.16"
           ]
         }
       },
@@ -171,10 +171,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.3",
-      "reason": "The lexicon supports 'shown to be righteous,' but neither source says Christ was vindicated 'by the Spirit.' The verse reads 'in the Spirit,' and 1 John 5:6 only says the Spirit bears witness. The card presents one contested reading of 'in the Spirit' as the only one."
+      "reason": "The lexicon supports 'shown to be righteous,' but neither source says Christ was vindicated 'by the Spirit.' The verse reads 'in the Spirit,' and 1 John 5:6 only says the Spirit bears witness. The card presents one contested reading of 'in the Spirit' as the only one.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

@@ -96,9 +96,10 @@
         ]
       },
       "for_readers": {
-        "text": "The letter was written while Nero was emperor, and the word \"king\" was commonly used of the Roman emperor. The verse places every human ruler under God.",
+        "text": "On the traditional date, the letter was written while Nero was emperor, and the word \"king\" was commonly used of the Roman emperor. The verse places every human ruler under God.",
         "sources": [
           "b:setting",
+          "b:date",
           "w:G0935"
         ]
       }
@@ -169,10 +170,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "why.for_readers",
-      "reason": "It states as fact that the letter was written under Nero. That follows only the traditional dating. The card's own date source notes that many scholars date the letter to AD 80-110, after Nero's reign."
+      "reason": "It states as fact that the letter was written under Nero. That follows only the traditional dating. The card's own date source notes that many scholars date the letter to AD 80-110, after Nero's reign.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

@@ -9,7 +9,7 @@
   "generatedAt": "2026-10-22T01:47:32.150Z",
   "card": {
     "in_context": {
-      "text": "This verse is part of Paul's list of qualifications for church leaders (3:1-13). After describing bishops (3:2-7) and the character of deacons and their wives (3:8-11), he adds that deacons must be faithful in marriage and manage their children and homes well.",
+      "text": "This verse is part of Paul's list of qualifications for church leaders (3:1-13). After describing bishops (3:2-7) and the character of deacons and their wives (3:8-11), he adds that deacons must be \"the husbands of one wife\" and manage their children and homes well.",
       "sources": [
         "v:3.2",
         "v:3.8",
@@ -155,10 +155,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "in_context",
-      "reason": "It presents 'husbands of one wife' as meaning 'faithful in marriage', which is only one interpretation. The cited text gives just the phrase, and the card itself notes that other readings exist, such as married only once or ruling out polygamy."
+      "reason": "It presents 'husbands of one wife' as meaning 'faithful in marriage', which is only one interpretation. The cited text gives just the phrase, and the card itself notes that other readings exist, such as married only once or ruling out polygamy.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

@@ -9,7 +9,7 @@
   "generatedAt": "2026-10-22T01:53:05.945Z",
   "card": {
     "in_context": {
-      "text": "This verse closes a section where Paul tells Timothy how to guide different groups in the church: widows, elders, and servants. Verse 1 addresses servants in general. Verse 2 turns to servants whose masters are fellow believers. It ends with a charge to teach these things, before Paul turns to false teachers.",
+      "text": "This verse closes a section where Paul tells Timothy how to guide different groups in the church: widows, elders, and servants. Having addressed servants in general (6:1), he turns to servants whose masters are fellow believers. It ends with a charge to teach these things, before Paul turns to false teachers.",
       "sources": [
         "v:6.1",
         "v:6.2",
@@ -149,8 +149,6 @@
       ]
     }
   },
-  "problems": [
-    "in_context: 4 sentences; keep it to 3"
-  ],
+  "problems": [],
   "unsupported": []
 }

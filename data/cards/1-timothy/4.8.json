@@ -137,7 +137,7 @@
         "strong": "G2150",
         "english": "godliness",
         "why_it_matters": {
-          "text": "The word means piety or reverence toward God. It is a favorite word in this letter, describing a whole way of life shaped by devotion to God, not just religious activity.",
+          "text": "The word means piety or reverence toward God. It appears several times in this letter (2:2, 4:7-8, 6:5-6, 6:11).",
           "sources": [
             "w:G2150"
           ]
@@ -165,10 +165,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.2",
-      "reason": "The lexicon defines the word as piety or reverence toward God and lists its occurrences. It does not say it describes 'a whole way of life' as opposed to 'just religious activity'; that contrast is added interpretation."
+      "reason": "The lexicon defines the word as piety or reverence toward God and lists its occurrences. It does not say it describes 'a whole way of life' as opposed to 'just religious activity'; that contrast is added interpretation.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

@@ -112,7 +112,7 @@
         "strong": "G0652",
         "english": "apostle",
         "why_it_matters": {
-          "text": "An apostle is one sent on a mission. The lexicon notes this verse is one where Paul claims equal standing with the Twelve, which explains why he adds an oath.",
+          "text": "An apostle is one sent on a mission. The lexicon lists this verse among those where Paul claims equal standing with the Twelve.",
           "sources": [
             "w:G0652"
           ]
@@ -122,7 +122,7 @@
         "strong": "G5087",
         "english": "ordained",
         "why_it_matters": {
-          "text": "The Greek verb means to place, set, or appoint. KJV \"ordained\" here means God appointed Paul, not a church ceremony.",
+          "text": "The Greek verb means to place, set, or appoint. The KJV renders it \"ordained.\"",
           "sources": [
             "w:G5087"
           ]
@@ -150,14 +150,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.2",
-      "reason": "The lexicon gives only 'to place, set' (glossed 'was appointed'). It does not say who did the appointing, and it says nothing to rule out a church ceremony; that contrast is added interpretation."
+      "reason": "The lexicon gives only 'to place, set' (glossed 'was appointed'). It does not say who did the appointing, and it says nothing to rule out a church ceremony; that contrast is added interpretation.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.1",
-      "reason": "The lexicon does say Paul claims equality with the Twelve in this verse, but it does not say this explains why he adds an oath. That causal link is presented as if it came from the source."
+      "reason": "The lexicon does say Paul claims equality with the Twelve in this verse, but it does not say this explains why he adds an oath. That causal link is presented as if it came from the source.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

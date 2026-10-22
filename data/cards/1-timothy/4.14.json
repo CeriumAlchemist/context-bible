@@ -99,7 +99,7 @@
     "misuse": {
       "popular_reading": "Often quoted as a general call to develop any personal talent or natural ability.",
       "in_context_reading": {
-        "text": "Paul is speaking about Timothy's specific gift for ministry, given by God and confirmed when prophecy was spoken and the elders laid hands on him. The surrounding verses tie it to reading, exhortation, and teaching in the church.",
+        "text": "Paul is speaking about Timothy's specific gift, which the verse says \"was given thee by prophecy, with the laying on of the hands of the presbytery.\" The surrounding verses tie it to reading, exhortation, and teaching in the church.",
         "sources": [
           "v:4.13",
           "v:4.14",
@@ -172,10 +172,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "misuse",
-      "reason": "It says the gift was 'confirmed' when prophecy was spoken and the elders laid hands on him. The verse says the gift 'was given thee by prophecy, with the laying on of the hands,' so 'confirmed' adopts the Protestant 'recognition' reading over the conferral reading that the card itself notes in christians_differ."
+      "reason": "It says the gift was 'confirmed' when prophecy was spoken and the elders laid hands on him. The verse says the gift 'was given thee by prophecy, with the laying on of the hands,' so 'confirmed' adopts the Protestant 'recognition' reading over the conferral reading that the card itself notes in christians_differ.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

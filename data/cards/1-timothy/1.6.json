@@ -129,7 +129,7 @@
         "strong": "G3150",
         "english": "vain jangling",
         "why_it_matters": {
-          "text": "The Greek means idle or foolish talk. The KJV's \"vain jangling\" is old English for empty chatter, not noise or music.",
+          "text": "The Greek word means idle or foolish talk. This is the only place it appears in the New Testament.",
           "sources": [
             "w:G3150"
           ]
@@ -157,10 +157,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.2",
-      "reason": "The lexicon gives only the Greek meaning ('idle or foolish talk'). None of the cited sources discusses the English phrase 'vain jangling' as old English for empty chatter, or rules out a sense of noise or music."
+      "reason": "The lexicon gives only the Greek meaning ('idle or foolish talk'). None of the cited sources discusses the English phrase 'vain jangling' as old English for empty chatter, or rules out a sense of noise or music.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

@@ -116,9 +116,10 @@
         "strong": "G3694",
         "english": "after",
         "why_it_matters": {
-          "text": "In biblical Greek this word can mean following behind someone. These people did not simply stray. They ended up following Satan as their new leader.",
+          "text": "The word means behind or after. Here some have \"turned aside after Satan.\"",
           "sources": [
-            "w:G3694"
+            "w:G3694",
+            "v:5.15"
           ]
         }
       },
@@ -155,10 +156,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.1",
-      "reason": "The cited lexicon entry is cut off before any 'follow behind someone' sense; it shows only the place sense (behind, back) and the time sense (after). Saying they followed Satan 'as their new leader' goes beyond both the entry and the verse."
+      "reason": "The cited lexicon entry is cut off before any 'follow behind someone' sense; it shows only the place sense (behind, back) and the time sense (after). Saying they followed Satan 'as their new leader' goes beyond both the entry and the verse.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

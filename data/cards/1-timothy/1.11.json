@@ -112,11 +112,10 @@
         "strong": "G1391",
         "english": "glory",
         "why_it_matters": {
-          "text": "The KJV says 'glorious gospel,' but the Greek reads 'the gospel of the glory.' The point is not only that the gospel is splendid. It makes known the glory, the honor and splendor, of God himself.",
+          "text": "The Greek reads literally \"the gospel of the glory of the blessed God,\" which the KJV renders \"glorious gospel.\" The word means glory, honour, or praise.",
           "sources": [
             "w:G1391",
-            "v:1.11",
-            "x:2-corinthians.4.4"
+            "v:1.11"
           ]
         }
       },
@@ -154,10 +153,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.0",
-      "reason": "The lexicon only shows the genitive δόξης glossed 'glory'. It does not support the claim that the gospel 'makes known' God's glory, or the 'splendor' gloss. It also does not rule out reading the genitive descriptively, as the KJV's 'glorious gospel' does. The claim presents one interpretation of the genitive as the only reading."
+      "reason": "The lexicon only shows the genitive δόξης glossed 'glory'. It does not support the claim that the gospel 'makes known' God's glory, or the 'splendor' gloss. It also does not rule out reading the genitive descriptively, as the KJV's 'glorious gospel' does. The claim presents one interpretation of the genitive as the only reading.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

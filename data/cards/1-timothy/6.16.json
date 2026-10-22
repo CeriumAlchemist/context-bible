@@ -100,13 +100,12 @@
     },
     "misuse": null,
     "christians_differ": {
-      "text": "Readers differ on whom \"who\" names. Many take it as God the Father, since the Son is distinct and \"hath declared him\" (John 1:18; 6:46). Others apply the praise to God without dividing the persons, noting the title \"Lord of lords\" in 6:15. Readers also differ on what \"only hath immortality\" means for humans: most say God alone has it by nature and grants it to others (compare 1 Corinthians 15:53-54), while some take it as evidence that humans are not naturally immortal.",
+      "text": "Readers differ on whom \"who\" names. Many take it as God the Father, since the Son is distinct and \"hath declared him\" (John 1:18; 6:46). Others apply the praise to God without dividing the persons, noting the title \"Lord of lords\" in 6:15.",
       "sources": [
         "v:6.15",
         "v:6.16",
         "x:john.1.18",
-        "x:john.6.46",
-        "w:G0110"
+        "x:john.6.46"
       ]
     },
     "key_words": [
@@ -164,10 +163,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "christians_differ",
-      "reason": "The cited sources do not say that 'most' readers hold that God has immortality by nature and grants it to others. They report no relative numbers of interpreters, and the 'grants it to others' reading is not stated in them. This majority framing is unsupported."
+      "reason": "The cited sources do not say that 'most' readers hold that God has immortality by nature and grants it to others. They report no relative numbers of interpreters, and the 'grants it to others' reading is not stated in them. This majority framing is unsupported.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

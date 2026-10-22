@@ -138,10 +138,10 @@
         "strong": "G1680",
         "english": "hope",
         "why_it_matters": {
-          "text": "In the New Testament, elpis is always an expectation of good. Calling Christ \"our hope\" means confident expectation, not wishful thinking.",
+          "text": "In the New Testament this word always means an expectation of good. Calling Christ \"our hope\" names him as the one that good expectation rests on.",
           "sources": [
             "w:G1680",
-            "x:1-peter.1.3"
+            "v:1.1"
           ]
         }
       }
@@ -156,10 +156,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.3",
-      "reason": "The lexicon says only that NT elpis is always an expectation of good. It does not say the hope is confident or certain, and 1 Peter 1:3's 'lively hope' does not establish 'confident expectation, not wishful thinking.'"
+      "reason": "The lexicon says only that NT elpis is always an expectation of good. It does not say the hope is confident or certain, and 1 Peter 1:3's 'lively hope' does not establish 'confident expectation, not wishful thinking.'",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

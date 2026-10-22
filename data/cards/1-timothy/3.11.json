@@ -97,7 +97,7 @@
     },
     "misuse": null,
     "christians_differ": {
-      "text": "Christians disagree about who these women are. Some read them as the wives of deacons, as the KJV does. Others read them as women deacons (deaconesses), and one lexicon gives the sense \"deaconess\" for this verse. A third view takes them as the wives of both bishops and deacons.",
+      "text": "Christians disagree about who these women are. Some read them as the wives of deacons, as the KJV does. Others read them as women deacons (deaconesses), and one lexicon gives the sense \"deaconess\" for this verse.",
       "sources": [
         "v:3.11",
         "w:G1135H",
@@ -130,7 +130,7 @@
         "strong": "G1228",
         "english": "slanderers",
         "why_it_matters": {
-          "text": "This is the same word used for \"the devil,\" the false accuser. Slander is presented as doing the devil's kind of work, which echoes the warnings about the devil in 3:6-7.",
+          "text": "This is the same word used for \"the devil,\" the false accuser. The devil was named twice just before, in 3:6-7.",
           "sources": [
             "w:G1228",
             "v:3.6",
@@ -160,14 +160,17 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "christians_differ",
-      "reason": "The sources support only two readings: deacons' wives (KJV) and deaconesses (lexicon). Nothing in the cited sources mentions a third view that these are the wives of both bishops and deacons."
+      "reason": "The sources support only two readings: deacons' wives (KJV) and deaconesses (lexicon). Nothing in the cited sources mentions a third view that these are the wives of both bishops and deacons.",
+      "fix": "claim rewritten to match its sources"
     },
     {
       "claim": "key_words.2",
-      "reason": "The lexicon shows only that the same word means slanderer and the devil. Saying the verse 'presents' slander as doing the devil's kind of work is the card's own interpretation, not something the verse or the lexicon states."
+      "reason": "The lexicon shows only that the same word means slanderer and the devil. Saying the verse 'presents' slander as doing the devil's kind of work is the card's own interpretation, not something the verse or the lexicon states.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

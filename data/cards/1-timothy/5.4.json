@@ -146,7 +146,7 @@
         "strong": "G0587",
         "english": "acceptable",
         "why_it_matters": {
-          "text": "This is the same word Paul uses in 2:3 for what pleases God. It puts caring for family alongside prayer as something God welcomes.",
+          "text": "The word means acceptable. The letter uses it only here and in 2:3.",
           "sources": [
             "w:G0587"
           ]
@@ -163,10 +163,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "key_words.4",
-      "reason": "The lexicon only says the word means 'acceptable' and also appears in 1 Timothy 2:3. It says nothing about the context of 2:3, so linking family care with prayer goes beyond the cited source."
+      "reason": "The lexicon only says the word means 'acceptable' and also appears in 1 Timothy 2:3. It says nothing about the context of 2:3, so linking family care with prayer goes beyond the cited source.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

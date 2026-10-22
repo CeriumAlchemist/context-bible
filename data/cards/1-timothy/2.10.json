@@ -64,10 +64,9 @@
       }
     },
     "where": {
-      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. That wealth is the setting for the warning against gold, pearls, and costly clothing.",
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia.",
       "sources": [
-        "b:destination",
-        "v:2.9"
+        "b:destination"
       ]
     },
     "why": {
@@ -151,10 +150,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "where",
-      "reason": "The source says Ephesus was wealthy but never links that wealth to the warning against gold, pearls, and costly clothing. Calling it 'the setting' for the warning is an added causal claim."
+      "reason": "The source says Ephesus was wealthy but never links that wealth to the warning against gold, pearls, and costly clothing. Calling it 'the setting' for the warning is an added causal claim.",
+      "fix": "claim rewritten to match its sources"
     }
   ]
 }

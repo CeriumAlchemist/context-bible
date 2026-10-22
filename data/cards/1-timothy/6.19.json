@@ -9,7 +9,7 @@
   "generatedAt": "2026-10-22T01:55:16.306Z",
   "card": {
     "in_context": {
-      "text": "This verse finishes a charge Paul tells Timothy to give to wealthy believers. They are not to trust in uncertain riches but in God. They are to be rich in good works and generous. In this way they store up a solid foundation for the future and take hold of real life.",
+      "text": "This verse finishes a charge Paul tells Timothy to give to wealthy believers: not to trust in uncertain riches but in God, and to be rich in good works and generous. In this way they lay up a good foundation for the time to come and lay hold on eternal life.",
       "sources": [
         "v:6.17",
         "v:6.18",
@@ -164,8 +164,6 @@
       ]
     }
   },
-  "problems": [
-    "in_context: 4 sentences; keep it to 3"
-  ],
+  "problems": [],
   "unsupported": []
 }
