@@ -1,0 +1,204 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 14
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:51:34.140Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is giving Timothy rules for caring for widows in the church. He says older widows of proven character may be enrolled for church support, but younger widows should not be (5:9-11). This verse gives his remedy for those younger widows: marry again, raise children, and run a household, so that outsiders have no reason to slander the church.",
+      "sources": [
+        "v:5.3",
+        "v:5.9",
+        "v:5.10",
+        "v:5.11",
+        "v:5.13",
+        "v:5.14"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, writing to Timothy. Many critical scholars think a follower wrote in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Younger widows in the church. The Greek says only \"the younger ones\" in the feminine. The surrounding verses about younger widows show who is meant.",
+        "sources": [
+          "w:G3501",
+          "v:5.11",
+          "v:5.12",
+          "v:5.13"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul states his deliberate wish that younger widows remarry, have children, and manage their homes. He gives the reason: to give the opponent no opening to speak abuse against believers. Some had already turned aside after Satan.",
+      "sources": [
+        "v:5.14",
+        "v:5.15",
+        "w:G1014",
+        "w:G0874",
+        "w:G3059"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This instruction belongs to Timothy's time leading the Ephesian church, after Paul had gone on to Macedonia.",
+        "sources": [
+          "b:recipients",
+          "b:writtenFrom"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The church at Ephesus, a wealthy port city and capital of the Roman province of Asia, known for its temple of Artemis.",
+      "sources": [
+        "b:destination",
+        "b:recipients"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul worried that younger widows on church support would become idle, go from house to house as gossips and busybodies, and break their earlier commitment (5:11-13). A settled household life would guard against this and protect the church's reputation.",
+        "sources": [
+          "v:5.11",
+          "v:5.12",
+          "v:5.13",
+          "v:5.14",
+          "v:5.16"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that belief and behavior belong together. It repeatedly asks believers to live so that God's name and teaching are not slandered by outsiders. Titus 2:5 and 1 Timothy 6:1 give the same reason.",
+        "sources": [
+          "b:themes",
+          "b:purpose",
+          "x:titus.2.5",
+          "x:1-timothy.6.1",
+          "x:titus.2.8"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers see a church caring for vulnerable members while thinking practically about each person's situation. The church also stayed aware of how its conduct looked to outsiders.",
+        "sources": [
+          "v:5.3",
+          "v:5.16",
+          "v:5.14"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Quoted as a general command that every woman must marry, have children, and keep house.",
+      "in_context_reading": {
+        "text": "In context Paul is addressing younger widows, not all women. He gives this advice so that they would not be enrolled for church support and then fall into idleness and gossip (5:11-13). Elsewhere Paul says it is good for widows to stay unmarried if they can (1 Corinthians 7:8-9).",
+        "sources": [
+          "v:5.11",
+          "v:5.13",
+          "v:5.14",
+          "w:G3501",
+          "x:1-corinthians.7.8",
+          "x:1-corinthians.7.9"
+        ]
+      }
+    },
+    "christians_differ": {
+      "text": "Christians differ on how far this verse applies today. Some read it as a lasting pattern for women's household roles. Others read it as practical advice tied to a local problem with younger widows in Ephesus, to be weighed alongside Paul's praise of staying unmarried in 1 Corinthians 7:8.",
+      "sources": [
+        "v:5.11",
+        "v:5.14",
+        "x:1-corinthians.7.8",
+        "x:titus.2.5"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G3501",
+        "english": "younger women",
+        "why_it_matters": {
+          "text": "The Greek simply says \"the younger ones\" in the feminine. Coming right after verses 11-13, it points to younger widows rather than women in general.",
+          "sources": [
+            "w:G3501",
+            "v:5.11"
+          ]
+        }
+      },
+      {
+        "strong": "G3616",
+        "english": "guide the house",
+        "why_it_matters": {
+          "text": "This word means to rule or manage a household. It describes an active role of running a home, not idleness, which answers the problem in verse 13.",
+          "sources": [
+            "w:G3616",
+            "v:5.13"
+          ]
+        }
+      },
+      {
+        "strong": "G0874",
+        "english": "occasion",
+        "why_it_matters": {
+          "text": "Properly this means a starting point, even a base of operations in war. Paul does not want believers' conduct to hand opponents a foothold for attack.",
+          "sources": [
+            "w:G0874"
+          ]
+        }
+      },
+      {
+        "strong": "G0480",
+        "english": "adversary",
+        "why_it_matters": {
+          "text": "This word means one who opposes. The next verse mentions Satan, and Titus 2:8 speaks of human opponents with \"no evil thing to say of you,\" so the opposition is not narrowly defined.",
+          "sources": [
+            "w:G0480",
+            "v:5.15",
+            "x:titus.2.8"
+          ]
+        }
+      },
+      {
+        "strong": "G1014",
+        "english": "I will",
+        "why_it_matters": {
+          "text": "This verb expresses a deliberate wish or purpose. It shows Paul's considered judgment about this situation.",
+          "sources": [
+            "w:G1014"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is Paul's practical advice for younger widows in Ephesus, not a blanket rule for all women. Its concern is that believers live in a way that gives critics no grounds to slander the church.",
+      "sources": [
+        "v:5.11",
+        "v:5.14",
+        "v:5.15",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "takeaway",
+      "reason": "Calling the verse 'not a blanket rule for all women' states one interpretive position as settled fact. The card's own christians_differ entry notes that some Christians read it as a lasting pattern for women's household roles."
+    }
+  ]
+}

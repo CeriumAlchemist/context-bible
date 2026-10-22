@@ -1,0 +1,175 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 17
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:54:54.359Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just warned that wanting to be rich leads to snares, and that the love of money is a root of all evil (6:9-10). Here he turns to believers who are already rich. He tells Timothy to charge them not to be proud or trust their wealth, but to trust God and be generous (6:17-19).",
+      "sources": [
+        "v:6.9",
+        "v:6.10",
+        "v:6.17",
+        "v:6.18",
+        "v:6.19"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus. Paul tells him what to command others.",
+        "sources": [
+          "b:recipients",
+          "v:6.17"
+        ]
+      },
+      "affected": {
+        "text": "\"Them that are rich in this world\": wealthy members of the church. They are told how to handle the riches they already have.",
+        "sources": [
+          "v:6.17",
+          "w:G4145"
+        ]
+      }
+    },
+    "what": {
+      "text": "Timothy is to order the rich not to be arrogant and not to set their hope on wealth, which is uncertain. They are to hope in the living God, who generously provides everything for people to enjoy. The next verses add that they must do good and share freely.",
+      "sources": [
+        "v:6.17",
+        "v:6.18",
+        "w:G3853",
+        "w:G5309",
+        "w:G0083"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This is part of Paul's closing charge to Timothy while Timothy led the church in Ephesus. Paul had gone on to Macedonia.",
+        "sources": [
+          "b:recipients",
+          "b:writtenFrom",
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110, written in Paul's name by a follower. Others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter went to Ephesus, a wealthy port city and capital of the Roman province of Asia. A church there would likely include people with money. Where Paul wrote from is not stated, though it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul has warned against false teachers who treat godliness as a way to gain (6:5). He wants the rich to have a right attitude, so that wealth leads to good works rather than pride.",
+        "sources": [
+          "v:6.5",
+          "v:6.17",
+          "v:6.18",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Contentment and the danger of loving money are key themes of this letter. The letter also teaches that what God created is good and is received with thanks (4:4). This verse holds both together: riches are uncertain, yet God gives good things to enjoy.",
+        "sources": [
+          "b:themes",
+          "v:6.6",
+          "v:6.17"
+        ]
+      },
+      "for_readers": {
+        "text": "Wealth is not a safe place to put your hope. Other passages agree: \"He that trusteth in his riches shall fall\" (Proverbs 11:28), and \"riches are not for ever\" (Proverbs 27:24). Trust belongs to God, who gives freely.",
+        "sources": [
+          "v:6.17",
+          "x:proverbs.11.28",
+          "x:proverbs.27.24",
+          "x:jeremiah.17.7"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "The phrase \"God giveth us richly all things to enjoy\" is sometimes quoted alone as a promise that God wants believers to gain wealth, or as approval for pursuing luxury.",
+      "in_context_reading": {
+        "text": "The verse is a warning to people who are already rich: do not be proud or trust in money. It comes right after a warning that those who \"will be rich\" fall into a snare (6:9). The enjoyment it mentions is meant to lead to generosity and good works (6:18).",
+        "sources": [
+          "v:6.9",
+          "v:6.17",
+          "v:6.18"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G5309",
+        "english": "highminded",
+        "why_it_matters": {
+          "text": "\"Highminded\" does not mean having noble ideals. It means being arrogant, thinking oneself above others. The first danger of wealth named here is pride.",
+          "sources": [
+            "w:G5309"
+          ]
+        }
+      },
+      {
+        "strong": "G1679",
+        "english": "trust",
+        "why_it_matters": {
+          "text": "The Greek word is \"to hope\" or \"to expect.\" The warning is about where the rich set their hope for the future, not only about money handling.",
+          "sources": [
+            "w:G1679"
+          ]
+        }
+      },
+      {
+        "strong": "G0083",
+        "english": "uncertain",
+        "why_it_matters": {
+          "text": "The Greek is a noun, \"uncertainty,\" used only here in the New Testament. It stresses that riches by nature cannot be counted on.",
+          "sources": [
+            "w:G0083"
+          ]
+        }
+      },
+      {
+        "strong": "G0619",
+        "english": "to enjoy",
+        "why_it_matters": {
+          "text": "The word means \"enjoyment.\" Paul does not condemn good things themselves. God provides them to be enjoyed, so the problem is pride and misplaced trust, not the gifts.",
+          "sources": [
+            "w:G0619",
+            "w:G3930"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Having money is not condemned here, but trusting it is. Hope belongs to the living God, who gives good things richly, and the right response is humility and generosity.",
+      "sources": [
+        "v:6.17",
+        "v:6.18",
+        "x:1-timothy.4.10"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "misuse",
+      "reason": "The verses do not say that the enjoyment God gives is meant to lead to generosity. 6:17 speaks of enjoyment, and 6:18 separately charges the rich to do good and share, without linking the two as purpose and result."
+    }
+  ]
+}

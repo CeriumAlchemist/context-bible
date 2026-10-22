@@ -1,0 +1,159 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 7
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:50:32.620Z",
+  "card": {
+    "in_context": {
+      "text": "Paul tells Timothy to pass on his instructions about widows and their families. Real widows who are alone should be honored (5:3, 5:5), and families should care for their own (5:4, 5:8). The goal is that those involved may be blameless.",
+      "sources": [
+        "v:5.3",
+        "v:5.4",
+        "v:5.5",
+        "v:5.6",
+        "v:5.7",
+        "v:5.8"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients",
+          "x:1-timothy.1.3"
+        ]
+      },
+      "affected": {
+        "text": "The verse does not name who \"they\" are. The nearby verses are about widows and their children or relatives, so it most likely means those people.",
+        "sources": [
+          "v:5.4",
+          "v:5.5",
+          "v:5.6",
+          "v:5.7",
+          "v:5.8"
+        ]
+      }
+    },
+    "what": {
+      "text": "Timothy is to command \"these things,\" the rules about widows and family duty. The aim is that the people involved may be above reproach.",
+      "sources": [
+        "v:5.7",
+        "w:G3778",
+        "w:G3853",
+        "w:G0423"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The instruction belongs to Timothy's work leading the Ephesian church after Paul went on to Macedonia.",
+        "sources": [
+          "x:1-timothy.1.3",
+          "b:recipients"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower; others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The instructions are for the church in Ephesus, a wealthy port city and capital of the Roman province of Asia.",
+      "sources": [
+        "b:destination",
+        "x:1-timothy.1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants church care for widows handled rightly, so no one gives cause for blame. The church should help widows who are truly alone, and families should support their own.",
+        "sources": [
+          "v:5.7",
+          "v:5.8",
+          "v:5.16"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches how believers should behave in God's household. It holds that belief and behavior belong together. This verse fits the section on caring for groups in the church.",
+        "sources": [
+          "b:purpose",
+          "b:themes",
+          "b:outline"
+        ]
+      },
+      "for_readers": {
+        "text": "Caring for those in need, starting with one's own family, is part of living a faith others cannot rightly fault.",
+        "sources": [
+          "v:5.4",
+          "v:5.7",
+          "v:5.8"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3853",
+        "english": "give in charge",
+        "why_it_matters": {
+          "text": "The word means to order or command. Paul is not just giving advice. Timothy is to require these things, as in 4:11, \"These things command and teach.\"",
+          "sources": [
+            "w:G3853",
+            "x:1-timothy.4.11"
+          ]
+        }
+      },
+      {
+        "strong": "G0423",
+        "english": "blameless",
+        "why_it_matters": {
+          "text": "This word means without reproach. It is stronger than similar words because it implies a good reputation that is deserved. The same word is used of church leaders in 3:2.",
+          "sources": [
+            "w:G0423"
+          ]
+        }
+      },
+      {
+        "strong": "G3778",
+        "english": "these things",
+        "why_it_matters": {
+          "text": "The phrase points back to what came before. Here that is the teaching on widows and family care, not a general rule detached from the passage.",
+          "sources": [
+            "w:G3778",
+            "v:5.3",
+            "v:5.4",
+            "v:5.5",
+            "v:5.6"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul makes his guidance on widows and family care a firm command for Timothy to pass on. The aim is that the people involved live in a way no one can fairly blame.",
+      "sources": [
+        "v:5.7",
+        "w:G3853",
+        "w:G0423"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon only lists 1Ti 3:2 as a reference. No cited source says that 3:2 is about church leaders; the outline that would show this is not cited for this claim."
+    }
+  ]
+}

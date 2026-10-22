@@ -1,0 +1,161 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 3
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:53:25.498Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just told Timothy to teach the instructions about servants and masters (6:1-2). Verse 3 opens a long sentence about anyone who teaches something different. Verses 4-5 finish it: such a person is proud and quarrelsome and treats religion as a way to gain, and Timothy should withdraw from them.",
+      "sources": [
+        "v:6.1",
+        "v:6.2",
+        "v:6.3",
+        "v:6.4",
+        "v:6.5"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The 'any man' who teaches otherwise: false teachers inside the church whom Timothy was to charge to teach no other doctrine.",
+        "sources": [
+          "v:6.3",
+          "x:1-timothy.1.3",
+          "b:purpose"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul describes a teacher who departs from 'wholesome words,' meaning the words of the Lord Jesus Christ, and from teaching that fits with godliness. The verse sets up the condition. Verses 4-5 give the verdict and tell Timothy to withdraw from such people.",
+      "sources": [
+        "v:6.3",
+        "v:6.4",
+        "v:6.5"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The text gives no exact moment. It comes while Timothy is leading the church at Ephesus after Paul went on to Macedonia.",
+        "sources": [
+          "x:1-timothy.1.3",
+          "b:recipients"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter is addressed to Timothy at Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated; he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul gives Timothy a test for spotting false teachers. Does their teaching agree with Christ's words, and does it lead to godly living? This sets up the warning that some treat religion as a means of gain (6:5).",
+        "sources": [
+          "v:6.3",
+          "v:6.5",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "A key theme of the letter is that sound teaching produces godly living, so belief and behavior belong together. The section 6:3-21 ties false teaching to the love of money and calls for contentment.",
+        "sources": [
+          "b:themes",
+          "b:outline",
+          "v:6.6",
+          "v:6.10"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers are invited to judge teaching by two measures in the verse: agreement with the words of Jesus, and whether it leads to godliness. The surrounding verses add a warning sign: quarrels and a hunger for profit.",
+        "sources": [
+          "v:6.3",
+          "v:6.4",
+          "v:6.5"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G2085",
+        "english": "teach otherwise",
+        "why_it_matters": {
+          "text": "This one Greek verb means 'to teach a different doctrine.' Paul uses it again in 1:3. So the verse targets people who teach a different message, not people who merely ask questions.",
+          "sources": [
+            "w:G2085",
+            "x:1-timothy.1.3"
+          ]
+        }
+      },
+      {
+        "strong": "G5198",
+        "english": "wholesome",
+        "why_it_matters": {
+          "text": "The word means 'healthy' and is used of physical health elsewhere. Calling teaching 'healthy' implies that false teaching is like a sickness, which fits the 'doting' or unhealthy craving in 6:4.",
+          "sources": [
+            "w:G5198",
+            "v:6.4"
+          ]
+        }
+      },
+      {
+        "strong": "G4334",
+        "english": "consent",
+        "why_it_matters": {
+          "text": "The verb literally means 'to come near' or 'approach.' Here it means to agree with. The false teacher will not draw near to or accept Christ's words.",
+          "sources": [
+            "w:G4334"
+          ]
+        }
+      },
+      {
+        "strong": "G2150",
+        "english": "godliness",
+        "why_it_matters": {
+          "text": "The word means reverence or piety toward God. Paul uses it repeatedly in this chapter (6:5, 6, 11). True teaching is measured by whether it produces this kind of life, not by whether it brings gain.",
+          "sources": [
+            "w:G2150",
+            "v:6.5",
+            "v:6.6",
+            "v:6.11"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul says true teaching is 'healthy': it agrees with the words of Jesus and leads to a godly life. Teaching that breeds pride, quarrels, and greed shows itself to be something else.",
+      "sources": [
+        "v:6.3",
+        "v:6.4",
+        "v:6.5",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

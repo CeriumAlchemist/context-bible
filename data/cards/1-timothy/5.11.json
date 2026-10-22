@@ -1,0 +1,157 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 11
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:51:02.933Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is telling Timothy which widows the church should put on its list for support. Widows over sixty with a record of good works qualify (5:9-10). Younger widows should not be enrolled, because their desire to remarry may later pull them away from the commitment they made.",
+      "sources": [
+        "v:5.3",
+        "v:5.9",
+        "v:5.10",
+        "v:5.11",
+        "v:5.12"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in his name.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Younger widows in the church, who are not to be enrolled on the list of supported widows.",
+        "sources": [
+          "v:5.9",
+          "v:5.11"
+        ]
+      }
+    },
+    "what": {
+      "text": "Timothy should decline to enroll younger widows. The reason given is that when their desires draw them away from Christ, they will want to marry. Paul says this would mean casting off their \"first faith,\" though the text does not spell out exactly what that earlier pledge was.",
+      "sources": [
+        "v:5.11",
+        "v:5.12",
+        "w:G3868",
+        "w:G2691",
+        "w:G2309"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This is instruction, not a story. It concerns how the church should care for widows in daily life.",
+        "sources": [
+          "b:outline",
+          "v:5.16"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his imprisonments. Scholarly view: many critical scholars date it around AD 80-110, written in Paul's name, while others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter is addressed to the church in Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated, though it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants the church's help to go to those who truly need it, \"widows indeed,\" and wants the church to stay blameless. Families should support their own widows so the church is not overburdened.",
+        "sources": [
+          "v:5.3",
+          "v:5.7",
+          "v:5.16"
+        ]
+      },
+      "big_picture": {
+        "text": "This section belongs to Paul's guidance on caring for groups in the church. It fits the letter's theme that belief and behavior belong together.",
+        "sources": [
+          "b:outline",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse is not against remarriage. Three verses later Paul says, \"I will therefore that the younger women marry, bear children, guide the house\" (5:14). Elsewhere he says a widow \"is at liberty to be married to whom she will; only in the Lord\" (1 Corinthians 7:39).",
+        "sources": [
+          "v:5.14",
+          "x:1-corinthians.7.39"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3868",
+        "english": "refuse",
+        "why_it_matters": {
+          "text": "The word means to decline or avoid. Here it means declining to put younger widows on the support list. It does not mean rejecting them as people.",
+          "sources": [
+            "w:G3868",
+            "v:5.9"
+          ]
+        }
+      },
+      {
+        "strong": "G2691",
+        "english": "wax wanton against",
+        "why_it_matters": {
+          "text": "This rare word means growing restless or wanton against someone. Here the one they grow restless against is Christ, so the concern is desire pulling a person away from devotion to him.",
+          "sources": [
+            "w:G2691",
+            "w:G5547"
+          ]
+        }
+      },
+      {
+        "strong": "G2309",
+        "english": "will (desire)",
+        "why_it_matters": {
+          "text": "The KJV's \"they will marry\" translates a verb meaning \"they wish\" or \"they desire\" to marry. It describes a want, not a simple prediction.",
+          "sources": [
+            "w:G2309"
+          ]
+        }
+      },
+      {
+        "strong": "G1060",
+        "english": "marry",
+        "why_it_matters": {
+          "text": "The same verb appears in 5:14, where Paul says he wants the younger women to marry. So marriage itself is not the problem in this verse.",
+          "sources": [
+            "w:G1060",
+            "v:5.14"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This is a practical rule about which widows the church should enroll for support. It is not a judgment against widows who remarry. Paul's concern is that people keep the commitments they make to Christ.",
+      "sources": [
+        "v:5.11",
+        "v:5.12",
+        "v:5.14"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

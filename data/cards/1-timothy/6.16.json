@@ -1,0 +1,173 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 16
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:54:52.539Z",
+  "card": {
+    "in_context": {
+      "text": "This verse ends a burst of praise inside Paul's final charge to Timothy. Paul tells Timothy to keep his commandment until Christ's appearing, which God will show in his own time (6:13-15). He then describes that God as the only one with immortality, living in unapproachable light, unseen by any human, and gives him honour and power forever.",
+      "sources": [
+        "v:6.13",
+        "v:6.14",
+        "v:6.15",
+        "v:6.16"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer at the start of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus. Here Paul addresses him as \"man of God\" and \"Timothy\".",
+        "sources": [
+          "b:recipients",
+          "v:6.11",
+          "v:6.20"
+        ]
+      },
+      "affected": {
+        "text": "The verse is about God, called in the previous verse \"the blessed and only Potentate, the King of kings, and Lord of lords.\"",
+        "sources": [
+          "v:6.15",
+          "v:6.16"
+        ]
+      }
+    },
+    "what": {
+      "text": "This is a doxology, a short burst of praise to God. It names four things: God alone has immortality, God dwells in light no one can approach, no human has seen or can see him, and honour and power belong to him forever. It closes with \"Amen\", a word of firm agreement.",
+      "sources": [
+        "v:6.16",
+        "w:G0281"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The praise looks ahead to \"the appearing of our Lord Jesus Christ,\" which God will show \"in his times\". The text does not say when that will be.",
+        "sources": [
+          "v:6.14",
+          "v:6.15"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Timothy in Ephesus, a wealthy port city and capital of the Roman province of Asia. The place it was written from is not stated, though Paul may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul has just warned about the love of money and charged Timothy to stay faithful (6:9-14). Lifting Timothy's eyes to the eternal, all-powerful God sets the weight behind that charge. Right after it, Paul tells the rich to trust \"the living God\" rather than \"uncertain riches\" (6:17).",
+        "sources": [
+          "v:6.10",
+          "v:6.11",
+          "v:6.12",
+          "v:6.14",
+          "v:6.17"
+        ]
+      },
+      "big_picture": {
+        "text": "The verse echoes an earlier doxology in the same letter to the \"King eternal, immortal, invisible\" (1:17). Other passages also say no one has seen God (John 1:18) and that God is light (1 John 1:5). John 1:18 and Colossians 1:15 add that the Son makes the unseen God known.",
+        "sources": [
+          "x:1-timothy.1.17",
+          "x:john.1.18",
+          "x:1-john.1.5",
+          "x:colossians.1.15"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse calls readers to humble awe before a God who is beyond human reach and sight. It invites them to answer with honour and praise. In context, that awe is meant to steady faithfulness and loosen the grip of wealth.",
+        "sources": [
+          "v:6.16",
+          "v:6.11",
+          "v:6.17"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Readers differ on whom \"who\" names. Many take it as God the Father, since the Son is distinct and \"hath declared him\" (John 1:18; 6:46). Others apply the praise to God without dividing the persons, noting the title \"Lord of lords\" in 6:15. Readers also differ on what \"only hath immortality\" means for humans: most say God alone has it by nature and grants it to others (compare 1 Corinthians 15:53-54), while some take it as evidence that humans are not naturally immortal.",
+      "sources": [
+        "v:6.15",
+        "v:6.16",
+        "x:john.1.18",
+        "x:john.6.46",
+        "w:G0110"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G0110",
+        "english": "immortality",
+        "why_it_matters": {
+          "text": "Athanasia literally means \"undying\" or deathlessness. It is not simply \"long life\". The claim is that God alone is beyond death in himself.",
+          "sources": [
+            "w:G0110"
+          ]
+        }
+      },
+      {
+        "strong": "G0676",
+        "english": "unapproachable",
+        "why_it_matters": {
+          "text": "Aprositos means something that cannot be gone up to. The New Testament uses this word only here. It stresses that God's light is not merely bright but beyond human reach.",
+          "sources": [
+            "w:G0676"
+          ]
+        }
+      },
+      {
+        "strong": "G2904",
+        "english": "power",
+        "why_it_matters": {
+          "text": "Kratos means might or dominion and is a standard word in New Testament doxologies. Here it ascribes ruling strength to God forever, fitting the titles \"King of kings\" and \"Lord of lords\".",
+          "sources": [
+            "w:G2904",
+            "v:6.15"
+          ]
+        }
+      },
+      {
+        "strong": "G3441",
+        "english": "only",
+        "why_it_matters": {
+          "text": "Monos means alone or only. The same word appears in phrases like \"the only God\" (as in 1 Timothy 1:17). It marks immortality as belonging to God uniquely.",
+          "sources": [
+            "w:G3441",
+            "x:1-timothy.1.17"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "1 Timothy 6:16 is praise, not a stand-alone doctrine statement. In the middle of a warning about money and a charge to stay faithful, Paul stops to honour the deathless, unseen God who will bring about Christ's appearing in his own time.",
+      "sources": [
+        "v:6.10",
+        "v:6.14",
+        "v:6.15",
+        "v:6.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "christians_differ",
+      "reason": "The cited sources do not say that 'most' readers hold that God has immortality by nature and grants it to others. They report no relative numbers of interpreters, and the 'grants it to others' reading is not stated in them. This majority framing is unsupported."
+    }
+  ]
+}

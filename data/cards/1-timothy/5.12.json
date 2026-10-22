@@ -1,0 +1,155 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 12
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:51:28.567Z",
+  "card": {
+    "in_context": {
+      "text": "Paul tells Timothy not to enroll younger widows on the church's list of supported widows. He warns that some may later want to marry against their devotion to Christ. They would then come under judgment for setting aside their first faith.",
+      "sources": [
+        "v:5.9",
+        "v:5.11",
+        "v:5.12"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, writing to his co-worker Timothy.",
+        "sources": [
+          "b:author",
+          "b:recipients"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Younger widows who might be put on the church's widow list and then turn away from that commitment.",
+        "sources": [
+          "v:5.9",
+          "v:5.11"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse gives Paul's reason for his advice in verse 11. Such widows would incur judgment because they cast off their first faith. Paul is not condemning marriage itself, since in verse 14 he says he wants younger women to marry.",
+      "sources": [
+        "v:5.11",
+        "v:5.12",
+        "v:5.14"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This is instruction for the ongoing life of the church at Ephesus while Timothy led it. It is not a narrated event.",
+        "sources": [
+          "b:recipients",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul. Scholarly view: many critical scholars date it around AD 80-110, written in Paul's name by a follower. Others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and the capital of the Roman province of Asia. Where Paul wrote from is not stated, though it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul is setting rules for the church's support of widows. Help should go to 'widows indeed' who are older and proven in good works. Younger widows are better off marrying and running a household.",
+        "sources": [
+          "v:5.3",
+          "v:5.9",
+          "v:5.10",
+          "v:5.14",
+          "v:5.16"
+        ]
+      },
+      "big_picture": {
+        "text": "This passage belongs to a section on caring for groups in the church. It reflects the letter's theme that belief and behavior belong together. Paul wants believers to give the adversary no occasion to speak reproachfully.",
+        "sources": [
+          "b:outline",
+          "b:themes",
+          "v:5.14"
+        ]
+      },
+      "for_readers": {
+        "text": "Commitments made to Christ matter and should not be taken lightly. Other passages likewise warn about leaving a 'first love' or being removed from the one who called you.",
+        "sources": [
+          "v:5.12",
+          "x:revelation.2.4",
+          "x:galatians.1.6"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Readers differ on what 'first faith' means. Some take it as an earlier pledge to serve Christ as an enrolled widow, which remarriage would set aside. Others take it as turning away from faith in Christ itself. Readers also differ on whether the 'judgment' is final condemnation or a lesser censure.",
+      "sources": [
+        "v:5.9",
+        "v:5.11",
+        "w:G4102G",
+        "w:G0114",
+        "w:G2917"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G2917",
+        "english": "damnation (judgment)",
+        "why_it_matters": {
+          "text": "The Greek word krima means a judgment or verdict passed by a judge. The KJV word 'damnation' can sound like it must mean hell, but the same word is used for the judgment teachers face in James 3:1.",
+          "sources": [
+            "w:G2917",
+            "x:james.3.1"
+          ]
+        }
+      },
+      {
+        "strong": "G0114",
+        "english": "cast off",
+        "why_it_matters": {
+          "text": "This verb means to set aside, disregard or nullify something laid down, like a covenant or command. It suggests breaking a commitment already made, not simply drifting.",
+          "sources": [
+            "w:G0114"
+          ]
+        }
+      },
+      {
+        "strong": "G4102G",
+        "english": "faith",
+        "why_it_matters": {
+          "text": "Pistis means faith, trust or confidence toward God or Christ. Joined with 'first,' it points to an earlier commitment that is now being set aside.",
+          "sources": [
+            "w:G4102G",
+            "w:G4413H"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "The verse is about younger widows breaking an earlier commitment to Christ, not a ban on remarriage. Paul in fact urges younger widows to marry. The warning is to keep the faith one has pledged.",
+      "sources": [
+        "v:5.11",
+        "v:5.12",
+        "v:5.14"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

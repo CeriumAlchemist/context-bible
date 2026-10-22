@@ -1,0 +1,171 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 5
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:53:32.024Z",
+  "card": {
+    "in_context": {
+      "text": "This verse finishes Paul's description of false teachers that begins in 6:3. They reject the 'wholesome words' of Jesus, love arguments, and treat religion as a way to make money. Timothy is told to keep away from them. The next verse turns their idea around: 'godliness with contentment is great gain.'",
+      "sources": [
+        "v:6.3",
+        "v:6.4",
+        "v:6.5",
+        "v:6.6"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in Paul's name. Others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Teachers in the church who 'teach otherwise' and do not hold to the words of Jesus and to teaching that leads to godliness.",
+        "sources": [
+          "v:6.3",
+          "v:6.4"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul says the false teachers' constant quarrels come from corrupt minds that have lost hold of the truth. They think godliness is a way to get rich. Timothy is to withdraw from such people.",
+      "sources": [
+        "v:6.4",
+        "v:6.5",
+        "w:G4200",
+        "w:G0868"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Timothy was leading the church at Ephesus after Paul went on to Macedonia. False teaching was arising inside the church.",
+        "sources": [
+          "b:recipients",
+          "b:writtenFrom",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. The text does not say where it was written, though Paul may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The letter teaches Timothy how to lead the church, including how to confront false teachers. This verse marks such teachers by their quarreling and their greed, and tells Timothy to keep his distance.",
+        "sources": [
+          "b:purpose",
+          "v:6.5"
+        ]
+      },
+      "big_picture": {
+        "text": "A main theme of the letter is that sound teaching produces godly living. The chapter warns that the desire to be rich leads people to wander from the faith, and it calls for contentment instead.",
+        "sources": [
+          "b:themes",
+          "v:6.6",
+          "v:6.9",
+          "v:6.10"
+        ]
+      },
+      "for_readers": {
+        "text": "Religion used to make a profit is a warning sign. Other New Testament letters also warn against teachers who exploit believers for money and tell believers to avoid those who cause division.",
+        "sources": [
+          "x:titus.1.11",
+          "x:2-peter.2.3",
+          "x:romans.16.17",
+          "x:2-timothy.3.5"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4200",
+        "english": "gain",
+        "why_it_matters": {
+          "text": "The Greek word means 'a means of gain.' The KJV's 'gain is godliness' is clearer as 'godliness is a means of gain.' It describes people who use religion to make money. Verse 6 reuses the word to say true gain is godliness with contentment.",
+          "sources": [
+            "w:G4200",
+            "v:6.6"
+          ]
+        }
+      },
+      {
+        "strong": "G2150",
+        "english": "godliness",
+        "why_it_matters": {
+          "text": "The word means reverence or piety toward God. It is a key word in this letter, used again in 6:3, 6:6, and 6:11. The teachers misuse the very quality Timothy is told to pursue.",
+          "sources": [
+            "w:G2150",
+            "v:6.3",
+            "v:6.11"
+          ]
+        }
+      },
+      {
+        "strong": "G3859",
+        "english": "perverse disputings",
+        "why_it_matters": {
+          "text": "The word means constant friction or mutual irritation, a picture of useless, never-ending wrangling. It is not honest discussion.",
+          "sources": [
+            "w:G3859"
+          ]
+        }
+      },
+      {
+        "strong": "G0650",
+        "english": "destitute",
+        "why_it_matters": {
+          "text": "The verb means to defraud or rob, and here 'bereft of.' It pictures people who once had the truth but are now deprived of it.",
+          "sources": [
+            "w:G0650"
+          ]
+        }
+      },
+      {
+        "strong": "G0868",
+        "english": "withdraw",
+        "why_it_matters": {
+          "text": "The verb means to stand off or keep away from. It tells Timothy what to do about such teachers: keep his distance from them.",
+          "sources": [
+            "w:G0868"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse does not praise wealth. It condemns teachers who treat godliness as a way to make money. The answer comes in the next verse: real gain is godliness with contentment.",
+      "sources": [
+        "v:6.5",
+        "v:6.6",
+        "w:G4200"
+      ]
+    }
+  },
+  "problems": [
+    "in_context: 4 sentences; keep it to 3"
+  ],
+  "unsupported": []
+}

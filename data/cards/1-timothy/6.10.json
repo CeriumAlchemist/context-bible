@@ -1,0 +1,185 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 10
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:53:55.908Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is warning about false teachers who think 'gain is godliness' (6:5). He answers that godliness with contentment is the real gain (6:6-8). Those set on getting rich fall into traps (6:9), and this verse explains why: the love of money leads to every kind of evil and has pulled some away from the faith.",
+      "sources": [
+        "v:6.5",
+        "v:6.6",
+        "v:6.7",
+        "v:6.8",
+        "v:6.9",
+        "v:6.10"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter. Many critical scholars think a follower wrote in his name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The 'some' who reached after money and wandered from the faith. The context points to teachers who treat godliness as a way to make money, and to anyone who is set on being rich.",
+        "sources": [
+          "v:6.5",
+          "v:6.9",
+          "v:6.10"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse gives the reason behind the warning in 6:9. Craving money is a root from which all kinds of evils grow. Some who reached after it were led astray from the faith and caused themselves great pain.",
+      "sources": [
+        "v:6.9",
+        "v:6.10",
+        "w:G1063",
+        "w:G4491",
+        "w:G3956"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This happens while Timothy is leading the church in Ephesus and facing false teaching from inside the church.",
+        "sources": [
+          "b:recipients",
+          "b:setting",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and the capital of the Roman province of Asia. Where it was written from is not stated, though Macedonia is possible.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants to expose the false teachers' motive of gain. He also wants to steer Timothy away from it: 'flee these things; and follow after righteousness, godliness, faith' (6:11).",
+        "sources": [
+          "v:6.5",
+          "v:6.11",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "A main theme of the letter is that sound teaching and godly living belong together. Contentment and the danger of the love of money are named as key themes. Paul does not condemn wealth itself. He tells the rich to trust God, not 'uncertain riches', and to be generous (6:17-18).",
+        "sources": [
+          "b:themes",
+          "v:6.17",
+          "v:6.18"
+        ]
+      },
+      "for_readers": {
+        "text": "The danger is the craving for money, not money itself. Contentment with food and clothing, and generosity with what one has, are the remedy Paul offers.",
+        "sources": [
+          "v:6.8",
+          "v:6.10",
+          "v:6.17",
+          "v:6.18"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Often quoted as 'Money is the root of all evil,' as if money itself were evil, or as if greed were the single cause behind every sin.",
+      "in_context_reading": {
+        "text": "The verse speaks of the love of money, not money, and the context lets the rich keep their wealth if they use it well (6:17-18). The Greek reads more like 'a root of all kinds of evils.' It names one deep source of many evils, not the only cause of all evil.",
+        "sources": [
+          "v:6.10",
+          "w:G5365",
+          "w:G4491",
+          "w:G3956",
+          "v:6.17",
+          "v:6.18"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G5365",
+        "english": "love of money",
+        "why_it_matters": {
+          "text": "This is a single word meaning love of money or greed. The problem named is the desire, not the coins.",
+          "sources": [
+            "w:G5365"
+          ]
+        }
+      },
+      {
+        "strong": "G4491",
+        "english": "root",
+        "why_it_matters": {
+          "text": "The word is used here as a picture of a source or origin. It describes where evils grow from, not a claim that it is the only source.",
+          "sources": [
+            "w:G4491"
+          ]
+        }
+      },
+      {
+        "strong": "G3956",
+        "english": "all (of all kinds)",
+        "why_it_matters": {
+          "text": "Here it means 'of all kinds.' The point is that many different evils can grow from greed, not that every evil does.",
+          "sources": [
+            "w:G3956"
+          ]
+        }
+      },
+      {
+        "strong": "G3713",
+        "english": "coveted after (stretching after)",
+        "why_it_matters": {
+          "text": "The word means to reach or stretch out for something. It pictures people actively grasping at money.",
+          "sources": [
+            "w:G3713"
+          ]
+        }
+      },
+      {
+        "strong": "G4044",
+        "english": "pierced",
+        "why_it_matters": {
+          "text": "This verb comes from putting something on a spit. It is a vivid image of people wounding themselves with their own pursuit of wealth.",
+          "sources": [
+            "w:G4044",
+            "w:G3601"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "The verse warns against craving money, not against having it. Greed can feed many kinds of evil, draw people away from faith, and bring self-inflicted grief. Paul's answer is contentment and generosity.",
+      "sources": [
+        "v:6.6",
+        "v:6.10",
+        "v:6.18",
+        "w:G5365"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

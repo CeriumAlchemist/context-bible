@@ -1,0 +1,154 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 4
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:53:27.480Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just told Timothy to teach and urge certain things. Verse 4 describes anyone who teaches otherwise and rejects the wholesome words of Jesus. Such a person is proud and knows nothing, and their love of arguments breeds envy, quarrels, slander and suspicion.",
+      "sources": [
+        "v:6.2",
+        "v:6.3",
+        "v:6.4"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The false teachers who 'teach otherwise' and do not accept the words of Jesus or teaching that leads to godliness. Verse 5 tells Timothy to withdraw from them.",
+        "sources": [
+          "v:6.3",
+          "v:6.5"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse gives a diagnosis of the false teacher. Such a person is puffed up with pride, understands nothing, and has an unhealthy craving for controversies and fights over words. Those fights produce envy, strife, slander and evil suspicions.",
+      "sources": [
+        "v:6.4",
+        "w:G5187",
+        "w:G3552",
+        "w:G3055"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The text does not tie this verse to a specific event. It belongs to Paul's closing section on false teachers, contentment and a final charge.",
+        "sources": [
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110 and think a follower wrote it in Paul's name. Others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. It was known for its temple of Artemis. Where Paul wrote from is not stated, though it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to recognize false teachers by their character and by the fruit they produce. Then Timothy can withdraw from them and guard the true teaching.",
+        "sources": [
+          "v:6.5",
+          "v:6.20",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "A key theme of the letter is that sound teaching produces godly living. Here bad teaching shows itself in pride and quarrels. The same concern appears earlier, where Paul warns of fables that 'minister questions, rather than godly edifying' (1 Timothy 1:4).",
+        "sources": [
+          "b:themes",
+          "x:1-timothy.1.4",
+          "x:1-timothy.1.7"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse invites readers to judge teaching by its fruit. Teaching that breeds envy, slander and suspicion is a warning sign. Paul gives Timothy similar advice to avoid foolish questions that 'gender strifes' (2 Timothy 2:23).",
+        "sources": [
+          "v:6.4",
+          "x:2-timothy.2.23",
+          "x:2-timothy.2.14"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G5187",
+        "english": "proud (puffed up)",
+        "why_it_matters": {
+          "text": "The word literally means 'wrapped in smoke.' It pictures someone clouded and puffed up by conceit. The same word warns against making a new believer a leader (1 Timothy 3:6).",
+          "sources": [
+            "w:G5187",
+            "x:1-timothy.3.6"
+          ]
+        }
+      },
+      {
+        "strong": "G3552",
+        "english": "doting (being sick)",
+        "why_it_matters": {
+          "text": "The word means to be sick. Its opposite is the 'wholesome' (healthy) words of verse 3. Paul is picturing an unhealthy obsession with debate, not honest curiosity.",
+          "sources": [
+            "w:G3552",
+            "v:6.3"
+          ]
+        }
+      },
+      {
+        "strong": "G3055",
+        "english": "strifes of words",
+        "why_it_matters": {
+          "text": "The word means 'word-battles.' It refers to quarrels over terms that do not build anyone up.",
+          "sources": [
+            "w:G3055",
+            "x:2-timothy.2.14"
+          ]
+        }
+      },
+      {
+        "strong": "G0988",
+        "english": "railings",
+        "why_it_matters": {
+          "text": "The word can mean blasphemy, but here it carries its broader sense of abusive slander against people. It names one of the bad fruits of quarrelsome teaching.",
+          "sources": [
+            "w:G0988"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse warns about teachers who reject the words of Jesus. Their pride and love of arguing about words produce envy, quarrels, slander and suspicion. It calls readers to judge teaching by whether it leads to godliness.",
+      "sources": [
+        "v:6.3",
+        "v:6.4",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

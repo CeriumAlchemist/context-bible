@@ -1,0 +1,167 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 8
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:50:54.691Z",
+  "card": {
+    "in_context": {
+      "text": "This verse sits in Paul's instructions about caring for widows in the church. Families should first support their own widowed relatives so the church can help those who have no one (5:3-4, 5:16).",
+      "sources": [
+        "v:5.3",
+        "v:5.4",
+        "v:5.8",
+        "v:5.16"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus. Timothy is told to give these things in charge to the church.",
+        "sources": [
+          "b:recipients",
+          "v:5.7"
+        ]
+      },
+      "affected": {
+        "text": "Any believer who has needy relatives, especially widowed parents. Verse 5:16 applies the same duty to 'any man or woman that believeth.'",
+        "sources": [
+          "v:5.4",
+          "v:5.16",
+          "w:G5100"
+        ]
+      }
+    },
+    "what": {
+      "text": "Anyone who fails to provide for their own relatives, and especially their own household, has denied the faith in practice. Paul says such a person is worse than an unbeliever, since even unbelievers care for their families.",
+      "sources": [
+        "v:5.8",
+        "w:G4306",
+        "w:G0720",
+        "w:G0571"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The chapter gives standing instructions for church life. It does not describe a specific event.",
+        "sources": [
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, though others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Timothy in Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants families to carry their own duty toward widowed relatives. That keeps the church free to support 'widows indeed' who are truly alone, and keeps believers 'blameless.'",
+        "sources": [
+          "v:5.4",
+          "v:5.5",
+          "v:5.7",
+          "v:5.16"
+        ]
+      },
+      "big_picture": {
+        "text": "A key theme of the letter is that belief and behavior belong together. Here, neglecting family is treated as a denial of faith, much as Titus 1:16 speaks of those who deny God 'in works.'",
+        "sources": [
+          "b:themes",
+          "x:titus.1.16",
+          "x:2-timothy.3.5"
+        ]
+      },
+      "for_readers": {
+        "text": "Faith shows itself in practical care for one's own people. Paul calls caring for parents 'good and acceptable before God.'",
+        "sources": [
+          "v:5.4",
+          "x:isaiah.58.7",
+          "x:galatians.6.10"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Often quoted as a rule that husbands and fathers must be the family breadwinners, or used to shame men who are out of work.",
+      "in_context_reading": {
+        "text": "The verse says 'any' person, not husbands only, and its setting is the care of widowed relatives, especially by their children (5:4). Verse 5:16 names 'any man or woman that believeth' as responsible for widows in their family.",
+        "sources": [
+          "w:G5100",
+          "v:5.4",
+          "v:5.8",
+          "v:5.16"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4306",
+        "english": "provide",
+        "why_it_matters": {
+          "text": "The word means to take thought for or care for people. It covers practical support and attention, not only earning money.",
+          "sources": [
+            "w:G4306"
+          ]
+        }
+      },
+      {
+        "strong": "G3609",
+        "english": "those of his own house",
+        "why_it_matters": {
+          "text": "This word means members of one's family or kin. That ties the verse to relatives such as the widowed parents of verse 4, not only a spouse and children.",
+          "sources": [
+            "w:G3609",
+            "v:5.4"
+          ]
+        }
+      },
+      {
+        "strong": "G0720",
+        "english": "denied",
+        "why_it_matters": {
+          "text": "Here it means to deny or abjure something. Neglecting family is a denial of the faith carried out in conduct, not in words.",
+          "sources": [
+            "w:G0720"
+          ]
+        }
+      },
+      {
+        "strong": "G0571",
+        "english": "infidel",
+        "why_it_matters": {
+          "text": "The Greek means an unbeliever, a non-Christian. The KJV word 'infidel' does not mean an enemy of the faith. The point is that a believer who neglects family falls below the standard many unbelievers keep.",
+          "sources": [
+            "w:G0571"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Caring for your own relatives, especially aging and widowed parents, is part of living out the faith. The verse is about family duty toward the needy, not a rule about which spouse earns the income.",
+      "sources": [
+        "v:5.4",
+        "v:5.8",
+        "v:5.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

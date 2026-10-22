@@ -1,0 +1,139 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 6
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:50:28.644Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is telling Timothy which widows the church should support. Verse 5 describes the true widow, alone and praying night and day. Verse 6 sets the opposite picture beside her: a widow who lives for self-indulgence is spiritually dead, even though she is still alive.",
+      "sources": [
+        "v:5.3",
+        "v:5.5",
+        "v:5.6",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Widows in the Ephesian church. The verse describes one who lives in pleasure, set against the widow 'indeed' who trusts God.",
+        "sources": [
+          "v:5.3",
+          "v:5.5",
+          "v:5.6"
+        ]
+      }
+    },
+    "what": {
+      "text": "A contrast. The true widow trusts God and keeps praying. The widow who lives self-indulgently is called 'dead while she liveth.' She is physically alive but dead toward God. Timothy is to pass these instructions on so the widows may be blameless.",
+      "sources": [
+        "v:5.5",
+        "v:5.6",
+        "v:5.7",
+        "w:G2348"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The letter gives guidance for the church's ongoing life. It does not describe a single event. It belongs to the section on caring for widows, elders, and servants.",
+        "sources": [
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote it in Paul's name. Others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The instructions are for the church at Ephesus, a wealthy port city and capital of the Roman province of Asia. The letter does not say where Paul wrote from. He may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "b:recipients"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse helps Timothy tell which widows are truly in need and devoted to God. The church can then support those widows rightly. Families are to care for their own, so that the church can help the widows who are truly alone.",
+        "sources": [
+          "v:5.3",
+          "v:5.4",
+          "v:5.16",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "A major theme of the letter is that belief and behavior belong together. A life spent on self-indulgence shows a person cut off from God. Elsewhere Scripture likewise says some have a name that they live, and are dead.",
+        "sources": [
+          "b:themes",
+          "x:revelation.3.1",
+          "x:james.5.5"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse warns that a person can look alive and busy yet be dead toward God. Other passages hold out hope that such a person can come alive again. Luke 15:24 says, 'this my son was dead, and is alive again.'",
+        "sources": [
+          "v:5.6",
+          "x:luke.15.24",
+          "x:ephesians.5.14"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4684",
+        "english": "liveth in pleasure",
+        "why_it_matters": {
+          "text": "The Greek word means to live riotously or in luxury. It does not mean simply enjoying something. The same word is used in James 5:5 of the wanton rich. The letter itself teaches that what God created is good and received with thanksgiving.",
+          "sources": [
+            "w:G4684",
+            "x:james.5.5",
+            "b:themes"
+          ]
+        }
+      },
+      {
+        "strong": "G2348",
+        "english": "dead",
+        "why_it_matters": {
+          "text": "Here the word is used as a picture of spiritual death, not physical death. That is why the verse can say she is dead 'while she liveth.'",
+          "sources": [
+            "w:G2348",
+            "w:G2198"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Within Paul's guidance about widows, this verse sets a God-trusting, praying life against a self-indulgent one. It warns that living for pleasure leaves a person spiritually dead even while physically alive.",
+      "sources": [
+        "v:5.5",
+        "v:5.6",
+        "w:G4684",
+        "w:G2348"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

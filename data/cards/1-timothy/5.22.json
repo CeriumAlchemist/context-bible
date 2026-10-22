@@ -1,0 +1,178 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 22
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:52:35.467Z",
+  "card": {
+    "in_context": {
+      "text": "This verse sits in Paul's instructions to Timothy about church elders (5:17-21). Elders who lead well deserve honor, accusations against them need two or three witnesses, and sinning elders are to be rebuked publicly. Paul then warns Timothy not to lay hands on anyone hastily, that is, not to rush to appoint someone. If he does, he shares in that person's sins.",
+      "sources": [
+        "v:5.17",
+        "v:5.19",
+        "v:5.20",
+        "v:5.21",
+        "v:5.22",
+        "x:1-timothy.4.14",
+        "x:acts.6.6"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus. The commands in this verse are addressed to him personally.",
+        "sources": [
+          "b:recipients",
+          "w:G4771"
+        ]
+      },
+      "affected": {
+        "text": "The people Timothy might lay hands on, which in context most likely means men being set apart as elders. The whole church is also affected by who leads it.",
+        "sources": [
+          "v:5.17",
+          "v:5.19",
+          "x:1-timothy.3.10"
+        ]
+      }
+    },
+    "what": {
+      "text": "Three linked commands. Do not lay hands on anyone too quickly. Do not take part in other people's sins. Keep yourself pure. Elsewhere, laying on of hands marks setting people apart for a task, as with Timothy himself and the seven in Acts.",
+      "sources": [
+        "v:5.22",
+        "x:1-timothy.4.14",
+        "x:2-timothy.1.6",
+        "x:acts.6.6",
+        "x:acts.13.3"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This is a letter of instruction, not a story. It assumes Timothy is already leading the church at Ephesus, after Paul had moved on to Macedonia.",
+        "sources": [
+          "b:recipients",
+          "b:writtenFrom"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote it in Paul's name, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter is addressed to Timothy at Ephesus, a wealthy port city and capital of the Roman province of Asia. The place it was written from is not stated, though Macedonia is possible.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to choose church leaders carefully. A leader approved in haste may turn out to have hidden sins, and as verses 24-25 note, some sins only come to light later.",
+        "sources": [
+          "v:5.22",
+          "v:5.24",
+          "v:5.25",
+          "x:1-timothy.3.6",
+          "x:1-timothy.3.10"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that church leaders must be people of proven character, and that belief and behavior belong together. Deacons, too, must 'first be proved' before serving.",
+        "sources": [
+          "b:themes",
+          "b:purpose",
+          "x:1-timothy.3.10"
+        ]
+      },
+      "for_readers": {
+        "text": "Those who approve or endorse others carry some responsibility for what they approve. The same idea appears in 2 John 1:11, where welcoming a false teacher makes one 'partaker of his evil deeds.'",
+        "sources": [
+          "v:5.22",
+          "x:2-john.1.11",
+          "x:ephesians.5.11"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "'Keep thyself pure' is often quoted on its own as a general motto for personal or sexual purity, cut off from the rest of the verse.",
+      "in_context_reading": {
+        "text": "In context the phrase closes a warning about appointing leaders. Timothy keeps himself pure, meaning guiltless, by not rushing to approve people and so sharing in their sins.",
+        "sources": [
+          "v:5.22",
+          "w:G0053",
+          "w:G2841",
+          "v:5.17"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G5030",
+        "english": "suddenly",
+        "why_it_matters": {
+          "text": "The Greek word means quickly or hastily, and in this verse carries a sense of rashness. The warning is against acting too fast. It does not forbid laying on hands.",
+          "sources": [
+            "w:G5030"
+          ]
+        }
+      },
+      {
+        "strong": "G2007",
+        "english": "lay (hands)",
+        "why_it_matters": {
+          "text": "This verb is used for the laying on of hands. In this letter and in Acts, that act sets people apart for service, which points to appointing leaders here.",
+          "sources": [
+            "w:G2007",
+            "x:1-timothy.4.14",
+            "x:acts.6.6",
+            "x:acts.13.3"
+          ]
+        }
+      },
+      {
+        "strong": "G2841",
+        "english": "be partaker",
+        "why_it_matters": {
+          "text": "The word means to have a share in or take part in. Approving an unworthy person makes Timothy a sharer in that person's sins.",
+          "sources": [
+            "w:G2841",
+            "w:G0245"
+          ]
+        }
+      },
+      {
+        "strong": "G0053",
+        "english": "pure",
+        "why_it_matters": {
+          "text": "The word can mean chaste, but also undefiled or guiltless. In this verse it fits the idea of staying free of blame for other people's sins.",
+          "sources": [
+            "w:G0053"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul tells Timothy not to rush to appoint leaders, because approving someone too quickly makes you share in their wrongs. Keeping yourself pure here means staying guiltless through careful judgment.",
+      "sources": [
+        "v:5.22",
+        "v:5.24",
+        "x:1-timothy.3.10"
+      ]
+    }
+  },
+  "problems": [
+    "in_context: 4 sentences; keep it to 3"
+  ],
+  "unsupported": []
+}

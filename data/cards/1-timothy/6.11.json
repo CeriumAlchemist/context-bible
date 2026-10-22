@@ -1,0 +1,178 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 11
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:54:13.644Z",
+  "card": {
+    "in_context": {
+      "text": "This verse turns from the false teachers who think \"gain is godliness\" and the danger of loving money (6:5-10) to Timothy himself. Paul tells him to run from these things and chase a different set of goals. It opens Paul's final charge to Timothy (6:11-21).",
+      "sources": [
+        "v:6.5",
+        "v:6.9",
+        "v:6.10",
+        "v:6.11",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and \"own son in the faith,\" whom Paul had left to lead the church at Ephesus. Paul addresses him here as \"O man of God.\"",
+        "sources": [
+          "b:recipients",
+          "v:6.11",
+          "v:6.20"
+        ]
+      },
+      "affected": {
+        "text": "The verse is set against the false teachers and those who \"will be rich,\" who have \"erred from the faith\" through coveting money.",
+        "sources": [
+          "v:6.3",
+          "v:6.5",
+          "v:6.9",
+          "v:6.10"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul gives Timothy two commands that go together. Flee \"these things,\" meaning the love of money, greed, and the quarrelsome pride of the false teachers. Pursue righteousness, godliness, faith, love, patience, and meekness instead.",
+      "sources": [
+        "v:6.4",
+        "v:6.5",
+        "v:6.9",
+        "v:6.10",
+        "v:6.11",
+        "w:G5343",
+        "w:G1377"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The text gives no specific event. It is part of Paul's instructions to Timothy while Timothy led the church at Ephesus.",
+        "sources": [
+          "b:recipients",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, written by Paul between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Timothy was in Ephesus, a wealthy port city and capital of the Roman province of Asia. The letter does not say where Paul wrote from, though he had gone on to Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "b:recipients"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to be the opposite of the false teachers. They chase gain and stir up strife, but Timothy is to chase godly character and keep his commission (6:12-14).",
+        "sources": [
+          "v:6.5",
+          "v:6.11",
+          "v:6.12",
+          "v:6.14",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that sound teaching and godly living belong together, and it warns about the love of money. This verse puts both themes into one personal command to a church leader.",
+        "sources": [
+          "b:themes",
+          "v:6.10",
+          "v:6.11"
+        ]
+      },
+      "for_readers": {
+        "text": "Paul gives a similar \"flee... follow\" command in 2 Timothy 2:22. In 2 Timothy 3:17 he speaks of the \"man of God\" being \"throughly furnished unto all good works,\" so the title points to a person shaped by God for service.",
+        "sources": [
+          "x:2-timothy.2.22",
+          "x:2-timothy.3.17"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4771",
+        "english": "thou (you yourself)",
+        "why_it_matters": {
+          "text": "The pronoun is emphatic, \"you yourself.\" It sets Timothy in sharp contrast with the money-loving false teachers just described.",
+          "sources": [
+            "w:G4771",
+            "v:6.5",
+            "v:6.10"
+          ]
+        }
+      },
+      {
+        "strong": "G5343",
+        "english": "flee",
+        "why_it_matters": {
+          "text": "The word means to run away or take flight. The lexicon notes it is paired as the opposite of \"pursue\" in this verse, so Timothy is told to turn his back on one set of things and chase another.",
+          "sources": [
+            "w:G5343"
+          ]
+        }
+      },
+      {
+        "strong": "G1377",
+        "english": "follow after (pursue)",
+        "why_it_matters": {
+          "text": "This is an active word meaning to pursue or chase. Godly character is something to go after with effort, not just to wait for.",
+          "sources": [
+            "w:G1377"
+          ]
+        }
+      },
+      {
+        "strong": "G2150",
+        "english": "godliness",
+        "why_it_matters": {
+          "text": "The word means piety or reverence toward God. It picks up 6:5-6, where false teachers suppose \"gain is godliness\" but Paul says \"godliness with contentment is great gain.\"",
+          "sources": [
+            "w:G2150",
+            "v:6.5",
+            "v:6.6"
+          ]
+        }
+      },
+      {
+        "strong": "G6073",
+        "english": "meekness (gentleness)",
+        "why_it_matters": {
+          "text": "The word means gentleness or meekness. It stands against the \"strife\" and \"railings\" of the false teachers, and the lexicon notes some manuscripts have a related word for meekness here instead.",
+          "sources": [
+            "w:G6073",
+            "v:6.4"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is Paul's personal charge to Timothy: run from greed and quarrelsome pride, and chase godly character instead. Read in context, \"these things\" means the love of money and the ways of the false teachers in 6:3-10.",
+      "sources": [
+        "v:6.3",
+        "v:6.10",
+        "v:6.11"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}
