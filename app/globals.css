@@ -292,6 +292,13 @@ h3 {
   white-space: nowrap;
 }
 
+.words .lang-tag {
+  display: block;
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  color: var(--muted);
+}
+
 .words .strongs {
   font-variant-numeric: tabular-nums;
   color: var(--muted);

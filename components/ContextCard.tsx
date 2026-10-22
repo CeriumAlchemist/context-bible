@@ -2,7 +2,7 @@ import Link from "next/link";
 import type { Book } from "@/lib/books";
 import type { Claim, StoredCard } from "@/lib/cards/schema";
 import { describeSource, isPublishable } from "@/lib/cards/store";
-import { lexiconFor } from "@/lib/study";
+import { LANG_CODE, lexiconFor, wordLanguage, wordsFor } from "@/lib/study";
 import { SourcesToggle } from "./SourcesToggle";
 
 function Sources({ book, ids }: { book: Book; ids: string[] }) {
@@ -64,7 +64,12 @@ export async function ContextCardView({ book, stored, map }: { book: Book; store
 
   const { card } = stored;
   const lexicon = await lexiconFor(book);
-  const lang = book.testament === "OT" ? "he" : "grc";
+  // Each key word is labeled with the language the verse was written in (Hebrew, Aramaic or Greek).
+  const verseWords = await wordsFor(book, stored.ref.chapter, stored.ref.verse);
+  const languageOf = (strong: string) => {
+    const word = verseWords.find((w) => w[3] === strong);
+    return word ? wordLanguage(book, word) : book.testament === "NT" ? "Greek" : "Hebrew";
+  };
 
   const header = (
     <>
@@ -131,18 +136,19 @@ export async function ContextCardView({ book, stored, map }: { book: Book; store
           <ul>
             {card.key_words.map((k) => {
               const entry = lexicon[k.strong];
+              const language = languageOf(k.strong);
               return (
                 <li key={k.strong}>
                   <div className="kw-head">
                     <strong>{k.english}</strong>
                     {entry && (
-                      <span className="original" lang={lang}>
+                      <span className="original" lang={LANG_CODE[language]}>
                         {entry.w}
                       </span>
                     )}
                   </div>
                   <span className="muted kw-meta">
-                    {entry ? `${entry.tr} · ` : ""}
+                    {language} · {entry ? `${entry.tr} · ` : ""}
                     {k.strong}
                   </span>
                   <p>

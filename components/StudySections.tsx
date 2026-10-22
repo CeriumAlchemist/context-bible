@@ -5,9 +5,12 @@ import { formatReference } from "@/lib/reference";
 import {
   crossRefsFor,
   isFunctionWord,
+  LANG_CODE,
+  languagesOf,
   lexiconFor,
   placesFor,
   pronunciation,
+  wordLanguage,
   wordsFor,
   type CrossRef,
   type Place,
@@ -20,10 +23,13 @@ interface Props {
   verses: number[];
 }
 
-/** Original-language words for each selected verse, with Strong's numbers and brief lexicon meanings. */
+/**
+ * Original-language words for each selected verse, with Strong's numbers and brief lexicon meanings.
+ * Only the language the verse was written in is shown: Greek for the New Testament, Hebrew for the Old,
+ * and Aramaic for the Aramaic chapters of Daniel and Ezra and Jeremiah 10:11.
+ */
 export async function WordStudy({ book, chapter, verses }: Props) {
   const lexicon = await lexiconFor(book);
-  const language = book.testament === "OT" ? "Hebrew" : "Greek";
   const perVerse = await Promise.all(
     verses.map(async (v) => ({
       v,
@@ -32,9 +38,19 @@ export async function WordStudy({ book, chapter, verses }: Props) {
     })),
   );
 
+  const languages = languagesOf(book, perVerse.flatMap((p) => p.words));
+  const language = languages.join(" and ");
+  const mixed = languages.length > 1;
+
   return (
     <section>
       <h2>Original {language} words</h2>
+      {languages.includes("Aramaic") && (
+        <p className="muted">
+          {mixed ? "Part of this passage was" : "This passage was"} written in Aramaic, the common language of the
+          Babylonian and Persian empires, which the Jews of the exile also spoke. It uses the same alphabet as Hebrew.
+        </p>
+      )}
       {perVerse.map(({ v, words }) => (
         <div key={v} className="table-wrap">
           {verses.length > 1 && <h3>Verse {v}</h3>}
@@ -45,20 +61,23 @@ export async function WordStudy({ book, chapter, verses }: Props) {
               <thead>
                 <tr>
                   <th scope="col">English</th>
-                  <th scope="col">{language}</th>
+                  <th scope="col">{mixed ? "Original" : language}</th>
                   <th scope="col">Say it</th>
                   <th scope="col">Strong&apos;s</th>
                   <th scope="col">Meaning</th>
                 </tr>
               </thead>
               <tbody>
-                {words.map(([original, translit, english, strong], i) => {
+                {words.map((word, i) => {
+                  const [original, translit, english, strong] = word;
                   const entry = lexicon[strong];
+                  const lang = wordLanguage(book, word);
                   return (
                     <tr key={i}>
                       <td>{english.replace(/[<>]/g, "")}</td>
-                      <td className="original" lang={book.testament === "OT" ? "he" : "grc"}>
+                      <td className="original" lang={LANG_CODE[lang]}>
                         {original}
+                        {mixed && <span className="lang-tag">{lang}</span>}
                       </td>
                       <td>{pronunciation(translit)}</td>
                       <td className="strongs">{strong}</td>
@@ -67,7 +86,7 @@ export async function WordStudy({ book, chapter, verses }: Props) {
                           <details>
                             <summary>{entry.g}</summary>
                             <p className="definition">
-                              <span lang={book.testament === "OT" ? "he" : "grc"}>{entry.w}</span> ({entry.tr})
+                              <span lang={LANG_CODE[lang]}>{entry.w}</span> ({entry.tr})
                               {"\n"}
                               {entry.d}
                             </p>

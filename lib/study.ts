@@ -83,3 +83,25 @@ export async function placesBySlug(slugs: string[]): Promise<Place[]> {
   const { places } = await load<{ places: Place[] }>("places.json");
   return slugs.map((s) => places.find((p) => p.slug === s)).filter((p): p is Place => !!p);
 }
+
+export type Language = "Hebrew" | "Aramaic" | "Greek";
+
+/** BCP 47 codes for the lang attribute: Biblical Hebrew, Aramaic, Ancient Greek. */
+export const LANG_CODE: Record<Language, string> = { Hebrew: "he", Aramaic: "arc", Greek: "grc" };
+
+/**
+ * The language a word was written in. The New Testament is Greek. In the Old Testament, STEPBible's
+ * morphology codes start with H for Hebrew and A for Aramaic (most of Daniel 2:4-7:28 and Ezra 4:8-6:18
+ * and 7:12-26, and Jeremiah 10:11).
+ */
+export function wordLanguage(book: Book, word: Word): Language {
+  if (book.testament === "NT") return "Greek";
+  return word[4]?.startsWith("A") ? "Aramaic" : "Hebrew";
+}
+
+/** The languages of a set of words, Hebrew or Greek first; the book's main language when there are none. */
+export function languagesOf(book: Book, words: Word[]): Language[] {
+  const found = new Set(words.map((w) => wordLanguage(book, w)));
+  if (found.size === 0) found.add(book.testament === "NT" ? "Greek" : "Hebrew");
+  return (["Hebrew", "Greek", "Aramaic"] as Language[]).filter((l) => found.has(l));
+}

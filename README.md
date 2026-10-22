@@ -12,7 +12,7 @@ Phase 1 (foundation):
 - [x] Book, chapter and verse pages
 - [x] KJV text with the surrounding verses shown dimmed
 - [x] Comparison with BSB and ASV
-- [x] Original-language word study: Hebrew/Greek word, pronunciation, Strong's number, lexicon meaning
+- [x] Original-language word study in the language each verse was written in (Greek for the New Testament, Hebrew for the Old, Aramaic for the Aramaic chapters of Daniel and Ezra and Jeremiah 10:11): word, pronunciation, Strong's number, lexicon meaning
 - [x] Cross-references (top 8 by reader votes)
 - [x] Places named in the verse, with map links
 
