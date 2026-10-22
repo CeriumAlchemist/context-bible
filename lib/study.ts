@@ -77,3 +77,9 @@ export function pronunciation(translit: string): string {
 export function isFunctionWord(strong: string): boolean {
   return /^H90[0-4]\d/.test(strong) || strong === "H0853";
 }
+
+/** Places by OpenBible slug, for maps that name places the verse itself doesn't. */
+export async function placesBySlug(slugs: string[]): Promise<Place[]> {
+  const { places } = await load<{ places: Place[] }>("places.json");
+  return slugs.map((s) => places.find((p) => p.slug === s)).filter((p): p is Place => !!p);
+}

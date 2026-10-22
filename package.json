@@ -10,7 +10,8 @@
     "typecheck": "tsc --noEmit",
     "build:data": "tsx scripts/build-data.ts",
     "build:study": "tsx scripts/build-study-data.ts",
-    "cards": "tsx scripts/generate-cards.ts"
+    "cards": "tsx scripts/generate-cards.ts",
+    "build:map": "tsx scripts/build-map-data.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.135.0",

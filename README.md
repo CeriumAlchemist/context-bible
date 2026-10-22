@@ -24,6 +24,19 @@ Phase 2 (context cards):
 - [ ] Generate the 1 Timothy cards (needs an Anthropic API key)
 - [ ] Human review of the most-quoted verses
 
+Phase 3 (the world around the text), starting with 1 Timothy:
+
+- [x] Redesigned card: Who, What, Where, When and Why as tiles, Greek words beside their notes, sources behind a "Show sources" button
+- [x] Maps drawn by the site itself (no map service): one in each card's Where tile, a larger one on the book page
+- [x] Who ruled, a dated timeline of nearby events (wars, disasters, discoveries, building, the church), facts about Ephesus and Macedonia, and daily-life notes tied to the verses they explain (`data/world/1-timothy.json`)
+- [ ] Human review of the world notes
+
+## The world around the text
+
+`data/world/<book>.json` holds one book's setting. Its notes cite Scripture first and then ancient writers (Tacitus, Josephus, Strabo and others); a note with `verses` also appears on those verse pages under "Behind this verse." Bible references in `sources` become links, and `npm test` checks that each one is a real verse.
+
+Maps draw the coastline in `data/maps/land.json` (rebuild with `npm run build:map`) and place coordinates from `data/places.json`.
+
 ## Context cards
 
 Each card is written by Claude from one verse's *source packet* only: the KJV chapter (`v:`), the book overview (`b:`), lexicon entries for the verse's words (`w:`), cross-references (`x:`) and places (`p:`). Every statement on the card lists the ids it rests on, and the page links them.
@@ -69,6 +82,8 @@ The data files in `data/` are checked in. To rebuild the translations, run `npm 
 | `components/ContextCard.tsx` | The card on the verse page |
 | `scripts/generate-cards.ts` | Writes and checks cards with Claude |
 | `data/books/` | Book overviews |
+| `data/world/`, `lib/world.ts`, `components/WorldAroundText.tsx` | The world around the text: rulers, events, places, daily life |
+| `lib/map.ts`, `components/BibleMap.tsx`, `scripts/build-map-data.ts` | Maps: projection, drawing, coastline data |
 | `scripts/build-study-data.ts` | Builds `data/words`, `data/lexicon`, `data/crossrefs` and `data/places.json` |
 
 ## Sources and licenses
@@ -86,6 +101,7 @@ The KJV comes from aruljohn rather than scrollmapper because scrollmapper's copy
 | Hebrew and Greek words, Strong's tags, brief lexicons | CC BY 4.0, Tyndale House Cambridge | [STEPBible-Data](https://github.com/STEPBible/STEPBible-Data) (TAHOT, TAGNT, TBESH, TBESG) |
 | Cross-references with votes | CC BY, OpenBible.info | [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) extras |
 | Places and coordinates | CC BY 4.0, OpenBible.info | [openbibleinfo/Bible-Geocoding-Data](https://github.com/openbibleinfo/Bible-Geocoding-Data) |
+| Coastlines | Public domain | [Natural Earth](https://www.naturalearthdata.com/) 1:50m land |
 
 Verse numbers follow the KJV. Hebrew words follow the Leningrad text with its Qere readings, and Greek words are limited to those in the KJV's Greek (Scrivener 1894). Eight verses have no word data yet because the source numbers them differently: John 7:53, Romans 16:25-27, 2 Corinthians 13:13-14 and Philippians 1:16-17.
 

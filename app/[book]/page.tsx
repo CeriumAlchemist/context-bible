@@ -3,6 +3,10 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { bookBySlug } from "@/lib/books";
 import { loadOverview } from "@/lib/books-overview";
+import { BibleMap } from "@/components/BibleMap";
+import { WorldAroundText } from "@/components/WorldAroundText";
+import { placesBySlug } from "@/lib/study";
+import { loadWorld } from "@/lib/world";
 
 type Params = Promise<{ book: string }>;
 
@@ -15,6 +19,7 @@ export default async function BookPage({ params }: { params: Params }) {
   const book = bookBySlug((await params).book);
   if (!book) notFound();
   const overview = await loadOverview(book);
+  const world = await loadWorld(book);
 
   return (
     <article>
@@ -89,6 +94,22 @@ export default async function BookPage({ params }: { params: Params }) {
           </li>
         ))}
       </ol>
+      {world && (
+        <WorldAroundText
+          world={world}
+          map={
+            <BibleMap
+              places={await placesBySlug(world.map.places)}
+              highlight={world.map.primary}
+              focus={await placesBySlug(world.map.places)}
+              regions={world.map.regions}
+              seas={world.map.seas}
+              aspect={2}
+              caption="Places in and around the letter. Ancient region names are approximate."
+            />
+          }
+        />
+      )}
     </article>
   );
 }

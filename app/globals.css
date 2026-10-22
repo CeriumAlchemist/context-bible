@@ -8,6 +8,16 @@
   --accent: #8a5a1f;
   --accent-soft: #f4ebdd;
   --error: #b42318;
+  --warn: #9a3412;
+  --warn-soft: #fdf0e7;
+  --sea: #e3ecef;
+  --land: #f3eee4;
+  --coast: #c9bfae;
+  --who: #8a5a1f;
+  --what: #4f6b3a;
+  --where: #2f6475;
+  --when: #6b4c7a;
+  --why: #9a4a3a;
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
@@ -23,6 +33,16 @@
     --accent: #e0b070;
     --accent-soft: #2e2519;
     --error: #f97066;
+    --warn: #fdba8c;
+    --warn-soft: #2f1f16;
+    --sea: #17222a;
+    --land: #2a2722;
+    --coast: #4a443b;
+    --who: #e0b070;
+    --what: #a9c98f;
+    --where: #8cc4d4;
+    --when: #c7a6d6;
+    --why: #e8a395;
   }
 }
 
@@ -378,44 +398,11 @@ h3 {
   margin-top: 32px;
 }
 
-.card {
-  margin: 24px 0;
-  padding: 16px;
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  background: var(--surface);
+.outline {
+  padding-left: 20px;
 }
 
-.card-head {
-  margin-bottom: 12px;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  align-items: baseline;
-  justify-content: space-between;
-}
-
-.card-head h2 {
-  margin: 0;
-}
-
-.badge {
-  font-size: 0.75rem;
-  padding: 2px 8px;
-  border-radius: 999px;
-  background: var(--accent-soft);
-  color: var(--accent);
-}
-
-.badge.reviewed {
-  background: var(--accent);
-  color: var(--bg);
-}
-
-.card .lead {
-  font-size: 1.1rem;
-}
-
+/* Book overview: the 5 W's as a definition list. */
 .five-w {
   display: grid;
   grid-template-columns: 5em 1fr;
@@ -432,8 +419,7 @@ h3 {
   margin: 0;
 }
 
-.five-w p,
-.card p {
+.five-w p {
   margin: 0 0 8px;
 }
 
@@ -443,13 +429,160 @@ h3 {
   }
 }
 
+/* The context card. */
+.card {
+  margin: 28px 0;
+  padding: 20px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--surface);
+  box-shadow: 0 1px 2px rgb(0 0 0 / 4%), 0 8px 24px rgb(0 0 0 / 4%);
+}
+
+.card p {
+  margin: 0 0 8px;
+}
+
+.card-head {
+  margin-bottom: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  align-items: center;
+}
+
+.card-head h2 {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 1.35rem;
+}
+
+.card-head .toggle {
+  margin-left: auto;
+  font: inherit;
+  font-size: 0.8rem;
+  padding: 4px 10px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.card-head .toggle[aria-pressed="true"] {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.badge {
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.badge.reviewed {
+  background: var(--accent);
+  color: var(--bg);
+}
+
+.card .lead {
+  font-family: var(--serif);
+  font-size: 1.2rem;
+  line-height: 1.5;
+  padding: 4px 0 4px 16px;
+  border-left: 3px solid var(--accent);
+  margin-bottom: 20px;
+}
+
+.part {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 1px;
+}
+
+.tiles {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.tile {
+  --tone: var(--accent);
+  padding: 14px 16px;
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--tone);
+  border-radius: 10px;
+  background: var(--bg);
+}
+
+.tile.wide {
+  grid-column: 1 / -1;
+}
+
+.tile h3 {
+  margin: 0 0 8px;
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  color: var(--tone);
+}
+
+.tile p:last-child {
+  margin-bottom: 0;
+}
+
+.tile p + p {
+  margin-top: 10px;
+}
+
+.tile-who { --tone: var(--who); }
+.tile-what { --tone: var(--what); }
+.tile-where { --tone: var(--where); }
+.tile-when { --tone: var(--when); }
+.tile-why { --tone: var(--why); }
+
+.where {
+  display: grid;
+  grid-template-columns: 1fr minmax(0, 1.2fr);
+  gap: 16px;
+  align-items: start;
+}
+
+@media (max-width: 640px) {
+  .tiles,
+  .where {
+    grid-template-columns: 1fr;
+  }
+}
+
 .misuse,
 .differ {
-  margin: 16px 0;
-  padding: 12px;
-  border-left: 3px solid var(--accent);
+  margin: 0 0 20px;
+  padding: 14px 16px;
+  border-radius: 10px;
+}
+
+.misuse {
+  background: var(--warn-soft);
+  border: 1px solid color-mix(in srgb, var(--warn) 30%, transparent);
+}
+
+.misuse h3 {
+  color: var(--warn);
+}
+
+.misuse .quoted {
+  font-style: italic;
+}
+
+.differ {
+  margin-top: 20px;
   background: var(--accent-soft);
-  border-radius: 0 8px 8px 0;
 }
 
 .misuse h3,
@@ -457,6 +590,73 @@ h3 {
   margin-top: 0;
 }
 
+.key-words ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 10px;
+}
+
+.key-words li {
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.kw-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.kw-head .original {
+  font-family: "SBL Greek", "SBL Hebrew", "Times New Roman", serif;
+  font-size: 1.25rem;
+}
+
+.kw-meta {
+  display: block;
+  font-size: 0.8rem;
+  margin-bottom: 6px;
+}
+
+.key-words li p {
+  font-size: 0.92rem;
+  margin: 0;
+}
+
+.takeaway {
+  margin-top: 20px;
+  padding: 16px 18px;
+  border-radius: 10px;
+  background: var(--accent);
+  color: var(--bg);
+}
+
+.takeaway h3 {
+  margin: 0 0 6px;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.85;
+}
+
+.takeaway p {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+.takeaway .sources a,
+.takeaway .sources span {
+  color: inherit;
+  border-color: currentColor;
+}
+
+/* Source tags: always shown outside cards; on cards, only after "Show sources". */
 .sources {
   display: inline-flex;
   flex-wrap: wrap;
@@ -464,16 +664,254 @@ h3 {
   vertical-align: baseline;
 }
 
+.card .sources {
+  display: none;
+}
+
+.card.show-sources .sources {
+  display: inline-flex;
+}
+
 .sources a,
 .sources span {
-  font-size: 0.75rem;
+  font-size: 0.72rem;
   padding: 0 6px;
   border: 1px solid var(--border);
   border-radius: 4px;
   text-decoration: none;
   color: var(--muted);
+  font-family: var(--sans);
+  font-style: normal;
 }
 
-.outline {
-  padding-left: 20px;
+/* Maps. */
+.map {
+  margin: 0;
+}
+
+.map svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+.map figcaption {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-top: 6px;
+}
+
+.map-sea {
+  fill: var(--sea);
+}
+
+.map-land {
+  fill: var(--land);
+  stroke: var(--coast);
+  stroke-width: 1;
+  vector-effect: non-scaling-stroke;
+}
+
+.map text {
+  font-family: var(--sans);
+  fill: var(--text);
+  paint-order: stroke;
+  stroke: var(--land);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+}
+
+.map-region {
+  fill: var(--muted) !important;
+  letter-spacing: 0.15em;
+  font-weight: 600;
+}
+
+.map-region.named {
+  fill: var(--where) !important;
+}
+
+.map .map-sea-label {
+  fill: color-mix(in srgb, var(--where) 70%, var(--sea)) !important;
+  stroke: var(--sea);
+  font-style: italic;
+  font-family: var(--serif);
+}
+
+.map-place circle {
+  fill: var(--text);
+  stroke: var(--land);
+  stroke-width: 1.5;
+  vector-effect: non-scaling-stroke;
+}
+
+.map-place.highlight circle {
+  fill: var(--where);
+}
+
+.map-place.highlight text {
+  font-weight: 700;
+  fill: var(--where);
+}
+
+.map-place.faint circle {
+  fill: var(--faint);
+}
+
+.map-place.faint text {
+  fill: var(--muted);
+}
+
+/* The world around the text. */
+.world .period {
+  padding: 12px 14px;
+  border-radius: 10px;
+  background: var(--accent-soft);
+}
+
+.world details {
+  margin: 8px 0;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px 14px;
+  background: var(--surface);
+}
+
+.world summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.world details[open] summary {
+  margin-bottom: 10px;
+}
+
+.behind {
+  margin-bottom: 12px;
+}
+
+.facts {
+  margin: 0;
+}
+
+.facts > div {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.facts dt {
+  font-weight: 600;
+}
+
+.facts dd {
+  margin: 2px 0 0;
+}
+
+.rulers {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 10px;
+}
+
+.rulers li {
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface);
+}
+
+.rulers .role,
+.rulers .years {
+  display: block;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.rulers strong {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+}
+
+.rulers p {
+  font-size: 0.9rem;
+  margin: 6px 0 0;
+}
+
+.timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-left: 2px solid var(--border);
+}
+
+.timeline li {
+  --tone: var(--muted);
+  position: relative;
+  display: grid;
+  grid-template-columns: 7.5em 1fr;
+  gap: 12px;
+  padding: 8px 0 8px 16px;
+}
+
+.timeline li::before {
+  content: "";
+  position: absolute;
+  left: -6px;
+  top: 14px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--tone);
+  border: 2px solid var(--bg);
+}
+
+.timeline .kind-war { --tone: var(--why); }
+.timeline .kind-disaster { --tone: var(--warn); }
+.timeline .kind-rule { --tone: var(--who); }
+.timeline .kind-church { --tone: var(--where); }
+.timeline .kind-discovery { --tone: var(--what); }
+.timeline .kind-building { --tone: var(--when); }
+
+.timeline li.marked {
+  background: var(--accent-soft);
+  border-radius: 0 8px 8px 0;
+}
+
+.timeline .when {
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.9rem;
+}
+
+.timeline .kind {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--tone);
+}
+
+.timeline p {
+  margin: 2px 0 0;
+  font-size: 0.92rem;
+}
+
+@media (max-width: 640px) {
+  .timeline li {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+}
+
+.place-profile h3 {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  margin-top: 24px;
 }
