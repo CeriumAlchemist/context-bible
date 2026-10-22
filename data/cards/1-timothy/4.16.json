@@ -1,0 +1,170 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 16
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:50:04.204Z",
+  "card": {
+    "in_context": {
+      "text": "This verse closes Paul's charge to Timothy in chapter 4. After warning that some will depart from the faith through false teaching, Paul tells Timothy to watch both his own life and his teaching, and to keep at it.",
+      "sources": [
+        "v:4.1",
+        "v:4.12",
+        "v:4.13",
+        "v:4.15",
+        "v:4.16",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and \"own son in the faith,\" whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients",
+          "v:4.12"
+        ]
+      },
+      "affected": {
+        "text": "The believers who listen to Timothy's teaching. Paul says Timothy's faithfulness will affect \"them that hear thee,\" not only himself.",
+        "sources": [
+          "v:4.16",
+          "v:4.6"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul gives Timothy two things to watch: himself and the teaching. He tells him to keep on in them, and promises that doing so will save both Timothy and his hearers.",
+      "sources": [
+        "v:4.16",
+        "w:G1907",
+        "w:G1961"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul had gone on to Macedonia after leaving Timothy in Ephesus. He writes while still away, telling Timothy what to do \"till I come.\"",
+        "sources": [
+          "b:writtenFrom",
+          "v:4.13"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, between Paul's two Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110, though others hold to the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Timothy was in Ephesus, a wealthy port city and capital of the Roman province of Asia, known for its temple of Artemis. Where Paul wrote from is not stated, but possibly Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The church at Ephesus faced false teachers who forbade marriage and certain foods. Paul wants Timothy, a young leader, to stand firm in sound teaching and godly example so the church is protected.",
+        "sources": [
+          "v:4.1",
+          "v:4.3",
+          "v:4.12",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that sound teaching and godly living belong together. This verse joins them: a leader's own life and his teaching both matter. Other passages say the same, such as Titus 2:7 on being a pattern \"in doctrine.\"",
+        "sources": [
+          "b:themes",
+          "x:titus.2.7",
+          "x:titus.1.9"
+        ]
+      },
+      "for_readers": {
+        "text": "Those who teach others are called to watch their own lives as closely as their words. Faithfulness over time matters, because others are affected by what a teacher believes and does.",
+        "sources": [
+          "v:4.16",
+          "v:4.15",
+          "x:ezekiel.33.9"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Readers differ on what \"save thyself\" means. Some take it as Timothy persevering toward final salvation. Others read it mainly as being kept safe from the false teaching described in 4:1, and still others discuss how this saving relates to God's grace. The word for save can describe salvation as past, present, or future.",
+      "sources": [
+        "v:4.1",
+        "v:4.16",
+        "w:G4982"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G1907",
+        "english": "take heed",
+        "why_it_matters": {
+          "text": "The word means to hold or direct one's attention toward something. Paul is asking for steady, focused watchfulness over Timothy's own life and teaching, not a passing glance.",
+          "sources": [
+            "w:G1907"
+          ]
+        }
+      },
+      {
+        "strong": "G1319",
+        "english": "doctrine",
+        "why_it_matters": {
+          "text": "The word simply means teaching or instruction. The same word is used in 4:1 for \"doctrines of devils,\" so the contrast is between sound teaching and false teaching.",
+          "sources": [
+            "w:G1319",
+            "v:4.1"
+          ]
+        }
+      },
+      {
+        "strong": "G1961",
+        "english": "continue",
+        "why_it_matters": {
+          "text": "The word literally means to stay on or remain. It describes keeping on in a pursuit over time, so Paul calls for perseverance, not a single effort.",
+          "sources": [
+            "w:G1961"
+          ]
+        }
+      },
+      {
+        "strong": "G4982",
+        "english": "save",
+        "why_it_matters": {
+          "text": "The word can mean rescue from danger or salvation from spiritual death, and the New Testament speaks of salvation as past, present, or future. Here it is future (\"shalt save\"), tied to ongoing faithfulness.",
+          "sources": [
+            "w:G4982",
+            "v:4.16"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Watch your life and your teaching, and keep at it. A teacher's faithfulness affects not only himself but everyone who listens.",
+      "sources": [
+        "v:4.16",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "christians_differ",
+      "reason": "None of the cited sources describe differing interpretations of 'save thyself'. The perseverance reading, the protection-from-false-teaching reading, and the grace discussion are not documented. The lexicon only notes that salvation can be past, present, or future."
+    }
+  ]
+}

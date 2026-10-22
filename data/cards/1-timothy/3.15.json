@@ -1,0 +1,202 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 15
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:48:04.572Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just listed the qualities required of bishops and deacons (3:1-13). Here he explains why he is writing: in case his visit is delayed, Timothy will know how people should conduct themselves in God's household, the church. That household upholds the truth.",
+      "sources": [
+        "v:3.1",
+        "v:3.8",
+        "v:3.14",
+        "v:3.15",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter.",
+        "sources": [
+          "b:author",
+          "v:3.14"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus. The \"thou\" in the verse is singular.",
+        "sources": [
+          "b:recipients",
+          "v:3.15"
+        ]
+      },
+      "affected": {
+        "text": "The believers and leaders of the church at Ephesus, whose shared life Timothy is to oversee.",
+        "sources": [
+          "b:purpose",
+          "v:3.5",
+          "v:3.15"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul states his reason for the instructions in chapter 3. They show how one ought to conduct oneself in God's household. He then describes that household as the church of the living God, the pillar and support of the truth.",
+      "sources": [
+        "v:3.14",
+        "v:3.15",
+        "w:G0390",
+        "w:G4769",
+        "w:G1477"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul hoped to come to Timothy soon but expected he might be delayed. The letter stands in for him until he arrives.",
+        "sources": [
+          "v:3.14",
+          "v:3.15",
+          "w:G1019"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter went to Timothy in Ephesus, a wealthy port city known for its temple of Artemis. The text does not say where Paul wrote from, though he had gone on to Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to have written guidance for ordering church life and leadership in case Paul cannot come soon.",
+        "sources": [
+          "v:3.14",
+          "v:3.15",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that belief and behavior belong together. The church's conduct matters because it holds up the truth, which Paul goes on to summarize in 3:16 as the \"mystery of godliness\" centered on Christ.",
+        "sources": [
+          "b:themes",
+          "v:3.15",
+          "v:3.16"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse treats the church as a family household and a living building rather than a place. Other passages picture believers as \"lively stones\" built into \"a spiritual house\" and \"an habitation of God through the Spirit.\"",
+        "sources": [
+          "x:1-peter.2.5",
+          "x:ephesians.2.22",
+          "w:G3624H"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Often quoted as a rule for how to dress or act inside a church building, the \"house of God,\" during services.",
+      "in_context_reading": {
+        "text": "The verse itself defines the \"house of God\" as \"the church of the living God,\" meaning God's household of people. The behavior in view is the character and conduct laid out for leaders and members in chapters 2-3, not etiquette in a building.",
+        "sources": [
+          "v:3.15",
+          "w:G3624H",
+          "w:G1577",
+          "v:3.2",
+          "b:outline"
+        ]
+      }
+    },
+    "christians_differ": {
+      "text": "Traditions differ on what it means that the church is \"the pillar and ground of the truth.\" Catholic and Orthodox readers often see it as support for the church's role in authoritatively guarding and teaching the truth. Many Protestant readers see the church as holding up and displaying a truth whose source lies in God and Christ, not in the church itself.",
+      "sources": [
+        "v:3.15",
+        "v:3.16",
+        "w:G4769",
+        "w:G1477"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G3624H",
+        "english": "house",
+        "why_it_matters": {
+          "text": "The word can mean a dwelling, a sanctuary, or a household. Here it refers to God's household of believers, matching Paul's comparison with a man ruling his own house in 3:5.",
+          "sources": [
+            "w:G3624H",
+            "v:3.5",
+            "v:3.15"
+          ]
+        }
+      },
+      {
+        "strong": "G1577",
+        "english": "church",
+        "why_it_matters": {
+          "text": "The word means an assembly or gathered community, not a building. That is why \"the house of God\" here means a people.",
+          "sources": [
+            "w:G1577",
+            "v:3.15"
+          ]
+        }
+      },
+      {
+        "strong": "G0390",
+        "english": "behave thyself",
+        "why_it_matters": {
+          "text": "The word means to conduct oneself or live in a certain way. It points to a whole way of life, not just manners at a meeting.",
+          "sources": [
+            "w:G0390"
+          ]
+        }
+      },
+      {
+        "strong": "G4769",
+        "english": "pillar",
+        "why_it_matters": {
+          "text": "A pillar is seen especially as a support. The church holds the truth up and makes it visible.",
+          "sources": [
+            "w:G4769"
+          ]
+        }
+      },
+      {
+        "strong": "G1477",
+        "english": "ground",
+        "why_it_matters": {
+          "text": "The word means a support, bulwark, or stay rather than an origin or source. The church steadies and protects the truth.",
+          "sources": [
+            "w:G1477"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is about how God's people live together as his household, not about behavior in a building. Because the church holds up the truth, the way believers and their leaders conduct themselves matters.",
+      "sources": [
+        "v:3.15",
+        "w:G3624H",
+        "w:G1577",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "christians_differ",
+      "reason": "None of the cited sources mention Catholic, Orthodox, or Protestant interpretations. The specific attributions of views to these traditions have no support in the cited material."
+    },
+    {
+      "claim": "key_words.3",
+      "reason": "The lexicon defines a pillar as 'regarded especially as a support.' The added idea that the church 'makes it visible' (display) is not in the cited source."
+    }
+  ]
+}

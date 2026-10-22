@@ -1,0 +1,160 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 14
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:47:47.440Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just set out qualities required of church leaders, overseers (bishops) and deacons (3:1-13). Here he pauses to explain why he is writing. He hopes to visit Timothy soon, but in case he is delayed, the letter tells Timothy how people should conduct themselves in God's household, the church (3:15).",
+      "sources": [
+        "v:3.1",
+        "v:3.13",
+        "v:3.14",
+        "v:3.15",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and \"own son in the faith,\" whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The church at Ephesus, whose leaders and members are guided by \"these things\" Paul writes.",
+        "sources": [
+          "b:recipients",
+          "b:purpose",
+          "v:3.15"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul says he is putting these instructions in writing while hoping to come to Timothy soon. The writing stands in for his presence if his visit is delayed.",
+      "sources": [
+        "v:3.14",
+        "v:3.15",
+        "w:G1125",
+        "w:G1679"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul had left Timothy in Ephesus and gone on to Macedonia. He writes while still away, hoping to return shortly.",
+        "sources": [
+          "b:recipients",
+          "b:writtenFrom",
+          "v:3.14"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's first and second Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110, though others hold to the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated, though it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "This verse states the reason for the letter. Paul cannot be there in person yet, so he writes so that Timothy knows how to lead and how believers should behave in God's household.",
+        "sources": [
+          "v:3.14",
+          "v:3.15",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Verses 14-16 tie the letter together: right conduct in the church rests on the truth about Christ, \"God was manifest in the flesh.\" The letter's theme is that belief and behavior belong together.",
+        "sources": [
+          "v:3.15",
+          "v:3.16",
+          "b:themes",
+          "b:outline"
+        ]
+      },
+      "for_readers": {
+        "text": "The instructions on leaders were not passing comments but written guidance meant to hold until Paul came. Later readers can treat them as Paul's settled direction for church life.",
+        "sources": [
+          "v:3.14",
+          "v:3.15",
+          "x:1-timothy.4.13"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3778",
+        "english": "These things",
+        "why_it_matters": {
+          "text": "This word can point back to what has just been said. Here it refers to the instructions Paul has given, especially the leadership qualifications just listed, not to some new teaching.",
+          "sources": [
+            "w:G3778",
+            "v:3.1",
+            "v:3.13"
+          ]
+        }
+      },
+      {
+        "strong": "G1679",
+        "english": "hoping",
+        "why_it_matters": {
+          "text": "The word means to expect or hope for, not a fixed promise. Paul uses the same kind of language elsewhere about travel plans that depended on circumstances, which is why he adds \"if I tarry long.\"",
+          "sources": [
+            "w:G1679",
+            "v:3.15",
+            "x:philemon.1.22",
+            "x:1-thessalonians.2.18"
+          ]
+        }
+      },
+      {
+        "strong": "G5034",
+        "english": "shortly",
+        "why_it_matters": {
+          "text": "The phrase literally means \"in speed,\" that is, soon. Paul expected to come before long, yet he wrote in case that did not happen.",
+          "sources": [
+            "w:G5034",
+            "v:3.14",
+            "v:3.15"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul wrote his instructions down because he might be delayed. The letter carries his guidance for how God's household, the church, should live, grounded in the truth about Christ.",
+      "sources": [
+        "v:3.14",
+        "v:3.15",
+        "v:3.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "why.for_readers",
+      "reason": "The cited verses show the instructions were meant to guide Timothy until Paul arrived. They say nothing about later readers. Calling the instructions 'Paul's settled direction for church life' for all times goes beyond the sources and ignores the authorship dispute noted elsewhere."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 20
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:44:08.464Z",
+  "card": {
+    "in_context": {
+      "text": "This verse closes Paul's opening charge to Timothy about false teaching in Ephesus. Paul has urged Timothy to hold on to faith and a good conscience, because some who threw these away have 'made shipwreck' of their faith. Here he names two of them, Hymenaeus and Alexander.",
+      "sources": [
+        "v:1.3",
+        "v:1.18",
+        "v:1.19",
+        "v:1.20",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and 'son in the faith', whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "v:1.18",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Hymenaeus and Alexander, two men Paul counts among those who wrecked their faith. Hymenaeus is named again in 2 Timothy 2:17 as one whose teaching spreads 'as doth a canker'. Several men named Alexander appear in the New Testament, and this verse does not say which one he is.",
+        "sources": [
+          "v:1.19",
+          "v:1.20",
+          "x:2-timothy.2.17",
+          "w:G5211",
+          "w:G0223J"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul says he has 'delivered unto Satan' these two men so that they may learn not to blaspheme. The verse does not explain how this was done. The same phrase appears in 1 Corinthians 5:4-5, where it happens when the church is gathered in Christ's name, with the aim that the person's spirit 'may be saved'.",
+      "sources": [
+        "v:1.20",
+        "x:1-corinthians.5.4",
+        "x:1-corinthians.5.5"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The handing over had already happened by the time Paul wrote, during the period when Timothy was confronting false teachers in Ephesus. The text gives no exact date.",
+        "sources": [
+          "v:1.3",
+          "v:1.20"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Timothy was in Ephesus, a wealthy port city and capital of the Roman province of Asia. The letter does not say where Paul wrote from, though he had gone on to Macedonia.",
+      "sources": [
+        "v:1.3",
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The two men serve as a sober warning inside Paul's charge to Timothy. They show what happens when faith and a good conscience are thrown away. The stated goal of the action is that they 'may learn', not simply that they be punished.",
+        "sources": [
+          "v:1.18",
+          "v:1.19",
+          "v:1.20",
+          "w:G3811"
+        ]
+      },
+      "big_picture": {
+        "text": "Chapter 1 is about confronting false teaching. The letter holds that belief and behavior belong together. Paul also says he was once 'a blasphemer' who 'obtained mercy', which suggests that blasphemers are not beyond change.",
+        "sources": [
+          "b:outline",
+          "b:themes",
+          "v:1.13",
+          "v:1.16"
+        ]
+      },
+      "for_readers": {
+        "text": "In Scripture, discipline aims at correction and restoration, not revenge. Elsewhere Paul says a disciplined person should not be counted 'as an enemy' but admonished 'as a brother', and the Lord chastens those he loves.",
+        "sources": [
+          "w:G3811",
+          "x:2-thessalonians.3.15",
+          "x:1-corinthians.11.32",
+          "x:revelation.3.19"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3860",
+        "english": "delivered (handed over)",
+        "why_it_matters": {
+          "text": "The word means to give or hand over to another. Paul pictures the men as handed over into the adversary's realm. The same verb is used for the similar action in 1 Corinthians 5:5.",
+          "sources": [
+            "w:G3860",
+            "x:1-corinthians.5.5"
+          ]
+        }
+      },
+      {
+        "strong": "G3811",
+        "english": "learn (be disciplined)",
+        "why_it_matters": {
+          "text": "This word means to train or instruct, and also to correct or chasten. It is used of God's chastening of his people. It shows the action was meant to teach and correct, not merely to condemn.",
+          "sources": [
+            "w:G3811",
+            "x:1-corinthians.11.32"
+          ]
+        }
+      },
+      {
+        "strong": "G0987",
+        "english": "blaspheme",
+        "why_it_matters": {
+          "text": "The word means to speak lightly or impiously of sacred things, especially of God. It names the sin the discipline was meant to stop. It echoes Paul's own past as 'a blasphemer' who found mercy.",
+          "sources": [
+            "w:G0987",
+            "v:1.13"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is a warning drawn from real people who abandoned faith and a good conscience. Even this severe step of being 'delivered unto Satan' had a hopeful aim: that the men might learn not to blaspheme.",
+      "sources": [
+        "v:1.19",
+        "v:1.20",
+        "w:G3811"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "key_words.0",
+      "reason": "The cited lexicon entry does not list 1 Corinthians 5:5, and the KJV verse shows only the English word 'deliver'. Neither source establishes that the same Greek verb is used there."
+    },
+    {
+      "claim": "when.events",
+      "reason": "The verse says only that Paul had already handed them over. Nothing cited places this during Timothy's confrontation of false teachers in Ephesus; it could have happened before Paul left."
+    }
+  ]
+}

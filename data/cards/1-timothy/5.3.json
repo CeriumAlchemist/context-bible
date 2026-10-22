@@ -1,0 +1,142 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 3
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:50:11.985Z",
+  "card": {
+    "in_context": {
+      "text": "This verse opens a long section on caring for widows in the church (5:3-16). Paul tells Timothy to honour widows who are \"widows indeed,\" then explains who that means. A real widow is alone, trusts in God, and has no family to support her.",
+      "sources": [
+        "v:5.3",
+        "v:5.4",
+        "v:5.5",
+        "v:5.16",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Widows in the church, especially those left alone without family to care for them. Their children and relatives are also addressed, since they should care for them first.",
+        "sources": [
+          "v:5.4",
+          "v:5.5",
+          "v:5.16"
+        ]
+      }
+    },
+    "what": {
+      "text": "Timothy is to honour widows who are truly widows. Families should look after their own widowed relatives first, so that the church can support those who have no one else.",
+      "sources": [
+        "v:5.3",
+        "v:5.4",
+        "v:5.8",
+        "v:5.16"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The instruction belongs to Paul's guidance for the church in Ephesus while Timothy led it there.",
+        "sources": [
+          "b:recipients",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote in Paul's name; others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants the church's care to be fair and to reach those in real need. He wants families to do their part so the church is not overburdened.",
+        "sources": [
+          "v:5.4",
+          "v:5.16",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "God's people had long been told to care for widows, and God is described as defending the widow. The early church had already faced the problem of widows being neglected.",
+        "sources": [
+          "x:deuteronomy.10.18",
+          "x:deuteronomy.14.29",
+          "x:deuteronomy.27.19",
+          "x:acts.6.1"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse calls believers to treat vulnerable people with real respect and practical help. It also reminds families that caring for their own is part of faith.",
+        "sources": [
+          "v:5.3",
+          "v:5.8",
+          "b:themes"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G5091",
+        "english": "Honour",
+        "why_it_matters": {
+          "text": "The word means to honour or value someone. In this passage honour is practical: the church is to \"relieve\" real widows, and the next verses speak of elders worthy of \"double honour\" with the saying that the labourer is worthy of his reward.",
+          "sources": [
+            "w:G5091",
+            "v:5.16",
+            "v:5.17",
+            "v:5.18"
+          ]
+        }
+      },
+      {
+        "strong": "G3689",
+        "english": "indeed",
+        "why_it_matters": {
+          "text": "This word means \"really\" or \"truly.\" Paul is not speaking of every widow but of the \"real widow,\" whom he defines as desolate and trusting in God, without family to support her.",
+          "sources": [
+            "w:G3689",
+            "v:5.4",
+            "v:5.5",
+            "v:5.16"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Honour widows who are truly alone, with real help, while families care for their own first. This keeps the church free to support those with no one else.",
+      "sources": [
+        "v:5.3",
+        "v:5.4",
+        "v:5.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

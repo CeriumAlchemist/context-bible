@@ -1,0 +1,167 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 8
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:42:33.858Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just warned about people who want to be \"teachers of the law\" but do not understand what they are saying (1:7). He answers that the law itself is not the problem. It is good, as long as it is used the way it was meant to be used (1:8-10).",
+      "sources": [
+        "v:1.6",
+        "v:1.7",
+        "v:1.8",
+        "v:1.9",
+        "v:1.10"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "The letter names Paul the apostle as its writer (1:1). Many critical scholars think a follower wrote it in Paul's name. Others defend Paul's authorship.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and \"own son in the faith,\" whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Some people in the Ephesian church who had turned aside to \"vain jangling\" (empty talk). They wanted to teach the law without understanding it.",
+        "sources": [
+          "v:1.6",
+          "v:1.7"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul affirms that the law is good. He adds a condition: a person must use it \"lawfully,\" that is, properly. The next verses explain that the law is aimed at the lawless and sinful, not at the righteous man (1:9-10).",
+      "sources": [
+        "v:1.8",
+        "v:1.9",
+        "v:1.10"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul had gone into Macedonia and asked Timothy to stay at Ephesus to stop certain people teaching other doctrine.",
+        "sources": [
+          "v:1.3"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's first and second Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter is addressed to Timothy in Ephesus, a wealthy port city and capital of the Roman province of Asia. Where it was written from is not stated, though Paul had gone on to Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to correct teachers who misuse the law. He does this without throwing the law away. He makes it clear that the fault lies in their use of the law, not in the law itself.",
+        "sources": [
+          "v:1.7",
+          "v:1.8",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The goal of Paul's charge is \"charity out of a pure heart, and of a good conscience, and of faith unfeigned\" (1:5). Elsewhere Paul says the same thing about the law: \"the law is holy, and the commandment holy, and just, and good\" (Romans 7:12).",
+        "sources": [
+          "v:1.5",
+          "x:romans.7.12",
+          "x:romans.7.16"
+        ]
+      },
+      "for_readers": {
+        "text": "Something good can still be misused. The test of handling God's law rightly is whether it serves love, a pure heart, and sincere faith. Endless arguments are not the goal.",
+        "sources": [
+          "v:1.4",
+          "v:1.5",
+          "v:1.8"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3545",
+        "english": "lawfully",
+        "why_it_matters": {
+          "text": "This is a play on words: the law (nomos) must be used \"law-fittingly\" (nomimōs), meaning rightly or properly. The same word appears in 2 Timothy 2:5 for an athlete who must compete by the rules to be crowned.",
+          "sources": [
+            "w:G3545",
+            "w:G3551",
+            "x:2-timothy.2.5"
+          ]
+        }
+      },
+      {
+        "strong": "G3551",
+        "english": "law",
+        "why_it_matters": {
+          "text": "In the Greek Old Testament this word mainly stands for the Hebrew Torah, God's law. The false teachers wanted to be \"teachers of the law\" (1:7), so God's law is the subject here.",
+          "sources": [
+            "w:G3551",
+            "v:1.7"
+          ]
+        }
+      },
+      {
+        "strong": "G2570G",
+        "english": "good",
+        "why_it_matters": {
+          "text": "The word means good, fine, or right. Paul is not grudging about the law. He calls it truly good, which matches Romans 7:12 and Psalms 19:7.",
+          "sources": [
+            "w:G2570G",
+            "x:romans.7.12",
+            "x:psalms.19.7"
+          ]
+        }
+      },
+      {
+        "strong": "G5530",
+        "english": "use",
+        "why_it_matters": {
+          "text": "The word means to use or make use of. It puts the focus on how a person handles the law, not on the law's own worth.",
+          "sources": [
+            "w:G5530",
+            "v:1.8"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "God's law is good. It must be handled the way God intended, for the goal of love from a pure heart, a good conscience, and sincere faith.",
+      "sources": [
+        "v:1.8",
+        "v:1.5"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "why.big_picture",
+      "reason": "The claim says Romans 7:12 says 'the same thing' as 1:5, but 1:5 is about the goal of the charge (charity, a pure heart, faith), not the law's goodness. Romans 7:12 matches 1:8, which is not cited here, so the comparison is mismatched."
+    }
+  ]
+}

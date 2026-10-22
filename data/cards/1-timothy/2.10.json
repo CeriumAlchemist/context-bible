@@ -1,0 +1,160 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 2,
+    "verse": 10
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:45:20.922Z",
+  "card": {
+    "in_context": {
+      "text": "This verse finishes a sentence that starts in 2:9. Women in the church should 'adorn themselves' not with braided hair, gold, pearls, or costly clothing, but with good works. It belongs to Paul's instructions on prayer and conduct in worship (2:1-15).",
+      "sources": [
+        "v:2.9",
+        "v:2.10",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "The letter names Paul the apostle as its writer.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "The letter is addressed to Timothy, whom Paul had left to lead the church at Ephesus. He is to guide how believers there conduct themselves.",
+        "sources": [
+          "b:recipients",
+          "b:purpose"
+        ]
+      },
+      "affected": {
+        "text": "Women in the church who profess godliness. Verse 2:8 speaks to the men in the same way.",
+        "sources": [
+          "v:2.8",
+          "v:2.9",
+          "v:2.10"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse swaps one kind of 'adornment' for another. Instead of showy dress and jewelry, a woman who claims to revere God should be marked by good works. Her deeds are meant to be what people notice.",
+      "sources": [
+        "v:2.9",
+        "v:2.10",
+        "w:G4241",
+        "w:G2041"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The instruction concerns the ongoing worship and life of the church in Ephesus while Timothy led it.",
+        "sources": [
+          "b:recipients",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: Paul wrote it about AD 62-64. Scholarly view: many critical scholars date it around AD 80-110, written in Paul's name by a follower. Others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. That wealth is the setting for the warning against gold, pearls, and costly clothing.",
+      "sources": [
+        "b:destination",
+        "v:2.9"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul is guiding conduct in worship. He wants what believers do to fit what they say they believe, without wrath among the men and without showy display among the women.",
+        "sources": [
+          "v:2.8",
+          "v:2.9",
+          "v:2.10",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "A major theme of the letter is that sound teaching produces godly living, so belief and behavior belong together. Titus 3:8 similarly urges believers to 'maintain good works.'",
+        "sources": [
+          "b:themes",
+          "x:titus.3.8"
+        ]
+      },
+      "for_readers": {
+        "text": "A person's real beauty is shown in good deeds rather than costly display. 1 Peter 3:3 makes the same point, and Acts 9:36 praises Tabitha as 'full of good works.'",
+        "sources": [
+          "x:1-peter.3.3",
+          "x:acts.9.36"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4241",
+        "english": "becometh",
+        "why_it_matters": {
+          "text": "The word means 'to be fitting or suitable.' It carries on the clothing picture from 2:9. Good works are what truly 'suit' a godly woman, the way fine clothes are meant to.",
+          "sources": [
+            "w:G4241",
+            "v:2.9"
+          ]
+        }
+      },
+      {
+        "strong": "G1861",
+        "english": "professing",
+        "why_it_matters": {
+          "text": "The word means to profess or openly claim something. The verse ties a public claim of godliness to a life that matches it.",
+          "sources": [
+            "w:G1861"
+          ]
+        }
+      },
+      {
+        "strong": "G2317",
+        "english": "godliness",
+        "why_it_matters": {
+          "text": "This word means 'fear of God' or reverence for God. In the New Testament it appears only here. The point is inner reverence that shows itself in deeds.",
+          "sources": [
+            "w:G2317"
+          ]
+        }
+      },
+      {
+        "strong": "G2041",
+        "english": "works",
+        "why_it_matters": {
+          "text": "'Works' means deeds, tasks, or labor. The 'adornment' Paul has in mind is active service done for others, not a passive look.",
+          "sources": [
+            "w:G2041",
+            "w:G0018"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "In context, this verse says that for women who claim to revere God, good deeds, not expensive appearance, are the fitting adornment.",
+      "sources": [
+        "v:2.9",
+        "v:2.10",
+        "w:G4241"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "where",
+      "reason": "The source says Ephesus was wealthy but never links that wealth to the warning against gold, pearls, and costly clothing. Calling it 'the setting' for the warning is an added causal claim."
+    }
+  ]
+}

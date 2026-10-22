@@ -1,0 +1,166 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 6
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:42:27.188Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just said the goal of his instruction is love from a pure heart, a good conscience, and sincere faith. Verse 6 says some people have missed that goal and wandered off into empty talk. Verse 7 identifies them as would-be teachers of the law who do not understand what they say.",
+      "sources": [
+        "v:1.5",
+        "v:1.6",
+        "v:1.7"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left in Ephesus to lead the church.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The \"some\" in Ephesus who were teaching other doctrine and focusing on fables and endless genealogies. Later in the chapter Paul names Hymenaeus and Alexander as men who wrecked their faith.",
+        "sources": [
+          "v:1.3",
+          "v:1.4",
+          "v:1.6",
+          "v:1.19",
+          "v:1.20"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul describes false teachers who missed the real aim of God's instruction, which is love, a clean conscience, and genuine faith. Instead they drifted into idle, pointless talk.",
+      "sources": [
+        "v:1.5",
+        "v:1.6",
+        "w:G0795",
+        "w:G3150"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul had left Timothy in Ephesus when he went on to Macedonia. The false teaching was already active in the church.",
+        "sources": [
+          "v:1.3"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote in Paul's name, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The church at Ephesus, a wealthy port city and capital of the Roman province of Asia. Paul may have been writing from Macedonia, but the letter does not say.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul is equipping Timothy to stop certain people from teaching other doctrine. He shows what has gone wrong with them: they lost sight of love and drifted into empty debate.",
+        "sources": [
+          "v:1.3",
+          "v:1.6",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "A key theme of the letter is that sound teaching produces godly living. Teaching that does not lead to love, a good conscience, and real faith has missed its point.",
+        "sources": [
+          "b:themes",
+          "v:1.5"
+        ]
+      },
+      "for_readers": {
+        "text": "Religious talk can become empty if it loses its goal. Elsewhere Paul tells Timothy to avoid vain babblings and foolish questions that breed strife.",
+        "sources": [
+          "v:1.5",
+          "v:1.6",
+          "x:1-timothy.6.20",
+          "x:2-timothy.2.23"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0795",
+        "english": "having swerved",
+        "why_it_matters": {
+          "text": "The Greek word means to miss the mark, like an arrow missing a target. The target is the goal named in verse 5: love, a good conscience, and sincere faith.",
+          "sources": [
+            "w:G0795",
+            "v:1.5"
+          ]
+        }
+      },
+      {
+        "strong": "G1624",
+        "english": "have turned aside",
+        "why_it_matters": {
+          "text": "This verb means to turn out of the course or wander off the path. The same letter uses it for some who turned aside after Satan, showing it describes a serious drift, not a small slip.",
+          "sources": [
+            "w:G1624",
+            "x:1-timothy.5.15"
+          ]
+        }
+      },
+      {
+        "strong": "G3150",
+        "english": "vain jangling",
+        "why_it_matters": {
+          "text": "The Greek means idle or foolish talk. The KJV's \"vain jangling\" is old English for empty chatter, not noise or music.",
+          "sources": [
+            "w:G3150"
+          ]
+        }
+      },
+      {
+        "strong": "G3739",
+        "english": "from which",
+        "why_it_matters": {
+          "text": "This word links back to verse 5. What these teachers swerved from is the goal of love, a pure heart, a good conscience, and unfeigned faith.",
+          "sources": [
+            "w:G3739",
+            "v:1.5"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul says the aim of true teaching is love from a pure heart, a good conscience, and real faith. Those who miss that aim end up in empty talk, however learned they sound.",
+      "sources": [
+        "v:1.5",
+        "v:1.6",
+        "v:1.7"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "key_words.2",
+      "reason": "The lexicon gives only the Greek meaning ('idle or foolish talk'). None of the cited sources discusses the English phrase 'vain jangling' as old English for empty chatter, or rules out a sense of noise or music."
+    }
+  ]
+}

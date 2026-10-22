@@ -1,0 +1,158 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 2,
+    "verse": 3
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:44:27.311Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just urged that prayers and thanks be offered for all people, including kings and everyone in authority (2:1-2). This verse gives the reason: such prayer is good and pleasing to God. The next verse explains why, because God wants all people to be saved (2:4).",
+      "sources": [
+        "v:2.1",
+        "v:2.2",
+        "v:2.3",
+        "v:2.4"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in his name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus. Through him the instruction reaches that church.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The people being prayed for: all people, and in particular kings and all who hold authority.",
+        "sources": [
+          "v:2.1",
+          "v:2.2"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse states that praying for everyone, rulers included, is good and acceptable before God. It calls God 'our Saviour,' a title the letter also uses in its opening line.",
+      "sources": [
+        "v:2.3",
+        "x:1-timothy.1.1",
+        "w:G4990"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul had left Timothy in Ephesus and gone on to Macedonia. Nero was emperor, and the church was facing false teaching from within.",
+        "sources": [
+          "b:writtenFrom",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's first and second Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110, though others hold to the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia, known for its temple of Artemis. The place of writing is not stated; it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul gives a reason for his call to pray for all people. He grounds it in what pleases God, not just in the church's wish for a quiet life.",
+        "sources": [
+          "v:2.2",
+          "v:2.3"
+        ]
+      },
+      "big_picture": {
+        "text": "This is part of a section on prayer and conduct in worship. It leads into a central theme of the letter: God desires all people to be saved, and Christ gave himself a ransom for all.",
+        "sources": [
+          "b:outline",
+          "b:themes",
+          "v:2.4",
+          "v:2.6"
+        ]
+      },
+      "for_readers": {
+        "text": "Prayer for others, even for rulers, is presented as something God values. Other passages also speak of good deeds as pleasing or acceptable to God.",
+        "sources": [
+          "v:2.1",
+          "v:2.3",
+          "x:hebrews.13.16",
+          "x:1-peter.2.20"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3778",
+        "english": "this",
+        "why_it_matters": {
+          "text": "'This' points back to what came before. So what God calls good here is the prayer for all people and rulers in verses 1-2, not some new idea.",
+          "sources": [
+            "w:G3778",
+            "v:2.1",
+            "v:2.2"
+          ]
+        }
+      },
+      {
+        "strong": "G0587",
+        "english": "acceptable",
+        "why_it_matters": {
+          "text": "The word means acceptable or pleasing. In the New Testament it appears only here and in 5:4, so it marks prayer for others as something God welcomes.",
+          "sources": [
+            "w:G0587"
+          ]
+        }
+      },
+      {
+        "strong": "G1799",
+        "english": "in the sight of",
+        "why_it_matters": {
+          "text": "The phrase means 'before' or 'in the presence of.' Said of God, it carries the sense of God as witness or judge. The standard is God's view, not human approval.",
+          "sources": [
+            "w:G1799"
+          ]
+        }
+      },
+      {
+        "strong": "G4990",
+        "english": "Saviour",
+        "why_it_matters": {
+          "text": "'Saviour' was often used as a title for kings in the Ptolemaic and Roman periods. Here, right after a call to pray for kings, it is given to God.",
+          "sources": [
+            "w:G4990",
+            "v:2.2"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Praying for all people, including those in power, is good and pleasing to God our Saviour, who wants all people to be saved.",
+      "sources": [
+        "v:2.1",
+        "v:2.2",
+        "v:2.3",
+        "v:2.4"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

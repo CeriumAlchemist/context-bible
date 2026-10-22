@@ -1,0 +1,186 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 3
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:48:36.389Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is warning that some will leave the faith and follow teachings that come from deceiving spirits. Verse 3 names two of their rules: banning marriage and ordering people to avoid certain foods. Paul answers that God made food to be received with thanks, because everything God created is good.",
+      "sources": [
+        "v:4.1",
+        "v:4.2",
+        "v:4.3",
+        "v:4.4",
+        "v:4.5"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients",
+          "v:4.6"
+        ]
+      },
+      "affected": {
+        "text": "The false teachers who forbid marriage and foods, and the believers in the church who might be misled by them.",
+        "sources": [
+          "v:4.1",
+          "v:4.3",
+          "v:4.6"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul describes the false teachers' rules and corrects them. Food is something God created for believers to receive with thanksgiving, not something to be refused as unholy. Prayer and God's word set it apart for good use.",
+      "sources": [
+        "v:4.3",
+        "v:4.4",
+        "v:4.5"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul says this departure from the faith will happen \"in the latter times.\" His charge to Timothy to correct it shows the problem was already a concern in the church.",
+        "sources": [
+          "v:4.1",
+          "v:4.6",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, written by Paul between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote in Paul's name, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Timothy in Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to recognize this false teaching and remind the believers of the truth about God's good creation. Doing so would make Timothy a good minister of Jesus Christ.",
+        "sources": [
+          "v:4.6",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "A main theme of the letter is that everything God created is good and is received with thanksgiving. Other passages agree: marriage is honourable, and food does not make a person better or worse before God.",
+        "sources": [
+          "b:themes",
+          "x:hebrews.13.4",
+          "x:1-corinthians.8.8",
+          "x:genesis.9.3"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers can treat marriage and food as good gifts from God and receive them with thanks. They can also be wary of anyone who makes rules against them a test of true faith.",
+        "sources": [
+          "v:4.3",
+          "v:4.4",
+          "x:1-corinthians.10.31",
+          "x:colossians.2.16"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Quoted to condemn anyone who chooses not to marry, fasts, or avoids certain foods, as if any such choice were a \"doctrine of devils.\"",
+      "in_context_reading": {
+        "text": "Paul is targeting teachers who forbid marriage and command others to abstain, treating God's good creation as something to refuse. Elsewhere Scripture allows that a believer who does not eat can do so \"to the Lord\" and still give God thanks.",
+        "sources": [
+          "v:4.1",
+          "v:4.3",
+          "v:4.4",
+          "x:romans.14.6"
+        ]
+      }
+    },
+    "christians_differ": {
+      "text": "Some Protestants have read this verse as a warning against church rules like required clerical celibacy or set days of abstaining from meat. Catholic and Orthodox Christians answer that the verse condemns those who call marriage or food evil, not voluntary disciplines that still honor them as good. The verse itself speaks of forbidding marriage and refusing what God created as good.",
+      "sources": [
+        "v:4.3",
+        "v:4.4"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G2967",
+        "english": "forbidding",
+        "why_it_matters": {
+          "text": "The word means to hinder or prevent. The fault Paul names is imposing a ban on others, not a person's own choice.",
+          "sources": [
+            "w:G2967",
+            "v:4.3"
+          ]
+        }
+      },
+      {
+        "strong": "G1033",
+        "english": "meats",
+        "why_it_matters": {
+          "text": "The Greek word means food in general. The KJV's \"meats\" is not limited to animal flesh.",
+          "sources": [
+            "w:G1033"
+          ]
+        }
+      },
+      {
+        "strong": "G2936",
+        "english": "created",
+        "why_it_matters": {
+          "text": "This is the word used for God's act of creating. Paul's argument rests on the fact that God made these things, so they are good.",
+          "sources": [
+            "w:G2936",
+            "v:4.4"
+          ]
+        }
+      },
+      {
+        "strong": "G2169",
+        "english": "thanksgiving",
+        "why_it_matters": {
+          "text": "It means giving thanks. Paul says the right response to food is thankful receiving, not refusal, and he repeats the idea in the next verse.",
+          "sources": [
+            "w:G2169",
+            "v:4.4"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is a warning against teachers who ban marriage and food as if God's creation were bad. Paul's answer is that God made these things good, to be received with thanksgiving by those who know the truth.",
+      "sources": [
+        "v:4.3",
+        "v:4.4",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "christians_differ",
+      "reason": "The cited sources are only the verse texts. They say nothing about Protestant, Catholic, or Orthodox readings, clerical celibacy, or fasting days, so these attributions to traditions are unsupported."
+    },
+    {
+      "claim": "key_words.0",
+      "reason": "The lexicon gives only 'hinder, restrain, forbid, withhold.' Saying the fault is imposing a ban on others 'not a person's own choice' is an interpretive conclusion the entry does not make, and it takes one side of a disputed reading."
+    }
+  ]
+}

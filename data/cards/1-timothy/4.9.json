@@ -1,0 +1,141 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 9
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:49:08.190Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just told Timothy to train himself in godliness, because bodily exercise helps a little but godliness helps in everything and holds promise for this life and the next (4:7-8). Verse 9 stamps that teaching as a reliable saying that deserves to be fully accepted. The text does not plainly say whether 'this' points back to verse 8 or ahead to verse 10, which begins with 'For therefore.'",
+      "sources": [
+        "v:4.7",
+        "v:4.8",
+        "v:4.9",
+        "v:4.10"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The believers Timothy teaches. Paul wants him to 'command and teach' these things to them.",
+        "sources": [
+          "v:4.6",
+          "v:4.11"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul uses a set formula to vouch for a teaching: it is trustworthy and worth welcoming completely. He uses the same words in 1:15 about Christ Jesus coming into the world to save sinners.",
+      "sources": [
+        "v:4.9",
+        "x:1-timothy.1.15"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "While Timothy was leading the Ephesian church and facing false teachers who forbade marriage and certain foods.",
+        "sources": [
+          "b:recipients",
+          "v:4.1",
+          "v:4.3"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, by Paul between his Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, while others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. The place of writing is not stated, though it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul is setting real godliness against the false teachers' rules and 'old wives' fables.' He marks the value of godliness as a teaching Timothy can rely on and pass on.",
+        "sources": [
+          "v:4.3",
+          "v:4.7",
+          "v:4.8",
+          "v:4.11"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that sound teaching and godly living belong together. This saying ties godliness to hope in the living God, which is why Paul and Timothy labour and suffer reproach.",
+        "sources": [
+          "b:themes",
+          "v:4.10"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers are invited to treat the worth of godliness as solid ground, not just a nice idea. Paul says it carries promise now and in the life to come.",
+        "sources": [
+          "v:4.8",
+          "v:4.9"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4103",
+        "english": "faithful",
+        "why_it_matters": {
+          "text": "Pistos means trustworthy or reliable. 'Faithful saying' means a statement you can depend on, not a saying about faith.",
+          "sources": [
+            "w:G4103"
+          ]
+        }
+      },
+      {
+        "strong": "G0594",
+        "english": "acceptation",
+        "why_it_matters": {
+          "text": "Apodochē means acceptance or approval. The New Testament uses it only here and in 1:15, so it links the two sayings Paul marks as fully worth welcoming.",
+          "sources": [
+            "w:G0594",
+            "x:1-timothy.1.15"
+          ]
+        }
+      },
+      {
+        "strong": "G3956",
+        "english": "all",
+        "why_it_matters": {
+          "text": "Pas can mean 'of the highest degree.' 'All acceptation' therefore means full and wholehearted acceptance.",
+          "sources": [
+            "w:G3956"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul vouches for a teaching: godliness is worth far more than bodily training, because it holds promise for this life and the next. He says it deserves full acceptance.",
+      "sources": [
+        "v:4.8",
+        "v:4.9"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

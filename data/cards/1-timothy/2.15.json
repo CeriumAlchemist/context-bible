@@ -1,0 +1,188 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 2,
+    "verse": 15
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:45:59.386Z",
+  "card": {
+    "in_context": {
+      "text": "This verse closes a passage on how men and women should conduct themselves in worship (2:8-15). Right after mentioning Eve's deception in the transgression (2:14), Paul adds a word of hope: \"she shall be saved in childbearing,\" on the condition that \"they continue in faith and charity and holiness with sobriety.\"",
+      "sources": [
+        "v:2.8",
+        "v:2.13",
+        "v:2.14",
+        "v:2.15",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter. Some scholars think a follower wrote it in his name.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom he had left to lead the church at Ephesus. Through him, the instructions reach that church.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Women in the church, discussed in 2:9-15, are in view, with Eve as the example in 2:13-14. The verse moves from \"she\" to \"they,\" and the text does not say exactly who \"they\" are.",
+        "sources": [
+          "v:2.9",
+          "v:2.13",
+          "v:2.14",
+          "v:2.15"
+        ]
+      }
+    },
+    "what": {
+      "text": "After saying that Eve was deceived, Paul declares that \"she shall be saved\" through childbearing. The promise is tied to continuing in faith, love, holiness, and self-control.",
+      "sources": [
+        "v:2.14",
+        "v:2.15",
+        "w:G4982",
+        "w:G5042",
+        "w:G1437"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The instructions apply to church life in Ephesus while Timothy led the church there. Paul had gone on to Macedonia.",
+        "sources": [
+          "b:recipients",
+          "b:writtenFrom"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul. Scholarly view: many critical scholars date it around AD 80-110 and see it as written by a follower in Paul's name. Others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to the church in Ephesus, a wealthy port city and capital of the Roman province of Asia, known for its temple of Artemis.",
+      "sources": [
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse softens the hard words about Eve's deception (2:14) with a promise of salvation. It also calls women to the same godly character Paul urged in 2:9-10.",
+        "sources": [
+          "v:2.9",
+          "v:2.10",
+          "v:2.14",
+          "v:2.15"
+        ]
+      },
+      "big_picture": {
+        "text": "The chapter rests on the truth that God wants all people saved through the one mediator, Christ Jesus, who gave himself a ransom for all. The cross-references link childbearing to the curse and promise of Genesis 3:15-16 and to the birth of the Saviour in Luke 2:11.",
+        "sources": [
+          "v:2.4",
+          "v:2.5",
+          "v:2.6",
+          "x:genesis.3.15",
+          "x:genesis.3.16",
+          "x:luke.2.11"
+        ]
+      },
+      "for_readers": {
+        "text": "The letter teaches that belief and behavior belong together. This verse reflects that: salvation goes with lasting faith, love, holiness, and self-control.",
+        "sources": [
+          "b:themes",
+          "v:2.15",
+          "x:1-timothy.1.5",
+          "x:titus.2.12"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Quoted as if women earn salvation by having children, or as if childless women cannot be saved.",
+      "in_context_reading": {
+        "text": "The same chapter says salvation comes through the one mediator, Christ, who gave himself a ransom for all. The verse itself ties being saved to continuing in faith, love, and holiness, not to the act of giving birth alone.",
+        "sources": [
+          "v:2.5",
+          "v:2.6",
+          "v:2.15"
+        ]
+      }
+    },
+    "christians_differ": {
+      "text": "Christians read this verse in several ways. Some think it promises women safekeeping through childbirth, since the word \"save\" can mean rescue from danger. Some think \"the childbearing\" points to the birth of Christ, the promised seed of the woman. Others think it means women live out their salvation faithfully in motherhood and family life.",
+      "sources": [
+        "w:G4982",
+        "w:G3588",
+        "w:G5042",
+        "x:genesis.3.15",
+        "x:luke.2.11"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G4982",
+        "english": "shall be saved",
+        "why_it_matters": {
+          "text": "The word can mean rescue from danger, injury, or suffering, including healing. In the New Testament it most often means spiritual salvation. This range is a large part of why the verse is read in different ways.",
+          "sources": [
+            "w:G4982"
+          ]
+        }
+      },
+      {
+        "strong": "G5042",
+        "english": "childbearing",
+        "why_it_matters": {
+          "text": "This word appears only here in the New Testament. With no other New Testament uses to compare, its exact sense here is hard to settle.",
+          "sources": [
+            "w:G5042"
+          ]
+        }
+      },
+      {
+        "strong": "G3588",
+        "english": "the",
+        "why_it_matters": {
+          "text": "The Greek reads \"the childbearing,\" with the article that the KJV leaves out. Some readers take this to point to one particular birth, the birth of Christ.",
+          "sources": [
+            "w:G3588",
+            "w:G5042"
+          ]
+        }
+      },
+      {
+        "strong": "G4997",
+        "english": "sobriety (self-restraint)",
+        "why_it_matters": {
+          "text": "The word means good sense and self-control. Paul used the same word in 2:9, so the verse loops back to the godly character he described there.",
+          "sources": [
+            "w:G4997",
+            "x:1-timothy.2.9"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This is a hard verse, and Christians read it differently. In its chapter, salvation rests on Christ the one mediator, and the verse ties it to lasting faith, love, holiness, and self-control.",
+      "sources": [
+        "v:2.5",
+        "v:2.6",
+        "v:2.15"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon confirms the word is unique to this verse in the NT, but it gives a plain gloss ('child-bearing') and cites a use in Aristotle. It says nothing about the word's sense being hard to settle, so that part is added."
+    }
+  ]
+}

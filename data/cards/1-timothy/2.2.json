@@ -1,0 +1,176 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 2,
+    "verse": 2
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:44:17.812Z",
+  "card": {
+    "in_context": {
+      "text": "Paul urges that prayers and thanks be made 'for all men' (v.1), and this verse names kings and everyone in authority as part of that. The goal is a quiet, peaceable life marked by godliness. Paul says such prayer pleases God, who wants all people to be saved (vv.3-4).",
+      "sources": [
+        "v:2.1",
+        "v:2.2",
+        "v:2.3",
+        "v:2.4"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter.",
+        "sources": [
+          "b:author",
+          "v:2.7"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus. Through him the instruction reaches the church's worship.",
+        "sources": [
+          "b:recipients",
+          "b:outline"
+        ]
+      },
+      "affected": {
+        "text": "Kings and all who hold high positions are the ones prayed for. 'We', the believers, are the ones who hope to live quiet and godly lives as a result.",
+        "sources": [
+          "v:2.2",
+          "w:G5247"
+        ]
+      }
+    },
+    "what": {
+      "text": "An instruction to pray for rulers and officials. The stated purpose is that believers may lead a tranquil, peaceful life in godliness and dignity.",
+      "sources": [
+        "v:2.2",
+        "w:G2443",
+        "w:G2150",
+        "w:G4587"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The letter's setting is the reign of Nero (AD 54-68). Nero's persecution of Christians followed the fire of Rome in AD 64.",
+        "sources": [
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, by Paul between his Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower. Others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to the church at Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated, but it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "This verse opens a section on prayer and conduct in worship. It shows Timothy what the church's public prayers should include.",
+        "sources": [
+          "b:outline",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Prayer for rulers is tied to God's desire that all people be saved and come to know the truth. Christ is called the one mediator who gave himself a ransom for all.",
+        "sources": [
+          "v:2.3",
+          "v:2.4",
+          "v:2.5",
+          "v:2.6",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Like Jeremiah's call to exiles to pray for the city where they lived, believers are asked to pray for those who govern them. They are to seek peace so they can live godly lives.",
+        "sources": [
+          "x:jeremiah.29.7",
+          "x:ezra.6.10",
+          "x:romans.13.1",
+          "x:1-thessalonians.4.11"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0935",
+        "english": "kings",
+        "why_it_matters": {
+          "text": "In the common Greek of the time, this word was often used of the Roman Emperor. That means the prayer included the pagan ruler of the empire.",
+          "sources": [
+            "w:G0935",
+            "b:setting"
+          ]
+        }
+      },
+      {
+        "strong": "G5247",
+        "english": "authority",
+        "why_it_matters": {
+          "text": "The word literally means a peak or eminence, so 'those in authority' means those in high positions. It reaches beyond a formal title to anyone in a prominent post.",
+          "sources": [
+            "w:G5247"
+          ]
+        }
+      },
+      {
+        "strong": "G2263",
+        "english": "quiet",
+        "why_it_matters": {
+          "text": "Paul pairs two words for 'quiet'. One lexicon note suggests this one means calm that comes from outside, such as freedom from disturbance, while the other means inner calm. The same source adds that this distinction is not certain.",
+          "sources": [
+            "w:G2263",
+            "w:G2272"
+          ]
+        }
+      },
+      {
+        "strong": "G2150",
+        "english": "godliness",
+        "why_it_matters": {
+          "text": "The word means piety and reverence toward God. The peace being sought is not for comfort alone but for a life devoted to God, a key theme of the letter.",
+          "sources": [
+            "w:G2150",
+            "b:themes"
+          ]
+        }
+      },
+      {
+        "strong": "G4587",
+        "english": "honesty",
+        "why_it_matters": {
+          "text": "The Greek means gravity or dignity, not truth-telling. The KJV 'honesty' here points to a serious, respectable way of life.",
+          "sources": [
+            "w:G4587"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Believers are to pray for all who govern, including pagan emperors. The aim is a peaceful, godly life, and such prayer pleases a God who wants everyone to be saved.",
+      "sources": [
+        "v:2.1",
+        "v:2.2",
+        "v:2.3",
+        "v:2.4",
+        "w:G0935"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "why.purpose",
+      "reason": "The outline places the start of the prayer-and-worship section at 2:1, so this verse continues the section rather than opening it."
+    }
+  ]
+}

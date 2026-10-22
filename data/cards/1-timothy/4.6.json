@@ -1,0 +1,158 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 6
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:48:45.826Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just warned that some will turn from the faith and teach that people must not marry and must avoid certain foods (4:1-3). He answers that everything God made is good when received with thanks (4:4-5). In verse 6 he tells Timothy that reminding the believers of these truths is what makes him a good servant of Christ.",
+      "sources": [
+        "v:4.1",
+        "v:4.3",
+        "v:4.4",
+        "v:4.5",
+        "v:4.6"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "\"The brethren,\" meaning the believers in the church, who need to be reminded of the truth over against the false teaching.",
+        "sources": [
+          "v:4.6",
+          "w:G0080"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul promises that if Timothy sets these truths before the believers, he will be a good servant of Jesus Christ. Timothy himself is fed by the words of the faith and the good teaching he has closely followed.",
+      "sources": [
+        "v:4.6",
+        "w:G5294",
+        "w:G1249",
+        "w:G1789",
+        "w:G3877"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse gives instruction rather than describing an event. It is set while Timothy led the church in Ephesus after Paul went on to Macedonia.",
+        "sources": [
+          "b:recipients",
+          "b:writtenFrom"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port and capital of the Roman province of Asia. Where Paul wrote from is not stated, though it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul is coaching a young leader on how to meet false teaching. The answer is to keep reminding the church of sound truth and to stay fed on it himself.",
+        "sources": [
+          "b:purpose",
+          "v:4.6",
+          "v:4.7",
+          "v:4.12"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that sound teaching and godly living belong together. This verse opens a section where Timothy is to devote himself to reading, teaching, and his own life, so that he saves himself and his hearers.",
+        "sources": [
+          "b:themes",
+          "v:4.13",
+          "v:4.15",
+          "v:4.16"
+        ]
+      },
+      "for_readers": {
+        "text": "Good Christian service here is not novelty but faithful reminding of truth one has already learned. Other passages also stress remembrance and continuing in what was learned.",
+        "sources": [
+          "v:4.6",
+          "x:2-timothy.3.14",
+          "x:2-peter.3.1",
+          "x:titus.2.1"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G5294",
+        "english": "put in remembrance (laying before)",
+        "why_it_matters": {
+          "text": "The word means to lay something before someone or suggest it. It points to setting truth before the believers, not issuing harsh orders.",
+          "sources": [
+            "w:G5294"
+          ]
+        }
+      },
+      {
+        "strong": "G1249",
+        "english": "minister (servant)",
+        "why_it_matters": {
+          "text": "Diakonos means a servant or attendant in general. Here \"servant of Christ\" describes Timothy's role, not a formal church title.",
+          "sources": [
+            "w:G1249"
+          ]
+        }
+      },
+      {
+        "strong": "G1789",
+        "english": "nourished up",
+        "why_it_matters": {
+          "text": "This word means to be trained up or nurtured. It pictures the leader being continually fed by the words of the faith before feeding others.",
+          "sources": [
+            "w:G1789"
+          ]
+        }
+      },
+      {
+        "strong": "G3877",
+        "english": "attained (closely followed)",
+        "why_it_matters": {
+          "text": "The KJV \"attained\" translates a word meaning to follow closely as a standard of conduct. Timothy has not merely reached the teaching; he has been living by it.",
+          "sources": [
+            "w:G3877"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "A good servant of Christ keeps reminding God's people of the truth, especially when error spreads. He can only do that if he keeps feeding on that truth himself.",
+      "sources": [
+        "v:4.6",
+        "v:4.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

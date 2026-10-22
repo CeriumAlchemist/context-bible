@@ -1,0 +1,162 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 15
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:49:43.843Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just told Timothy to teach the church, set an example despite his youth, give attention to reading, exhortation and doctrine, and not neglect his gift (4:11-14). This verse sums those charges up: keep working at these things with full commitment so that people can see you growing.",
+      "sources": [
+        "v:4.11",
+        "v:4.12",
+        "v:4.13",
+        "v:4.14",
+        "v:4.15"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter. Many critical scholars instead think a follower wrote in Paul's name.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and \"own son in the faith,\" whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients",
+          "v:4.12"
+        ]
+      },
+      "affected": {
+        "text": "The believers Timothy leads. His visible progress is meant to be seen \"to all,\" and the next verse says his faithfulness affects \"them that hear thee.\"",
+        "sources": [
+          "v:4.15",
+          "v:4.16",
+          "w:G3956"
+        ]
+      }
+    },
+    "what": {
+      "text": "A command to a young church leader. He is to keep thinking about and practising Paul's instructions and to give himself wholly to them, so that his growth becomes plain to everyone.",
+      "sources": [
+        "v:4.15",
+        "w:G3191",
+        "w:G1510",
+        "w:G4297",
+        "w:G5318"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "While Timothy was leading the church in Ephesus and Paul was away. Paul writes \"Till I come\" (4:13), but the text does not give a more exact time.",
+        "sources": [
+          "v:4.13",
+          "b:recipients"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's first and second Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110, though others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Timothy was in Ephesus, a wealthy port city and capital of the Roman province of Asia. The letter does not say where it was written from, though Paul had gone on to Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "False teachers were troubling the church (4:1-3). Paul wants Timothy to answer them by steady, visible faithfulness in his own life and teaching.",
+        "sources": [
+          "v:4.1",
+          "v:4.2",
+          "v:4.3",
+          "v:4.16",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that sound teaching and godly living belong together. Here the leader's own growth is part of how the church is guarded and helped.",
+        "sources": [
+          "b:themes",
+          "v:4.16"
+        ]
+      },
+      "for_readers": {
+        "text": "Growth in faith is meant to be real enough that others can see it, much like Jesus' call to \"let your light so shine before men.\"",
+        "sources": [
+          "v:4.15",
+          "x:matthew.5.16",
+          "x:philippians.2.15"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3191",
+        "english": "meditate upon",
+        "why_it_matters": {
+          "text": "The Greek word can mean \"ponder\" but also \"attend to, practise\"; one translation renders it \"be diligent in.\" So it is not only quiet thought but active, careful practice of Paul's instructions.",
+          "sources": [
+            "w:G3191"
+          ]
+        }
+      },
+      {
+        "strong": "G1510",
+        "english": "give thyself wholly",
+        "why_it_matters": {
+          "text": "The Greek is simply the verb \"be,\" with \"in\" them, rendered here as \"do be absorbed.\" Timothy is to live inside these duties, not treat them as a side task.",
+          "sources": [
+            "w:G1510",
+            "w:G1722"
+          ]
+        }
+      },
+      {
+        "strong": "G4297",
+        "english": "profiting",
+        "why_it_matters": {
+          "text": "The word means \"progress,\" first used of moving forward on a journey. It is about ongoing growth, not financial gain or a finished achievement.",
+          "sources": [
+            "w:G4297"
+          ]
+        }
+      },
+      {
+        "strong": "G5318",
+        "english": "appear",
+        "why_it_matters": {
+          "text": "The word means \"open to sight, visible, manifest.\" Timothy's growth is meant to be plain to others, which helps answer those who might look down on his youth (4:12).",
+          "sources": [
+            "w:G5318",
+            "v:4.12"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is a call to wholehearted, practical commitment to faithful teaching and godly living. Paul's goal is that real progress be visible to all, for the good of both the leader and those who hear him.",
+      "sources": [
+        "v:4.15",
+        "v:4.16",
+        "w:G3191",
+        "w:G4297"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

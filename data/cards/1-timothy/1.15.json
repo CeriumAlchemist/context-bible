@@ -1,0 +1,173 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 15
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:43:31.310Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just warned Timothy about false teachers in Ephesus who misuse the law. He then thanks Christ for showing mercy to him, a former blasphemer and persecutor. This verse states the heart of the gospel he was entrusted with: Christ came to save sinners, and Paul counts himself the foremost of them.",
+      "sources": [
+        "v:1.3",
+        "v:1.7",
+        "v:1.11",
+        "v:1.12",
+        "v:1.13",
+        "v:1.15"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and \"own son in the faith,\" whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Sinners in general, whom Christ came to save. Paul names himself as the chief example, and says his case is a pattern for all who would later believe.",
+        "sources": [
+          "v:1.15",
+          "v:1.16"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul gives a \"faithful saying,\" a trustworthy statement that deserves full acceptance: Christ Jesus came into the world to save sinners. He adds that he himself is the foremost sinner. He means his past as a blasphemer and persecutor, which makes him proof of how far Christ's mercy reaches.",
+      "sources": [
+        "v:1.15",
+        "v:1.13",
+        "v:1.16",
+        "w:G4103",
+        "w:G0594"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul looks back on his own past as a persecutor and on the mercy he received when Christ put him into ministry. The sources do not give a date for those events.",
+        "sources": [
+          "v:1.12",
+          "v:1.13"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's first and second Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Timothy in Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated. He had gone on to Macedonia, so he may have written from there.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Against teachers who wanted to be \"teachers of the law\" but did not understand it, Paul restates the simple core of the gospel entrusted to him. He uses his own story of mercy as evidence for it.",
+        "sources": [
+          "v:1.7",
+          "v:1.11",
+          "v:1.15",
+          "v:1.16",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The verse echoes Jesus' own words that he came to call sinners and to seek and save the lost. It fits the letter's theme that God desires all people to be saved.",
+        "sources": [
+          "x:mark.2.17",
+          "x:luke.19.10",
+          "x:luke.5.32",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "If Christ could show mercy to the man who persecuted his people, no one is beyond his reach. Paul says his case was meant as a pattern for later believers.",
+        "sources": [
+          "v:1.13",
+          "v:1.16"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Paul says \"I am chief,\" in the present tense. Some Christians read this as Paul's ongoing view of himself even as a believer, and a model of humble self-assessment. Others read it as pointing mainly to his former life as a blasphemer and persecutor, described just before in verse 13.",
+      "sources": [
+        "v:1.15",
+        "v:1.13",
+        "w:G1510"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G4103",
+        "english": "faithful",
+        "why_it_matters": {
+          "text": "The word means trustworthy or reliable. \"Faithful saying\" marks the statement as a dependable truth that can be relied on, not just a nice sentiment.",
+          "sources": [
+            "w:G4103",
+            "v:1.15"
+          ]
+        }
+      },
+      {
+        "strong": "G0268",
+        "english": "sinners",
+        "why_it_matters": {
+          "text": "The lexicon notes that here the word covers all people, while in 1:9 it describes the especially wicked. Paul places himself among the very people the law condemns, and says Christ came for them.",
+          "sources": [
+            "w:G0268",
+            "v:1.9",
+            "v:1.15"
+          ]
+        }
+      },
+      {
+        "strong": "G4413J",
+        "english": "chief",
+        "why_it_matters": {
+          "text": "The Greek word means \"first\" or \"foremost.\" It links to the next verse, where Christ showed mercy \"in me first\" as a pattern. Paul is foremost both as a sinner and as an example of mercy.",
+          "sources": [
+            "w:G4413J",
+            "v:1.16"
+          ]
+        }
+      },
+      {
+        "strong": "G4982",
+        "english": "save",
+        "why_it_matters": {
+          "text": "The word means to rescue from danger or harm. In the New Testament it is used especially for rescue from spiritual sickness and death. Christ's coming is presented as a rescue mission.",
+          "sources": [
+            "w:G4982"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse sums up the gospel in one line: Christ came to save sinners. Paul, a former persecutor, offers himself as living proof that this mercy reaches even the worst.",
+      "sources": [
+        "v:1.15",
+        "v:1.13",
+        "v:1.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

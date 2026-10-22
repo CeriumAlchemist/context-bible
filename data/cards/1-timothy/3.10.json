@@ -1,0 +1,151 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 10
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:47:21.694Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just listed what deacons must be like (3:8-9). This verse adds a step: they must be tested first, and only serve once they prove blameless. It mirrors the rule that a bishop must not be a novice (3:6).",
+      "sources": [
+        "v:3.8",
+        "v:3.9",
+        "v:3.10",
+        "v:3.6"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer. Many critical scholars think a follower wrote in his name; others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients",
+          "v:3.14"
+        ]
+      },
+      "affected": {
+        "text": "Men being considered as deacons. \"These also\" points back to the deacons described in verses 8-9.",
+        "sources": [
+          "v:3.8",
+          "v:3.10",
+          "w:G3778"
+        ]
+      }
+    },
+    "what": {
+      "text": "Deacons should not be appointed right away. They should first be tested, and then serve if no one can bring a charge against them.",
+      "sources": [
+        "v:3.10",
+        "w:G1381",
+        "w:G0410",
+        "w:G1534"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This instruction applies whenever the church at Ephesus chose new deacons. The text does not describe a specific event.",
+        "sources": [
+          "v:3.10",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, between Paul's two Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. The place it was written from is not stated; it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to know how people should behave in God's household, the church. Part of that is choosing leaders carefully.",
+        "sources": [
+          "v:3.14",
+          "v:3.15",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter stresses that church leaders must be people of proven character. Elsewhere Paul warns Timothy, \"Lay hands suddenly on no man\" (1 Timothy 5:22).",
+        "sources": [
+          "b:themes",
+          "x:1-timothy.5.22"
+        ]
+      },
+      "for_readers": {
+        "text": "Trust in leaders should be built on a track record, not on enthusiasm alone. Those who serve well gain \"great boldness in the faith\" (3:13).",
+        "sources": [
+          "v:3.10",
+          "x:1-timothy.3.13"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1381",
+        "english": "be proved",
+        "why_it_matters": {
+          "text": "This word was first used for testing metals. It means testing in the hope the test will succeed. The aim is to confirm good people, not to look for reasons to reject them.",
+          "sources": [
+            "w:G1381"
+          ]
+        }
+      },
+      {
+        "strong": "G0410",
+        "english": "blameless",
+        "why_it_matters": {
+          "text": "It means \"not able to be called to account,\" with no charge that sticks. It does not mean sinless. The same standard is set for bishops in Titus 1:6-7.",
+          "sources": [
+            "w:G0410",
+            "x:titus.1.6",
+            "x:titus.1.7"
+          ]
+        }
+      },
+      {
+        "strong": "G1247",
+        "english": "use the office of a deacon",
+        "why_it_matters": {
+          "text": "The KJV phrase is one Greek verb meaning \"to serve.\" Here it means serving as a deacon. The role is basically service, like waiting on others.",
+          "sources": [
+            "w:G1247"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Test people before giving them responsibility in the church, and let them serve once they prove there is nothing to hold against them.",
+      "sources": [
+        "v:3.10",
+        "w:G1381",
+        "w:G0410"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "who.affected",
+      "reason": "The cited sources speak only of \"deacons\" and \"these\" and never say they are men. Whether deacons were limited to men is debated (3:11 is read by some as women deacons), so stating \"men\" presents one reading as the only one."
+    }
+  ]
+}

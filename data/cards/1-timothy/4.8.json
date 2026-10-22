@@ -1,0 +1,174 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 8
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:49:08.634Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just warned Timothy about false teachers who forbid marriage and demand abstaining from certain foods (4:1-3). He tells Timothy to reject such fables and to train himself in godliness instead (4:7). This verse gives the reason: physical training helps a little, but godliness helps in every way, now and in the life to come.",
+      "sources": [
+        "v:4.1",
+        "v:4.3",
+        "v:4.7",
+        "v:4.8"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The believers Timothy teaches. Paul says that by teaching these things Timothy will save himself and those who hear him.",
+        "sources": [
+          "v:4.6",
+          "v:4.11",
+          "v:4.16"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul compares two kinds of training. Bodily training is of some use, but only a little. Godliness, meaning reverent devotion to God, is useful for everything and carries a promise for this life and the next.",
+      "sources": [
+        "v:4.8",
+        "w:G1129",
+        "w:G3641",
+        "w:G2150",
+        "w:G1860"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse belongs to Paul's instructions for Timothy's leadership in Ephesus, during a time of false teaching within the church.",
+        "sources": [
+          "b:purpose",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's first and second Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Timothy was in Ephesus, a wealthy port city and capital of the Roman province of Asia. The letter does not say where it was written from, though Paul had gone on to Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "b:recipients"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to put his effort into growing in godliness, not into empty teachings. The athletic picture of training (\"exercise thyself\") carries from verse 7 into verse 8.",
+        "sources": [
+          "v:4.7",
+          "v:4.8",
+          "w:G1129"
+        ]
+      },
+      "big_picture": {
+        "text": "A key theme of the letter is that sound teaching produces godly living, and that belief and behavior belong together. Paul calls this a faithful saying worth accepting, rooted in trust in the living God.",
+        "sources": [
+          "b:themes",
+          "v:4.9",
+          "v:4.10"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse asks readers to weigh where they put their effort. Caring for the body has real but limited value. Devotion to God has value that lasts beyond this life.",
+        "sources": [
+          "v:4.8",
+          "x:1-timothy.6.6"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Quoted to claim that physical exercise is worthless or unspiritual, or set up as a choice between fitness and faith.",
+      "in_context_reading": {
+        "text": "Paul says bodily training profits \"little,\" not nothing. His point is a comparison: godliness has far greater and longer-lasting value, and he uses the image of training to urge Timothy to work at it.",
+        "sources": [
+          "v:4.7",
+          "v:4.8",
+          "w:G3641",
+          "w:G5624"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1129",
+        "english": "exercise",
+        "why_it_matters": {
+          "text": "The Greek word means training or exercise, related to the verb used in verse 7 for \"exercise thyself.\" Paul compares two kinds of training, not exercise against laziness.",
+          "sources": [
+            "w:G1129",
+            "v:4.7"
+          ]
+        }
+      },
+      {
+        "strong": "G3641",
+        "english": "little",
+        "why_it_matters": {
+          "text": "The word means few, small, or slight. It grants bodily training some real value while ranking it far below godliness.",
+          "sources": [
+            "w:G3641"
+          ]
+        }
+      },
+      {
+        "strong": "G2150",
+        "english": "godliness",
+        "why_it_matters": {
+          "text": "The word means piety or reverence toward God. It is a favorite word in this letter, describing a whole way of life shaped by devotion to God, not just religious activity.",
+          "sources": [
+            "w:G2150"
+          ]
+        }
+      },
+      {
+        "strong": "G1860",
+        "english": "promise",
+        "why_it_matters": {
+          "text": "In the New Testament this word is used especially for God's promises. Godliness is valuable because God attaches a promise to it, for this life and the coming one.",
+          "sources": [
+            "w:G1860",
+            "v:4.8"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Train the body if you like, since it helps a little. But give your main effort to godliness, which God promises will benefit you both now and in the life to come.",
+      "sources": [
+        "v:4.7",
+        "v:4.8",
+        "x:mark.10.30"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "key_words.2",
+      "reason": "The lexicon defines the word as piety or reverence toward God and lists its occurrences. It does not say it describes 'a whole way of life' as opposed to 'just religious activity'; that contrast is added interpretation."
+    }
+  ]
+}

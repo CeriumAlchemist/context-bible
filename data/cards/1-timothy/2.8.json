@@ -1,0 +1,186 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 2,
+    "verse": 8
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:45:16.603Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just urged prayer for all people, including rulers, because God wants all to be saved and Christ gave himself a ransom for all. Verse 8 draws a conclusion ('therefore'): men should pray in every place with holy hands, free of anger and quarreling. Verses 9-15 then turn to how women should conduct themselves.",
+      "sources": [
+        "v:2.1",
+        "v:2.2",
+        "v:2.4",
+        "v:2.6",
+        "v:2.8",
+        "v:2.9",
+        "w:G3767",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself in the letter's opening and here calls himself a preacher, apostle, and teacher of the Gentiles.",
+        "sources": [
+          "b:author",
+          "v:2.7"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The men of the church. The Greek word here means men as males, in contrast to the women addressed in the next verse.",
+        "sources": [
+          "w:G0435G",
+          "v:2.9"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul states what he wants: men praying everywhere, lifting up holy hands. Their prayer should come without anger and without quarreling or inward questioning.",
+      "sources": [
+        "v:2.8",
+        "w:G1014",
+        "w:G3709",
+        "w:G1261"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse gives guidance for the ongoing worship life of the church in Ephesus. It is part of a section on prayer and conduct in worship.",
+        "sources": [
+          "b:outline",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110, written in Paul's name by a follower; others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated; he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul is instructing Timothy on how believers should conduct themselves in worship. Prayer for all people needs to come from people at peace, not people who are angry or arguing.",
+        "sources": [
+          "b:purpose",
+          "v:2.1",
+          "v:2.8"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that belief and behavior belong together. Here, prayer that reflects God's desire for all to be saved must be matched by clean, peaceable lives.",
+        "sources": [
+          "b:themes",
+          "v:2.4"
+        ]
+      },
+      "for_readers": {
+        "text": "Lifted hands were an old sign of prayer and blessing. Scripture also warns that God will not hear prayers from hands full of blood, and calls people to cleanse their hands and hearts.",
+        "sources": [
+          "x:psalms.134.2",
+          "x:psalms.63.4",
+          "x:isaiah.1.15",
+          "x:james.4.8"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Some Christians read 'men' here, with the following verses, as meaning that men should lead public prayer in church; others see it as addressing a specific problem of angry men in Ephesus, not limiting who may pray. Some churches also take 'lifting up holy hands' as encouraging that physical posture, while others see the stress as falling on holy lives rather than a required gesture.",
+      "sources": [
+        "w:G0435G",
+        "v:2.8",
+        "v:2.12",
+        "w:G3741"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G0435G",
+        "english": "men",
+        "why_it_matters": {
+          "text": "This word means a man as a male, not people in general. Paul speaks to men here and to women in the next verse.",
+          "sources": [
+            "w:G0435G",
+            "v:2.9"
+          ]
+        }
+      },
+      {
+        "strong": "G3741",
+        "english": "holy",
+        "why_it_matters": {
+          "text": "It means religiously right or pious. 'Holy hands' points to a righteous life, not merely a ritual gesture.",
+          "sources": [
+            "w:G3741"
+          ]
+        }
+      },
+      {
+        "strong": "G3709",
+        "english": "wrath",
+        "why_it_matters": {
+          "text": "This is human anger, the kind other letters tell believers to put away. Paul wants prayer free of it.",
+          "sources": [
+            "w:G3709"
+          ]
+        }
+      },
+      {
+        "strong": "G1261",
+        "english": "doubting",
+        "why_it_matters": {
+          "text": "The KJV says 'doubting', but the word means reasoning or inward questioning and here may imply evil intention or dispute. It points more to quarreling than to weak faith.",
+          "sources": [
+            "w:G1261"
+          ]
+        }
+      },
+      {
+        "strong": "G1014",
+        "english": "I will",
+        "why_it_matters": {
+          "text": "This verb stresses a deliberate wish or purpose. Paul is setting out what he firmly wants for the church.",
+          "sources": [
+            "w:G1014"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Prayer for all people should rise from lives that are clean and at peace. Angry, quarreling hands do not fit prayer to the God who wants all to be saved.",
+      "sources": [
+        "v:2.4",
+        "v:2.8",
+        "x:isaiah.1.15"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "key_words.3",
+      "reason": "The lexicon gives the core sense as 'reasoning, inward questioning', which is close to the KJV's 'doubting'. It only says the word 'perh.' implies evil intention here. The claim's firm conclusion that the word points to quarreling rather than weak faith overstates that hedged entry and dismisses a reading the source still allows."
+    },
+    {
+      "claim": "key_words.2",
+      "reason": "The lexicon only lists references (Eph 4:31, Col 3:8, Jas 1:19-20) under human anger. It does not say that other letters tell believers to put such anger away, so that detail goes beyond the cited source."
+    }
+  ]
+}

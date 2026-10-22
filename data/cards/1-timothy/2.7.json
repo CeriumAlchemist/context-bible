@@ -1,0 +1,163 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 2,
+    "verse": 7
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:44:53.343Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just said that God wants all people to be saved and that Christ gave himself a ransom for all, a message to be made known in its proper time. In this verse Paul says this message is the very thing he was appointed to announce, especially to the Gentiles.",
+      "sources": [
+        "v:2.4",
+        "v:2.5",
+        "v:2.6",
+        "v:2.7"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer at the start of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The Gentiles, meaning the nations other than Israel, to whom Paul was sent as a teacher.",
+        "sources": [
+          "v:2.7",
+          "w:G1484"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul states his three roles: herald (preacher), apostle, and teacher of the Gentiles. He adds a solemn oath, \"I speak the truth in Christ, and lie not,\" to back up his claim to be an apostle.",
+      "sources": [
+        "v:2.7",
+        "w:G2783",
+        "w:G0652",
+        "w:G5574"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse looks back to Paul's appointment to his mission. Acts records the Lord calling him \"a chosen vessel\" to carry Christ's name before the Gentiles.",
+        "sources": [
+          "v:2.7",
+          "x:acts.9.15"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's first and second Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote in Paul's name, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. The place of writing is not stated; Paul had gone on to Macedonia, so he may have written from there.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul ties his own calling to the message that Christ is a ransom for all. If God wants all people saved, then a herald must go to the Gentiles too, and Paul is that herald.",
+        "sources": [
+          "v:2.4",
+          "v:2.6",
+          "v:2.7"
+        ]
+      },
+      "big_picture": {
+        "text": "The chapter is about prayer for all people and conduct in worship. This verse supports the call to pray for all men by showing that God's saving plan reaches beyond Israel.",
+        "sources": [
+          "v:2.1",
+          "v:2.4",
+          "b:outline",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Timothy faced false teachers in Ephesus, so Paul's firm claim to be truly sent by God gave weight to the teaching Timothy was to uphold.",
+        "sources": [
+          "b:purpose",
+          "v:2.7"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G2783",
+        "english": "preacher",
+        "why_it_matters": {
+          "text": "The Greek word means a herald, someone who publicly announces a message on behalf of another. Paul is not describing a speech-maker but an official announcer of what God has done.",
+          "sources": [
+            "w:G2783"
+          ]
+        }
+      },
+      {
+        "strong": "G0652",
+        "english": "apostle",
+        "why_it_matters": {
+          "text": "An apostle is one sent on a mission. The lexicon notes this verse is one where Paul claims equal standing with the Twelve, which explains why he adds an oath.",
+          "sources": [
+            "w:G0652"
+          ]
+        }
+      },
+      {
+        "strong": "G5087",
+        "english": "ordained",
+        "why_it_matters": {
+          "text": "The Greek verb means to place, set, or appoint. KJV \"ordained\" here means God appointed Paul, not a church ceremony.",
+          "sources": [
+            "w:G5087"
+          ]
+        }
+      },
+      {
+        "strong": "G1484",
+        "english": "Gentiles",
+        "why_it_matters": {
+          "text": "The word means the nations as distinct from Israel. Paul's mission was aimed at non-Jewish peoples, fitting the claim that Christ is a ransom for all.",
+          "sources": [
+            "w:G1484",
+            "v:2.6"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is Paul's statement of his credentials, sworn under oath. Because God wants all people saved, he sent Paul as a herald, apostle, and teacher to the nations.",
+      "sources": [
+        "v:2.4",
+        "v:2.7",
+        "x:2-timothy.1.11"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "key_words.2",
+      "reason": "The lexicon gives only 'to place, set' (glossed 'was appointed'). It does not say who did the appointing, and it says nothing to rule out a church ceremony; that contrast is added interpretation."
+    },
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon does say Paul claims equality with the Twelve in this verse, but it does not say this explains why he adds an oath. That causal link is presented as if it came from the source."
+    }
+  ]
+}

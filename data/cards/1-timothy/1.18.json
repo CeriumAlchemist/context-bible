@@ -1,0 +1,169 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 18
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:43:48.637Z",
+  "card": {
+    "in_context": {
+      "text": "After warning about false teachers (1:3-11) and praising God for his own mercy (1:12-17), Paul returns to Timothy's task. He hands Timothy this charge and reminds him of earlier prophecies about him, so Timothy can fight well. The next verse tells him to hold faith and a good conscience, unlike some who have \"made shipwreck.\"",
+      "sources": [
+        "v:1.3",
+        "v:1.5",
+        "v:1.12",
+        "v:1.17",
+        "v:1.18",
+        "v:1.19"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom he calls his son in the faith. Paul had left him to lead the church at Ephesus.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The false teachers in Ephesus whom Timothy must confront. Paul names two who have turned from the faith: Hymenaeus and Alexander.",
+        "sources": [
+          "v:1.3",
+          "v:1.6",
+          "v:1.7",
+          "v:1.19",
+          "v:1.20"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul formally entrusts Timothy with a \"charge,\" a command, as one might deposit something valuable with a trusted person. He links it to prophecies spoken over Timothy in the past, which Timothy can draw on to \"war a good warfare.\" The fight is the struggle to keep sound teaching against false teachers.",
+      "sources": [
+        "v:1.18",
+        "w:G3852",
+        "w:G3908",
+        "w:G4394",
+        "w:G4754",
+        "v:1.3"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul had gone on to Macedonia and left Timothy in Ephesus. The prophecies about Timothy came earlier, but the text does not say when.",
+        "sources": [
+          "v:1.3",
+          "v:1.18"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, written by Paul between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote it in Paul's name; others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Timothy was in Ephesus, a wealthy port and capital of the Roman province of Asia. The letter does not say where Paul wrote from, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants to steady Timothy for a hard job: stopping others from teaching false doctrine. Recalling the prophecies reminds Timothy that his calling was confirmed, which gives him courage.",
+        "sources": [
+          "v:1.3",
+          "v:1.18",
+          "b:purpose",
+          "x:1-timothy.4.14"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that sound teaching and godly living belong together. Paul uses military language for this spiritual struggle elsewhere too, saying the weapons \"are not carnal, but mighty through God.\"",
+        "sources": [
+          "b:themes",
+          "x:2-corinthians.10.3",
+          "x:2-corinthians.10.4"
+        ]
+      },
+      "for_readers": {
+        "text": "Faithful service can be hard, and it helps to remember how God first called and equipped us. Holding on to faith and a good conscience keeps a person from shipwreck.",
+        "sources": [
+          "v:1.18",
+          "v:1.19",
+          "x:1-timothy.6.20"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3852",
+        "english": "charge",
+        "why_it_matters": {
+          "text": "The word means an instruction or command, and in other Greek writers it was used of a military order. It fits the soldier imagery later in the verse.",
+          "sources": [
+            "w:G3852"
+          ]
+        }
+      },
+      {
+        "strong": "G3908",
+        "english": "commit",
+        "why_it_matters": {
+          "text": "It means to deposit something with another or give it into their care. Timothy is being entrusted with something valuable to guard, as in 6:20.",
+          "sources": [
+            "w:G3908",
+            "x:1-timothy.6.20"
+          ]
+        }
+      },
+      {
+        "strong": "G4394",
+        "english": "prophecies",
+        "why_it_matters": {
+          "text": "This refers to prophecy as declaring God's will. In context it points to earlier words spoken about Timothy, likely tied to the gift given him \"by prophecy\" in 4:14.",
+          "sources": [
+            "w:G4394",
+            "x:1-timothy.4.14"
+          ]
+        }
+      },
+      {
+        "strong": "G4752",
+        "english": "warfare",
+        "why_it_matters": {
+          "text": "The word means a military campaign. Here it is used as a picture of spiritual conflict, not physical fighting.",
+          "sources": [
+            "w:G4752",
+            "w:G4754",
+            "x:2-corinthians.10.4"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul entrusts Timothy with the task of guarding sound teaching. He reminds him of God's earlier confirmation of his calling, so he can fight this spiritual battle faithfully with faith and a good conscience.",
+      "sources": [
+        "v:1.18",
+        "v:1.19",
+        "v:1.3"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

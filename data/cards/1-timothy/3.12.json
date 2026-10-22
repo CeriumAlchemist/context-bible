@@ -1,0 +1,164 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 12
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:47:32.150Z",
+  "card": {
+    "in_context": {
+      "text": "This verse is part of Paul's list of qualifications for church leaders (3:1-13). After describing bishops (3:2-7) and the character of deacons and their wives (3:8-11), he adds that deacons must be faithful in marriage and manage their children and homes well.",
+      "sources": [
+        "v:3.2",
+        "v:3.8",
+        "v:3.11",
+        "v:3.12",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter. Many critical scholars think a follower wrote in Paul's name.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Men being considered for the office of deacon, along with their wives, children and households.",
+        "sources": [
+          "v:3.10",
+          "v:3.11",
+          "v:3.12"
+        ]
+      }
+    },
+    "what": {
+      "text": "Deacons are to be \"the husbands of one wife\" and to rule their children and their own houses well. The same two tests were given for bishops, which shows that a leader's home life is treated as proof of his character.",
+      "sources": [
+        "v:3.12",
+        "x:1-timothy.3.2",
+        "x:1-timothy.3.4"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse gives standing instructions rather than describing an event. It concerns the church at Ephesus while Nero was emperor (AD 54-68).",
+        "sources": [
+          "b:setting",
+          "b:recipients"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110, though others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port and capital of the Roman province of Asia. Where Paul wrote from is not stated, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wanted Timothy to know how people ought to behave in God's household, the church, so he set out who could be trusted with office.",
+        "sources": [
+          "v:3.14",
+          "v:3.15",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "A key theme of the letter is that belief and behavior belong together, and that leaders must be people of proven character. Deacons are to be tested first (3:10), and those who serve well gain a good standing and boldness in the faith (3:13).",
+        "sources": [
+          "b:themes",
+          "v:3.10",
+          "v:3.13"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse shows that faithfulness at home counts as part of fitness to serve in the church. Paul asks of bishops, \"if a man know not how to rule his own house, how shall he take care of the church of God?\"",
+        "sources": [
+          "x:1-timothy.3.5",
+          "v:3.12"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Traditions read \"husbands of one wife\" differently. Some take it to mean faithful to one wife. Others read it as never divorced and remarried, or as married only once in a lifetime. Some see it mainly as ruling out polygamy. Christians also differ over whether 3:11 refers to deacons' wives or to women deacons; one lexicon lists \"deaconess\" as a possible sense there. The text itself does not settle these questions.",
+      "sources": [
+        "v:3.12",
+        "v:3.11",
+        "w:G1135H",
+        "w:G1520"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G1249",
+        "english": "deacons",
+        "why_it_matters": {
+          "text": "The Greek word simply means a servant or attendant, and it is used of servants of God and of Christ. Here it names a church office, but the word itself stresses service rather than rank.",
+          "sources": [
+            "w:G1249",
+            "x:philippians.1.1"
+          ]
+        }
+      },
+      {
+        "strong": "G0435H",
+        "english": "husbands",
+        "why_it_matters": {
+          "text": "The word means a man or a husband. Together with \"one\" and \"wife,\" the phrase is literally \"men of one woman.\" The same wording is used for bishops in 3:2.",
+          "sources": [
+            "w:G0435H",
+            "w:G1520",
+            "w:G1135H",
+            "x:1-timothy.3.2"
+          ]
+        }
+      },
+      {
+        "strong": "G4291",
+        "english": "ruling",
+        "why_it_matters": {
+          "text": "This verb means to preside, lead or manage. The same word is used of bishops managing their homes (3:4-5) and of elders who rule well (5:17). That ties a deacon's care of his household to the care he would give the church.",
+          "sources": [
+            "w:G4291",
+            "x:1-timothy.3.4",
+            "x:1-timothy.3.5"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is not a standalone rule about marriage. It is one item in a list meant to make sure church servants are proven, trustworthy people whose faithfulness shows first in their own homes.",
+      "sources": [
+        "v:3.10",
+        "v:3.12",
+        "v:3.15",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "in_context",
+      "reason": "It presents 'husbands of one wife' as meaning 'faithful in marriage', which is only one interpretation. The cited text gives just the phrase, and the card itself notes that other readings exist, such as married only once or ruling out polygamy."
+    }
+  ]
+}

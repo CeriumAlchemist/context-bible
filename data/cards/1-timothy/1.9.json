@@ -1,0 +1,195 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 9
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:42:44.607Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is warning about people at Ephesus who wanted to be 'teachers of the law' but did not understand it. He says the law is good when used rightly. This verse and the next explain that right use: the law is aimed at people who do wrong, and he lists examples.",
+      "sources": [
+        "v:1.6",
+        "v:1.7",
+        "v:1.8",
+        "v:1.9",
+        "v:1.10"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and 'own son in the faith,' whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Paul has in view the would-be law teachers who had 'turned aside unto vain jangling,' or empty talk. The verse also names the kinds of wrongdoers the law is aimed at.",
+        "sources": [
+          "v:1.6",
+          "v:1.7",
+          "v:1.9"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul says the law is not laid down for a righteous person. It is for the lawless, the rebellious, the ungodly, sinners, the unholy and irreverent, those who kill or strike their parents, and murderers. The list continues into the next verse and ends with anything 'contrary to sound doctrine.'",
+      "sources": [
+        "v:1.9",
+        "v:1.10",
+        "w:G2749",
+        "w:G3964",
+        "w:G3389"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul had urged Timothy to stay in Ephesus while Paul went on to Macedonia. Timothy was to stop certain people from teaching other doctrine.",
+        "sources": [
+          "v:1.3"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his first and second Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower. Others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Timothy in Ephesus, a wealthy port and capital of the Roman province of Asia. The text does not say where Paul wrote from. He had gone to Macedonia, so he may have written from there.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul is correcting false teachers who misused the law. He shows what the law is actually for, so Timothy can hold to sound teaching.",
+        "sources": [
+          "v:1.7",
+          "v:1.8",
+          "v:1.10",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul elsewhere says the law 'was added because of transgressions.' Here, right after the list of sinners, he calls himself a former blasphemer and persecutor. He says 'Christ Jesus came into the world to save sinners; of whom I am chief.' The law exposes sin, and the gospel offers mercy to such sinners.",
+        "sources": [
+          "x:galatians.3.19",
+          "v:1.11",
+          "v:1.13",
+          "v:1.15",
+          "v:1.16"
+        ]
+      },
+      "for_readers": {
+        "text": "The law is good when used for its purpose: naming wrong as wrong. Paul does not use the list to look down on others. He counts himself among the sinners Christ came to save.",
+        "sources": [
+          "v:1.8",
+          "v:1.15",
+          "x:titus.3.3"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "'The law is not made for a righteous man' is sometimes quoted to claim that believers have no need of moral standards, or that rules are only for other, worse people.",
+      "in_context_reading": {
+        "text": "The verse before says 'the law is good, if a man use it lawfully.' The list ends by tying these sins to what is 'contrary to sound doctrine' and the gospel. Paul is correcting misuse of the law, not dismissing right and wrong. He also counts himself the chief of sinners.",
+        "sources": [
+          "v:1.8",
+          "v:1.10",
+          "v:1.11",
+          "v:1.15"
+        ]
+      }
+    },
+    "christians_differ": {
+      "text": "Readers differ on what 'law' means here. Some take it as the law of Moses, which the false 'teachers of the law' were pressing. Others take it as God's moral law in general. Readers also differ on what role, if any, the law still plays for believers who are counted righteous.",
+      "sources": [
+        "w:G3551",
+        "v:1.7",
+        "x:galatians.3.19",
+        "x:galatians.5.23"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G2749",
+        "english": "is made / is enacted",
+        "why_it_matters": {
+          "text": "The word means 'to be laid down' or 'appointed,' and is used here of law. Paul is talking about the purpose the law was laid down for, not saying the law is bad.",
+          "sources": [
+            "w:G2749",
+            "v:1.8"
+          ]
+        }
+      },
+      {
+        "strong": "G1342",
+        "english": "righteous",
+        "why_it_matters": {
+          "text": "It means one who matches the divine standard of right. The law's warnings and penalties are not aimed at such a person.",
+          "sources": [
+            "w:G1342",
+            "x:galatians.5.23"
+          ]
+        }
+      },
+      {
+        "strong": "G0459",
+        "english": "lawless",
+        "why_it_matters": {
+          "text": "This word is built from 'law' with a negative prefix. It points to people who reject law, a play on words with the 'law' in the same verse.",
+          "sources": [
+            "w:G0459",
+            "w:G3551"
+          ]
+        }
+      },
+      {
+        "strong": "G3964",
+        "english": "murderers of fathers",
+        "why_it_matters": {
+          "text": "The word comes from 'father' plus 'to smite.' It can mean one who kills his father or one who strikes him. That widens the charge beyond murder alone.",
+          "sources": [
+            "w:G3964",
+            "w:G3389"
+          ]
+        }
+      },
+      {
+        "strong": "G0952",
+        "english": "profane",
+        "why_it_matters": {
+          "text": "It first meant 'able to be trodden' or common, as opposed to sacred. Here it describes people who treat holy things as common.",
+          "sources": [
+            "w:G0952"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "God's law is good, and its job is to expose real wrongdoing. In this same chapter, Paul says Christ came to save exactly such sinners, beginning with himself.",
+      "sources": [
+        "v:1.8",
+        "v:1.9",
+        "v:1.15"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

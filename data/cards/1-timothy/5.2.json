@@ -1,0 +1,154 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 2
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:50:06.497Z",
+  "card": {
+    "in_context": {
+      "text": "This verse finishes a sentence that begins in 5:1. Paul tells Timothy not to rebuke an older man harshly but to appeal to him as a father, and to treat younger men as brothers. Verse 2 carries the same instruction over to women: older women as mothers, younger women as sisters, with all purity.",
+      "sources": [
+        "v:5.1",
+        "v:5.2"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The women of the church, both older and younger, and how Timothy as their leader should speak to and treat them.",
+        "sources": [
+          "v:5.2",
+          "b:recipients"
+        ]
+      }
+    },
+    "what": {
+      "text": "Timothy is to relate to church members as family. He should honor older women as he would his own mother and treat younger women as sisters, keeping his conduct completely pure. The verb from 5:1, \"intreat\" (appeal to, encourage), still applies here.",
+      "sources": [
+        "v:5.1",
+        "v:5.2",
+        "w:G3384",
+        "w:G0079",
+        "w:G0047"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The text does not tie this instruction to a specific event. It is part of Paul's ongoing guidance to Timothy while Timothy led the Ephesian church.",
+        "sources": [
+          "b:recipients",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The instructions were for the church in Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Chapter 5 begins a section on caring for different groups in the church, such as widows, elders, and servants. These opening verses set the tone: treat everyone with the respect and care owed to family.",
+        "sources": [
+          "b:outline",
+          "v:5.3"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that belief and behavior belong together and that church leaders must have proven character. Paul elsewhere urges the young Timothy to be an example \"in purity,\" the same word used here.",
+        "sources": [
+          "b:themes",
+          "x:1-timothy.4.12",
+          "w:G0047"
+        ]
+      },
+      "for_readers": {
+        "text": "The church is pictured as a family where people are honored by age and treated as relatives. Jesus also spoke of those who do God's will as his \"brother, and sister, and mother.\"",
+        "sources": [
+          "v:5.1",
+          "v:5.2",
+          "x:matthew.12.50"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4245H",
+        "english": "elder women",
+        "why_it_matters": {
+          "text": "Here the word refers to age, older women set against younger ones, not to a church office. It is the same root used for church elders later in the chapter, so the contrast with \"younger\" shows the meaning.",
+          "sources": [
+            "w:G4245H",
+            "v:5.17"
+          ]
+        }
+      },
+      {
+        "strong": "G3384",
+        "english": "mothers",
+        "why_it_matters": {
+          "text": "The word is used figuratively for someone who takes the place of a mother. Timothy is to give older women the honor due to his own mother.",
+          "sources": [
+            "w:G3384",
+            "x:john.19.27"
+          ]
+        }
+      },
+      {
+        "strong": "G0079",
+        "english": "sisters",
+        "why_it_matters": {
+          "text": "Besides a literal sister, the word is used for a woman who is a fellow member of the Christian community. It frames younger women as family, not as strangers or romantic interests.",
+          "sources": [
+            "w:G0079"
+          ]
+        }
+      },
+      {
+        "strong": "G0047",
+        "english": "purity",
+        "why_it_matters": {
+          "text": "This word appears only here and in 4:12 in the New Testament. It ties this instruction to Paul's charge that Timothy be an example in purity, which guards his conduct especially toward younger women.",
+          "sources": [
+            "w:G0047",
+            "x:1-timothy.4.12"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul tells a young church leader to treat older women as mothers and younger women as sisters, with complete purity. Respect, family-like care, and clean conduct should mark how leaders relate to the people they serve.",
+      "sources": [
+        "v:5.1",
+        "v:5.2",
+        "x:1-timothy.4.12"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

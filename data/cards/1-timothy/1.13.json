@@ -1,0 +1,177 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 13
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:43:21.379Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just thanked Christ for trusting him with the ministry (1:12). In this verse he recalls what he was before: a blasphemer, a persecutor, and a violent man. Yet he received mercy, and he goes on to call himself the chief of sinners and a pattern of Christ's patience (1:15-16).",
+      "sources": [
+        "v:1.12",
+        "v:1.13",
+        "v:1.15",
+        "v:1.16"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter.",
+        "sources": [
+          "b:author",
+          "v:1.1"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and \"own son in the faith,\" left to lead the church at Ephesus.",
+        "sources": [
+          "v:1.2",
+          "b:recipients",
+          "v:1.3"
+        ]
+      },
+      "affected": {
+        "text": "Paul is speaking about his own past. The people he harmed were the church. Acts says Saul dragged men and women off to prison, and that he did \"much evil\" to the saints at Jerusalem.",
+        "sources": [
+          "x:acts.8.3",
+          "x:acts.9.13"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul admits three things about his past: he spoke against God, he hunted believers, and he was violent and insolent. Then comes a turn (\"but\"): he was shown mercy. He adds that he acted in ignorance, in a state of unbelief.",
+      "sources": [
+        "v:1.13",
+        "w:G0989",
+        "w:G1376",
+        "w:G5197",
+        "w:G0235",
+        "w:G1653"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse looks back to Paul's life before he believed, when as Saul he persecuted the church.",
+        "sources": [
+          "v:1.13",
+          "x:acts.8.3"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower; others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Timothy was in Ephesus, a wealthy port city and capital of the Roman province of Asia. Paul had gone on to Macedonia, and the letter does not say where he wrote from.",
+      "sources": [
+        "v:1.3",
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse sits in a section about false teachers who wanted to teach the law without understanding it (1:3-11). Paul sets against them the gospel entrusted to him, and his own story shows what that gospel does.",
+        "sources": [
+          "v:1.3",
+          "v:1.7",
+          "v:1.11",
+          "v:1.12",
+          "b:outline"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul's life becomes evidence for the \"faithful saying\" that Christ came to save sinners. God showed mercy to him first, as an example for those who would later believe.",
+        "sources": [
+          "v:1.15",
+          "v:1.16"
+        ]
+      },
+      "for_readers": {
+        "text": "If mercy reached someone who had attacked God and His people, no reader is beyond its reach. The verse is also an honest confession, not a cover-up of the past.",
+        "sources": [
+          "v:1.13",
+          "v:1.15",
+          "v:1.16"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Readers differ on what \"because I did it ignorantly\" means. Some see Paul's ignorance as a real reason mercy was available to him, in contrast to people who turn away after knowing the truth (compare Hebrews 6:4). Others stress that it only softens his guilt, and that the mercy itself was sheer grace, \"exceeding abundant\" (1:14).",
+      "sources": [
+        "v:1.13",
+        "v:1.14",
+        "v:1.16",
+        "x:hebrews.6.4",
+        "x:2-peter.2.21"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G5197",
+        "english": "injurious",
+        "why_it_matters": {
+          "text": "The Greek word means a violent, insolent man. It is stronger than the KJV's \"injurious\" might suggest, and it shows Paul's past included arrogant violence, not just wrong ideas.",
+          "sources": [
+            "w:G5197"
+          ]
+        }
+      },
+      {
+        "strong": "G1653",
+        "english": "obtained mercy",
+        "why_it_matters": {
+          "text": "The verb is passive: \"I was shown mercy.\" Paul did not earn or seize mercy. It was given to him, and the same phrase is used of believers in 1 Peter 2:10.",
+          "sources": [
+            "w:G1653",
+            "x:1-peter.2.10"
+          ]
+        }
+      },
+      {
+        "strong": "G0050",
+        "english": "ignorantly",
+        "why_it_matters": {
+          "text": "The word means to be ignorant or not to know. Paul describes his past sin as done without true knowledge, which shapes how the \"because\" clause is read.",
+          "sources": [
+            "w:G0050",
+            "w:G3754H"
+          ]
+        }
+      },
+      {
+        "strong": "G0570",
+        "english": "unbelief",
+        "why_it_matters": {
+          "text": "The word means a lack of faith. Paul locates his sins in unbelief, which sets up the contrast with the faith and love he speaks of next (1:14).",
+          "sources": [
+            "w:G0570",
+            "v:1.14"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul does not hide his violent past. He tells it to show how great God's mercy is. That mercy was given, not earned, and it makes him a pattern of hope for others.",
+      "sources": [
+        "v:1.13",
+        "v:1.16",
+        "w:G1653"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "key_words.0",
+      "reason": "The lexicon simply gives 'injurious' as the English rendering of 'a violent, insolent man'. It does not say the Greek is stronger than the KJV's 'injurious', so that comparison is unsupported."
+    }
+  ]
+}

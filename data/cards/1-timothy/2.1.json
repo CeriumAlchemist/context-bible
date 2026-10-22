@@ -1,0 +1,178 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 2,
+    "verse": 1
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:44:11.362Z",
+  "card": {
+    "in_context": {
+      "text": "This verse opens a section on prayer and conduct in worship (2:1-15). Paul urges that every kind of prayer, including thanksgiving, be offered for all people. He goes on to name kings and those in authority (2:2) and grounds this in God's desire that all be saved (2:4).",
+      "sources": [
+        "v:2.1",
+        "v:2.2",
+        "v:2.4",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in his name; others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus. Through him the instruction reaches the church's worship.",
+        "sources": [
+          "b:recipients",
+          "b:purpose"
+        ]
+      },
+      "affected": {
+        "text": "\"All men,\" meaning all people. Paul singles out kings and everyone in authority (2:2).",
+        "sources": [
+          "v:2.1",
+          "v:2.2",
+          "w:G0444"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul makes an urgent appeal. As a top priority, the church is to offer requests, prayers, petitions, and thanksgiving on behalf of everyone.",
+      "sources": [
+        "v:2.1",
+        "w:G3870",
+        "w:G4413G",
+        "w:G1162",
+        "w:G4335",
+        "w:G1783",
+        "w:G2169",
+        "w:G5228"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This is instruction for the church's ongoing life while Timothy led at Ephesus. Paul had gone on to Macedonia.",
+        "sources": [
+          "b:recipients",
+          "b:writtenFrom"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, while Nero was emperor. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date",
+          "b:setting"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. The text does not say where it was written. Macedonia is possible.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Such prayer serves so \"that we may lead a quiet and peaceable life in all godliness and honesty.\" It is \"good and acceptable in the sight of God our Saviour.\"",
+        "sources": [
+          "v:2.2",
+          "v:2.3"
+        ]
+      },
+      "big_picture": {
+        "text": "Prayer for all people matches God's will that all be saved. There is one mediator, Christ Jesus, who \"gave himself a ransom for all.\"",
+        "sources": [
+          "v:2.4",
+          "v:2.5",
+          "v:2.6",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Christians are to pray for everyone, rulers included, and to give thanks as well as ask. Jesus' model prayer and other letters show the same habits.",
+        "sources": [
+          "v:2.1",
+          "v:2.2",
+          "x:matthew.6.9",
+          "x:matthew.6.10",
+          "x:james.5.16",
+          "x:ephesians.5.20"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3870",
+        "english": "exhort",
+        "why_it_matters": {
+          "text": "The word can mean to plead, beseech, or entreat. This is an earnest appeal, not a mild suggestion.",
+          "sources": [
+            "w:G3870"
+          ]
+        }
+      },
+      {
+        "strong": "G3767",
+        "english": "therefore",
+        "why_it_matters": {
+          "text": "It marks a consequence or the next step. It ties this charge to what came before, Paul's charge to Timothy about false teaching in chapter 1.",
+          "sources": [
+            "w:G3767",
+            "b:outline"
+          ]
+        }
+      },
+      {
+        "strong": "G4413G",
+        "english": "first",
+        "why_it_matters": {
+          "text": "\"First of all\" gives prayer priority in the church's life and worship. It is placed ahead of the other instructions that follow.",
+          "sources": [
+            "w:G4413G",
+            "v:2.1",
+            "b:outline"
+          ]
+        }
+      },
+      {
+        "strong": "G0444",
+        "english": "men",
+        "why_it_matters": {
+          "text": "The word means a human being, male or female. \"All men\" means all people, not only males.",
+          "sources": [
+            "w:G0444"
+          ]
+        }
+      },
+      {
+        "strong": "G1783",
+        "english": "intercessions",
+        "why_it_matters": {
+          "text": "The word was commonly used for a formal petition. It pictures bringing requests before God on behalf of others.",
+          "sources": [
+            "w:G1783",
+            "w:G5228"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul asks the church to make prayer for everyone, including rulers, a first priority, joined with thanksgiving. The reason is that God wants all people to be saved.",
+      "sources": [
+        "v:2.1",
+        "v:2.2",
+        "v:2.4"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

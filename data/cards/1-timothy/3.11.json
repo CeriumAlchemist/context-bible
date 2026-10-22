@@ -1,0 +1,173 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 11
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:47:32.166Z",
+  "card": {
+    "in_context": {
+      "text": "This verse sits inside Paul's list of qualifications for church leaders (3:1-13). After the bishop (3:1-7) and the deacons (3:8-10), Paul turns to a group of women, then returns to the deacons (3:12-13).",
+      "sources": [
+        "v:3.1",
+        "v:3.8",
+        "v:3.10",
+        "v:3.11",
+        "v:3.12",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Women connected with the deacons' work. The KJV calls them \"their wives.\" The Greek word can mean either \"women\" or \"wives.\"",
+        "sources": [
+          "v:3.11",
+          "w:G1135H"
+        ]
+      }
+    },
+    "what": {
+      "text": "These women must be serious and worthy of respect, not slanderers, clear-minded and self-controlled, and trustworthy in everything. The list closely mirrors the one for deacons in 3:8.",
+      "sources": [
+        "v:3.11",
+        "v:3.8",
+        "w:G4586",
+        "w:G3524",
+        "w:G4103"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This is instruction, not a story. It describes how the church at Ephesus was to choose and test its servants.",
+        "sources": [
+          "v:3.10",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower. Others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The church at Ephesus, a wealthy port city and capital of the Roman province of Asia, known for its temple of Artemis. The letter does not say where Paul wrote it from, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wanted Timothy to know how people should behave in \"the house of God, which is the church of the living God.\" Proven character in those who serve was part of that.",
+        "sources": [
+          "v:3.14",
+          "v:3.15",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that belief and behavior belong together. It also insists that church leaders must be people of proven character, and the same standard reaches the women named here.",
+        "sources": [
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Trustworthy service in the church depends on guarded speech, self-control, and faithfulness in all things, not just on position.",
+        "sources": [
+          "v:3.11",
+          "x:titus.3.2"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Christians disagree about who these women are. Some read them as the wives of deacons, as the KJV does. Others read them as women deacons (deaconesses), and one lexicon gives the sense \"deaconess\" for this verse. A third view takes them as the wives of both bishops and deacons.",
+      "sources": [
+        "v:3.11",
+        "w:G1135H",
+        "w:G5615"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G1135H",
+        "english": "wives / women",
+        "why_it_matters": {
+          "text": "The word can mean a woman, married or unmarried, or a wife. One lexicon lists \"deaconess\" for this verse. The choice decides whether Paul means deacons' wives or women who serve.",
+          "sources": [
+            "w:G1135H"
+          ]
+        }
+      },
+      {
+        "strong": "G5615",
+        "english": "even so / likewise",
+        "why_it_matters": {
+          "text": "The same word opens the deacons' list in 3:8. Here it marks a parallel group held to a similar standard.",
+          "sources": [
+            "w:G5615",
+            "v:3.8"
+          ]
+        }
+      },
+      {
+        "strong": "G1228",
+        "english": "slanderers",
+        "why_it_matters": {
+          "text": "This is the same word used for \"the devil,\" the false accuser. Slander is presented as doing the devil's kind of work, which echoes the warnings about the devil in 3:6-7.",
+          "sources": [
+            "w:G1228",
+            "v:3.6",
+            "v:3.7"
+          ]
+        }
+      },
+      {
+        "strong": "G4586",
+        "english": "grave",
+        "why_it_matters": {
+          "text": "It means serious and worthy of respect. Paul uses the same word for deacons in 3:8, which puts these women under the same standard.",
+          "sources": [
+            "w:G4586",
+            "v:3.8"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Whether they were deacons' wives or women deacons, those who served the church at Ephesus had to be respected, careful in speech, self-controlled, and faithful in all things.",
+      "sources": [
+        "v:3.11",
+        "w:G1135H",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "christians_differ",
+      "reason": "The sources support only two readings: deacons' wives (KJV) and deaconesses (lexicon). Nothing in the cited sources mentions a third view that these are the wives of both bishops and deacons."
+    },
+    {
+      "claim": "key_words.2",
+      "reason": "The lexicon shows only that the same word means slanderer and the devil. Saying the verse 'presents' slander as doing the devil's kind of work is the card's own interpretation, not something the verse or the lexicon states."
+    }
+  ]
+}

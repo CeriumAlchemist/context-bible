@@ -1,0 +1,158 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 13
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:47:48.464Z",
+  "card": {
+    "in_context": {
+      "text": "This verse closes Paul's list of qualities for deacons (3:8-13). It gives the reason the standards matter: deacons who serve well gain a good standing and great boldness in their faith in Christ Jesus.",
+      "sources": [
+        "v:3.8",
+        "v:3.10",
+        "v:3.12",
+        "v:3.13",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients",
+          "v:3.14"
+        ]
+      },
+      "affected": {
+        "text": "Deacons in the church, the servants whose character Paul has just described. The nearby verses also address their wives (or possibly women serving alongside them) and their households.",
+        "sources": [
+          "v:3.8",
+          "v:3.11",
+          "v:3.12"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul promises a reward for faithful service. Those who serve well as deacons gain for themselves a good standing and great confidence in the faith that is in Christ Jesus. The word \"For\" ties this to the qualifications just listed.",
+      "sources": [
+        "v:3.13",
+        "w:G1063",
+        "w:G4046",
+        "w:G0898",
+        "w:G3954"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse describes no single event. It gives standing instructions for how the church at Ephesus should choose and regard its deacons.",
+        "sources": [
+          "v:3.10",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Timothy in Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated, though he had gone on to Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to set high standards for deacons and to show that faithful service is worth it. He writes so Timothy will know how people ought to behave in the house of God, the church.",
+        "sources": [
+          "v:3.13",
+          "v:3.15",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that belief and behavior belong together and that church leaders must be people of proven character. Elsewhere Scripture likewise honors faithful service, as when the master says, \"Well done, thou good and faithful servant\" (Matthew 25:21), and Jesus himself \"came not to be ministered unto, but to minister\" (Matthew 20:28).",
+        "sources": [
+          "b:themes",
+          "x:matthew.25.21",
+          "x:matthew.20.28"
+        ]
+      },
+      "for_readers": {
+        "text": "Serving others in the church, even in humble tasks, is not overlooked. Faithfulness in that work builds a good reputation and a confident, open faith in Christ.",
+        "sources": [
+          "v:3.13",
+          "x:hebrews.6.10",
+          "x:luke.16.10"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1247",
+        "english": "used the office of a deacon",
+        "why_it_matters": {
+          "text": "The Greek is a single verb meaning \"to serve,\" used generally of waiting on others and here of serving as a deacon. The office is defined by service, not status.",
+          "sources": [
+            "w:G1247"
+          ]
+        }
+      },
+      {
+        "strong": "G0898",
+        "english": "degree",
+        "why_it_matters": {
+          "text": "The word literally means a step, and metaphorically a degree or standing. The KJV \"good degree\" refers to a good standing, not an academic title.",
+          "sources": [
+            "w:G0898"
+          ]
+        }
+      },
+      {
+        "strong": "G4046",
+        "english": "purchase",
+        "why_it_matters": {
+          "text": "The KJV \"purchase\" does not mean buying with money. The Greek means to gain or acquire for oneself.",
+          "sources": [
+            "w:G4046",
+            "w:G1438"
+          ]
+        }
+      },
+      {
+        "strong": "G3954",
+        "english": "boldness",
+        "why_it_matters": {
+          "text": "This word means freedom and openness in speaking, or confidence. Faithful deacons gain the confidence to speak and live their faith openly.",
+          "sources": [
+            "w:G3954",
+            "x:philippians.1.14"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Those who serve the church faithfully earn a good standing and grow bold in their faith in Christ Jesus. Humble service is honored.",
+      "sources": [
+        "v:3.13",
+        "x:matthew.25.21"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

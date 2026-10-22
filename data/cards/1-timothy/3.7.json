@@ -1,0 +1,167 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 7
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:46:55.900Z",
+  "card": {
+    "in_context": {
+      "text": "This verse ends Paul's list of qualities for a bishop, an overseer of the church (3:1-7). After character, family life, and maturity, he adds one more test: people outside the church must think well of him. Otherwise he may be disgraced and caught in the devil's trap.",
+      "sources": [
+        "v:3.1",
+        "v:3.2",
+        "v:3.6",
+        "v:3.7",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle is writing. He names himself at the start of the letter. Many critical scholars think a follower wrote in his name.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The man who would serve as bishop (overseer) in the church. The verse also concerns how 'them which are without', people outside the church, see him.",
+        "sources": [
+          "v:3.1",
+          "v:3.7",
+          "w:G1855"
+        ]
+      }
+    },
+    "what": {
+      "text": "A church leader must have a good reputation among non-believers. Without it, he risks falling into public disgrace and into a snare set by the devil.",
+      "sources": [
+        "v:3.7",
+        "w:G3141",
+        "w:G1855",
+        "w:G3680",
+        "w:G3803"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul gives this instruction while Timothy is leading the Ephesian church and Paul is away, hoping to come soon (3:14).",
+        "sources": [
+          "v:3.14",
+          "b:recipients"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110, though others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The church was in Ephesus. It was a wealthy port and capital of the Roman province of Asia, known for its temple of Artemis. Where Paul wrote from is not stated, perhaps Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul writes so Timothy will know how people should behave in God's household, the church (3:15). Choosing leaders of proven character is part of that.",
+        "sources": [
+          "v:3.15",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that belief and behavior belong together. Elsewhere Paul urges believers to walk wisely and honestly 'toward them that are without', so the church is not blamed.",
+        "sources": [
+          "b:themes",
+          "x:colossians.4.5",
+          "x:1-thessalonians.4.12",
+          "x:2-corinthians.6.3"
+        ]
+      },
+      "for_readers": {
+        "text": "A leader's life is seen by outsiders, not just by the church. A bad public name harms the leader and the church's witness.",
+        "sources": [
+          "v:3.7",
+          "x:2-corinthians.8.21",
+          "x:1-corinthians.10.32"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1855",
+        "english": "without (outside)",
+        "why_it_matters": {
+          "text": "'Them which are without' means outsiders, people not in the church. Paul uses similar wording elsewhere for how believers should act toward non-believers.",
+          "sources": [
+            "w:G1855",
+            "x:colossians.4.5",
+            "x:1-thessalonians.4.12"
+          ]
+        }
+      },
+      {
+        "strong": "G3141",
+        "english": "report (testimony)",
+        "why_it_matters": {
+          "text": "The word means witness or testimony. A 'good report' is the good witness others give about the man, much like the 'honest report' required in Acts 6:3.",
+          "sources": [
+            "w:G3141",
+            "x:acts.6.3"
+          ]
+        }
+      },
+      {
+        "strong": "G3803",
+        "english": "snare",
+        "why_it_matters": {
+          "text": "This is a trap. The same image appears in 1 Timothy 6:9 and 2 Timothy 2:26, where people are taken captive in the devil's snare.",
+          "sources": [
+            "w:G3803",
+            "x:1-timothy.6.9",
+            "x:2-timothy.2.26"
+          ]
+        }
+      },
+      {
+        "strong": "G1228",
+        "english": "devil",
+        "why_it_matters": {
+          "text": "The word literally means slanderer or false accuser. One lexicon notes it could be read here as human slanderers, though it usually means the Devil.",
+          "sources": [
+            "w:G1228"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Church leaders should be people whom even outsiders respect. A bad public name invites disgrace and spiritual danger, and it hurts the church's witness.",
+      "sources": [
+        "v:3.7",
+        "b:themes",
+        "x:2-corinthians.6.3"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [
+    {
+      "claim": "key_words.2",
+      "reason": "Only 2 Timothy 2:26 speaks of being taken captive in the devil's snare. 1 Timothy 6:9 mentions a snare for those who want to be rich, but it does not mention the devil or captivity."
+    }
+  ]
+}
