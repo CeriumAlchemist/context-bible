@@ -113,13 +113,7 @@
         ]
       }
     },
-    "christians_differ": {
-      "text": "Some Protestants have cited this passage against required clerical celibacy or set fasting rules. Catholic and Orthodox Christians answer that their fasts and celibacy are disciplines freely taken up, not a claim that food or marriage is evil. Christians also differ on whether the verse ends Old Testament food laws for believers.",
-      "sources": [
-        "v:4.3",
-        "v:4.4"
-      ]
-    },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G2938",
@@ -164,10 +158,12 @@
     }
   },
   "problems": [],
-  "unsupported": [
+  "unsupported": [],
+  "resolved": [
     {
       "claim": "christians_differ",
-      "reason": "The cited verses say nothing about Protestant, Catholic, or Orthodox positions on clerical celibacy, fasting disciplines, or Old Testament food laws. These views of later traditions are not in any cited source."
+      "reason": "The cited verses say nothing about Protestant, Catholic, or Orthodox positions on clerical celibacy, fasting disciplines, or Old Testament food laws. These views of later traditions are not in any cited source.",
+      "fix": "note removed at Kourtland's direction: the verse plainly says everything God created is good"
     }
   ]
 }
