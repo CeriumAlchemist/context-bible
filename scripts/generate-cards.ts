@@ -47,6 +47,12 @@ function verseTask(packet: Packet): string {
   return `Verse: ${ref} [v:${packet.chapter}.${packet.verse}]\n\nSources:\n${renderPacket(packet)}`;
 }
 
+const tokens = { input: 0, output: 0 };
+function tally(usage: { input_tokens: number; output_tokens: number }) {
+  tokens.input += usage.input_tokens;
+  tokens.output += usage.output_tokens;
+}
+
 async function writeCard(client: Anthropic, packet: Packet) {
   const response = await client.beta.messages.parse({
     model: MODEL,
@@ -56,6 +62,7 @@ async function writeCard(client: Anthropic, packet: Packet) {
     output_config: { effort: "high", format: betaZodOutputFormat(ContextCard) },
     messages: [{ role: "user", content: verseTask(packet) }],
   });
+  tally(response.usage);
   if (response.stop_reason === "refusal" || !response.parsed_output) {
     throw new Error(`no card (stop_reason ${response.stop_reason})`);
   }
@@ -74,6 +81,7 @@ async function verifyCard(client: Anthropic, packet: Packet, card: ContextCard) 
     output_config: { effort: "high", format: betaZodOutputFormat(Verdict) },
     messages: [{ role: "user", content: `${verseTask(packet)}\n\nClaims to check:\n${claims}` }],
   });
+  tally(response.usage);
   return response.parsed_output?.unsupported ?? [{ claim: "card", reason: "verifier returned no verdict" }];
 }
 
@@ -154,7 +162,7 @@ async function main() {
     }
   }
   await Promise.all(Array.from({ length: CONCURRENCY }, worker));
-  console.log(summary);
+  console.log(summary, tokens);
 }
 
 main().catch((err) => {
