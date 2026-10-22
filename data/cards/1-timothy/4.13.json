@@ -1,0 +1,180 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 13
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:49:36.537Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just warned that some will depart from the faith and follow false teaching (4:1-3). He tells young Timothy to set an example (4:12). In this verse he names three tasks for Timothy to focus on until Paul arrives: reading, exhortation, and teaching.",
+      "sources": [
+        "v:4.1",
+        "v:4.3",
+        "v:4.12",
+        "v:4.13"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer. Many critical scholars think a follower wrote in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The church Timothy leads. Paul says that by keeping to these things Timothy will save both himself and those who hear him.",
+        "sources": [
+          "v:4.16",
+          "b:recipients"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul tells Timothy to give his attention to three things: the public reading of Scripture, exhortation or encouragement, and teaching. These are the core tasks of Timothy's ministry while Paul is away.",
+      "sources": [
+        "v:4.13",
+        "w:G4337",
+        "w:G0320",
+        "w:G3874",
+        "w:G1319"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul had gone on to Macedonia and left Timothy in Ephesus. The words \"till I come\" show Paul hoped to return, but the text does not say when.",
+        "sources": [
+          "b:writtenFrom",
+          "v:4.13",
+          "w:G2193"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Ephesus, a wealthy port city and capital of the Roman province of Asia. The letter does not say where Paul wrote from, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "False teachers were troubling the church. Paul answers by pointing Timothy to Scripture read aloud, to encouragement, and to sound teaching as the way to guard the church.",
+        "sources": [
+          "v:4.1",
+          "v:4.16",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "A key theme of the letter is that sound teaching produces godly living. Paul's other letters give similar charges to preach the word, exhort, and teach.",
+        "sources": [
+          "b:themes",
+          "x:2-timothy.4.2",
+          "x:titus.2.15"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse shows that church leaders were expected to center their work on Scripture and teaching. Paul pairs this with Timothy's personal example (4:12) and his care over his own life (4:16).",
+        "sources": [
+          "v:4.12",
+          "v:4.16"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Often quoted as a general encouragement to read widely or to do private devotional reading.",
+      "in_context_reading": {
+        "text": "The word for \"reading\" refers to the public reading of Scripture, as in the synagogue in Acts 13:15. It sits beside exhortation and teaching as tasks Timothy does for the gathered church.",
+        "sources": [
+          "w:G0320",
+          "v:4.13",
+          "b:purpose"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0320",
+        "english": "reading",
+        "why_it_matters": {
+          "text": "The word means the public reading of Scripture, not private study. It shows Paul is describing what happens when the church meets.",
+          "sources": [
+            "w:G0320"
+          ]
+        }
+      },
+      {
+        "strong": "G3874",
+        "english": "exhortation",
+        "why_it_matters": {
+          "text": "The word means exhortation or encouragement, and can also mean an appeal or entreaty.",
+          "sources": [
+            "w:G3874"
+          ]
+        }
+      },
+      {
+        "strong": "G1319",
+        "english": "doctrine",
+        "why_it_matters": {
+          "text": "The same word is used for the \"doctrines of devils\" in 4:1 and for the doctrine Timothy must watch in 4:16. Sound teaching is set directly against false teaching.",
+          "sources": [
+            "w:G1319",
+            "v:4.1",
+            "v:4.16"
+          ]
+        }
+      },
+      {
+        "strong": "G4337",
+        "english": "give attendance",
+        "why_it_matters": {
+          "text": "The verb means to turn one's mind to something and attend to it.",
+          "sources": [
+            "w:G4337"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "In its setting, this verse is a charge to a young church leader. Read Scripture aloud to the church, encourage the people, and teach them soundly, especially when false teaching is spreading.",
+      "sources": [
+        "v:4.1",
+        "v:4.12",
+        "v:4.13",
+        "w:G0320"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon defines the word as 'exhortation, encouragement' or 'appeal, entreaty'. It says nothing about applying Scripture to people's lives or about correction, so that part of the claim adds content the source does not give.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.3",
+      "reason": "The lexicon gives 'turn one's mind to, attend to'. The claim that the verb calls for steady care rather than occasional effort (a point about ongoing action) is not in the cited source.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

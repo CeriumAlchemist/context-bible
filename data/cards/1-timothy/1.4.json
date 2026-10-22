@@ -1,0 +1,178 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 4
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:42:07.486Z",
+  "card": {
+    "in_context": {
+      "text": "This verse finishes the sentence begun in verse 3. Paul had asked Timothy to stay in Ephesus and order certain people not to teach a different doctrine, and not to give their attention to myths and endless genealogies. These things breed disputes instead of serving God's work, which is carried out by faith.",
+      "sources": [
+        "v:1.3",
+        "v:1.4"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and \"own son in the faith,\" whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The \"some\" in Ephesus who were teaching other doctrine. They wanted to be teachers of the law but did not understand what they were saying (1:6-7).",
+        "sources": [
+          "v:1.3",
+          "v:1.6",
+          "v:1.7"
+        ]
+      }
+    },
+    "what": {
+      "text": "Timothy is to stop these teachers from occupying themselves with myths and endless genealogies. Such things produce speculation and argument rather than building up God's work in faith. Paul then says the goal of his charge is love from a pure heart, a good conscience, and sincere faith.",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "w:G3454",
+        "w:G1076",
+        "w:G6027"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul gave this charge after he left Timothy in Ephesus and went on to Macedonia.",
+        "sources": [
+          "v:1.3"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's first and second Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote it in Paul's name, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The problem was in the church at Ephesus, a wealthy port city and capital of the Roman province of Asia. Paul had gone to Macedonia and may have written from there, though the letter does not say.",
+      "sources": [
+        "v:1.3",
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to shut down teaching that leads to pointless debate. He calls it \"vain jangling,\" meaning empty talk. Teaching should serve love, a good conscience, and sincere faith.",
+        "sources": [
+          "v:1.4",
+          "v:1.5",
+          "v:1.6"
+        ]
+      },
+      "big_picture": {
+        "text": "The verse opens the letter's section on confronting false teaching. It reflects a main theme of the letter: sound teaching produces godly living. Paul gives similar warnings about fables and genealogies to Timothy and to Titus.",
+        "sources": [
+          "b:outline",
+          "b:themes",
+          "x:titus.3.9",
+          "x:titus.1.14",
+          "x:1-timothy.4.7"
+        ]
+      },
+      "for_readers": {
+        "text": "Test any teaching by what it produces. Does it build faith and love, or only fuel speculation and argument?",
+        "sources": [
+          "v:1.4",
+          "v:1.5",
+          "x:1-timothy.6.3",
+          "x:1-timothy.6.5"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Sometimes quoted as a general ban on family-history or genealogy research.",
+      "in_context_reading": {
+        "text": "Paul is aiming at teachers in Ephesus who used myths and endless genealogies to spin religious speculation in place of the faith. The text does not say exactly what these genealogies were, and it does not address ordinary family records.",
+        "sources": [
+          "v:1.3",
+          "v:1.4",
+          "v:1.7",
+          "w:G6027"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3454",
+        "english": "fables / myths",
+        "why_it_matters": {
+          "text": "The word came to mean fiction or a made-up story, the opposite of a true account. Paul is contrasting invented tales with the truth of the faith.",
+          "sources": [
+            "w:G3454",
+            "x:2-peter.1.16"
+          ]
+        }
+      },
+      {
+        "strong": "G0562",
+        "english": "endless",
+        "why_it_matters": {
+          "text": "It means interminable, never reaching an end. The trouble is speculation that goes on and on and never arrives at anything.",
+          "sources": [
+            "w:G0562"
+          ]
+        }
+      },
+      {
+        "strong": "G6027",
+        "english": "questions / speculations",
+        "why_it_matters": {
+          "text": "The word means a questioning or a subject for dispute. It shows that the harm is in the arguments these topics stir up.",
+          "sources": [
+            "w:G6027"
+          ]
+        }
+      },
+      {
+        "strong": "G3622",
+        "english": "godly edifying / stewardship",
+        "why_it_matters": {
+          "text": "The KJV says \"godly edifying,\" but the Greek word here means stewardship or administration. The contrast is with God's ordered work, or plan, carried out by faith.",
+          "sources": [
+            "w:G3622",
+            "w:G2316",
+            "v:1.4"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul tells Timothy to stop teaching that runs on myths and endless genealogies, because it breeds argument rather than serving God's work. Faithful teaching aims at love, a good conscience, and sincere faith.",
+      "sources": [
+        "v:1.4",
+        "v:1.5"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "who.affected",
+      "reason": "Verse 1:20 names Hymenaeus and Alexander among those who 'made shipwreck' of faith (1:19). It does not identify them as the 'some' teaching other doctrine in 1:3, so the claim treats a possible link as stated fact.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

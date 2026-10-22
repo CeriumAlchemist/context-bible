@@ -1,0 +1,171 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 20
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:52:29.555Z",
+  "card": {
+    "in_context": {
+      "text": "This verse sits in Paul's instructions to Timothy about church elders. Elders who lead well deserve honor (5:17-18), and no accusation against an elder should be accepted without two or three witnesses (5:19). Those found sinning are to be rebuked openly, so others take warning.",
+      "sources": [
+        "v:5.17",
+        "v:5.18",
+        "v:5.19",
+        "v:5.20"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, writing to his co-worker Timothy. Many critical scholars think a follower wrote in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Those who sin. Coming right after 5:19, this points first to elders proven guilty under the two-or-three-witness rule, though the verse itself does not repeat the word \"elder.\" The \"others\" are the rest who see the rebuke.",
+        "sources": [
+          "v:5.19",
+          "v:5.20",
+          "w:G3062"
+        ]
+      }
+    },
+    "what": {
+      "text": "Timothy is told to rebuke those who are sinning in front of everyone. The stated aim is that the rest will also be afraid to sin. The text does not say exactly who \"all\" includes, whether the whole church or the other elders.",
+      "sources": [
+        "v:5.20",
+        "w:G1651",
+        "w:G3956",
+        "w:G5401"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This is standing instruction, not a narrative event. It is guidance for Timothy while he led the Ephesian church after Paul went on to Macedonia.",
+        "sources": [
+          "b:recipients",
+          "b:writtenFrom"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, between Paul's two Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110, though others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The church at Ephesus, a wealthy port city and capital of the Roman province of Asia.",
+      "sources": [
+        "b:destination",
+        "b:recipients"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul gives the reason himself: open rebuke is \"that others also may fear.\" This fits the letter's aim of right conduct in God's household.",
+        "sources": [
+          "v:5.20",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Scripture often pairs public discipline with a warning effect. Deuteronomy says \"all the people shall hear, and fear, and do no more presumptuously\" (Deut 17:13), and after Ananias died \"great fear came upon all the church\" (Acts 5:11). Paul also tells church leaders to \"rebuke\" so that people may be \"sound in the faith\" (Titus 1:13).",
+        "sources": [
+          "x:deuteronomy.17.13",
+          "x:deuteronomy.19.20",
+          "x:acts.5.11",
+          "x:titus.1.13"
+        ]
+      },
+      "for_readers": {
+        "text": "Leaders are not above correction, but they are also protected from careless charges. Paul immediately warns Timothy to act without partiality and not to rush, because some sins become clear only later.",
+        "sources": [
+          "v:5.19",
+          "v:5.21",
+          "v:5.22",
+          "v:5.24"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Quoted as general permission to publicly call out or shame anyone for any sin.",
+      "in_context_reading": {
+        "text": "The verse belongs to a passage on elders. It comes after a rule that charges must be backed by two or three witnesses, and before a solemn charge to act without partiality. It describes careful, fair church discipline, not quick public accusation.",
+        "sources": [
+          "v:5.17",
+          "v:5.19",
+          "v:5.20",
+          "v:5.21",
+          "v:5.22"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1651",
+        "english": "rebuke",
+        "why_it_matters": {
+          "text": "The word can mean to convict, to reprove, or to expose. The lexicon lists this verse under \"reprove, rebuke.\"",
+          "sources": [
+            "w:G1651"
+          ]
+        }
+      },
+      {
+        "strong": "G3062",
+        "english": "others (the rest)",
+        "why_it_matters": {
+          "text": "The Greek means \"the remaining\" or \"the rest.\" It points to the rest of the group who witness the rebuke, not to outsiders.",
+          "sources": [
+            "w:G3062"
+          ]
+        }
+      },
+      {
+        "strong": "G5401",
+        "english": "fear",
+        "why_it_matters": {
+          "text": "This is fear or dread, and the lexicon cites this very verse. The goal is a sober warning that keeps others from the same sin, as in the Deuteronomy cross-references.",
+          "sources": [
+            "w:G5401",
+            "x:deuteronomy.19.20"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is about fair, well-supported correction of leaders who sin. It is done openly so the whole church takes sin seriously, and always without favoritism.",
+      "sources": [
+        "v:5.19",
+        "v:5.20",
+        "v:5.21"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.purpose",
+      "reason": "The cited sources do not say that leaders who 'keep sinning' harm the church, or that open correction 'protects' the church. Verse 5:20 states only the warning purpose ('that others also may fear'). The ongoing-sin reading and the protective rationale are added interpretation.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.0",
+      "reason": "The lexicon places 1 Tim 5:20 under the sense 'reprove, rebuke,' not 'convict' or 'expose.' The claim that the word here implies showing a fault 'on real grounds' and is 'not simply scolding' goes beyond what the lexicon says about this verse.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

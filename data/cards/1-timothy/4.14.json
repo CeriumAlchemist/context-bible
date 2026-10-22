@@ -1,0 +1,183 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 14
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:49:50.627Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just told young Timothy to be an example to believers and to devote himself to public reading, exhortation, and teaching until Paul comes. Here he reminds Timothy not to neglect the gift he received when prophecy was spoken over him and the church's elders laid hands on him.",
+      "sources": [
+        "v:4.12",
+        "v:4.13",
+        "v:4.14"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and \"own son in the faith,\" whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients",
+          "v:4.12"
+        ]
+      },
+      "affected": {
+        "text": "The church Timothy serves. Paul says that by holding to these things Timothy will save both himself and those who hear him.",
+        "sources": [
+          "v:4.16"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul gives a command: do not be careless about the gift of grace in you. He recalls how it came, with prophecy and with the laying on of hands by the body of elders. The next verses urge Timothy to give himself wholly to these things so his progress is plain to all.",
+      "sources": [
+        "v:4.14",
+        "v:4.15",
+        "w:G0272",
+        "w:G5486",
+        "w:G4244"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The gift was given at an earlier occasion when prophecies were spoken about Timothy and hands were laid on him. The text does not say when or where that happened.",
+        "sources": [
+          "v:4.14",
+          "x:1-timothy.1.18"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Timothy was leading the church in Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "False teachers were troubling the church, and Timothy was young. Paul encourages him to use the gift he was given so he can teach sound doctrine with confidence.",
+        "sources": [
+          "v:4.1",
+          "v:4.12",
+          "v:4.16",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that sound teaching and godly living belong together, and that church leaders must be people of proven character. This verse roots Timothy's leadership in a gift from God that the church publicly recognized.",
+        "sources": [
+          "b:themes",
+          "b:purpose",
+          "v:4.14"
+        ]
+      },
+      "for_readers": {
+        "text": "A gift from God can be neglected. It needs attention and active use, as Paul elsewhere tells Timothy to \"stir up the gift of God, which is in thee.\"",
+        "sources": [
+          "v:4.14",
+          "v:4.15",
+          "x:2-timothy.1.6"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Often quoted as a general call to develop any personal talent or natural ability.",
+      "in_context_reading": {
+        "text": "Paul is speaking about Timothy's specific gift, which the verse says \"was given thee by prophecy, with the laying on of the hands of the presbytery.\" The surrounding verses tie it to reading, exhortation, and teaching in the church.",
+        "sources": [
+          "v:4.13",
+          "v:4.14",
+          "v:4.16",
+          "w:G5486"
+        ]
+      }
+    },
+    "christians_differ": {
+      "text": "Traditions differ on what the laying on of hands did. Catholic and Orthodox Christians see here an ordination in which grace for ministry is conferred. Many Protestants see a public commissioning in which the church recognizes and confirms a gift God has given. Readers also discuss how the elders' hands here relate to Paul's own hands in 2 Timothy 1:6.",
+      "sources": [
+        "v:4.14",
+        "x:2-timothy.1.6",
+        "w:G4244",
+        "w:G1936",
+        "x:acts.6.6",
+        "x:acts.13.3"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G5486",
+        "english": "gift",
+        "why_it_matters": {
+          "text": "The Greek word is charisma, a free gift of grace, often a working of the Spirit. It points to something God gave, not a skill Timothy earned or was born with.",
+          "sources": [
+            "w:G5486"
+          ]
+        }
+      },
+      {
+        "strong": "G0272",
+        "english": "neglect not",
+        "why_it_matters": {
+          "text": "The verb means to be careless about something. Paul is not saying Timothy lost the gift, only warning him not to treat it carelessly.",
+          "sources": [
+            "w:G0272"
+          ]
+        }
+      },
+      {
+        "strong": "G4244",
+        "english": "presbytery",
+        "why_it_matters": {
+          "text": "This means a body of elders. It shows that a group of church leaders took part, not one person alone.",
+          "sources": [
+            "w:G4244"
+          ]
+        }
+      },
+      {
+        "strong": "G4394",
+        "english": "prophecy",
+        "why_it_matters": {
+          "text": "Prophecy here means speaking forth God's will. It links to the \"prophecies which went before on thee\" in 1:18, which marked Timothy out for his work.",
+          "sources": [
+            "w:G4394",
+            "x:1-timothy.1.18"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Timothy's ministry rested on a gift from God that the church had recognized. Paul urges him to use it fully and not let it lie idle.",
+      "sources": [
+        "v:4.14",
+        "v:4.15",
+        "x:2-timothy.1.6"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "misuse",
+      "reason": "It says the gift was 'confirmed' when prophecy was spoken and the elders laid hands on him. The verse says the gift 'was given thee by prophecy, with the laying on of the hands,' so 'confirmed' adopts the Protestant 'recognition' reading over the conferral reading that the card itself notes in christians_differ.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

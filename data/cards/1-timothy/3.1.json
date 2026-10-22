@@ -1,0 +1,184 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 1
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:46:24.746Z",
+  "card": {
+    "in_context": {
+      "text": "This verse opens Paul's list of qualifications for church leaders (3:1-13). It affirms that wanting the role of overseer is good. The next verses then set a high bar of character for anyone who holds it (3:2-7).",
+      "sources": [
+        "v:3.1",
+        "v:3.2",
+        "v:3.7",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Any man who wants to serve as an overseer (bishop) in the church. The church he would care for is also affected (3:5).",
+        "sources": [
+          "v:3.1",
+          "v:3.5",
+          "w:G5100"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul marks this as a trustworthy saying: reaching for the office of overseer is desiring a good task. He immediately says such a person must be blameless and lists what that means.",
+      "sources": [
+        "v:3.1",
+        "v:3.2",
+        "w:G4103",
+        "w:G1984",
+        "w:G2041"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul writes while away from Ephesus, hoping to come to Timothy soon but unsure he will (3:14-15).",
+        "sources": [
+          "v:3.14",
+          "v:3.15"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter is addressed to the church in Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated; he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to know how people ought to behave in the household of God, the church. Setting qualifications for leaders is part of that.",
+        "sources": [
+          "v:3.15",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that belief and behavior belong together and that church leaders must be people of proven character. Leading the church is pictured as caring for it, like ruling one's own house well (3:4-5).",
+        "sources": [
+          "b:themes",
+          "v:3.4",
+          "v:3.5"
+        ]
+      },
+      "for_readers": {
+        "text": "Wanting to serve as a church leader is honorable. But the desire alone is not enough; the person must show the character Paul describes, and other passages call overseers to serve willingly, not for money.",
+        "sources": [
+          "v:3.1",
+          "v:3.2",
+          "x:1-peter.5.2",
+          "x:titus.1.7"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "The KJV says \"bishop,\" while the Greek word means oversight or the office of an overseer, and the app's outline treats this section as covering elders. Some traditions (such as Catholic, Orthodox, and Anglican) see bishops as a distinct office above elders. Others (such as many Presbyterian, Baptist, and congregational churches) read overseer and elder here as the same local leadership role.",
+      "sources": [
+        "w:G1984",
+        "b:outline",
+        "x:titus.1.7",
+        "x:acts.20.28"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G1984",
+        "english": "office of a bishop",
+        "why_it_matters": {
+          "text": "The Greek word means oversight or a charge, especially the office of an overseer. Acts 20:28 uses the related word \"overseers\" for those who feed the flock.",
+          "sources": [
+            "w:G1984",
+            "x:acts.20.28"
+          ]
+        }
+      },
+      {
+        "strong": "G3713",
+        "english": "desire (aspire to)",
+        "why_it_matters": {
+          "text": "This verb pictures stretching out or reaching after something. It shows a person actively seeking the role.",
+          "sources": [
+            "w:G3713"
+          ]
+        }
+      },
+      {
+        "strong": "G1937",
+        "english": "desireth",
+        "why_it_matters": {
+          "text": "This word means to set one's heart on something. Elsewhere it can mean covet or lust, but here the object is a good work, so the longing is approved.",
+          "sources": [
+            "w:G1937",
+            "v:3.1"
+          ]
+        }
+      },
+      {
+        "strong": "G2041",
+        "english": "work",
+        "why_it_matters": {
+          "text": "The word means a task or employment. Paul stresses that overseeing is work to be done, not just an honor to hold.",
+          "sources": [
+            "w:G2041"
+          ]
+        }
+      },
+      {
+        "strong": "G4103",
+        "english": "true (trustworthy)",
+        "why_it_matters": {
+          "text": "\"Trustworthy is the saying\" is a set phrase in these letters, also used in 1 Timothy 1:15 and 2 Timothy 2:11. It flags the statement as reliable and worth accepting.",
+          "sources": [
+            "w:G4103",
+            "x:1-timothy.1.15",
+            "x:2-timothy.2.11"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Seeking to oversee God's people is a good desire because the role is a good work. But Paul at once ties that desire to blameless character, so the verse is an invitation to serve, not a license for ambition.",
+      "sources": [
+        "v:3.1",
+        "v:3.2",
+        "w:G2041"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.0",
+      "reason": "The lexicon defines the word as 'office, charge, esp. office of an ἐπίσκοπος'. Nothing cited says it is 'not a title of rank', and calling it an 'office' arguably points the other way. That contrast is the card's own interpretation.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

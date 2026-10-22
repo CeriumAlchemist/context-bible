@@ -1,0 +1,184 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 16
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:43:33.511Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just called himself the chief of sinners, a former blasphemer and persecutor who received mercy (1:13-15). Here he explains why God showed mercy to someone like him. It was so Christ could display his full patience in Paul as a sample for everyone who would later believe.",
+      "sources": [
+        "v:1.13",
+        "v:1.15",
+        "v:1.16"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and \"own son in the faith,\" left to lead the church at Ephesus.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Future believers. Paul says his story is a pattern for \"them which should hereafter believe on him to life everlasting.\"",
+        "sources": [
+          "v:1.16"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul says the purpose of the mercy he received was to show Christ's complete longsuffering, or patience. His turnaround from persecutor to apostle serves as a model case that others can look to. It is the sign that Christ's patience reaches even the worst of sinners.",
+      "sources": [
+        "v:1.13",
+        "v:1.15",
+        "v:1.16",
+        "w:G3115",
+        "w:G5296"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul looks back on his past as a persecutor and on his being put into ministry (1:12-13). He wrote after leaving Timothy in Ephesus and going on to Macedonia (1:3).",
+        "sources": [
+          "v:1.3",
+          "v:1.12",
+          "v:1.13"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower. Others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter went to Timothy in Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated. He may have written from Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul is contrasting false teachers who misuse the law (1:6-7) with the gospel committed to him (1:11). His own story of mercy shows what that gospel does: Christ came to save sinners. The thought ends in praise to God (1:17).",
+        "sources": [
+          "v:1.6",
+          "v:1.7",
+          "v:1.11",
+          "v:1.15",
+          "v:1.17"
+        ]
+      },
+      "big_picture": {
+        "text": "The verse fits the letter's theme that God desires all people to be saved. Other passages also speak of God's longsuffering as leading to salvation, such as 2 Peter 3:9 and 3:15.",
+        "sources": [
+          "b:themes",
+          "x:2-peter.3.9",
+          "x:2-peter.3.15"
+        ]
+      },
+      "for_readers": {
+        "text": "No one should think they are beyond Christ's patience. If the \"chief\" of sinners could receive mercy, Paul's case stands as an example for anyone who comes to believe.",
+        "sources": [
+          "v:1.15",
+          "v:1.16",
+          "w:G5296"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4413J",
+        "english": "first",
+        "why_it_matters": {
+          "text": "The word means first, and is glossed \"foremost\" here. Paul has just called himself \"chief\" of sinners (1:15), and now says Christ showed his patience \"in me first\" as a pattern for later believers.",
+          "sources": [
+            "w:G4413J",
+            "v:1.15",
+            "v:1.16"
+          ]
+        }
+      },
+      {
+        "strong": "G3115",
+        "english": "longsuffering",
+        "why_it_matters": {
+          "text": "The word means patience or forbearance, and here it is used of God's patience toward sinners. The verse stresses Christ's patient restraint toward Paul, not just a single act of pardon.",
+          "sources": [
+            "w:G3115"
+          ]
+        }
+      },
+      {
+        "strong": "G0537",
+        "english": "all",
+        "why_it_matters": {
+          "text": "This is a strengthened form of \"all,\" meaning the whole. Paul says Christ showed his complete, full patience in him.",
+          "sources": [
+            "w:G0537"
+          ]
+        }
+      },
+      {
+        "strong": "G5296",
+        "english": "pattern",
+        "why_it_matters": {
+          "text": "The word means an outline or sketch, a model to follow. Paul's conversion is presented as a sample case of what Christ does for believers.",
+          "sources": [
+            "w:G5296"
+          ]
+        }
+      },
+      {
+        "strong": "G1653",
+        "english": "obtained mercy",
+        "why_it_matters": {
+          "text": "The verb is passive: \"I was shown mercy.\" Paul presents mercy as something done to him, as he also says in 1:13.",
+          "sources": [
+            "w:G1653",
+            "v:1.13"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul presents his own rescue, from persecutor to apostle, as proof of Christ's full patience. It is a model meant to encourage everyone who would later trust Christ for everlasting life.",
+      "sources": [
+        "v:1.13",
+        "v:1.16",
+        "w:G5296"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.0",
+      "reason": "The cited lexicon lists only the time/place sense, plus the 'foremost' gloss. The claim goes further and states as settled that the point is Paul as the leading example rather than the earliest. That treats one interpretation as the only reading.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.4",
+      "reason": "The passive form shows only that Paul received mercy. 'Did not earn it' is a theological inference that neither the lexicon nor 1:13 states. In fact 1:13 gives a reason ('because I did it ignorantly in unbelief').",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

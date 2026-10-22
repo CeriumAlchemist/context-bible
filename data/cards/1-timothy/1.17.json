@@ -1,0 +1,166 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 17
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:43:46.008Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just told how Christ showed mercy to him, a former blasphemer and persecutor, and called himself the chief of sinners. Thinking of that mercy, he breaks into a short burst of praise to God before returning to his charge to Timothy.",
+      "sources": [
+        "v:1.13",
+        "v:1.15",
+        "v:1.16",
+        "v:1.17",
+        "v:1.18"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author",
+          "v:1.1"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and \"own son in the faith,\" whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients",
+          "v:1.2",
+          "v:1.3"
+        ]
+      },
+      "affected": {
+        "text": "God is the one being praised. He is called the eternal King, immortal, invisible, and the only wise God.",
+        "sources": [
+          "v:1.17"
+        ]
+      }
+    },
+    "what": {
+      "text": "This is a doxology, meaning a brief statement giving glory to God. Paul names who God is: King of the ages, imperishable, unseen, the only God. He then says honor and glory belong to him forever, sealed with \"Amen.\"",
+      "sources": [
+        "v:1.17",
+        "w:G0935",
+        "w:G0165H",
+        "w:G0862",
+        "w:G0517",
+        "w:G3441",
+        "w:G0281"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The praise follows Paul's memory of his own past as a persecutor and the mercy he received when Christ put him into ministry.",
+        "sources": [
+          "v:1.12",
+          "v:1.13",
+          "v:1.16"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote it in Paul's name, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Timothy in Ephesus, a wealthy port city known for its great temple of Artemis. Where Paul wrote from is not stated, though he had gone on to Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The praise flows from Paul's story of grace: if Christ could save the chief of sinners, God deserves all honor. Paul's mercy is meant as a pattern for later believers.",
+        "sources": [
+          "v:1.15",
+          "v:1.16",
+          "v:1.17"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter confronts false teaching and calls for sound teaching that leads to godly living. Similar praise appears later in the letter, where God is called the King of kings, who alone has immortality and whom no one has seen.",
+        "sources": [
+          "b:purpose",
+          "b:themes",
+          "x:1-timothy.6.15",
+          "x:1-timothy.6.16"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse shows that remembering God's mercy naturally leads to worship. Other Scriptures echo the same kind of praise to the only wise God.",
+        "sources": [
+          "v:1.16",
+          "v:1.17",
+          "x:jude.1.25",
+          "x:ephesians.3.21"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0165H",
+        "english": "eternal / ever (ages)",
+        "why_it_matters": {
+          "text": "The word means an age or an indefinitely long period. \"King eternal\" reads more literally as \"King of the ages,\" a God who rules over all periods of time.",
+          "sources": [
+            "w:G0165H",
+            "w:G0935"
+          ]
+        }
+      },
+      {
+        "strong": "G0862",
+        "english": "immortal",
+        "why_it_matters": {
+          "text": "The word means imperishable or incorruptible. It stresses that God cannot decay or be destroyed, not only that he lives forever.",
+          "sources": [
+            "w:G0862"
+          ]
+        }
+      },
+      {
+        "strong": "G0517",
+        "english": "invisible",
+        "why_it_matters": {
+          "text": "The word means unseen. It matches the later line that no one has seen God or can see him.",
+          "sources": [
+            "w:G0517",
+            "x:1-timothy.6.16"
+          ]
+        }
+      },
+      {
+        "strong": "G3441",
+        "english": "only",
+        "why_it_matters": {
+          "text": "The word means alone or only. It marks God as the one true God, in a letter sent to a city known for the temple of Artemis.",
+          "sources": [
+            "w:G3441",
+            "b:destination"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is Paul's response to grace. Having remembered how God saved him, the worst of sinners, he gives all honor and glory to the eternal, imperishable, unseen, only God.",
+      "sources": [
+        "v:1.15",
+        "v:1.16",
+        "v:1.17"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

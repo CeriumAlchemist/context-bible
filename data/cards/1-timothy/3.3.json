@@ -1,0 +1,169 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 3
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:46:23.399Z",
+  "card": {
+    "in_context": {
+      "text": "This verse continues Paul's list of qualities required of a bishop, or church overseer, which begins in 3:1-2. It names five things a leader must not be (a drunkard, violent, greedy, quarrelsome, money-loving) and one thing he must be: patient, or gentle.",
+      "sources": [
+        "v:3.1",
+        "v:3.2",
+        "v:3.3",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Men who desire the office of bishop, and the church that would be cared for by them.",
+        "sources": [
+          "v:3.1",
+          "v:3.5"
+        ]
+      }
+    },
+    "what": {
+      "text": "A bishop must not be given to wine, violent, or greedy for dishonest gain. He must be gentle, not quarrelsome, and free from the love of money. A similar list for deacons follows in 3:8.",
+      "sources": [
+        "v:3.3",
+        "v:3.8",
+        "x:titus.1.7"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse records no event. It gives standing instructions for choosing leaders in the church at Ephesus.",
+        "sources": [
+          "b:purpose",
+          "v:3.14"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, between Paul's two Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110 and think a follower wrote it in Paul's name; others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter went to Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wanted Timothy to know how people should behave in the house of God, the church. Choosing leaders of proven character was a key part of that.",
+        "sources": [
+          "v:3.14",
+          "v:3.15",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that belief and behavior belong together, and it warns about the love of money. This verse applies both themes to church leaders.",
+        "sources": [
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Self-control, gentleness, and freedom from greed are marks of a trustworthy leader. Scripture urges the same on all believers, such as being without covetousness and content with what one has.",
+        "sources": [
+          "x:hebrews.13.5",
+          "x:titus.3.2",
+          "x:ephesians.5.18"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Christians differ on what 'not given to wine' requires. Some read it as calling leaders to avoid alcohol entirely. Others note that the Greek word means 'drunken' and that deacons are told 'not given to much wine' (3:8), so they read it as forbidding drunkenness rather than all drinking.",
+      "sources": [
+        "w:G3943",
+        "v:3.8",
+        "x:1-timothy.3.8"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G3943",
+        "english": "given to wine",
+        "why_it_matters": {
+          "text": "The word means 'given to wine, drunken.' It describes a person ruled by drink, which links to warnings like Ephesians 5:18.",
+          "sources": [
+            "w:G3943",
+            "x:ephesians.5.18"
+          ]
+        }
+      },
+      {
+        "strong": "G4131",
+        "english": "striker",
+        "why_it_matters": {
+          "text": "It means a striker or brawler, someone quick to hit. A leader must not use force or intimidation.",
+          "sources": [
+            "w:G4131"
+          ]
+        }
+      },
+      {
+        "strong": "G1933",
+        "english": "patient",
+        "why_it_matters": {
+          "text": "The KJV's 'patient' translates a word meaning fair, moderate, gentle. It points to a reasonable, gentle spirit rather than only waiting quietly.",
+          "sources": [
+            "w:G1933"
+          ]
+        }
+      },
+      {
+        "strong": "G0269",
+        "english": "not a brawler",
+        "why_it_matters": {
+          "text": "The word literally means 'non-fighting' and is used for someone who is not contentious. It reaches beyond physical fights to a quarrelsome attitude.",
+          "sources": [
+            "w:G0269"
+          ]
+        }
+      },
+      {
+        "strong": "G0866",
+        "english": "not covetous",
+        "why_it_matters": {
+          "text": "It means 'without love of money.' The issue is the heart's attachment to money, echoing Hebrews 13:5.",
+          "sources": [
+            "w:G0866",
+            "x:hebrews.13.5"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Church leaders must be self-controlled, gentle, peaceable, and free from greed. Their character is meant to show the truth they teach.",
+      "sources": [
+        "v:3.3",
+        "v:3.15",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

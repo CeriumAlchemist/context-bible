@@ -1,0 +1,164 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 11
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:43:02.682Z",
+  "card": {
+    "in_context": {
+      "text": "This verse ends a long sentence that starts in verse 8. Paul says the law is good when used rightly: it targets wrongdoing and whatever is 'contrary to sound doctrine.' Verse 11 says that this sound teaching agrees with the gospel God entrusted to Paul.",
+      "sources": [
+        "v:1.8",
+        "v:1.9",
+        "v:1.10",
+        "v:1.11"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and 'own son in the faith,' whom Paul left at Ephesus.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The false teachers at Ephesus. They wanted to be 'teachers of the law' but did not understand what they were saying.",
+        "sources": [
+          "v:1.3",
+          "v:1.6",
+          "v:1.7"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul sets the gospel as the measure of sound teaching. He calls it the gospel 'of the glory of the blessed God' and says God placed it in his trust. That leads straight into his thanks that Christ counted him faithful despite his past.",
+      "sources": [
+        "v:1.10",
+        "v:1.11",
+        "v:1.12",
+        "v:1.13",
+        "w:G1391",
+        "w:G4100"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul had left Timothy at Ephesus when he went on to Macedonia. He now writes to help Timothy confront false teaching.",
+        "sources": [
+          "v:1.3",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: Paul wrote it around AD 62-64, between his two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote it in Paul's name, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. The letter does not say where it was written from, but Paul had gone on to Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul ties the right use of the law to the gospel. This answers would-be law teachers who were spreading other doctrine.",
+        "sources": [
+          "v:1.3",
+          "v:1.7",
+          "v:1.8",
+          "v:1.11"
+        ]
+      },
+      "big_picture": {
+        "text": "A major theme of the letter is that sound teaching produces godly living. Paul elsewhere also speaks of the gospel as 'committed' to him, so he presents it as a trust he holds, not something he made up.",
+        "sources": [
+          "b:themes",
+          "x:galatians.2.7",
+          "x:titus.1.3",
+          "x:1-corinthians.9.17"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers are pointed to the gospel as the standard for judging teaching. Paul's own story right after this verse, a persecutor who obtained mercy, shows what that gospel is: 'Christ Jesus came into the world to save sinners.'",
+        "sources": [
+          "v:1.11",
+          "v:1.13",
+          "v:1.15",
+          "v:1.16"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1391",
+        "english": "glory",
+        "why_it_matters": {
+          "text": "The Greek reads literally \"the gospel of the glory of the blessed God,\" which the KJV renders \"glorious gospel.\" The word means glory, honour, or praise.",
+          "sources": [
+            "w:G1391",
+            "v:1.11"
+          ]
+        }
+      },
+      {
+        "strong": "G3107",
+        "english": "blessed",
+        "why_it_matters": {
+          "text": "This is makarios, 'blessed, happy.' It is the same word used in the Beatitudes ('Blessed are...'). Here it describes God himself, as it does again in 6:15.",
+          "sources": [
+            "w:G3107",
+            "x:1-timothy.6.15"
+          ]
+        }
+      },
+      {
+        "strong": "G4100",
+        "english": "was entrusted",
+        "why_it_matters": {
+          "text": "This is a form of the verb for 'believe' or 'trust.' Here it means Paul was entrusted with the gospel, like a steward holding something that belongs to God.",
+          "sources": [
+            "w:G4100",
+            "v:1.12",
+            "x:1-corinthians.9.17"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is not a free-standing slogan. It says that sound teaching, including the right use of the law, is measured by the gospel that shows the glory of the blessed God, and that this gospel was entrusted to Paul.",
+      "sources": [
+        "v:1.8",
+        "v:1.10",
+        "v:1.11"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.0",
+      "reason": "The lexicon only shows the genitive δόξης glossed 'glory'. It does not support the claim that the gospel 'makes known' God's glory, or the 'splendor' gloss. It also does not rule out reading the genitive descriptively, as the KJV's 'glorious gospel' does. The claim presents one interpretation of the genitive as the only reading.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

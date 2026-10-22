@@ -1,0 +1,187 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 1
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:48:16.764Z",
+  "card": {
+    "in_context": {
+      "text": "Paul opens a new section by warning that some will leave the faith, misled by deceiving spirits and teachings that come from demons. The next verses name what this teaching looked like: forbidding marriage and banning certain foods (4:3). Paul answers that everything God created is good when received with thanks (4:4-5).",
+      "sources": [
+        "v:4.1",
+        "v:4.2",
+        "v:4.3",
+        "v:4.4",
+        "v:4.5",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle writes, but he says the warning comes from the Spirit, who speaks it plainly.",
+        "sources": [
+          "b:author",
+          "v:4.1"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The \"some\" who will depart from the faith, the teachers who speak lies with seared consciences, and the believers Timothy must warn.",
+        "sources": [
+          "v:4.1",
+          "v:4.2",
+          "v:4.6"
+        ]
+      }
+    },
+    "what": {
+      "text": "A warning that some people will fall away from the faith by listening to deceiving spirits and demonic teaching. The teaching is identified in the next verses as false self-denial: no marriage and no certain foods.",
+      "sources": [
+        "v:4.1",
+        "v:4.3",
+        "w:G0868",
+        "w:G1140"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse speaks of \"the latter times.\" Paul treats this as something Timothy must already address, telling him to remind the believers of these things (4:6, 4:11).",
+        "sources": [
+          "v:4.1",
+          "v:4.6",
+          "v:4.11"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower; others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated; he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wrote to help Timothy confront false teachers in Ephesus. This verse names the danger so Timothy can warn the church and stay rooted in good doctrine.",
+        "sources": [
+          "b:purpose",
+          "v:4.6",
+          "v:4.16"
+        ]
+      },
+      "big_picture": {
+        "text": "Other New Testament passages also warn of false teachers and a falling away in the last days. The letter's theme is that sound teaching and godly living belong together.",
+        "sources": [
+          "x:2-timothy.3.1",
+          "x:2-peter.2.1",
+          "x:2-thessalonians.2.3",
+          "x:jude.1.18",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "False teaching can look strict and holy, yet reject good gifts God made. Paul says everything God created is good and is to be received with thanksgiving.",
+        "sources": [
+          "v:4.3",
+          "v:4.4",
+          "v:4.5"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Quoted to label any teaching one dislikes as \"doctrines of devils,\" or used as a headline-style sign that the end of the world is arriving now.",
+      "in_context_reading": {
+        "text": "Paul has a specific error in view: teachers who forbade marriage and banned foods God made good (4:3-4). He tells Timothy to deal with it in his own church right away (4:6, 4:11).",
+        "sources": [
+          "v:4.3",
+          "v:4.4",
+          "v:4.6",
+          "v:4.11"
+        ]
+      }
+    },
+    "christians_differ": {
+      "text": "Readers differ on \"the latter times.\" Some take it as the whole period after Christ, already under way in Timothy's day, since Timothy must address it now (4:6). Others link it to a final falling away before Christ's return (2 Thessalonians 2:3).",
+      "sources": [
+        "v:4.1",
+        "v:4.6",
+        "x:2-thessalonians.2.3"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G4490",
+        "english": "expressly",
+        "why_it_matters": {
+          "text": "The word means \"in stated terms.\" Paul is stressing that this warning was given plainly, not guessed at.",
+          "sources": [
+            "w:G4490"
+          ]
+        }
+      },
+      {
+        "strong": "G0868",
+        "english": "depart from",
+        "why_it_matters": {
+          "text": "The word can mean to fall away or apostatize. It describes people leaving a faith they once held, not outsiders.",
+          "sources": [
+            "w:G0868"
+          ]
+        }
+      },
+      {
+        "strong": "G4108",
+        "english": "seducing",
+        "why_it_matters": {
+          "text": "The Greek means leading astray or deceiving. The danger is deception, not open hostility.",
+          "sources": [
+            "w:G4108"
+          ]
+        }
+      },
+      {
+        "strong": "G1140",
+        "english": "devils",
+        "why_it_matters": {
+          "text": "The Greek word is \"demons,\" not the devil himself. The teaching's real source is evil spirits, though it sounds religious.",
+          "sources": [
+            "w:G1140",
+            "w:G1319"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse warns of a real, specific deception: strict-sounding rules that reject God's good gifts. Paul's answer is to receive what God made with thanks and to hold to sound teaching.",
+      "sources": [
+        "v:4.1",
+        "v:4.3",
+        "v:4.4",
+        "v:4.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.for_readers",
+      "reason": "In 4:5, \"sanctified by the word of God and prayer\" refers to food being made holy. It is not an instruction to test teaching by God's word, so the cited verses do not support that point.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

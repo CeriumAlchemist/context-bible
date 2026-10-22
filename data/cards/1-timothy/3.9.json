@@ -1,0 +1,166 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 9
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:47:20.278Z",
+  "card": {
+    "in_context": {
+      "text": "This verse is part of Paul's list of qualities for deacons (3:8-13). After saying deacons must be serious, honest in speech, sober, and not greedy, he adds that they must hold the faith with a clean conscience.",
+      "sources": [
+        "v:3.8",
+        "v:3.9",
+        "v:3.10",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in Paul's name; others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients",
+          "v:3.14"
+        ]
+      },
+      "affected": {
+        "text": "Deacons, servants in the church, and those being considered for that role. They were to be tested first and found blameless.",
+        "sources": [
+          "v:3.8",
+          "v:3.10"
+        ]
+      }
+    },
+    "what": {
+      "text": "A deacon must keep firm hold of \"the mystery of the faith,\" the truth God has now made known about Christ, and do so with a pure conscience. Belief and an honest inner life must go together. Verse 16 sums up this mystery: \"God was manifest in the flesh.\"",
+      "sources": [
+        "v:3.9",
+        "v:3.16",
+        "w:G3466",
+        "b:themes"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The chapter gives standing instructions for the church in Ephesus while Paul was away, hoping to return soon. It does not describe a single event.",
+        "sources": [
+          "v:3.14",
+          "v:3.15",
+          "b:recipients"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The instructions were for the church in Ephesus, a wealthy port city and capital of the Roman province of Asia. Paul may have written from Macedonia, but the letter does not say.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wanted Timothy to know how people should behave in the church, \"the pillar and ground of the truth.\" Deacons who hold the truth sincerely help protect it.",
+        "sources": [
+          "v:3.15",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter confronts false teachers and stresses that sound teaching and godly living belong together. Paul warns that some who put away a good conscience \"have made shipwreck\" of their faith.",
+        "sources": [
+          "b:themes",
+          "b:purpose",
+          "x:1-timothy.1.19"
+        ]
+      },
+      "for_readers": {
+        "text": "Serving others in the church calls for more than good behavior or correct belief alone. It calls for holding the truth about Christ with a clean, honest conscience.",
+        "sources": [
+          "v:3.9",
+          "x:1-timothy.1.5"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3466",
+        "english": "mystery",
+        "why_it_matters": {
+          "text": "In the New Testament this word means a secret or a truth once hidden. Verse 16 sets out the content of \"the mystery of godliness.\"",
+          "sources": [
+            "w:G3466",
+            "v:3.16"
+          ]
+        }
+      },
+      {
+        "strong": "G4893",
+        "english": "conscience",
+        "why_it_matters": {
+          "text": "This is the inner sense that judges one's own actions. Paul ties faith to conscience throughout this letter, so belief held with a guilty or two-faced heart falls short.",
+          "sources": [
+            "w:G4893",
+            "x:1-timothy.1.5",
+            "x:1-timothy.1.19"
+          ]
+        }
+      },
+      {
+        "strong": "G2513",
+        "english": "pure",
+        "why_it_matters": {
+          "text": "The word means clean, here in a moral sense. The deacon's conscience must be free of hidden wrong, matching the call not to be \"doubletongued.\"",
+          "sources": [
+            "w:G2513",
+            "v:3.8"
+          ]
+        }
+      },
+      {
+        "strong": "G2192",
+        "english": "holding",
+        "why_it_matters": {
+          "text": "The word can mean to hold or hold fast. It pictures keeping a firm grip on the faith, not merely knowing about it.",
+          "sources": [
+            "w:G2192",
+            "x:1-timothy.1.19"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Deacons must firmly hold the revealed truth about Christ with a clean conscience. In this letter, right belief and an honest heart cannot be separated.",
+      "sources": [
+        "v:3.9",
+        "v:3.16",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.0",
+      "reason": "The cited lexicon defines μυστήριον as a secret 'that may not be revealed,' adding only that it is not intrinsically hard to understand. It does not define the word as 'a secret that is now revealed.' The revelation idea is an inference from 3:16 and should not be presented as the word's meaning.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

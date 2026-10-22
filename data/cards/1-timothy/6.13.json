@@ -1,0 +1,165 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 13
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:54:18.783Z",
+  "card": {
+    "in_context": {
+      "text": "Near the end of the letter, Paul gives Timothy a solemn charge. He calls on God, the giver of life, and on Christ Jesus, who made a good confession before Pilate, as witnesses. The charge itself follows in verse 14: keep this commandment without fault until Christ appears.",
+      "sources": [
+        "v:6.13",
+        "v:6.14",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer at the start of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus. Here Paul calls him \"man of God.\"",
+        "sources": [
+          "b:recipients",
+          "v:6.11"
+        ]
+      },
+      "affected": {
+        "text": "God and Christ Jesus are named as the ones in whose presence the charge is given. Pontius Pilate is mentioned as the official before whom Jesus made his confession.",
+        "sources": [
+          "v:6.13",
+          "w:G4194",
+          "w:G4091"
+        ]
+      }
+    },
+    "what": {
+      "text": "This is a formal charge, like a command given under oath before witnesses. Paul uses the same kind of wording earlier, charging Timothy \"before God, and the Lord Jesus Christ, and the elect angels.\" The point is that Timothy answers to God and Christ for how he keeps what he was given.",
+      "sources": [
+        "v:6.13",
+        "w:G3853",
+        "w:G1799",
+        "x:1-timothy.5.21"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse looks back to Jesus' trial before Pilate. There Jesus said he came \"that I should bear witness unto the truth,\" and that his kingdom \"is not of this world.\"",
+        "sources": [
+          "v:6.13",
+          "x:john.18.36",
+          "x:john.18.37",
+          "x:matthew.27.11"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote in Paul's name, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Timothy in Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated; he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul has just warned against false teachers and the love of money, and told Timothy to flee these things and fight the good fight of faith. This charge seals that call with the highest possible witnesses.",
+        "sources": [
+          "v:6.3",
+          "v:6.10",
+          "v:6.11",
+          "v:6.12",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Timothy made \"a good profession before many witnesses\" (6:12), and Jesus made \"a good confession\" before Pilate (6:13). The same Greek word links them, so Jesus' faithful witness under trial is the model for Timothy's own stand. Other passages also call Jesus \"the faithful witness.\"",
+        "sources": [
+          "v:6.12",
+          "v:6.13",
+          "w:G3671",
+          "x:revelation.1.5",
+          "x:revelation.3.14"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse reminds readers that faithfulness is lived before God, not just before people. Jesus held to the truth before a hostile ruler, and believers are called to hold to their confession in the same way.",
+        "sources": [
+          "v:6.13",
+          "v:6.14",
+          "x:john.18.37"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3853",
+        "english": "I give thee charge",
+        "why_it_matters": {
+          "text": "The word means to order or command. This is not friendly advice but a binding instruction, given in the sight of God.",
+          "sources": [
+            "w:G3853",
+            "w:G1799"
+          ]
+        }
+      },
+      {
+        "strong": "G2225",
+        "english": "quickeneth",
+        "why_it_matters": {
+          "text": "\"Quickeneth\" is old English for \"gives life.\" The lexicon notes that in the New Testament it can also mean to keep alive or preserve, so God is pictured as the one who both gives and sustains all life.",
+          "sources": [
+            "w:G2225",
+            "x:john.5.21"
+          ]
+        }
+      },
+      {
+        "strong": "G3140",
+        "english": "witnessed",
+        "why_it_matters": {
+          "text": "The word means to bear witness or testify. It ties this verse to Jesus' words to Pilate that he came \"to bear witness unto the truth.\"",
+          "sources": [
+            "w:G3140",
+            "x:john.18.37"
+          ]
+        }
+      },
+      {
+        "strong": "G3671",
+        "english": "confession",
+        "why_it_matters": {
+          "text": "This is the same word translated \"profession\" in verse 12. The KJV's two different English words hide that Timothy's confession is meant to echo Jesus' confession.",
+          "sources": [
+            "w:G3671",
+            "v:6.12",
+            "v:6.13"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul charges Timothy before the life-giving God and before Jesus, who stood firm in his confession before Pilate. Timothy's own public confession should be kept with the same faithfulness until Christ appears.",
+      "sources": [
+        "v:6.12",
+        "v:6.13",
+        "v:6.14"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

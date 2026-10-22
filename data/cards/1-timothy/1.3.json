@@ -1,0 +1,180 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 3
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:41:10.541Z",
+  "card": {
+    "in_context": {
+      "text": "Paul opens his letter by reminding Timothy why he left him in Ephesus: to stop certain people from teaching a different doctrine. The sentence is unfinished in verse 3 and closes in verse 4 with \"so do,\" meaning \"keep doing this.\" It begins the section on confronting false teaching (1:3-20).",
+      "sources": [
+        "v:1.3",
+        "v:1.4",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and \"own son in the faith,\" whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "\"Some\" unnamed people in the Ephesian church who were teaching other doctrine. Later in the chapter Paul names two who \"made shipwreck\" of their faith, Hymenaeus and Alexander.",
+        "sources": [
+          "v:1.3",
+          "v:1.6",
+          "v:1.7",
+          "v:1.19",
+          "v:1.20"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul had urged Timothy to stay on in Ephesus while Paul went to Macedonia. Timothy's task was to order certain people not to teach a different doctrine. Verse 4 adds that they must also stop paying attention to fables and endless genealogies that stir up arguments instead of building faith.",
+      "sources": [
+        "v:1.3",
+        "v:1.4",
+        "w:G3870",
+        "w:G4357",
+        "w:G3853",
+        "w:G2085"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse looks back to when Paul left Ephesus for Macedonia and Timothy stayed behind. Traditionally this is placed in travels not recorded in Acts, after Paul's first Roman imprisonment.",
+        "sources": [
+          "v:1.3",
+          "b:date"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Timothy was in Ephesus, a wealthy port city and capital of the Roman province of Asia, known for its temple of Artemis. Paul had gone on to the region of Macedonia and may have written from there, though the letter does not say.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "p:ephesus",
+        "p:macedonia",
+        "v:1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse states Timothy's assignment: guard the church's teaching. Paul explains the goal in verse 5: love from a pure heart, a good conscience, and sincere faith.",
+        "sources": [
+          "v:1.3",
+          "v:1.5",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "A major theme of the letter is that sound teaching produces godly living. Paul returns to the same warning about those who \"teach otherwise\" near the end of the letter.",
+        "sources": [
+          "b:themes",
+          "x:1-timothy.6.3"
+        ]
+      },
+      "for_readers": {
+        "text": "Other New Testament letters share this concern for the true message, such as Paul's warning against \"another gospel\" and the call for leaders to hold fast \"sound doctrine.\"",
+        "sources": [
+          "x:galatians.1.6",
+          "x:galatians.1.7",
+          "x:titus.1.9"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G2085",
+        "english": "teach no other doctrine",
+        "why_it_matters": {
+          "text": "This is one Greek verb meaning \"to teach other or different doctrine.\" It appears only here and in 6:3. The problem is not teaching as such but teaching something different from the gospel Paul handed on.",
+          "sources": [
+            "w:G2085",
+            "x:1-timothy.6.3",
+            "v:1.11"
+          ]
+        }
+      },
+      {
+        "strong": "G3853",
+        "english": "charge",
+        "why_it_matters": {
+          "text": "The word means to order or command. Timothy was not merely to suggest; he had real authority to direct these teachers to stop.",
+          "sources": [
+            "w:G3853"
+          ]
+        }
+      },
+      {
+        "strong": "G3870",
+        "english": "besought",
+        "why_it_matters": {
+          "text": "Paul \"urged\" or pleaded with Timothy to stay. The word shows Paul appealing to his co-worker rather than simply issuing an order.",
+          "sources": [
+            "w:G3870"
+          ]
+        }
+      },
+      {
+        "strong": "G5100",
+        "english": "some",
+        "why_it_matters": {
+          "text": "The word means \"certain\" people, left unnamed. The trouble came from a particular group within the church, not the whole congregation.",
+          "sources": [
+            "w:G5100",
+            "v:1.6"
+          ]
+        }
+      },
+      {
+        "strong": "G4357",
+        "english": "abide still",
+        "why_it_matters": {
+          "text": "The verb means to wait longer or remain still. Timothy was asked to stay on in Ephesus after Paul left, not to start a new work.",
+          "sources": [
+            "w:G4357"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is Paul's reminder of Timothy's job in Ephesus: firmly stop a few people from teaching a different message. Its aim, as verse 5 says, is love from a pure heart, a good conscience, and sincere faith.",
+      "sources": [
+        "v:1.3",
+        "v:1.5"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "who.affected",
+      "reason": "The cited verse 1:20 names Hymenaeus and Alexander, but the statement that they 'wrecked their faith' comes from 1:19, which is not cited. None of the cited sources says it.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

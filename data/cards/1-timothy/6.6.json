@@ -1,0 +1,146 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 6
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:53:24.829Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just described false teachers who suppose that \"gain is godliness,\" treating religion as a way to make money. In reply he turns the phrase around: godliness joined with contentment is itself the great gain. The verses that follow explain why: we bring nothing in and carry nothing out, so food and clothing are enough.",
+      "sources": [
+        "v:6.5",
+        "v:6.6",
+        "v:6.7",
+        "v:6.8"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter. Many critical scholars think a follower wrote it in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The false teachers who treat godliness as a means of profit. The wider church is also in view, especially people who want to be rich and those who already are.",
+        "sources": [
+          "v:6.3",
+          "v:6.5",
+          "v:6.9",
+          "v:6.17"
+        ]
+      }
+    },
+    "what": {
+      "text": "A short saying that corrects the false teachers. Real profit is not money gained through religion. It is a godly life together with being satisfied with what one has.",
+      "sources": [
+        "v:6.5",
+        "v:6.6",
+        "w:G4200",
+        "w:G0841"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse belongs to Paul's closing section on false teachers, contentment, and a final charge to Timothy.",
+        "sources": [
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's first and second Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Timothy in Ephesus, a wealthy port city and capital of the Roman province of Asia. The text does not say where it was written, though Paul may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "To expose the greed behind the false teaching and to give Timothy and the church a true measure of gain.",
+        "sources": [
+          "v:6.5",
+          "v:6.6",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that sound belief and godly living belong together. Contentment and the danger of loving money are among its main themes. Paul says elsewhere that godliness is profitable for this life and the next.",
+        "sources": [
+          "b:themes",
+          "x:1-timothy.4.8"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers are invited to measure their lives by godliness and contentment rather than by wealth. Hebrews makes a similar call to be content because God will never leave his people.",
+        "sources": [
+          "v:6.6",
+          "v:6.8",
+          "x:hebrews.13.5"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4200",
+        "english": "gain",
+        "why_it_matters": {
+          "text": "The word means a means of gain or profit. The same word appears in verse 5, where false teachers think godliness is a way to profit. Paul reuses it to show that the true profit lies elsewhere.",
+          "sources": [
+            "w:G4200",
+            "v:6.5"
+          ]
+        }
+      },
+      {
+        "strong": "G0841",
+        "english": "contentment",
+        "why_it_matters": {
+          "text": "The root idea is self-sufficiency, or having enough. Here it means being satisfied with what one has, such as food and clothing, rather than craving more.",
+          "sources": [
+            "w:G0841",
+            "v:6.8"
+          ]
+        }
+      },
+      {
+        "strong": "G2150",
+        "english": "godliness",
+        "why_it_matters": {
+          "text": "The word means piety or reverence toward God. It is a key word throughout this letter, so the gain Paul describes centers on a life oriented to God, not just on doing without.",
+          "sources": [
+            "w:G2150",
+            "x:1-timothy.4.8"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul turns the false teachers' slogan upside down. Religion is not a path to wealth. A godly life with a satisfied heart is the real wealth.",
+      "sources": [
+        "v:6.5",
+        "v:6.6"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

@@ -1,0 +1,173 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 7
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:49:00.175Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just warned that some will leave the faith for false teaching that forbids marriage and certain foods (4:1-3). He tells Timothy to remind the believers of this (4:6). Then, in this verse, he tells Timothy to turn away from worthless myths and to train himself in godliness instead.",
+      "sources": [
+        "v:4.1",
+        "v:4.3",
+        "v:4.6",
+        "v:4.7"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer. Many critical scholars think a follower wrote in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The believers Timothy leads (\"the brethren\"), and by contrast the false teachers who spread lies and harsh rules.",
+        "sources": [
+          "v:4.6",
+          "v:4.1",
+          "v:4.2",
+          "v:4.3"
+        ]
+      }
+    },
+    "what": {
+      "text": "Two commands: refuse godless, silly myths, and train yourself for godliness. Paul then explains that bodily training helps a little, but godliness helps in everything, for this life and the next.",
+      "sources": [
+        "v:4.7",
+        "v:4.8"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "While Timothy was leading the church at Ephesus, after Paul had gone on to Macedonia.",
+        "sources": [
+          "b:recipients",
+          "b:writtenFrom"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Sent to Ephesus, a wealthy port city and capital of the Roman province of Asia, known for its temple of Artemis. The place of writing is not stated; possibly Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul is equipping Timothy to resist false teaching. Instead of arguing over empty stories, Timothy should put his effort into a godly life and sound teaching.",
+        "sources": [
+          "b:purpose",
+          "v:4.6",
+          "v:4.16"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter holds that sound teaching produces godly living. Paul gives the same warning elsewhere: do not heed fables and endless genealogies (1 Timothy 1:4), and shun profane and vain babblings (2 Timothy 2:16).",
+        "sources": [
+          "b:themes",
+          "x:1-timothy.1.4",
+          "x:2-timothy.2.16"
+        ]
+      },
+      "for_readers": {
+        "text": "Godliness takes deliberate training, like an athlete's practice. It also means not letting fruitless speculation crowd out real faith and conduct.",
+        "sources": [
+          "w:G1128",
+          "v:4.8",
+          "x:titus.3.9"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3454",
+        "english": "fables",
+        "why_it_matters": {
+          "text": "The word means myth or fiction, the opposite of a true account. Paul is rejecting invented stories that were being taught as religious truth, not stories in general.",
+          "sources": [
+            "w:G3454",
+            "x:1-timothy.1.4"
+          ]
+        }
+      },
+      {
+        "strong": "G1126",
+        "english": "old wives'",
+        "why_it_matters": {
+          "text": "This word means \"old-womanish\" and is glossed here as \"silly.\" It marks the myths as trivial tales, not serious teaching.",
+          "sources": [
+            "w:G1126"
+          ]
+        }
+      },
+      {
+        "strong": "G0952",
+        "english": "profane",
+        "why_it_matters": {
+          "text": "It means unholy, the opposite of sacred. The myths are not merely foolish. They have nothing to do with God.",
+          "sources": [
+            "w:G0952"
+          ]
+        }
+      },
+      {
+        "strong": "G1128",
+        "english": "exercise",
+        "why_it_matters": {
+          "text": "The word means to exercise or train the body or mind. Paul pictures godliness as something practiced with effort, which leads into his comparison with bodily training in 4:8.",
+          "sources": [
+            "w:G1128",
+            "v:4.8"
+          ]
+        }
+      },
+      {
+        "strong": "G2150",
+        "english": "godliness",
+        "why_it_matters": {
+          "text": "It means piety or reverence toward God. It is a key word in this letter for the life that sound teaching produces.",
+          "sources": [
+            "w:G2150",
+            "b:themes"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Don't waste your energy on empty religious myths. Put that effort into training yourself, day by day, in a life that honors God.",
+      "sources": [
+        "v:4.7",
+        "v:4.8"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.3",
+      "reason": "The cited lexicon entry gives the meaning (exercise or train, originally to exercise naked) but says nothing about the word being the root of English \"gymnasium.\"",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

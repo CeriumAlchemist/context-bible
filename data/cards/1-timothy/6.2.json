@@ -1,0 +1,154 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 2
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:53:05.945Z",
+  "card": {
+    "in_context": {
+      "text": "This verse closes a section where Paul tells Timothy how to guide different groups in the church: widows, elders, and servants. Having addressed servants in general (6:1), he turns to servants whose masters are fellow believers. It ends with a charge to teach these things, before Paul turns to false teachers.",
+      "sources": [
+        "v:6.1",
+        "v:6.2",
+        "v:6.3",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus. He is told to teach and urge these things on others.",
+        "sources": [
+          "b:recipients",
+          "v:6.2"
+        ]
+      },
+      "affected": {
+        "text": "Servants, or slaves, in the church whose masters were also Christian believers. It also concerns those believing masters.",
+        "sources": [
+          "v:6.2",
+          "w:G1398",
+          "w:G1203"
+        ]
+      }
+    },
+    "what": {
+      "text": "Servants with believing masters must not look down on them because they are now 'brethren' in the faith. Instead, they should serve them even better, because the ones who benefit from their good service are faithful and beloved believers.",
+      "sources": [
+        "v:6.2",
+        "w:G2706",
+        "w:G3123G",
+        "w:G2108",
+        "w:G0482"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse speaks to the ongoing life of the church at Ephesus while Timothy led it. The text gives no specific event.",
+        "sources": [
+          "b:recipients",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote it in Paul's name. Others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The instructions were for the church in Ephesus, a wealthy port city and capital of the Roman province of Asia. Paul may have written from Macedonia, but the letter does not say.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul expected some servants to treat their Christian masters with less respect, since they were now equals as brothers. He says shared faith is a reason to serve better, not worse. Verse 1 adds that he wants God's name and teaching not to be spoken against.",
+        "sources": [
+          "v:6.1",
+          "v:6.2"
+        ]
+      },
+      "big_picture": {
+        "text": "A main theme of the letter is that sound teaching produces godly living, so belief and behavior belong together. This verse applies that to household relationships in the church.",
+        "sources": [
+          "b:themes",
+          "b:purpose"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse speaks only to servants. Elsewhere Paul tells masters to give their servants what is 'just and equal', knowing they too have a Master in heaven. Both passages are needed to see the full instruction.",
+        "sources": [
+          "v:6.2",
+          "x:colossians.4.1"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1203",
+        "english": "masters",
+        "why_it_matters": {
+          "text": "The Greek word means a master or owner, paired with 'slave'. It implies full ownership, so these were real slave-holding relationships, not modern employers.",
+          "sources": [
+            "w:G1203"
+          ]
+        }
+      },
+      {
+        "strong": "G2706",
+        "english": "despise",
+        "why_it_matters": {
+          "text": "It means to think little of. The danger Paul names is an attitude of looking down on the master, not open rebellion.",
+          "sources": [
+            "w:G2706"
+          ]
+        }
+      },
+      {
+        "strong": "G1398",
+        "english": "do them service",
+        "why_it_matters": {
+          "text": "The verb means to be a slave or serve as one. The same word is used for serving God and serving one another in love.",
+          "sources": [
+            "w:G1398"
+          ]
+        }
+      },
+      {
+        "strong": "G2108",
+        "english": "benefit",
+        "why_it_matters": {
+          "text": "The word means a good deed or kindness. Here it most naturally refers to the good service the servants give. 'Partakers of the benefit' then describes the masters who receive that service.",
+          "sources": [
+            "w:G2108",
+            "w:G0482"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Being equals in Christ did not give believing servants a reason to disrespect believing masters. Paul says it was a reason to serve them more willingly, because they were 'faithful and beloved' brothers. Read it alongside his command that masters treat servants justly.",
+      "sources": [
+        "v:6.2",
+        "w:G0080",
+        "x:colossians.4.1"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

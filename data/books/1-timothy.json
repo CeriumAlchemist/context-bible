@@ -1,0 +1,30 @@
+{
+  "author": "Paul the apostle, who names himself in 1:1.",
+  "recipients": "Timothy, Paul's younger co-worker and \"own son in the faith\" (1:2), whom Paul had left to lead the church at Ephesus (1:3).",
+  "date": {
+    "traditional": "About AD 62-64, after Paul's first Roman imprisonment and before his second, during travels not recorded in Acts.",
+    "scholarly": "Many critical scholars date the letter later, around AD 80-110, and see it as written in Paul's name by a follower. Others defend Paul's authorship and the earlier date."
+  },
+  "writtenFrom": "Not stated. Paul had gone on to Macedonia after leaving Timothy in Ephesus (1:3), so he may have written from there.",
+  "destination": "Ephesus, a wealthy port city and capital of the Roman province of Asia, known for its great temple of Artemis (Diana; see Acts 19).",
+  "purpose": "To instruct Timothy on leading the church in Ephesus: confronting false teachers, setting qualifications for elders and deacons, guiding how believers conduct themselves in worship and in the household of God (3:14-15), and encouraging Timothy as a young leader.",
+  "setting": "Nero was emperor (AD 54-68). The church was spreading across the empire and facing false teaching from within; Nero's persecution of Christians followed the fire of Rome in AD 64.",
+  "outline": [
+    { "range": "1:1-2", "title": "Greeting" },
+    { "range": "1:3-20", "title": "Confronting false teaching" },
+    { "range": "2:1-15", "title": "Prayer and conduct in worship" },
+    { "range": "3:1-13", "title": "Qualifications for elders and deacons" },
+    { "range": "3:14-16", "title": "Why Paul writes: conduct in God's household" },
+    { "range": "4:1-16", "title": "False teaching identified; how Timothy should lead" },
+    { "range": "5:1-6:2", "title": "Caring for groups in the church: widows, elders, servants" },
+    { "range": "6:3-21", "title": "False teachers, contentment, and a final charge" }
+  ],
+  "themes": [
+    "Sound teaching produces godly living; belief and behavior belong together.",
+    "God desires all people to be saved (2:4).",
+    "Church leaders must be people of proven character.",
+    "Everything God created is good and is received with thanksgiving (4:4).",
+    "Contentment, and the danger of the love of money (6:6-10)."
+  ],
+  "basis": "Restated from Kourtland's 1 Timothy overview notes and the letter's own text; dating views summarized from standard introductions."
+}

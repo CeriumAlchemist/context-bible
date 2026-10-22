@@ -1,0 +1,182 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 19
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:44:02.957Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is closing the first section of his letter, where he tells Timothy to stop false teachers in Ephesus. He hands Timothy this 'charge' (1:18) and urges him to keep both faith and a good conscience. He warns that some have thrown conscience aside and wrecked their faith, and in the next verse he names two of them.",
+      "sources": [
+        "v:1.3",
+        "v:1.18",
+        "v:1.19",
+        "v:1.20",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer at the start of the letter.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and 'own son in the faith,' whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The 'some' who made shipwreck of their faith. Paul names Hymenaeus and Alexander as examples.",
+        "sources": [
+          "v:1.19",
+          "v:1.20"
+        ]
+      }
+    },
+    "what": {
+      "text": "Timothy is to keep holding two things together: faith and a good conscience. Some people pushed conscience away, and as a result their faith broke apart like a wrecked ship. This echoes 1:5, where the goal of Paul's instruction is love from a pure heart, a good conscience, and sincere faith.",
+      "sources": [
+        "v:1.5",
+        "v:1.19",
+        "w:G2192",
+        "w:G0683",
+        "w:G3489"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This happens after Paul left Timothy in Ephesus and went on to Macedonia. False teachers were troubling the church there.",
+        "sources": [
+          "v:1.3",
+          "v:1.6",
+          "v:1.7"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: Paul wrote it about AD 62-64, between his two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote it in Paul's name, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Timothy was in Ephesus, a wealthy port city and capital of the Roman province of Asia. The letter does not say where Paul wrote from, though he had gone on to Macedonia.",
+      "sources": [
+        "v:1.3",
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to 'war a good warfare' against false teaching. Here he shows what Timothy must guard in himself, and what happens to those who don't.",
+        "sources": [
+          "v:1.18",
+          "v:1.19",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "A key theme of the letter is that belief and behavior belong together. Here, giving up a good conscience leads straight to the ruin of faith. Paul says the same of church servants in 3:9: 'Holding the mystery of the faith in a pure conscience.'",
+        "sources": [
+          "b:themes",
+          "x:1-timothy.3.9",
+          "v:1.19"
+        ]
+      },
+      "for_readers": {
+        "text": "Faith is not only a set of beliefs. It is kept safe by an honest conscience and right living, and ignoring conscience can sink it.",
+        "sources": [
+          "v:1.5",
+          "v:1.19",
+          "b:themes"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Christians read \"made shipwreck\" differently. Some see it as proof that real believers can fall away, and link it with Hebrews 6:4-6. Others hold that true believers are kept safe, and read it as the collapse of a faith that was only professed, or as serious damage short of final loss.",
+      "sources": [
+        "v:1.19",
+        "x:hebrews.6.4",
+        "x:hebrews.6.6"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G0683",
+        "english": "put away",
+        "why_it_matters": {
+          "text": "The word means to thrust something away from oneself, to reject it. This was not a slow drift. These people deliberately shoved conscience aside.",
+          "sources": [
+            "w:G0683"
+          ]
+        }
+      },
+      {
+        "strong": "G3489",
+        "english": "made shipwreck",
+        "why_it_matters": {
+          "text": "This is the ordinary word for suffering shipwreck, which Paul also uses of his own wrecks at sea in 2 Corinthians 11:25. Here it is used as a picture of what happened \"concerning faith.\"",
+          "sources": [
+            "w:G3489",
+            "v:1.19"
+          ]
+        }
+      },
+      {
+        "strong": "G4893",
+        "english": "conscience",
+        "why_it_matters": {
+          "text": "It means the inner sense that judges one's own conduct. A 'good conscience' appears in 1:5 and here, which ties right living closely to sound faith.",
+          "sources": [
+            "w:G4893",
+            "v:1.5"
+          ]
+        }
+      },
+      {
+        "strong": "G2192",
+        "english": "holding",
+        "why_it_matters": {
+          "text": "The word can mean to hold fast. It fits the battle picture of 1:18: Timothy must keep a firm grip on faith and conscience.",
+          "sources": [
+            "w:G2192",
+            "v:1.18"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Keep faith and a clear conscience together. Pushing conscience aside can wreck faith itself, as happened to some in Ephesus.",
+      "sources": [
+        "v:1.19",
+        "v:1.20",
+        "v:1.5"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon only says the word is used metaphorically of shipwreck regarding faith. Saying faith is 'lost, not merely damaged' takes one side of the interpretive debate that christians_differ itself presents as open.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "No cited source says that 'many on both sides' read verse 20's 'may learn' as pointing to possible restoration. The verse states a corrective purpose, but the claim about how interpreters read it is not supported.",
+      "fix": "checked and approved by Kourtland"
+    }
+  ]
+}

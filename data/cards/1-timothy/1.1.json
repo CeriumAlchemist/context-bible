@@ -1,0 +1,167 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 1
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:42:02.672Z",
+  "card": {
+    "in_context": {
+      "text": "This is the opening line of a letter. Paul names himself and states his authority as an apostle sent by God's command, before greeting Timothy in the next verse. It sets up a letter whose first task is to confront false teachers in Ephesus.",
+      "sources": [
+        "v:1.1",
+        "v:1.2",
+        "v:1.3",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself here. Traditionally he is the author. Many critical scholars think a follower wrote in his name, while others defend Paul's authorship.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and \"own son in the faith,\" whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The church in Ephesus, especially the people teaching \"other doctrine.\" Paul's stated authority backs Timothy as he corrects them.",
+        "sources": [
+          "v:1.3",
+          "v:1.4",
+          "b:purpose"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul claims his apostleship came \"by the commandment of God our Saviour, and Lord Jesus Christ.\" He did not appoint himself. He also calls Christ \"our hope.\"",
+      "sources": [
+        "v:1.1",
+        "w:G2003",
+        "w:G1680"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul had urged Timothy to stay in Ephesus while Paul went on into Macedonia.",
+        "sources": [
+          "v:1.3"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110. Others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter went to Ephesus, a wealthy port and capital of the Roman province of Asia. Where it was written is not stated, but Paul may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "By grounding his role in God's command, Paul gives weight to the instructions that follow. Those instructions tell Timothy to stop false teaching and lead the church.",
+        "sources": [
+          "v:1.1",
+          "v:1.3",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul often opens letters by stating that his apostleship comes from God, not from people. Titus 1:3 uses the same phrase, \"according to the commandment of God our Saviour.\"",
+        "sources": [
+          "x:galatians.1.1",
+          "x:2-corinthians.1.1",
+          "x:titus.1.3"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse presents God as Saviour and Christ as the believer's hope. Colossians 1:27 echoes this when it calls Christ \"the hope of glory.\"",
+        "sources": [
+          "v:1.1",
+          "x:colossians.1.27"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0652",
+        "english": "apostle",
+        "why_it_matters": {
+          "text": "The word means a messenger or \"one sent on a mission.\" In the New Testament it marks an apostle of Christ. Paul claims equality with the Twelve, so this is a claim of authority, not just a job title.",
+          "sources": [
+            "w:G0652",
+            "x:galatians.1.1"
+          ]
+        }
+      },
+      {
+        "strong": "G2003",
+        "english": "commandment",
+        "why_it_matters": {
+          "text": "Epitagē means a command, a word also used of divine commands. Paul presents his mission as an order from God, not his own choice.",
+          "sources": [
+            "w:G2003",
+            "x:titus.1.3"
+          ]
+        }
+      },
+      {
+        "strong": "G4990",
+        "english": "Saviour",
+        "why_it_matters": {
+          "text": "Sōtēr means deliverer or preserver. In Paul's day it was a common title for kings. Here it is given to God, as in the Old Testament.",
+          "sources": [
+            "w:G4990",
+            "x:jude.1.25"
+          ]
+        }
+      },
+      {
+        "strong": "G1680",
+        "english": "hope",
+        "why_it_matters": {
+          "text": "In the New Testament this word always means an expectation of good. Calling Christ \"our hope\" names him as the one that good expectation rests on.",
+          "sources": [
+            "w:G1680",
+            "v:1.1"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is a greeting that sets out Paul's credentials. He speaks as one sent by God's command, with Christ as the hope behind his message.",
+      "sources": [
+        "v:1.1",
+        "w:G0652",
+        "w:G1680"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.3",
+      "reason": "The lexicon says only that NT elpis is always an expectation of good. It does not say the hope is confident or certain, and 1 Peter 1:3's 'lively hope' does not establish 'confident expectation, not wishful thinking.'",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

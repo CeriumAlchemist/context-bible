@@ -1,0 +1,161 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 7
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:53:50.383Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just warned against teachers who think \"gain is godliness\" and has said that \"godliness with contentment is great gain.\" This verse gives the reason: we arrive with nothing and leave with nothing. He goes on to say food and clothing are enough and that wanting to be rich leads to ruin.",
+      "sources": [
+        "v:6.5",
+        "v:6.6",
+        "v:6.7",
+        "v:6.8",
+        "v:6.9"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in his name. Others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The \"we\" covers everyone, Paul and Timothy included. The warning is aimed at false teachers who treat religion as a way to get rich, and at believers tempted to love money.",
+        "sources": [
+          "v:6.5",
+          "v:6.9",
+          "v:6.10"
+        ]
+      }
+    },
+    "what": {
+      "text": "It is a plain statement about life. We came into the world owning nothing and will take nothing out of it. So piling up wealth cannot be the real \"gain\" in life.",
+      "sources": [
+        "v:6.6",
+        "v:6.7",
+        "w:G3762",
+        "w:G1627"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This is teaching, not a story, so no event is tied to the verse.",
+        "sources": [
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated, though it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse backs up the claim that contentment is true gain. It undercuts teachers who suppose \"gain is godliness.\"",
+        "sources": [
+          "v:6.5",
+          "v:6.6",
+          "v:6.7"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter links sound teaching with godly living. This section warns that \"the love of money is the root of all evil.\" The same idea appears in Job, who said \"naked shall I return thither,\" and in Psalm 49, which says the rich man \"shall carry nothing away.\"",
+        "sources": [
+          "b:themes",
+          "v:6.10",
+          "x:job.1.21",
+          "x:psalms.49.17",
+          "x:ecclesiastes.5.15"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers are urged to be content with what they need and not to trust in \"uncertain riches.\" Those who have wealth are told to be \"rich in good works, ready to distribute.\"",
+        "sources": [
+          "v:6.8",
+          "v:6.17",
+          "v:6.18"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Often quoted as \"you can't take it with you\" to mean you should spend your money freely on yourself while you can.",
+      "in_context_reading": {
+        "text": "In context the verse argues for contentment and against greed. The same chapter tells the rich not to trust in riches but to do good, share generously, and lay up \"a good foundation against the time to come.\"",
+        "sources": [
+          "v:6.6",
+          "v:6.8",
+          "v:6.17",
+          "v:6.18",
+          "v:6.19"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1063",
+        "english": "for",
+        "why_it_matters": {
+          "text": "This small word gives a reason. It ties the verse to verse 6, so the point is to support contentment rather than to stand alone as a saying.",
+          "sources": [
+            "w:G1063",
+            "v:6.6"
+          ]
+        }
+      },
+      {
+        "strong": "G2889",
+        "english": "world",
+        "why_it_matters": {
+          "text": "Here the word means the earth, this present life, not the universe or a sinful system. The verse is about entering and leaving earthly life.",
+          "sources": [
+            "w:G2889"
+          ]
+        }
+      },
+      {
+        "strong": "G1627",
+        "english": "carry out",
+        "why_it_matters": {
+          "text": "The same verb is used for carrying out the dead for burial (Acts 5:6). That fits the picture of death stripping away all possessions.",
+          "sources": [
+            "w:G1627"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Since we arrive and leave empty-handed, real gain is godliness with contentment, not wealth. Riches are to be used for good, not trusted.",
+      "sources": [
+        "v:6.6",
+        "v:6.7",
+        "v:6.17",
+        "v:6.18"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

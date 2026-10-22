@@ -1,0 +1,175 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 2,
+    "verse": 5
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:44:40.936Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is urging that prayers be made for all people, including rulers, because God wants all people to be saved (2:1-4). Verse 5 gives the reason: there is one God over everyone and one go-between for everyone, Christ Jesus, who gave himself a ransom for all (2:6).",
+      "sources": [
+        "v:2.1",
+        "v:2.2",
+        "v:2.3",
+        "v:2.4",
+        "v:2.5",
+        "v:2.6"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter and calls himself a preacher and teacher of the Gentiles here. Many critical scholars think a follower wrote in Paul's name.",
+        "sources": [
+          "b:author",
+          "v:2.7",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus, and through him that church.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "All people. The verse speaks of God and \"men,\" meaning human beings in general, whom God wants saved.",
+        "sources": [
+          "v:2.4",
+          "v:2.5",
+          "w:G0444"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse states that there is only one God and only one mediator between God and humanity, and that this mediator is the human Christ Jesus. This is offered as the ground for praying for everyone.",
+      "sources": [
+        "v:2.5",
+        "w:G1063",
+        "w:G1520",
+        "w:G3316"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse is not tied to a specific event. It is part of instructions on prayer and conduct in worship (2:1-15).",
+        "sources": [
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, by Paul between his Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110 and see it as written in Paul's name, while others defend the earlier date and Paul's authorship.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Timothy in Ephesus, a wealthy port city and capital of the Roman province of Asia, known for its temple of Artemis. Where Paul wrote from is not stated, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:recipients",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse explains why the church should pray for all people: since there is one God of all and one mediator for all, no group is outside God's saving concern.",
+        "sources": [
+          "v:2.1",
+          "v:2.4",
+          "v:2.5",
+          "v:2.6"
+        ]
+      },
+      "big_picture": {
+        "text": "It echoes Israel's confession that the LORD is one and Paul's teaching of one God and one Lord Jesus Christ. Hebrews likewise calls Jesus the mediator of the new covenant who lives to intercede for those who come to God by him.",
+        "sources": [
+          "x:deuteronomy.6.4",
+          "x:1-corinthians.8.6",
+          "x:hebrews.9.15",
+          "x:hebrews.12.24",
+          "x:hebrews.7.25"
+        ]
+      },
+      "for_readers": {
+        "text": "A key theme of the letter is that God desires all people to be saved. This verse supports that by pointing to one God and one mediator who gave himself for all.",
+        "sources": [
+          "b:themes",
+          "v:2.4",
+          "v:2.6"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1063",
+        "english": "for",
+        "why_it_matters": {
+          "text": "This word gives a reason. It ties verse 5 to the call to pray for all and to God's will that all be saved, so the verse is an argument, not a standalone slogan.",
+          "sources": [
+            "w:G1063",
+            "v:2.1",
+            "v:2.4"
+          ]
+        }
+      },
+      {
+        "strong": "G1520",
+        "english": "one",
+        "why_it_matters": {
+          "text": "\"One\" can be used emphatically, to the exclusion of others. Repeated for God and for the mediator, it stresses that both are the same for every person.",
+          "sources": [
+            "w:G1520",
+            "v:2.5"
+          ]
+        }
+      },
+      {
+        "strong": "G3316",
+        "english": "mediator",
+        "why_it_matters": {
+          "text": "The word means an arbitrator or go-between who stands between two parties. Elsewhere it is used of the mediator of a covenant.",
+          "sources": [
+            "w:G3316",
+            "x:hebrews.9.15",
+            "x:galatians.3.20"
+          ]
+        }
+      },
+      {
+        "strong": "G0444",
+        "english": "men",
+        "why_it_matters": {
+          "text": "The word means human beings generally, male or female. The verse is about God and all humanity, not men as opposed to women.",
+          "sources": [
+            "w:G0444",
+            "v:2.4"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Because there is one God for all people and one mediator, Christ Jesus, who gave himself for all, the church should pray for everyone. The verse grounds that wide concern in who God and Christ are.",
+      "sources": [
+        "v:2.1",
+        "v:2.4",
+        "v:2.5",
+        "v:2.6"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "christians_differ",
+      "reason": "The cited verses do not describe Protestant, Catholic, or Orthodox positions on saints, priests, or shared mediation. These characterizations of the traditions are not found in any cited source.",
+      "fix": "note removed at Kourtland's direction: it described later church traditions rather than the text"
+    }
+  ]
+}

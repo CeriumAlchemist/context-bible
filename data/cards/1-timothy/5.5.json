@@ -1,0 +1,158 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 5
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:50:26.183Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is telling Timothy which widows the church should support. A \"widow indeed\" is one left alone, with no family to care for her, who has put her hope in God and keeps praying day and night. This sets her apart from widows with children or grandchildren, who should care for her, and from a widow who lives for pleasure.",
+      "sources": [
+        "v:5.3",
+        "v:5.4",
+        "v:5.5",
+        "v:5.6",
+        "v:5.16"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, writing to Timothy. Many critical scholars think a later follower wrote in Paul's name.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Widows in the church, especially those with no family to support them. The church was to support them.",
+        "sources": [
+          "v:5.3",
+          "v:5.5",
+          "v:5.16"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse describes a true widow in need. She is alone. She has set her hope on God. She keeps on in prayer and requests to God night and day.",
+      "sources": [
+        "v:5.5",
+        "w:G3443",
+        "w:G1679",
+        "w:G4357"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The letter gives instructions for the ongoing life of the Ephesian church while Timothy led it. It does not describe a single event.",
+        "sources": [
+          "b:recipients",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul. Scholarly view: many critical scholars date it around AD 80-110, written by a follower in Paul's name. Others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Timothy was in Ephesus, a wealthy port city and capital of the Roman province of Asia. The letter does not say where Paul wrote from. It may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants church help to go to the widows who really need it. Families should care for their own relatives first, \"that it may relieve them that are widows indeed.\"",
+        "sources": [
+          "v:5.4",
+          "v:5.8",
+          "v:5.16"
+        ]
+      },
+      "big_picture": {
+        "text": "Chapter 5 is part of a section on caring for groups in the church: widows, elders, and servants. It fits the letter's theme that belief and behavior belong together in God's household.",
+        "sources": [
+          "b:outline",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse shows a church taking practical responsibility for people left alone. It also pictures faith that is shown in steady trust and prayer, like the widow Anna, who served God \"with fastings and prayers night and day.\"",
+        "sources": [
+          "v:5.16",
+          "x:luke.2.37"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3689",
+        "english": "indeed",
+        "why_it_matters": {
+          "text": "The Greek means \"really, truly.\" The phrase \"widow indeed\" appears in 5:3, 5:5 and 5:16. It marks a widow who is truly without support, not simply any woman whose husband has died.",
+          "sources": [
+            "w:G3689",
+            "v:5.3",
+            "v:5.16"
+          ]
+        }
+      },
+      {
+        "strong": "G3443",
+        "english": "desolate",
+        "why_it_matters": {
+          "text": "The word means \"left alone, forsaken.\" The lexicon applies it here to a childless widow. That ties the verse to 5:4, where widows with family are cared for by them.",
+          "sources": [
+            "w:G3443",
+            "v:5.4"
+          ]
+        }
+      },
+      {
+        "strong": "G1679",
+        "english": "trusteth",
+        "why_it_matters": {
+          "text": "The word means \"to hope.\" Here it is in a form that suggests she has set her hope on God and keeps it there. It is a settled stance, not a passing feeling.",
+          "sources": [
+            "w:G1679"
+          ]
+        }
+      },
+      {
+        "strong": "G4357",
+        "english": "continueth",
+        "why_it_matters": {
+          "text": "The word can mean \"to remain attached to, cleave unto.\" It pictures a woman who clings to prayer and keeps at it.",
+          "sources": [
+            "w:G4357"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "In context, this verse defines who should receive the church's support: a widow with no family who relies on God in constant prayer. It is practical guidance about care for the needy, not a general saying about loneliness.",
+      "sources": [
+        "v:5.3",
+        "v:5.4",
+        "v:5.5",
+        "v:5.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

@@ -1,0 +1,167 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 13
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:51:30.030Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is telling Timothy which widows the church should put on its support list. He says younger widows should not be enrolled, and this verse gives a second reason: with no work to do, they may form a habit of idleness, going from house to house, gossiping and meddling.",
+      "sources": [
+        "v:5.9",
+        "v:5.11",
+        "v:5.13",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in Paul's name; others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Younger widows in the church, whom Paul says should not be taken onto the church's list of supported widows.",
+        "sources": [
+          "v:5.11",
+          "v:5.13"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul warns that younger widows supported by the church could learn to be idle. They might drift from home to home as gossips and busybodies, saying things they should not say. In the next verse his remedy is that younger women marry, raise children, and manage a household.",
+      "sources": [
+        "v:5.13",
+        "v:5.14"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse describes a situation Paul expected in the Ephesian church, not a single event. The text does not name a specific occasion.",
+        "sources": [
+          "v:5.11",
+          "v:5.13",
+          "b:recipients"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The instructions are for the church in Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated; it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants the church's limited support to go to widows truly in need. He also wants to protect younger widows and the church's reputation. Families should care for their own widows so the church can help 'them that are widows indeed.'",
+        "sources": [
+          "v:5.3",
+          "v:5.14",
+          "v:5.16"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that belief and behavior belong together. Here that means caring for the needy wisely and avoiding conduct that gives outsiders reason to speak against the church.",
+        "sources": [
+          "b:themes",
+          "b:purpose",
+          "v:5.14"
+        ]
+      },
+      "for_readers": {
+        "text": "Scripture repeatedly warns against idleness, talebearing, and meddling. Examples include Leviticus 19:16, Proverbs 20:19, and 2 Thessalonians 3:11, which speaks of those 'working not at all, but are busybodies.'",
+        "sources": [
+          "x:leviticus.19.16",
+          "x:proverbs.20.19",
+          "x:2-thessalonians.3.11"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3129",
+        "english": "learn",
+        "why_it_matters": {
+          "text": "The word means to learn, often by inquiry. Paul pictures idleness as a habit that is gradually learned, not a fixed trait of these women.",
+          "sources": [
+            "w:G3129",
+            "v:5.13"
+          ]
+        }
+      },
+      {
+        "strong": "G0692",
+        "english": "idle",
+        "why_it_matters": {
+          "text": "The word literally means 'without work,' inactive. The problem Paul names is a lack of useful work, which then opens the door to gossip.",
+          "sources": [
+            "w:G0692"
+          ]
+        }
+      },
+      {
+        "strong": "G5397",
+        "english": "tattlers",
+        "why_it_matters": {
+          "text": "The word comes from a root meaning to babble. It describes people who talk on and on, which is close to the modern idea of gossips.",
+          "sources": [
+            "w:G5397"
+          ]
+        }
+      },
+      {
+        "strong": "G4021",
+        "english": "busybodies",
+        "why_it_matters": {
+          "text": "Used of people, it means meddling or overly curious. Used of things, it can mean magic arts, as in Acts 19:19. The same idea appears in 2 Thessalonians 3:11 of people who do no work.",
+          "sources": [
+            "w:G4021",
+            "x:2-thessalonians.3.11"
+          ]
+        }
+      },
+      {
+        "strong": "G1163",
+        "english": "which they ought not",
+        "why_it_matters": {
+          "text": "The word speaks of what is necessary or proper. Titus 1:11 uses similar wording of false teachers 'teaching things which they ought not,' but this verse does not say exactly what was being said.",
+          "sources": [
+            "w:G1163",
+            "x:titus.1.11"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is part of practical guidance on supporting widows in Ephesus, not a general statement about women. Its lasting point is that time without purposeful work can drift into gossip and meddling that harm others.",
+      "sources": [
+        "v:5.9",
+        "v:5.11",
+        "v:5.13",
+        "v:5.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

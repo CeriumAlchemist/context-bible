@@ -1,0 +1,209 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 10
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:43:04.899Z",
+  "card": {
+    "in_context": {
+      "text": "This verse finishes a list of wrongdoings that begins in verse 9. Paul says the law is good if used lawfully. It is aimed not at the righteous but at people who do such things, and at anything else 'contrary to sound doctrine.' He writes this to correct would-be 'teachers of the law' in Ephesus who did not understand what they taught.",
+      "sources": [
+        "v:1.7",
+        "v:1.8",
+        "v:1.9",
+        "v:1.10"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in Paul's name; others defend Paul's authorship.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and 'own son in the faith,' whom Paul left at Ephesus to stop certain people from teaching other doctrine.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The false teachers who misused the law, and the kinds of wrongdoers the law is meant to confront: the sexually immoral, those described by a rare word about sex between males, kidnappers or slave-dealers, liars, and perjurers.",
+        "sources": [
+          "v:1.6",
+          "v:1.7",
+          "v:1.10",
+          "w:G4205",
+          "w:G0733",
+          "w:G0405",
+          "w:G5583",
+          "w:G1965"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul lists behaviors that show what the law is for. He then widens it to 'any other thing' that opposes healthy teaching. That teaching agrees with the gospel entrusted to him.",
+      "sources": [
+        "v:1.9",
+        "v:1.10",
+        "v:1.11",
+        "w:G5198",
+        "w:G0480"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul had asked Timothy to stay in Ephesus when Paul went on into Macedonia. Some there had turned aside to 'vain jangling,' meaning empty talk.",
+        "sources": [
+          "v:1.3",
+          "v:1.6"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110, while others hold to the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter is addressed to Timothy in Ephesus. Ephesus was a wealthy port city and capital of the Roman province of Asia, known for its temple of Artemis. Where Paul wrote from is not stated, possibly Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The list supports Paul's point against false teachers. The law is meant to expose real wrongdoing, not to fuel fables, endless genealogies, and arguments. The goal of his charge is love from a pure heart, a good conscience, and sincere faith.",
+        "sources": [
+          "v:1.4",
+          "v:1.5",
+          "v:1.7",
+          "v:1.8",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Right after the list, Paul calls himself a former blasphemer and persecutor who received mercy. He says 'Christ Jesus came into the world to save sinners; of whom I am chief.' The letter ties sound teaching to godly living.",
+        "sources": [
+          "v:1.13",
+          "v:1.15",
+          "v:1.16",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Healthy teaching shows up in how people live. The same chapter that names sins also holds out mercy to the worst of sinners as a pattern for all who believe.",
+        "sources": [
+          "v:1.10",
+          "v:1.15",
+          "v:1.16",
+          "w:G5198"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Pulled out alone as a list for condemning particular groups of people, especially in debates about sexuality.",
+      "in_context_reading": {
+        "text": "In its setting, the list shows what the law is rightly used for, against teachers who misused it. Paul goes straight on to call himself the chief of sinners, saved by mercy. The verse sits within a message of grace to sinners, not apart from it.",
+        "sources": [
+          "v:1.7",
+          "v:1.8",
+          "v:1.9",
+          "v:1.15",
+          "v:1.16"
+        ]
+      }
+    },
+    "christians_differ": {
+      "text": "The word behind 'them that defile themselves with mankind' is rare. It appears only here and in 1 Corinthians 6:9, and its exact sense is debated. Many traditions read it as condemning sex between males in general, noting it joins the words for 'male' and 'bed,' echoing Leviticus 18:22. Other Christians argue it refers to a narrower, exploitative practice.",
+      "sources": [
+        "w:G0733",
+        "x:leviticus.18.22",
+        "x:1-corinthians.6.9"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G5198",
+        "english": "sound",
+        "why_it_matters": {
+          "text": "The word means 'healthy' and is used elsewhere of physical good health. 'Sound doctrine' is teaching that produces spiritual health, a phrase repeated in the letters to Timothy and Titus.",
+          "sources": [
+            "w:G5198",
+            "x:2-timothy.4.3",
+            "x:1-timothy.6.3"
+          ]
+        }
+      },
+      {
+        "strong": "G0405",
+        "english": "menstealers",
+        "why_it_matters": {
+          "text": "The word means a slave-dealer or kidnapper, from a term for a slave captured in war. The list condemns taking and trading human beings.",
+          "sources": [
+            "w:G0405"
+          ]
+        }
+      },
+      {
+        "strong": "G0733",
+        "english": "them that defile themselves with mankind",
+        "why_it_matters": {
+          "text": "The word is a compound glossed \"sodomite.\" In the New Testament it occurs only here and in 1 Corinthians 6:9.",
+          "sources": [
+            "w:G0733",
+            "x:1-corinthians.6.9"
+          ]
+        }
+      },
+      {
+        "strong": "G4205",
+        "english": "whoremongers",
+        "why_it_matters": {
+          "text": "The word can mean a male prostitute. In the New Testament it usually means a fornicator, someone who commits sexual immorality, not only a man who uses prostitutes.",
+          "sources": [
+            "w:G4205"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul names real wrongs to show what God's law is for, and measures them against sound doctrine. He then points to Christ, who came to save sinners, with Paul himself as the pattern of that mercy.",
+      "sources": [
+        "v:1.10",
+        "v:1.11",
+        "v:1.15",
+        "v:1.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.2",
+      "reason": "No cited source says the word's precise meaning is discussed, or that its rarity is the reason for any such discussion.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "takeaway",
+      "reason": "Calling Paul the 'first example' relies on 1:16 ('in me first… for a pattern'), which this claim does not cite. The cited 1:15 says only that Paul is 'chief' of sinners.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "The cited sources give only a lexical gloss ('sodomite'), the word's two occurrences, and the verse texts. They do not say the word's sense is debated, describe what 'many traditions' hold, or mention any Christians arguing for a narrower, exploitative meaning.",
+      "fix": "checked and approved by Kourtland"
+    }
+  ]
+}

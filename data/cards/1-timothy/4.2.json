@@ -1,0 +1,171 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 2
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:48:23.844Z",
+  "card": {
+    "in_context": {
+      "text": "This verse continues a sentence that starts in 4:1. The Spirit warns that some will leave the faith by following deceiving spirits and teachings from demons. Verse 2 describes the human teachers who spread those teachings: they lie while pretending to be godly, and their consciences are branded as if with a hot iron.",
+      "sources": [
+        "v:4.1",
+        "v:4.2"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle writes the letter. He passes on what the Spirit says clearly about the latter times.",
+        "sources": [
+          "b:author",
+          "v:4.1"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The false teachers who lead people away from the faith. Verse 3 shows they forbid marriage and command people to avoid certain foods.",
+        "sources": [
+          "v:4.1",
+          "v:4.3"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse names two marks of these teachers. They speak lies in hypocrisy, and their conscience is \"seared with a hot iron.\" The next verse describes what they teach: forbidding marriage and rejecting foods God created.",
+      "sources": [
+        "v:4.2",
+        "v:4.3",
+        "w:G5272",
+        "w:G2743"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul speaks of 'the latter times,' when some will depart from the faith. The rest of the chapter treats this as a danger Timothy must deal with now, by reminding the believers of these things.",
+        "sources": [
+          "v:4.1",
+          "v:4.6"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: Paul wrote about AD 62-64, between his two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote it in Paul's name; others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter is addressed to the church in Ephesus, a wealthy port city and capital of the Roman province of Asia. The text does not say where Paul wrote from, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul describes the false teachers so Timothy can recognize and confront them. He then tells Timothy to refuse such fables and train himself in godliness.",
+        "sources": [
+          "b:purpose",
+          "v:4.6",
+          "v:4.7"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that sound teaching and godly living belong together. Here false teaching is linked to dishonest speech and a damaged conscience. It stands against the truth that everything God created is good when received with thanksgiving.",
+        "sources": [
+          "b:themes",
+          "v:4.4",
+          "v:4.5"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers are urged to watch both their own lives and their teaching. Paul says that in doing this Timothy would save both himself and those who hear him.",
+        "sources": [
+          "v:4.16"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Readers differ on 'the latter times' in 4:1. Some take it as a warning about a future period just before the end. Others take it as the whole age of the church, including Paul's own day, since Timothy is told to deal with these teachers now. The sources here do not settle the question.",
+      "sources": [
+        "v:4.1",
+        "v:4.6",
+        "b:purpose"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G5573",
+        "english": "speaking lies",
+        "why_it_matters": {
+          "text": "The Greek word describes people as 'speakers of lies.' So the demonic teachings of 4:1 spread through human liars, not only through spirits.",
+          "sources": [
+            "w:G5573",
+            "v:4.1"
+          ]
+        }
+      },
+      {
+        "strong": "G5272",
+        "english": "hypocrisy",
+        "why_it_matters": {
+          "text": "The word first meant play-acting, then pretence. These teachers look religious, but their piety is a mask.",
+          "sources": [
+            "w:G5272"
+          ]
+        }
+      },
+      {
+        "strong": "G2743",
+        "english": "seared",
+        "why_it_matters": {
+          "text": "The word means to mark by branding. The lexicon notes the KJV's \"seared\" and an older rendering \"scar,\" and points to other readings of the image.",
+          "sources": [
+            "w:G2743"
+          ]
+        }
+      },
+      {
+        "strong": "G4893",
+        "english": "conscience",
+        "why_it_matters": {
+          "text": "Conscience is the inner sense that judges oneself. Elsewhere this letter praises a good and pure conscience, so a branded conscience is the opposite of the healthy faith Paul wants.",
+          "sources": [
+            "w:G4893"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is not a general label for anyone who sins without guilt. It describes false teachers whose pious-sounding lies come from a damaged conscience. Timothy is to answer them with sound teaching and a godly example.",
+      "sources": [
+        "v:4.2",
+        "v:4.3",
+        "v:4.12",
+        "v:4.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "what",
+      "reason": "The cited verses place the seared conscience (4:2) next to the food and marriage rules (4:3), but they never say the damaged conscience is the reason these teachers make such rules. The causal 'That is why' goes beyond the text.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.2",
+      "reason": "The lexicon gives only 'to mark by branding' and notes the AV 'scar' with a pointer to CGT. It does not mention a mark of ownership or describe the alternative view, so that reading is added.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

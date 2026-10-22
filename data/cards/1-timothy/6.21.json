@@ -1,0 +1,164 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 21
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:55:19.197Z",
+  "card": {
+    "in_context": {
+      "text": "This is the last verse of the letter. It finishes Paul's final warning in 6:20 to guard what was entrusted to Timothy and avoid empty talk and \"science falsely so called.\" Some who claimed that so-called knowledge have wandered from the faith. Then Paul closes with a short blessing.",
+      "sources": [
+        "v:6.20",
+        "v:6.21",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer at the start of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients",
+          "v:6.20"
+        ]
+      },
+      "affected": {
+        "text": "\"Some\" unnamed people who claimed a false kind of knowledge and so went astray from the faith. The verse does not name them.",
+        "sources": [
+          "v:6.21",
+          "w:G5100",
+          "w:G1861"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul says that certain people who laid claim to this falsely named knowledge have missed the mark concerning the faith. He then ends the letter with \"Grace be with thee. Amen.\"",
+      "sources": [
+        "v:6.20",
+        "v:6.21",
+        "w:G0795"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse describes something already happening while Timothy led the church in Ephesus: some had already gone astray.",
+        "sources": [
+          "b:recipients",
+          "v:6.21"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated, though Macedonia is possible.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse gives the reason for the warning in 6:20: this false knowledge is dangerous because some who claimed it have already left the faith. It sums up the letter's concern with confronting false teachers.",
+        "sources": [
+          "v:6.20",
+          "v:6.21",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter repeatedly mentions \"some\" who swerved or shipwrecked their faith, through empty talk (1:6), a rejected conscience (1:19), or the love of money (6:10). This last verse ends the letter on the same warning. It echoes the theme that sound teaching and godly living belong together.",
+        "sources": [
+          "x:1-timothy.1.6",
+          "x:1-timothy.1.19",
+          "x:1-timothy.6.10",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Claiming special knowledge does not keep a person on course. Faith can be lost by chasing ideas that only sound wise. The closing blessing points to God's grace as what sustains a believer.",
+        "sources": [
+          "v:6.20",
+          "v:6.21",
+          "w:G0795"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1861",
+        "english": "professing",
+        "why_it_matters": {
+          "text": "The word means to profess or lay claim to something. The lexicon notes that here it is knowledge (gnosis) being claimed, the \"science falsely so called\" of 6:20.",
+          "sources": [
+            "w:G1861",
+            "v:6.20"
+          ]
+        }
+      },
+      {
+        "strong": "G0795",
+        "english": "erred / went astray",
+        "why_it_matters": {
+          "text": "The word means to miss the mark, or fail. The same word is used in 1 Timothy 1:6 and 2 Timothy 2:18.",
+          "sources": [
+            "w:G0795",
+            "x:1-timothy.1.6",
+            "x:2-timothy.2.18"
+          ]
+        }
+      },
+      {
+        "strong": "G4102G",
+        "english": "faith",
+        "why_it_matters": {
+          "text": "The word means faith, belief, or trust. Here, with the article, Paul speaks of erring concerning \"the faith.\"",
+          "sources": [
+            "w:G4102G",
+            "w:G3588"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul's last word to Timothy is a warning and a blessing. Some who claimed special knowledge have missed the mark about the faith, so guard what has been entrusted to you. Rely on God's grace.",
+      "sources": [
+        "v:6.20",
+        "v:6.21"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.0",
+      "reason": "The lexicon only says the word means 'to profess' and that γνῶσιν is the object here. The claim that these people were not openly rejecting the faith but boasting of a superior knowledge goes beyond the cited sources.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon gives 'miss the mark, fail' but says nothing about gradual drifting as opposed to a single act. That contrast is not in the sources.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.2",
+      "reason": "The cited pistis entry shows only the active sense (belief, trust), and the article entry says nothing about this. Equating 'the faith' with the body of truth entrusted to Timothy is an interpretive link the sources do not make.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

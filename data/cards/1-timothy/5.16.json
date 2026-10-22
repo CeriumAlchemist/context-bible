@@ -1,0 +1,160 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 16
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:51:53.718Z",
+  "card": {
+    "in_context": {
+      "text": "This verse closes Paul's long section on caring for widows (5:3-16). Believers with widows in their own family should support them, so the church's limited help can go to widows who have no one else.",
+      "sources": [
+        "v:5.3",
+        "v:5.4",
+        "v:5.16",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter. Many critical scholars think a follower wrote in his name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus. Through him the instruction reaches the believers there.",
+        "sources": [
+          "b:recipients",
+          "v:5.7"
+        ]
+      },
+      "affected": {
+        "text": "Believing men and women who have widows in their family, the widows themselves, and the church, which should not carry costs that families can bear. Those who benefit are \"widows indeed\": widows left alone who trust in God and pray.",
+        "sources": [
+          "v:5.16",
+          "v:5.5"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul gives a practical rule. If a believer has widows in the family, that believer should provide for them, and the church should not be burdened. The church can then use its help for widows who truly have no family support.",
+      "sources": [
+        "v:5.16",
+        "v:5.4",
+        "v:5.8"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse tells no event. It is standing instruction for how the church in Ephesus should handle support for widows.",
+        "sources": [
+          "v:5.16",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's first and second Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The instruction is for the church at Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "b:recipients"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants the church's help to reach those in real need. Earlier he said children and grandchildren should first show piety at home and repay their parents, and that anyone who does not provide for his own household has denied the faith.",
+        "sources": [
+          "v:5.4",
+          "v:5.8",
+          "v:5.16"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that sound belief should produce godly living, including how believers conduct themselves in God's household. This verse applies that to money and family duty.",
+        "sources": [
+          "b:themes",
+          "b:purpose"
+        ]
+      },
+      "for_readers": {
+        "text": "Caring for one's own family is part of faith, not separate from it. Families should not hand off to the church what they can do themselves, so shared resources can go to those with no one else.",
+        "sources": [
+          "v:5.16",
+          "v:5.8",
+          "v:5.4"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3689",
+        "english": "indeed (truly)",
+        "why_it_matters": {
+          "text": "The word means \"really\" or \"actually.\" It sets apart widows who are truly alone and without family help (5:3, 5:5). These are the widows the church should support.",
+          "sources": [
+            "w:G3689",
+            "v:5.3",
+            "v:5.5"
+          ]
+        }
+      },
+      {
+        "strong": "G0916",
+        "english": "charged (burdened)",
+        "why_it_matters": {
+          "text": "The verb means to weigh down or burden. The point is not that the church refuses to care. Its resources should not be overloaded by needs that families can meet.",
+          "sources": [
+            "w:G0916",
+            "v:5.16"
+          ]
+        }
+      },
+      {
+        "strong": "G1884",
+        "english": "relieve",
+        "why_it_matters": {
+          "text": "The verb means to aid or relieve. The same word describes the good works expected of an enrolled widow in 5:10, who has \"relieved the afflicted.\" This lexicon glosses the verb here as \"she should help,\" while the KJV reads \"man or woman.\"",
+          "sources": [
+            "w:G1884",
+            "v:5.10",
+            "v:5.16"
+          ]
+        }
+      },
+      {
+        "strong": "G5503",
+        "english": "widows",
+        "why_it_matters": {
+          "text": "The lexicon notes that in 5:9 the word may refer to an official list or order of widows. That helps explain why the church had limits on whom it \"took into the number.\"",
+          "sources": [
+            "w:G5503",
+            "v:5.9"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Faith shows itself in caring for your own relatives. When families carry their part, the church can fully help those who truly have no one.",
+      "sources": [
+        "v:5.16",
+        "v:5.8",
+        "v:5.5"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

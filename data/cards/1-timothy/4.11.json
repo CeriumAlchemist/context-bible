@@ -1,0 +1,157 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 11
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:49:20.980Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just warned Timothy about teachers who forbid marriage and certain foods, and has told him to train himself in godliness and trust the living God. Verse 11 tells Timothy to pass all of this on to the church with authority. The next verses tell him not to let his youth stop him, and to be an example.",
+      "sources": [
+        "v:4.1",
+        "v:4.3",
+        "v:4.7",
+        "v:4.8",
+        "v:4.10",
+        "v:4.11",
+        "v:4.12"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer. Many critical scholars think a follower wrote in his name.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The believers in the Ephesian church, whom Timothy is to remind of these things and who will hear his teaching.",
+        "sources": [
+          "v:4.6",
+          "v:4.16"
+        ]
+      }
+    },
+    "what": {
+      "text": "A short order to Timothy: give these instructions as commands and teach them. \"These things\" points back to what Paul has just said about false teaching, God's good gifts, godliness, and hope in the living God.",
+      "sources": [
+        "v:4.11",
+        "w:G3778",
+        "v:4.4",
+        "v:4.8",
+        "v:4.10"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul had gone on to Macedonia and left Timothy in Ephesus to deal with false teaching in the church.",
+        "sources": [
+          "b:writtenFrom",
+          "b:recipients",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110, though others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The instruction was for the church at Ephesus, a wealthy port city and capital of the Roman province of Asia, known for its temple of Artemis.",
+      "sources": [
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Timothy was young and facing false teachers. Paul wants him to speak with authority, not timidly, so the church holds to sound teaching.",
+        "sources": [
+          "v:4.12",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that sound teaching produces godly living. Paul repeats this kind of charge elsewhere: \"These things teach and exhort\" (1 Timothy 6:2) and \"These things speak, and exhort, and rebuke with all authority\" (Titus 2:15).",
+        "sources": [
+          "b:themes",
+          "x:1-timothy.6.2",
+          "x:titus.2.15",
+          "x:1-timothy.5.7"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse shows that church leaders are meant to pass on what they have received, both as clear instruction and as patient teaching. Paul ties this to their care for themselves and their hearers.",
+        "sources": [
+          "v:4.11",
+          "v:4.16",
+          "x:2-timothy.4.2"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3853",
+        "english": "command",
+        "why_it_matters": {
+          "text": "The word means to order or give a charge. It can also mean passing on a message. So Timothy is not merely offering suggestions; he is to give these things as binding instruction.",
+          "sources": [
+            "w:G3853"
+          ]
+        }
+      },
+      {
+        "strong": "G1321",
+        "english": "teach",
+        "why_it_matters": {
+          "text": "This word means to teach or instruct. Paul pairs it with \"command.\"",
+          "sources": [
+            "w:G1321",
+            "w:G3853"
+          ]
+        }
+      },
+      {
+        "strong": "G3778",
+        "english": "these things",
+        "why_it_matters": {
+          "text": "The word can refer back to what came before. This ties the order to the preceding teaching in the chapter, not to whatever Timothy might choose.",
+          "sources": [
+            "w:G3778",
+            "v:4.6"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Verse 11 is Paul's charge to a young leader to pass on, with authority, the teaching he has just laid out about false teaching, God's good gifts, and godliness.",
+      "sources": [
+        "v:4.11",
+        "v:4.12",
+        "b:purpose"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon only defines the word as 'to teach (i.e. instruct)'. It says nothing about explaining the reasons behind instructions, so the contrast with 'command' goes beyond the cited source.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

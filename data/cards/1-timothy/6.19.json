@@ -1,0 +1,169 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 19
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:55:16.306Z",
+  "card": {
+    "in_context": {
+      "text": "This verse finishes a charge Paul tells Timothy to give to wealthy believers: not to trust in uncertain riches but in God, and to be rich in good works and generous. In this way they lay up a good foundation for the time to come and lay hold on eternal life.",
+      "sources": [
+        "v:6.17",
+        "v:6.18",
+        "v:6.19"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle writes the letter, naming himself in 1:1. Many critical scholars think a follower wrote it in Paul's name.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Those \"that are rich in this world\" in the church. Timothy is to pass this charge on to them.",
+        "sources": [
+          "v:6.17"
+        ]
+      }
+    },
+    "what": {
+      "text": "Rich believers who do good and share freely are pictured as storing treasure. That treasure becomes a firm foundation for \"the time to come.\" The goal is that they \"may lay hold on eternal life.\"",
+      "sources": [
+        "v:6.18",
+        "v:6.19",
+        "w:G0597",
+        "w:G2310"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse is instruction, not a story. It looks ahead to \"the time to come,\" and the chapter points to the future \"appearing of our Lord Jesus Christ.\"",
+        "sources": [
+          "v:6.19",
+          "v:6.14"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110, while others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. That may explain why it speaks to rich members. The text does not say where Paul wrote from, though Macedonia is possible.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The chapter warns that \"the love of money is the root of all evil\" and that wanting to be rich leads to ruin. This verse shows the rich a better use of wealth: give it away in good works and so gain what lasts.",
+        "sources": [
+          "v:6.9",
+          "v:6.10",
+          "v:6.17",
+          "v:6.18"
+        ]
+      },
+      "big_picture": {
+        "text": "The verse echoes Jesus' teaching not to lay up treasures on earth, because \"where your treasure is, there will your heart be also.\" It also repeats the call of 6:12 to \"lay hold on eternal life.\"",
+        "sources": [
+          "x:matthew.6.19",
+          "x:matthew.6.21",
+          "x:1-timothy.6.12"
+        ]
+      },
+      "for_readers": {
+        "text": "Money cannot be carried out of this world. What lasts is a life of generous good works and trust in God.",
+        "sources": [
+          "v:6.7",
+          "v:6.17",
+          "v:6.19"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Readers differ on how the good works here relate to eternal life. Some read the verse as saying generous works truly help build up a person's future reward. Others stress that the rich are first told to trust \"in the living God.\" On that reading, good works are the fruit of that trust rather than its basis.",
+      "sources": [
+        "v:6.17",
+        "v:6.18",
+        "v:6.19",
+        "x:galatians.6.8"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G0597",
+        "english": "laying up in store",
+        "why_it_matters": {
+          "text": "The word means to treasure up or store away. It turns the language of hoarding wealth around: the rich keep their real treasure by giving theirs away.",
+          "sources": [
+            "w:G0597",
+            "v:6.18",
+            "x:matthew.6.19"
+          ]
+        }
+      },
+      {
+        "strong": "G2310",
+        "english": "foundation",
+        "why_it_matters": {
+          "text": "This is a foundation stone, used here as a picture. Generosity builds something solid, in contrast to \"uncertain riches.\"",
+          "sources": [
+            "w:G2310",
+            "v:6.17",
+            "x:2-timothy.2.19"
+          ]
+        }
+      },
+      {
+        "strong": "G3689",
+        "english": "truly (KJV: eternal)",
+        "why_it_matters": {
+          "text": "The Greek word list behind this verse reads \"the life that is truly life.\" The KJV has \"eternal life.\" The point is that real life is found in God, not in wealth.",
+          "sources": [
+            "w:G3689",
+            "w:G2222",
+            "w:G1949"
+          ]
+        }
+      },
+      {
+        "strong": "G1949",
+        "english": "lay hold on",
+        "why_it_matters": {
+          "text": "The word means to take hold of or grasp. It is the same phrase Paul uses for Timothy in 6:12, so the rich are called to the same pursuit as the \"man of God.\"",
+          "sources": [
+            "w:G1949",
+            "x:1-timothy.6.12",
+            "v:6.11"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Wealth is uncertain, but generosity and good works build a lasting foundation. Real life is grasped by trusting God and giving freely, not by holding on to riches.",
+      "sources": [
+        "v:6.17",
+        "v:6.18",
+        "v:6.19"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

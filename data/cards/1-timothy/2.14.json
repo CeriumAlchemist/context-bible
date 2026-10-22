@@ -1,0 +1,182 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 2,
+    "verse": 14
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:45:52.293Z",
+  "card": {
+    "in_context": {
+      "text": "This verse is the second reason Paul gives for his rule in 2:12 that a woman should not teach or usurp authority over the man. The first reason is that Adam was formed first (2:13). This one points back to the Genesis account, where the serpent deceived Eve.",
+      "sources": [
+        "v:2.12",
+        "v:2.13",
+        "v:2.14",
+        "x:genesis.3.13"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer. Many critical scholars think a follower wrote in his name. Others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Adam and Eve are the people talked about. The instruction itself concerns women in the church's worship.",
+        "sources": [
+          "v:2.11",
+          "v:2.12",
+          "v:2.14"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul says Adam was not deceived, but the woman was thoroughly deceived and fell into transgression. In Genesis, Eve says the serpent beguiled her. Adam ate the fruit his wife gave him, and he was with her when she took it.",
+      "sources": [
+        "v:2.14",
+        "x:genesis.3.6",
+        "x:genesis.3.12",
+        "x:genesis.3.13"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse looks back to the first sin in the garden, as told in Genesis 3.",
+        "sources": [
+          "x:genesis.3.6",
+          "x:genesis.3.13"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, while Nero was emperor. Scholarly view: many critical scholars date the letter around AD 80-110.",
+        "sources": [
+          "b:date",
+          "b:setting"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was written to guide the church in Ephesus. Ephesus was a wealthy port and the capital of the province of Asia, known for its temple of Artemis. The text does not say where Paul wrote from, though it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul is guiding how believers conduct themselves in worship. He backs up his instruction about women teaching by appealing to Scripture's account of Adam and Eve.",
+        "sources": [
+          "b:purpose",
+          "v:2.12",
+          "v:2.13",
+          "v:2.14"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter was written to a church troubled by false teaching. In it, deception is a central danger. Elsewhere Paul uses Eve's deception as a warning to the whole church, men and women alike, against being led away from Christ.",
+        "sources": [
+          "b:purpose",
+          "x:2-corinthians.11.3"
+        ]
+      },
+      "for_readers": {
+        "text": "The chapter's frame is God's desire that all people be saved through the one mediator, Christ Jesus (2:4-6). The next verse holds out hope for women who continue in faith, love and holiness.",
+        "sources": [
+          "v:2.4",
+          "v:2.5",
+          "v:2.6",
+          "v:2.15"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Quoted to claim that women are by nature more gullible than men, or that women bear the blame for sin entering the world.",
+      "in_context_reading": {
+        "text": "In context the verse supports Paul's instruction in 2:12 by pointing to Eve's deception. Genesis also records that Adam ate and sinned (Genesis 3:6, 3:12). Paul elsewhere warns all believers that they could be deceived as Eve was (2 Corinthians 11:3).",
+        "sources": [
+          "v:2.12",
+          "v:2.14",
+          "x:genesis.3.6",
+          "x:genesis.3.12",
+          "x:2-corinthians.11.3"
+        ]
+      }
+    },
+    "christians_differ": {
+      "text": "Many Christians read 2:13-14 as grounding a lasting rule: women should not teach or hold authority over men in church, because the reasons given reach back to creation and the fall. Others read it as aimed at a specific problem with false teaching in Ephesus, with Eve as an example of what deception leads to, and so not a rule for every church today.",
+      "sources": [
+        "v:2.12",
+        "v:2.13",
+        "v:2.14",
+        "b:purpose",
+        "x:2-corinthians.11.3"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G1818",
+        "english": "being deceived",
+        "why_it_matters": {
+          "text": "This is a strengthened form of the plain word for 'deceive' used of Adam. It means to be thoroughly tricked. Paul contrasts Eve's being fully deceived with Adam, who was not deceived but still ate.",
+          "sources": [
+            "w:G1818",
+            "w:G0538",
+            "x:genesis.3.6"
+          ]
+        }
+      },
+      {
+        "strong": "G3847",
+        "english": "transgression",
+        "why_it_matters": {
+          "text": "The word literally means an overstepping or going aside. It describes crossing a known boundary, which here is God's command in the garden.",
+          "sources": [
+            "w:G3847"
+          ]
+        }
+      },
+      {
+        "strong": "G1096",
+        "english": "was (has come)",
+        "why_it_matters": {
+          "text": "This verb means to come to be. It describes Eve coming to be in the transgression as the result of being deceived.",
+          "sources": [
+            "w:G1096"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse gives the second reason for Paul's instruction in 2:12, pointing to Eve's deception in Genesis. Paul uses the same example to warn all believers in 2 Corinthians 11:3. Christians still disagree on whether 2:12 sets a rule for every church.",
+      "sources": [
+        "v:2.12",
+        "v:2.14",
+        "x:2-corinthians.11.3"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "takeaway",
+      "reason": "The sources do not say the verse is 'not a verdict that women are weaker in mind,' nor do they limit it to the Ephesian church. This is one interpretive position stated as fact, and some readers have historically read it otherwise.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "misuse",
+      "reason": "The cited sources do not state that the verse is 'not a general statement about women's minds' or that it only concerns who teaches in the Ephesian church. That is one interpretation presented as the only reading.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

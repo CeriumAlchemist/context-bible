@@ -1,0 +1,171 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 5
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:42:08.149Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just told Timothy to stay in Ephesus and charge certain people to stop teaching other doctrine and chasing fables and endless genealogies. This verse states what that charge is aiming at: love that comes from a pure heart, a good conscience, and sincere faith. The next verses say some have swerved from this into empty talk.",
+      "sources": [
+        "v:1.3",
+        "v:1.4",
+        "v:1.5",
+        "v:1.6",
+        "v:1.7"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle names himself as the writer. Traditional view: Paul wrote it. Scholarly view: many critical scholars think a follower wrote it in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and \"own son in the faith,\" whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Certain people in Ephesus who taught other doctrine and wanted to be teachers of the law without understanding it. They have turned away from the goal this verse describes.",
+        "sources": [
+          "v:1.3",
+          "v:1.6",
+          "v:1.7"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul explains that the purpose of the charge Timothy is to give is love. This love flows from three sources: a pure heart, a good conscience, and faith that is not faked. It stands in contrast to teaching that only stirs up questions and argument.",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "v:1.6",
+        "w:G5056",
+        "w:G3852",
+        "w:G0026"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul had gone on into Macedonia and asked Timothy to stay behind in Ephesus to deal with false teachers.",
+        "sources": [
+          "v:1.3"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's first and second Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Timothy was in Ephesus, a wealthy port city and capital of the Roman province of Asia. The letter does not say where it was written from; Paul had gone to Macedonia, so he may have written from there.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to know what his correction of false teachers is for. The aim is not winning arguments but producing real love in people. Those who miss this end up in \"vain jangling.\"",
+        "sources": [
+          "v:1.4",
+          "v:1.5",
+          "v:1.6",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "A main theme of the letter is that sound teaching produces godly living, so belief and behavior belong together. This verse sums that up: right teaching should lead to love, a clean conscience, and genuine faith. Paul returns to faith and a good conscience in 1:19.",
+        "sources": [
+          "b:themes",
+          "x:1-timothy.1.19"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers can test teaching by its fruit: does it build love from a pure heart, a good conscience, and sincere faith? Other passages likewise link love with the law and with a pure heart.",
+        "sources": [
+          "v:1.5",
+          "x:galatians.5.14",
+          "x:2-timothy.2.22"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3852",
+        "english": "commandment",
+        "why_it_matters": {
+          "text": "The Greek word means an instruction or charge, used even of military orders. It points back to the \"charge\" Timothy is to give in verse 3, not to the Ten Commandments or the law of Moses in general.",
+          "sources": [
+            "w:G3852",
+            "v:1.3",
+            "v:1.18"
+          ]
+        }
+      },
+      {
+        "strong": "G5056",
+        "english": "end",
+        "why_it_matters": {
+          "text": "Here \"end\" means goal or purpose, not a stopping point. Paul is saying what the charge aims at, not that the commandment has ended.",
+          "sources": [
+            "w:G5056"
+          ]
+        }
+      },
+      {
+        "strong": "G0026",
+        "english": "charity",
+        "why_it_matters": {
+          "text": "The KJV word \"charity\" translates agapē, meaning love, goodwill, including people's love for one another. It means love itself, not only giving to the poor.",
+          "sources": [
+            "w:G0026"
+          ]
+        }
+      },
+      {
+        "strong": "G0505",
+        "english": "unfeigned",
+        "why_it_matters": {
+          "text": "The word means unfeigned: genuine, not pretended. Paul uses the same word for Timothy's own \"unfeigned faith\" in 2 Timothy 1:5.",
+          "sources": [
+            "w:G0505",
+            "x:2-timothy.1.5"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "The goal of Christian instruction, as Paul states it here, is love. That love grows from a pure heart, a clear conscience, and real faith. Teaching that only breeds argument has missed the point.",
+      "sources": [
+        "v:1.5",
+        "v:1.6",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.3",
+      "reason": "The lexicon supports 'unfeigned,' but no cited source says Paul contrasts sincere faith with a 'show' put on by the would-be teachers. Verse 7 says they do not understand what they say; it does not charge them with pretense or hypocrisy.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

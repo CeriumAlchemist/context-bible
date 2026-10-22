@@ -1,0 +1,171 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 6
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:46:58.992Z",
+  "card": {
+    "in_context": {
+      "text": "This verse is one item in Paul's list of qualifications for a church overseer, or bishop. After saying a leader must manage his own home well, Paul adds that he must not be a new convert, because quick promotion could fill him with pride.",
+      "sources": [
+        "v:3.1",
+        "v:3.2",
+        "v:3.5",
+        "v:3.6",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the author of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients",
+          "v:3.14"
+        ]
+      },
+      "affected": {
+        "text": "Men who might be chosen as overseers, and the church they would serve.",
+        "sources": [
+          "v:3.1",
+          "v:3.5"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul says an overseer must not be a \"novice,\" a word that means newly planted, or a new convert. The risk is that he becomes puffed up with pride and falls into \"the condemnation of the devil.\"",
+      "sources": [
+        "v:3.6",
+        "w:G3504",
+        "w:G5187",
+        "w:G2917"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse gives standing instructions rather than describing an event. Paul writes while hoping to visit Timothy soon.",
+        "sources": [
+          "v:3.14",
+          "v:3.15"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote in Paul's name, while others defend the earlier date and Paul's authorship.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The instructions are for the church at Ephesus, a wealthy port city and capital of the Roman province of Asia. Paul may have written from Macedonia, but the letter does not say.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "b:recipients"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to know how people should behave in God's household, the church. Choosing leaders of tested character is part of that.",
+        "sources": [
+          "v:3.15",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that church leaders must be people of proven character. Deacons too must \"first be proved\" before serving, so testing over time is a pattern in this chapter.",
+        "sources": [
+          "b:themes",
+          "v:3.10"
+        ]
+      },
+      "for_readers": {
+        "text": "Spiritual leadership calls for maturity grown over time, not just enthusiasm. Pride is a real danger, and Scripture warns that God resists the proud and gives grace to the humble.",
+        "sources": [
+          "v:3.6",
+          "x:1-peter.5.5",
+          "x:hebrews.5.12",
+          "x:hebrews.5.13"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Readers take \"the condemnation of the devil\" in different ways. Many understand it as the judgment the devil himself fell under, linked to pride. Others note the Greek word can mean \"slanderer,\" and read it as judgment or accusation brought by a slanderer, which fits the next verse's concern for a good reputation.",
+      "sources": [
+        "w:G1228",
+        "w:G2917",
+        "v:3.7"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G3504",
+        "english": "a novice",
+        "why_it_matters": {
+          "text": "The word means \"newly planted,\" a new convert. It speaks of how long someone has been a believer, not their age in years.",
+          "sources": [
+            "w:G3504"
+          ]
+        }
+      },
+      {
+        "strong": "G5187",
+        "english": "lifted up with pride",
+        "why_it_matters": {
+          "text": "The verb comes from a word for smoke and pictures being wrapped in smoke, puffed up, and clouded by pride. The same word describes the proud false teacher in 6:4.",
+          "sources": [
+            "w:G5187",
+            "x:1-timothy.6.4"
+          ]
+        }
+      },
+      {
+        "strong": "G2917",
+        "english": "condemnation",
+        "why_it_matters": {
+          "text": "This is a judicial word for a judgment or verdict. It shows the danger is a real judgment, not just embarrassment.",
+          "sources": [
+            "w:G2917"
+          ]
+        }
+      },
+      {
+        "strong": "G1228",
+        "english": "devil",
+        "why_it_matters": {
+          "text": "The word can mean the Devil or, more generally, a slanderer or false accuser. That range is why readers understand the phrase in more than one way.",
+          "sources": [
+            "w:G1228"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul is not barring the young. He is warning against putting new believers into leadership too fast, before pride can be tested and humility can grow.",
+      "sources": [
+        "v:3.6",
+        "w:G3504",
+        "v:3.10",
+        "x:1-peter.5.5"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "what",
+      "reason": "It states as plain fact that he 'falls into the same judgment as the devil,' which is only one reading. The cited διάβολος entry lists 1 Tim 3:6 under 'slanderer, false accuser,' and the card's own christians_differ notes this alternative.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

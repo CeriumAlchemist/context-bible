@@ -10,7 +10,7 @@
  */
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
-import { BOOKS } from "../lib/books";
+import { BOOKS, findBook } from "../lib/books";
 import type { CrossRef, LexiconEntry, Place, Word } from "../lib/study";
 
 const DATA = path.join(process.cwd(), "data");
@@ -159,9 +159,6 @@ async function buildLexicons(used: { hebrew: Set<string>; greek: Set<string> }) 
 }
 
 async function buildCrossRefs() {
-  // scrollmapper names books as its KJV file does ("I Samuel", "Revelation of John"); map by position.
-  const kjv = JSON.parse(await getText(`${SCROLLMAPPER}/formats/json/KJV.json`));
-  const bookIndex = new Map<string, number>(kjv.books.map((b: { name: string }, i: number) => [b.name, i]));
   const grid = await emptyGrid<CrossRef>();
   const row = /VALUES \('([^']+)', (\d+), (\d+), '([^']+)', (\d+), (\d+), (\d+), (-?\d+)\)/g;
 
@@ -169,12 +166,13 @@ async function buildCrossRefs() {
   for (let part = 0; part <= 6; part++) {
     const sql = await getText(`${SCROLLMAPPER}/formats/sql/extras/cross_references_${part}.sql`);
     for (const m of sql.matchAll(row)) {
-      const from = bookIndex.get(m[1]);
-      const to = bookIndex.get(m[4]);
+      // Book names here are the usual English ones ("1 Samuel", "Revelation").
+      const from = findBook(m[1])?.number;
+      const to = findBook(m[4])?.number;
       const votes = Number(m[8]);
-      const slot = from === undefined ? undefined : grid[from]?.[Number(m[2]) - 1]?.[Number(m[3]) - 1];
+      const slot = from === undefined ? undefined : grid[from - 1]?.[Number(m[2]) - 1]?.[Number(m[3]) - 1];
       if (!slot || to === undefined || votes <= 0) continue;
-      slot.push([to + 1, Number(m[5]), Number(m[6]), Number(m[7]), votes]);
+      slot.push([to, Number(m[5]), Number(m[6]), Number(m[7]), votes]);
       total++;
     }
   }

@@ -1,0 +1,161 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 14
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:43:23.250Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just said he was once a blasphemer and a persecutor, but he obtained mercy (1:13). Verse 14 explains how: the Lord's grace overflowed to him, bringing faith and love found in Christ Jesus. This leads into the saying that Christ came to save sinners, 'of whom I am chief' (1:15).",
+      "sources": [
+        "v:1.13",
+        "v:1.14",
+        "v:1.15"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker and 'own son in the faith,' whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Paul himself is the subject. He describes his own past as a persecutor and the grace he received.",
+        "sources": [
+          "v:1.12",
+          "v:1.13",
+          "v:1.14"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul says the grace of the Lord was 'exceeding abundant' toward him. It came together with faith and love, which are 'in Christ Jesus.' Grace replaced his former unbelief and violence.",
+      "sources": [
+        "v:1.13",
+        "v:1.14",
+        "w:G5250"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse looks back to Paul's past, when he was turned from persecutor to believer and put into the ministry. This chapter does not say when or where that happened.",
+        "sources": [
+          "v:1.12",
+          "v:1.13"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, by Paul, between his first and second Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower; others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Timothy at Ephesus, a wealthy port and capital of the Roman province of Asia. Where Paul wrote from is not stated, though he had gone on to Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul is contrasting himself with false teachers who misuse the law (1:6-7). He shows that the gospel entrusted to him rests on God's mercy to a sinner, not on his own record.",
+        "sources": [
+          "v:1.6",
+          "v:1.7",
+          "v:1.11",
+          "v:1.13",
+          "v:1.14"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul's story is meant as 'a pattern' for future believers: if Christ's grace reached the 'chief' of sinners, it can reach anyone. Elsewhere Paul likewise says, 'by the grace of God I am what I am.'",
+        "sources": [
+          "v:1.15",
+          "v:1.16",
+          "x:1-corinthians.15.10"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse ties grace to faith and love, matching the letter's theme that belief and behavior belong together. The same phrase, 'faith and love which is in Christ Jesus,' appears again in 2 Timothy 1:13.",
+        "sources": [
+          "v:1.5",
+          "v:1.14",
+          "b:themes",
+          "x:2-timothy.1.13"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G5250",
+        "english": "was exceeding abundant",
+        "why_it_matters": {
+          "text": "The Greek word means to abound exceedingly, an intensified form of 'abound.' It is used only here in the New Testament. Paul stresses that grace was more than enough to outweigh his past.",
+          "sources": [
+            "w:G5250",
+            "v:1.13"
+          ]
+        }
+      },
+      {
+        "strong": "G5485",
+        "english": "grace",
+        "why_it_matters": {
+          "text": "Paul says this grace was \"exceeding abundant\" toward him, a former persecutor who \"obtained mercy\" (1:13).",
+          "sources": [
+            "v:1.13",
+            "v:1.14"
+          ]
+        }
+      },
+      {
+        "strong": "G3326",
+        "english": "with",
+        "why_it_matters": {
+          "text": "'With' shows that faith and love came along with grace. Grace did not leave Paul unchanged; it brought trust and love in place of unbelief and violence.",
+          "sources": [
+            "w:G3326",
+            "v:1.13",
+            "v:1.14"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul calls himself a former blasphemer and persecutor who received overflowing grace, along with faith and love in Christ. He offers his story as a pattern showing that Christ came to save sinners.",
+      "sources": [
+        "v:1.13",
+        "v:1.14",
+        "v:1.15",
+        "v:1.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.1",
+      "reason": "The cited lexicon entry for χάρις is truncated. It only shows the objective sense (gracefulness, loveliness, graciousness of speech) and never gives the definition 'God's favour freely given.' The verses cited do not define the word either.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

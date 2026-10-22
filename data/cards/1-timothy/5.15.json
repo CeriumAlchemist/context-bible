@@ -1,0 +1,167 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 15
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:51:34.837Z",
+  "card": {
+    "in_context": {
+      "text": "This verse closes Paul's instructions about younger widows. He has just said he wants younger widows to marry, raise children, and run their homes so that no opponent can speak badly of the church. Here he gives his reason: some have already wandered off and are following Satan.",
+      "sources": [
+        "v:5.11",
+        "v:5.13",
+        "v:5.14",
+        "v:5.15"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The \"some\" are most naturally the younger widows Paul has just described. The text does not name them or say exactly what they did beyond verses 11-13.",
+        "sources": [
+          "v:5.11",
+          "v:5.13",
+          "v:5.15",
+          "w:G5100"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul gives a reason, marked by \"for,\" for his advice in verse 14. This is not a fear about the future. Some in the church have already left the right path. He describes their course as following behind Satan.",
+      "sources": [
+        "v:5.14",
+        "v:5.15",
+        "w:G1063",
+        "w:G2235",
+        "w:G1624",
+        "w:G3694"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse points to something that had already happened in the church at Ephesus while Timothy was leading it.",
+        "sources": [
+          "w:G2235",
+          "b:recipients"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote it in Paul's name. Others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The situation is in the church at Ephesus, a wealthy port city and capital of the Roman province of Asia. The letter does not say where Paul wrote from, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul backs up his practical rules for widows with a real warning. Some younger widows had become idle and gossiped from house to house, and some had already gone astray. So he urges a settled home life that gives opponents no reason to slander the church.",
+        "sources": [
+          "v:5.13",
+          "v:5.14",
+          "v:5.15"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that belief and behavior belong together. It warns more than once of people who \"turned aside.\" Paul uses the same verb in 1:6, and in 1:20 he names two men he \"delivered unto Satan.\"",
+        "sources": [
+          "b:themes",
+          "w:G1624",
+          "x:1-timothy.1.20"
+        ]
+      },
+      "for_readers": {
+        "text": "Drifting from the faith often happens through ordinary habits such as idleness and gossip, not only through dramatic choices. Church guidance about daily life can be meant to protect people from that drift.",
+        "sources": [
+          "v:5.13",
+          "v:5.15",
+          "x:2-timothy.4.10"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1624",
+        "english": "turned aside",
+        "why_it_matters": {
+          "text": "The word means to turn out of one's course or wander off. It pictures leaving a path, not a single slip. The letter uses the same verb for people who left sound teaching (1:6).",
+          "sources": [
+            "w:G1624"
+          ]
+        }
+      },
+      {
+        "strong": "G3694",
+        "english": "after",
+        "why_it_matters": {
+          "text": "The word means behind or after. Here some have \"turned aside after Satan.\"",
+          "sources": [
+            "w:G3694",
+            "v:5.15"
+          ]
+        }
+      },
+      {
+        "strong": "G2235",
+        "english": "already",
+        "why_it_matters": {
+          "text": "\"Already\" shows Paul is responding to cases that had really happened, not imagining a danger.",
+          "sources": [
+            "w:G2235"
+          ]
+        }
+      },
+      {
+        "strong": "G4567",
+        "english": "Satan",
+        "why_it_matters": {
+          "text": "The name means \"the adversary.\" This fits Paul's concern in verse 14 that the church give the adversary no opening to speak against it.",
+          "sources": [
+            "w:G4567",
+            "v:5.14"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is not a general saying about women. It is Paul's reason for his advice to younger widows: some in Ephesus had already drifted off and were following Satan. He wanted Timothy to guard others from the same path.",
+      "sources": [
+        "v:5.14",
+        "v:5.15",
+        "w:G1624",
+        "b:recipients"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.1",
+      "reason": "The cited lexicon entry is cut off before any 'follow behind someone' sense; it shows only the place sense (behind, back) and the time sense (after). Saying they followed Satan 'as their new leader' goes beyond both the entry and the verse.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

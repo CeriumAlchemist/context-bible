@@ -1,0 +1,170 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 9
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:53:51.032Z",
+  "card": {
+    "in_context": {
+      "text": "This verse sits in Paul's warning about false teachers who treat godliness as a way to make money. He has just said that godliness with contentment is great gain and that food and clothing should be enough. Here he warns what happens to those who set their hearts on getting rich.",
+      "sources": [
+        "v:6.5",
+        "v:6.6",
+        "v:6.7",
+        "v:6.8",
+        "v:6.9"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter. Many critical scholars instead see it as written in Paul's name by a follower.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Anyone who is set on becoming rich, especially the false teachers who suppose that gain is godliness.",
+        "sources": [
+          "v:6.5",
+          "v:6.9"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul says that people determined to get rich fall into temptation and a trap, and into many foolish and harmful desires. These desires sink people into ruin and destruction.",
+      "sources": [
+        "v:6.9",
+        "w:G1014",
+        "w:G3803",
+        "w:G1036"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse describes no single event. It is general teaching given as part of Paul's instructions to Timothy for the church in Ephesus.",
+        "sources": [
+          "b:purpose",
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110, while others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote it from is not stated, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul contrasts contentment with the drive to get rich. He wants Timothy to see where false teachers' love of gain leads, and to flee these things himself.",
+        "sources": [
+          "v:6.5",
+          "v:6.6",
+          "v:6.10",
+          "v:6.11"
+        ]
+      },
+      "big_picture": {
+        "text": "Contentment and the danger of the love of money are a major theme of the letter. Later in the chapter Paul tells those already rich not to trust in uncertain riches but in God, and to be rich in good works.",
+        "sources": [
+          "b:themes",
+          "v:6.17",
+          "v:6.18"
+        ]
+      },
+      "for_readers": {
+        "text": "The warning targets the settled desire for wealth, not just the having of it. The cross-references echo this: \"he that maketh haste to be rich shall not be innocent\" (Proverbs 28:20).",
+        "sources": [
+          "w:G1014",
+          "x:proverbs.28.20",
+          "v:6.17"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Quoted to claim that being wealthy is itself sinful, or that all rich people are headed for destruction.",
+      "in_context_reading": {
+        "text": "The verse is about those who \"will be rich\", a word for deliberate wanting. In the same chapter Paul does not condemn rich believers. He tells them to trust God, do good, and share generously.",
+        "sources": [
+          "v:6.9",
+          "w:G1014",
+          "v:6.17",
+          "v:6.18",
+          "v:6.19"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1014",
+        "english": "will (be rich) / desiring",
+        "why_it_matters": {
+          "text": "This word stresses a deliberate choice or purpose, stronger than a passing wish. The danger lies in setting one's will on wealth.",
+          "sources": [
+            "w:G1014"
+          ]
+        }
+      },
+      {
+        "strong": "G3803",
+        "english": "snare",
+        "why_it_matters": {
+          "text": "A snare is a trap. The same word is used earlier in the letter for \"the snare of the devil.\" The pursuit of riches is pictured as a hidden trap people walk into.",
+          "sources": [
+            "w:G3803",
+            "x:1-timothy.3.7"
+          ]
+        }
+      },
+      {
+        "strong": "G1036",
+        "english": "drown / plunge",
+        "why_it_matters": {
+          "text": "The verb means to cause to sink, like a boat going under. It pictures desires that drag a person down.",
+          "sources": [
+            "w:G1036"
+          ]
+        }
+      },
+      {
+        "strong": "G0684",
+        "english": "perdition",
+        "why_it_matters": {
+          "text": "This word can mean loss or waste. It is also used for the loss of eternal life, as the opposite of salvation. The warning may therefore reach beyond money troubles.",
+          "sources": [
+            "w:G0684"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "The verse warns against a heart set on getting rich, because that desire traps and sinks people. Paul's answer is contentment with what is needed, and for those who have wealth, trust in God and generosity.",
+      "sources": [
+        "v:6.8",
+        "v:6.9",
+        "v:6.17",
+        "v:6.18"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

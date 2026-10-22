@@ -1,0 +1,182 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 16
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:48:05.510Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just told Timothy how to behave in the church, which he calls the pillar and ground of the truth (3:14-15). This verse then sums up that truth in six short lines about Christ, from his coming in the flesh to his being taken up into glory.",
+      "sources": [
+        "v:3.14",
+        "v:3.15",
+        "v:3.16",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer at the start of the letter. Many critical scholars think a follower wrote in Paul's name.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The verse is about Christ, the one who was manifest in the flesh and received up into glory. It also shapes the church in Ephesus, which is to hold and live by this truth.",
+        "sources": [
+          "v:3.15",
+          "v:3.16",
+          "w:G3739"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul declares that the mystery of godliness is great, beyond dispute. He lists six things: manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.",
+      "sources": [
+        "v:3.16",
+        "w:G3672"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The lines trace Christ's story from his coming in the flesh, through the preaching of the gospel to the nations, to his being taken up. Compare John 1:14 and Mark 16:19.",
+        "sources": [
+          "v:3.16",
+          "x:john.1.14",
+          "x:mark.16.19"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110, while others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Timothy in Ephesus, a wealthy port and capital of the province of Asia. The place of writing is not stated, though Paul may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to know how to behave in God's household. This verse shows the truth the church holds up and stands on.",
+        "sources": [
+          "v:3.14",
+          "v:3.15",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that sound teaching and godly living belong together. Here the root of godliness is a person, Christ, and not just a set of rules for leaders.",
+        "sources": [
+          "b:themes",
+          "v:3.16",
+          "w:G2150"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers see that the qualifications for leaders in 3:1-13 rest on a shared confession about Christ. Right conduct in the church flows from this message.",
+        "sources": [
+          "v:3.1",
+          "v:3.13",
+          "v:3.16",
+          "b:themes"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "The KJV reads \"God was manifest in the flesh,\" but the Greek text behind the word list reads \"who\" (hos) at that point. Some Christians hold that the KJV reading \"God\" is original. Others follow the \"who\" reading, which still points to Christ as the one the six lines describe.",
+      "sources": [
+        "v:3.16",
+        "w:G3739"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G3466",
+        "english": "mystery",
+        "why_it_matters": {
+          "text": "The word means a secret that was hidden and is now made known, not something too hard to understand. Paul uses it the same way in Romans 16:25 for the gospel once kept secret and now revealed.",
+          "sources": [
+            "w:G3466",
+            "x:romans.16.25"
+          ]
+        }
+      },
+      {
+        "strong": "G3672",
+        "english": "without controversy",
+        "why_it_matters": {
+          "text": "The Greek means \"confessedly\" or \"by common consent.\" It presents these lines as what the church openly agrees on and confesses together.",
+          "sources": [
+            "w:G3672"
+          ]
+        }
+      },
+      {
+        "strong": "G2150",
+        "english": "godliness",
+        "why_it_matters": {
+          "text": "The word means piety or reverence toward God. It is a key word in this letter, tying right belief to right living.",
+          "sources": [
+            "w:G2150",
+            "b:themes"
+          ]
+        }
+      },
+      {
+        "strong": "G1344",
+        "english": "justified",
+        "why_it_matters": {
+          "text": "Here the word means \"shown to be righteous\" or vindicated, not \"forgiven.\" The verse says this happened \"in the Spirit.\"",
+          "sources": [
+            "w:G1344",
+            "v:3.16"
+          ]
+        }
+      },
+      {
+        "strong": "G3739",
+        "english": "who",
+        "why_it_matters": {
+          "text": "The Greek word underlying this list is \"who,\" while the KJV has \"God.\" Either way, the six lines describe one person, Christ.",
+          "sources": [
+            "w:G3739",
+            "v:3.16"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is a short confession of Christ at the heart of the church's faith. The church is called to hold up this revealed truth and to live in a way that fits it.",
+      "sources": [
+        "v:3.15",
+        "v:3.16",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.3",
+      "reason": "The lexicon supports 'shown to be righteous,' but neither source says Christ was vindicated 'by the Spirit.' The verse reads 'in the Spirit,' and 1 John 5:6 only says the Spirit bears witness. The card presents one contested reading of 'in the Spirit' as the only one.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 1,
+    "verse": 2
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:42:07.790Z",
+  "card": {
+    "in_context": {
+      "text": "This verse finishes the letter's opening greeting. Paul names himself in verse 1 and here names Timothy, then wishes him grace, mercy, and peace from God and Christ. Right after, he reminds Timothy why he left him at Ephesus: to stop false teaching.",
+      "sources": [
+        "v:1.1",
+        "v:1.2",
+        "v:1.3",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle names himself as the writer. Traditionally Paul wrote it. Many critical scholars think a follower wrote it in his name, while others defend Paul's authorship.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker. Acts says his mother was a believing Jewish woman and his father was a Greek. Paul took him along on his travels.",
+        "sources": [
+          "b:recipients",
+          "x:acts.16.1",
+          "x:acts.16.3"
+        ]
+      },
+      "affected": {
+        "text": "The church at Ephesus, which Timothy was to lead. Some people there were teaching other doctrines, and Timothy was to correct them.",
+        "sources": [
+          "v:1.3",
+          "b:purpose"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul calls Timothy his \"own son in the faith.\" This means a true spiritual child, not a child by birth. Paul uses similar family words for Timothy elsewhere and for Titus. He then gives a blessing of grace, mercy, and peace from God the Father and Jesus Christ.",
+      "sources": [
+        "v:1.2",
+        "w:G1103",
+        "w:G5043",
+        "x:1-corinthians.4.17",
+        "x:philippians.2.22",
+        "x:titus.1.4"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul had urged Timothy to stay on at Ephesus while Paul went into Macedonia.",
+        "sources": [
+          "v:1.3"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Timothy was in Ephesus, a wealthy port city and capital of the Roman province of Asia. The letter does not say where Paul wrote from. He had gone on to Macedonia, so he may have written from there.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.3"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The greeting sets the tone for the letter. Paul is writing to a trusted spiritual son whom he is about to charge with a hard task: confronting false teachers.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "v:1.18",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The word \"mercy\" in the greeting echoes Paul's own story later in the chapter. He calls himself a former blasphemer and persecutor who \"obtained mercy\" as a pattern for later believers.",
+        "sources": [
+          "v:1.2",
+          "v:1.13",
+          "v:1.16"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse shows that faith can create real family bonds between older and younger believers. It also shows that grace, mercy, and peace are gifts that come from God and Christ.",
+        "sources": [
+          "v:1.2",
+          "x:philippians.2.22",
+          "w:G0575"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1103",
+        "english": "own (true, genuine)",
+        "why_it_matters": {
+          "text": "The word first meant a lawfully born child, and so came to mean true or genuine. Paul is vouching for Timothy as his authentic spiritual son, which supports Timothy's authority at Ephesus.",
+          "sources": [
+            "w:G1103",
+            "v:1.3"
+          ]
+        }
+      },
+      {
+        "strong": "G5043",
+        "english": "son (child)",
+        "why_it_matters": {
+          "text": "The word means child. It was also used as a kind way for a teacher to address a disciple. So \"son\" here describes a bond of faith and teaching, not birth.",
+          "sources": [
+            "w:G5043"
+          ]
+        }
+      },
+      {
+        "strong": "G1656",
+        "english": "mercy",
+        "why_it_matters": {
+          "text": "The word means mercy, pity, or compassion. In the Greek Old Testament it chiefly translates the Hebrew word chesed. Paul later says he himself \"obtained mercy\" (1:13, 1:16).",
+          "sources": [
+            "w:G1656",
+            "v:1.13",
+            "v:1.16"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This is a warm greeting, not a standalone teaching. Paul affirms Timothy as his genuine son in the faith and blesses him with grace, mercy, and peace from God before giving him a difficult charge.",
+      "sources": [
+        "v:1.2",
+        "v:1.3",
+        "w:G1103"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.2",
+      "reason": "The lexicon only says the LXX chiefly uses ἔλεος for חֶσֶד. It gives no gloss of that Hebrew word, so calling it specifically 'God's steadfast love' adds a definition the source doesn't provide and narrows a term also used of human kindness.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

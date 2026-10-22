@@ -1,0 +1,177 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 2,
+    "verse": 4
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:44:38.928Z",
+  "card": {
+    "in_context": {
+      "text": "Paul urges that prayers be made for all people, including kings and rulers (2:1-2). He says this pleases God, because God wants all people to be saved and to know the truth (2:3-4). He backs this with the one God, the one mediator Christ Jesus, and Christ's ransom 'for all' (2:5-6).",
+      "sources": [
+        "v:2.1",
+        "v:2.2",
+        "v:2.3",
+        "v:2.4",
+        "v:2.5",
+        "v:2.6"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in his name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "'All men,' meaning all human beings. In context this includes kings and those in authority, for whom the church is told to pray.",
+        "sources": [
+          "w:G0444",
+          "v:2.1",
+          "v:2.2"
+        ]
+      }
+    },
+    "what": {
+      "text": "This is a reason given for an instruction about prayer. The church should pray for everyone because God our Saviour desires everyone's salvation and their coming to know the truth.",
+      "sources": [
+        "v:2.1",
+        "v:2.3",
+        "v:2.4"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The text ties this to no single event. It is part of Paul's guidance on prayer and conduct in worship (2:1-15).",
+        "sources": [
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, between Paul's two Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110, though others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Timothy in Ephesus. Ephesus was a wealthy port city and the capital of the Roman province of Asia. Where Paul wrote from is not stated, though it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse explains why prayer for all people is 'good and acceptable' to God. God's own desire reaches to all, so the church's prayers should too.",
+        "sources": [
+          "v:2.1",
+          "v:2.3",
+          "v:2.4"
+        ]
+      },
+      "big_picture": {
+        "text": "God's desire that all be saved is a main theme of the letter. It echoes Ezekiel, where God takes no pleasure in the death of the wicked, and 2 Peter, where God is 'not willing that any should perish.'",
+        "sources": [
+          "b:themes",
+          "x:ezekiel.18.23",
+          "x:ezekiel.33.11",
+          "x:2-peter.3.9"
+        ]
+      },
+      "for_readers": {
+        "text": "No one is outside the scope of the church's prayers, not even rulers. Salvation is tied to coming to know the truth about the one God and the one mediator, Christ Jesus.",
+        "sources": [
+          "v:2.1",
+          "v:2.2",
+          "v:2.5",
+          "w:G1922"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Quoted to claim that every person will in the end be saved, no matter what.",
+      "in_context_reading": {
+        "text": "The verb means 'to will, wish, desire.' It states what God desires, not a promise about every outcome. The surrounding text calls for prayer and points to Christ as the one mediator. Elsewhere it is 'whosoever believeth' who does not perish.",
+        "sources": [
+          "w:G2309",
+          "v:2.1",
+          "v:2.5",
+          "x:john.3.15"
+        ]
+      }
+    },
+    "christians_differ": {
+      "text": "Many traditions read 'all men' as every single person, so God sincerely desires each person's salvation, though people may refuse it. Reformed (Calvinist) readers often take 'all' as 'all kinds' of people, such as kings and Gentiles as well as others. The Greek word can mean 'every' or 'of every kind,' and the context mentions kings and Gentiles.",
+      "sources": [
+        "w:G3956",
+        "w:G2309",
+        "v:2.2",
+        "v:2.7"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G2309",
+        "english": "will have (desires)",
+        "why_it_matters": {
+          "text": "The KJV's 'will have' translates a verb meaning to will, wish, or desire. It expresses God's desire, not a mere command or a guaranteed result.",
+          "sources": [
+            "w:G2309"
+          ]
+        }
+      },
+      {
+        "strong": "G3956",
+        "english": "all",
+        "why_it_matters": {
+          "text": "The word can mean 'all, every' or 'of every kind.' This range of meaning lies behind the different readings of the verse.",
+          "sources": [
+            "w:G3956"
+          ]
+        }
+      },
+      {
+        "strong": "G4982",
+        "english": "to be saved",
+        "why_it_matters": {
+          "text": "The verb means to save from peril. In the New Testament it is used especially of rescue from spiritual disease and death.",
+          "sources": [
+            "w:G4982"
+          ]
+        }
+      },
+      {
+        "strong": "G1922",
+        "english": "knowledge",
+        "why_it_matters": {
+          "text": "This word means recognition or real acquaintance, not just information. 'Knowledge of the truth' is a repeated phrase in these letters for coming to the faith.",
+          "sources": [
+            "w:G1922",
+            "x:2-timothy.2.25"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Because God desires all people to be saved and to know the truth, Christians are to pray for everyone, rulers included. Christ gave himself a ransom for all.",
+      "sources": [
+        "v:2.1",
+        "v:2.4",
+        "v:2.6"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

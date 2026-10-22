@@ -1,0 +1,150 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 8
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:53:47.586Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just said that godliness with contentment is great gain, because we bring nothing into the world and carry nothing out. This verse draws the practical point: if we have food and clothing, that is enough. The next verses warn that wanting to be rich leads into temptation and many sorrows.",
+      "sources": [
+        "v:6.6",
+        "v:6.7",
+        "v:6.8",
+        "v:6.9",
+        "v:6.10"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus. The \"us\" includes Paul, Timothy and believers generally.",
+        "sources": [
+          "b:recipients",
+          "v:6.8"
+        ]
+      },
+      "affected": {
+        "text": "False teachers who suppose \"that gain is godliness\" are the contrast. The verse also bears on believers who want to be rich and on those already rich.",
+        "sources": [
+          "v:6.5",
+          "v:6.9",
+          "v:6.17"
+        ]
+      }
+    },
+    "what": {
+      "text": "A call to be satisfied with basic needs, food and covering, rather than chasing wealth. It is part of Paul's answer to teachers who treated religion as a way to make money.",
+      "sources": [
+        "v:6.5",
+        "v:6.6",
+        "v:6.8",
+        "w:G1305",
+        "w:G4629"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The text does not tie this verse to a specific event. It belongs to Paul's closing instructions about false teachers and money.",
+        "sources": [
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter went to Timothy in Ephesus, a wealthy port city and capital of the Roman province of Asia. The place it was written from is not stated, though Paul had gone on to Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to resist teachers who equate godliness with gain. He sets out a simple standard of enough as protection against the love of money.",
+        "sources": [
+          "v:6.5",
+          "v:6.6",
+          "v:6.10",
+          "v:6.11",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Contentment and the danger of loving money are a main theme of the letter. Paul does not condemn the rich outright, though. He tells them not to trust in riches but in God, who gives richly all things to enjoy, and to be generous.",
+        "sources": [
+          "b:themes",
+          "v:6.17",
+          "v:6.18"
+        ]
+      },
+      "for_readers": {
+        "text": "Scripture elsewhere ties contentment to trust in God's care. \"Be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.\"",
+        "sources": [
+          "x:hebrews.13.5",
+          "x:matthew.6.25",
+          "x:matthew.6.33"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1305",
+        "english": "food",
+        "why_it_matters": {
+          "text": "The word means nourishment or sustenance, the support that keeps a person alive. It points to basic needs, not luxuries.",
+          "sources": [
+            "w:G1305"
+          ]
+        }
+      },
+      {
+        "strong": "G4629",
+        "english": "raiment",
+        "why_it_matters": {
+          "text": "The Greek means \"a covering,\" especially clothing. So the standard is having what covers and protects us, not fine dress.",
+          "sources": [
+            "w:G4629"
+          ]
+        }
+      },
+      {
+        "strong": "G0714",
+        "english": "be content",
+        "why_it_matters": {
+          "text": "The verb means to suffice or, in this form, to be satisfied. It is a future form, \"we will be content,\" a settled resolve that these things are enough. The same verb appears in Hebrews 13:5.",
+          "sources": [
+            "w:G0714",
+            "x:hebrews.13.5"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "In context, this verse sets basic food and covering as enough for a godly life. Paul offers it as a guard against greed and against using faith for gain. It does not condemn having more. It warns against craving more.",
+      "sources": [
+        "v:6.6",
+        "v:6.8",
+        "v:6.9",
+        "v:6.17"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

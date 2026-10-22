@@ -1,0 +1,188 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 17
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:52:06.268Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is giving Timothy instructions for caring for different groups in the Ephesian church. After widows (5:3-16), he turns to elders. Those who lead well deserve 'double honour,' especially those who work hard at preaching and teaching, and the next verse backs this with sayings about fair pay for workers.",
+      "sources": [
+        "v:5.3",
+        "v:5.16",
+        "v:5.17",
+        "v:5.18",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "The letter names Paul the apostle as its author. Many critical scholars think a follower wrote it in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The elders of the church, meaning its leaders, and especially those who labor in preaching and teaching. The church members who are to honor them are affected too.",
+        "sources": [
+          "v:5.17",
+          "w:G4245G"
+        ]
+      }
+    },
+    "what": {
+      "text": "Elders who lead well should be considered worthy of double honour. This applies most of all to those who toil in the word and in teaching. Verse 18 explains the point with 'Thou shalt not muzzle the ox' and 'The labourer is worthy of his reward,' which shows that the honour includes material support.",
+      "sources": [
+        "v:5.17",
+        "v:5.18",
+        "w:G5092"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This is instruction, not a story. It concerns the ongoing life of the church at Ephesus while Timothy was leading it.",
+        "sources": [
+          "b:recipients",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date the letter around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. The text does not say where it was written from, though Paul had gone on to Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants the church to treat faithful leaders fairly, with respect and with support for their work. The same section also guards against abuse. Accusations against elders need two or three witnesses, those who sin are to be rebuked publicly, and Timothy must show no partiality.",
+        "sources": [
+          "v:5.17",
+          "v:5.18",
+          "v:5.19",
+          "v:5.20",
+          "v:5.21"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter is about ordering God's household: sound teaching, proven leaders, and care for each group in the church. Other passages likewise call believers to esteem those who labor among them and to share good things with those who teach them.",
+        "sources": [
+          "b:purpose",
+          "b:themes",
+          "x:1-thessalonians.5.12",
+          "x:1-thessalonians.5.13",
+          "x:galatians.6.6"
+        ]
+      },
+      "for_readers": {
+        "text": "Churches are called to value and support leaders who serve well, especially in teaching. That honour is tied to faithful work and goes along with accountability.",
+        "sources": [
+          "v:5.17",
+          "v:5.18",
+          "v:5.19",
+          "v:5.20"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Quoted to claim that pastors deserve lavish wealth, or that church leaders are owed honour no matter what and should not be questioned.",
+      "in_context_reading": {
+        "text": "The honour is for elders who 'rule well' and labor at teaching, and verse 18 frames it as a worker's fair wage. The very next verses provide for charges against elders and public rebuke of those who sin, and the letter warns against the love of money.",
+        "sources": [
+          "v:5.17",
+          "v:5.18",
+          "v:5.19",
+          "v:5.20",
+          "b:themes"
+        ]
+      }
+    },
+    "christians_differ": {
+      "text": "Readers differ on whether 'especially they who labour in the word and doctrine' marks a separate group of elders who teach, distinct from elders who only rule, or simply singles out some elders who work harder at teaching. Readers also differ on whether 'double honour' means respect plus pay, or generous pay.",
+      "sources": [
+        "v:5.17",
+        "w:G3122",
+        "w:G5092",
+        "w:G1362"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G5092",
+        "english": "honour",
+        "why_it_matters": {
+          "text": "The word means a valuing, and it can also mean a price paid. Together with verse 18, this shows the honour includes material support, not only respect.",
+          "sources": [
+            "w:G5092",
+            "v:5.18"
+          ]
+        }
+      },
+      {
+        "strong": "G4291",
+        "english": "rule",
+        "why_it_matters": {
+          "text": "It means to preside, rule, or lead. The letter uses a form of the same verb for ruling one's own household (3:4-5).",
+          "sources": [
+            "w:G4291"
+          ]
+        }
+      },
+      {
+        "strong": "G2872",
+        "english": "labour",
+        "why_it_matters": {
+          "text": "The word means to toil to the point of weariness. The added honour is linked to hard work in teaching, not to holding a title.",
+          "sources": [
+            "w:G2872"
+          ]
+        }
+      },
+      {
+        "strong": "G1362",
+        "english": "double",
+        "why_it_matters": {
+          "text": "It means twofold, or in double measure. That is why readers debate whether it points to two kinds of honour or to generous honour.",
+          "sources": [
+            "w:G1362"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Faithful church leaders, especially hardworking teachers, deserve respect and fair support. In the same passage they remain accountable and must be treated without partiality.",
+      "sources": [
+        "v:5.17",
+        "v:5.18",
+        "v:5.19",
+        "v:5.21"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon defines the verb only as 'preside, rule, govern' and 'direct, maintain'. Its use for managing a household does not establish 'caring oversight rather than domination'; that contrast is interpretation the cited source does not make.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

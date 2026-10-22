@@ -1,0 +1,172 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 14
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:54:23.221Z",
+  "card": {
+    "in_context": {
+      "text": "This verse sits in Paul's closing charge to Timothy (6:11-16). After warning against false teachers and the love of money, Paul tells Timothy to flee those things and fight the good fight of faith. He then charges him before God and Christ to keep this commandment faithfully until Jesus Christ appears.",
+      "sources": [
+        "v:6.10",
+        "v:6.11",
+        "v:6.12",
+        "v:6.13",
+        "v:6.14",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer. Many critical scholars think a follower wrote the letter in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul calls 'O man of God' and had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients",
+          "v:6.11",
+          "v:6.20"
+        ]
+      },
+      "affected": {
+        "text": "The church at Ephesus is affected indirectly. Timothy's faithfulness shapes how he teaches and charges others, such as the rich (6:17).",
+        "sources": [
+          "b:purpose",
+          "v:6.17",
+          "x:1-timothy.4.16"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul gives Timothy a solemn charge to keep 'this commandment' spotless and beyond reproach until Christ's appearing. The text does not spell out exactly what 'this commandment' covers. The nearest context is the call to flee evil, pursue godliness, and hold fast his profession of faith.",
+      "sources": [
+        "v:6.11",
+        "v:6.12",
+        "v:6.13",
+        "v:6.14"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The charge comes while Timothy is leading the church in Ephesus and Paul is away, having gone on to Macedonia. It looks ahead to a future time: the appearing of Christ, 'which in his times he shall shew.'",
+        "sources": [
+          "b:recipients",
+          "b:writtenFrom",
+          "v:6.15"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, between Paul's two Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Timothy was in Ephesus, a wealthy port city and capital of the Roman province of Asia, known for its temple of Artemis. The text does not say where Paul wrote from, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to stay faithful to the end, unlike those who 'erred from the faith' through love of money or empty talk. The charge carries extra weight because it is given 'in the sight of God' and before Christ, who made a good confession before Pilate.",
+        "sources": [
+          "v:6.10",
+          "v:6.13",
+          "v:6.20",
+          "v:6.21"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that sound belief and godly living belong together. Looking toward Christ's appearing is a reason to live faithfully now, a theme other New Testament letters share.",
+        "sources": [
+          "b:themes",
+          "x:titus.2.13",
+          "x:1-thessalonians.5.23",
+          "x:2-peter.3.14"
+        ]
+      },
+      "for_readers": {
+        "text": "Faithfulness is meant to last, not just to start well. Believers are called to live so that no charge against them would stick, with their eyes on Christ's return.",
+        "sources": [
+          "v:6.14",
+          "x:2-peter.3.14",
+          "x:1-peter.1.7"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1785",
+        "english": "commandment",
+        "why_it_matters": {
+          "text": "The word can mean a general charge or order, not only a law code. Here it likely points to the charge Paul has just given Timothy rather than to a single rule.",
+          "sources": [
+            "w:G1785",
+            "v:6.13"
+          ]
+        }
+      },
+      {
+        "strong": "G0423",
+        "english": "unrebukeable",
+        "why_it_matters": {
+          "text": "This is the same word used for church leaders in 3:2. It is stronger than simply having a good name: it means being deservedly beyond reproach.",
+          "sources": [
+            "w:G0423"
+          ]
+        }
+      },
+      {
+        "strong": "G0784",
+        "english": "without spot",
+        "why_it_matters": {
+          "text": "The word means spotless or unstained. 2 Peter 3:14 uses it of believers found \"without spot.\"",
+          "sources": [
+            "w:G0784",
+            "x:2-peter.3.14"
+          ]
+        }
+      },
+      {
+        "strong": "G2015",
+        "english": "appearing",
+        "why_it_matters": {
+          "text": "In Greek of the time this word was often used for a god showing himself. Paul uses it for Christ's future visible coming, as in Titus 2:13.",
+          "sources": [
+            "w:G2015",
+            "x:titus.2.13"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul solemnly charges Timothy, and through him the church, to keep faith pure and blameless for the long haul. The sure hope of Christ's appearing is the reason to do so.",
+      "sources": [
+        "v:6.13",
+        "v:6.14",
+        "v:6.15"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.2",
+      "reason": "The lexicon only lists 1 Pet 1:19 as a reference for 'spotless'. Neither cited source says Peter applies the word to Christ as a lamb, and the cited 2 Peter 3:14 is about believers, not Christ.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

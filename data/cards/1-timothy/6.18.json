@@ -1,0 +1,164 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 18
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:54:48.358Z",
+  "card": {
+    "in_context": {
+      "text": "This verse finishes a charge Paul gives Timothy about wealthy believers. Verse 17 tells the rich not to be proud or trust in uncertain riches but in God. Verse 18 says what they should do instead: do good, be rich in good works, and give and share freely.",
+      "sources": [
+        "v:6.17",
+        "v:6.18",
+        "v:6.19"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle is writing. He names himself at the start of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "The letter is addressed to Timothy, Paul's younger co-worker, whom he had left to lead the church at Ephesus. Timothy is told to pass this charge on.",
+        "sources": [
+          "b:recipients",
+          "v:6.17"
+        ]
+      },
+      "affected": {
+        "text": "The charge is about \"them that are rich in this world\", meaning wealthy members of the church.",
+        "sources": [
+          "v:6.17"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul tells the rich to turn their wealth outward. They are to do good, be rich in good works, be ready to distribute, and be willing to share. In older English, \"communicate\" here means to share with others.",
+      "sources": [
+        "v:6.18",
+        "w:G2130",
+        "w:G2843"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The text gives no specific event. It is part of the closing charges of the letter.",
+        "sources": [
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote it in Paul's name, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. The text does not say where it was written, though Paul had gone on to Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Earlier in the chapter Paul warns that the desire to be rich leads to snares and that the love of money is the root of all evil. Here he shows how those who already have wealth should handle it. Their generosity builds \"a good foundation against the time to come\".",
+        "sources": [
+          "v:6.9",
+          "v:6.10",
+          "v:6.19"
+        ]
+      },
+      "big_picture": {
+        "text": "A theme of the letter is contentment and the danger of loving money, along with the belief that sound teaching must show up in godly living. Other passages also urge doing good and sharing, such as Hebrews 13:16, which calls this a sacrifice that pleases God.",
+        "sources": [
+          "b:themes",
+          "x:hebrews.13.16",
+          "x:titus.3.8"
+        ]
+      },
+      "for_readers": {
+        "text": "Wealth is treated not as a thing to trust but as a means to serve others. Real richness is measured in good works and open-handed sharing. Compare 1 John 3:17 on not closing one's heart to a brother in need.",
+        "sources": [
+          "v:6.17",
+          "v:6.18",
+          "x:1-john.3.17"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4147",
+        "english": "be rich",
+        "why_it_matters": {
+          "text": "The verb means to be rich. Paul charges the rich of verse 17 to be rich \"in good works.\"",
+          "sources": [
+            "w:G4147",
+            "v:6.17",
+            "v:6.18"
+          ]
+        }
+      },
+      {
+        "strong": "G2130",
+        "english": "ready to distribute",
+        "why_it_matters": {
+          "text": "The Greek word means ready to impart, or generous in distributing.",
+          "sources": [
+            "w:G2130"
+          ]
+        }
+      },
+      {
+        "strong": "G2843",
+        "english": "willing to communicate",
+        "why_it_matters": {
+          "text": "The KJV's \"communicate\" does not mean talking. The Greek word means ready to share or impart, and can also mean sociable. It points to sharing life and goods with others.",
+          "sources": [
+            "w:G2843"
+          ]
+        }
+      },
+      {
+        "strong": "G0014",
+        "english": "do good",
+        "why_it_matters": {
+          "text": "This verb means to do good or show kindness. It frames the rich person's duty as active kindness, not just avoiding pride.",
+          "sources": [
+            "w:G0014"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Those with money are told not to trust it but to use it. They should be generous, quick to give, and willing to share. That kind of richness is the kind that lasts.",
+      "sources": [
+        "v:6.17",
+        "v:6.18",
+        "v:6.19"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.0",
+      "reason": "The sources do not show that verse 17 uses the same Greek word. The lexicon entry for πλουτέω only cross-references πλούσιος, and v17's 'rich' is in fact the adjective πλούσιος, not the verb πλουτεῖν.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon gives only 'ready to impart' / 'generous in distributing'. The contrast of a 'settled willingness' with 'not a one-time gift' is an added interpretation the source does not state.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

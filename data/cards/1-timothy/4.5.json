@@ -1,0 +1,164 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 5
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:48:44.542Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is answering false teachers who forbade marriage and ordered people to avoid certain foods. He says everything God created is good and should be received with thanks. Verse 5 gives the reason: such things are made holy, or set apart for God's use, by God's word and by prayer.",
+      "sources": [
+        "v:4.1",
+        "v:4.3",
+        "v:4.4",
+        "v:4.5",
+        "w:G0037"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus. Paul tells him to remind the believers of these things.",
+        "sources": [
+          "b:recipients",
+          "v:4.6"
+        ]
+      },
+      "affected": {
+        "text": "Believers in Ephesus who were being pressed by teachers who had departed from the faith to give up marriage and certain foods.",
+        "sources": [
+          "v:4.1",
+          "v:4.3",
+          "b:purpose"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse explains why no created food needs to be refused. When believers receive it with thanksgiving, it is set apart for God by his word and by prayer. The word \"For\" ties this verse directly to the claim in verse 4.",
+      "sources": [
+        "v:4.4",
+        "v:4.5",
+        "w:G1063",
+        "w:G0037",
+        "w:G1783"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The text does not tie this verse to a datable event. It addresses false teaching Paul says would come \"in the latter times\" and that Timothy was facing in Ephesus.",
+        "sources": [
+          "v:4.1",
+          "b:purpose"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote in Paul's name, though others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter is addressed to Timothy in Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated, though he may have been in Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "To give Timothy a clear answer to teachers who called some of God's good gifts off-limits. Food received with thanks and prayer is not something to be refused.",
+        "sources": [
+          "v:4.3",
+          "v:4.4",
+          "v:4.5",
+          "v:4.6"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that sound teaching shapes godly living, and that everything God created is good and received with thanksgiving. This echoes Genesis, where God saw everything he had made and called it very good.",
+        "sources": [
+          "b:themes",
+          "x:genesis.1.31"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse links ordinary things like eating to God's word and prayer. Giving thanks is the way believers receive God's gifts, not by avoiding them out of rules God did not give.",
+        "sources": [
+          "v:4.3",
+          "v:4.4",
+          "v:4.5"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0037",
+        "english": "it is sanctified",
+        "why_it_matters": {
+          "text": "The word means to make holy, consecrate, or set apart for God. Here it is used of food received with thanksgiving.",
+          "sources": [
+            "w:G0037",
+            "v:4.4",
+            "v:4.5"
+          ]
+        }
+      },
+      {
+        "strong": "G1783",
+        "english": "prayer",
+        "why_it_matters": {
+          "text": "This word means a petition or request. Paul uses the plural earlier in the letter (2:1). It matches the \"thanksgiving\" of verse 4.",
+          "sources": [
+            "w:G1783",
+            "v:4.4"
+          ]
+        }
+      },
+      {
+        "strong": "G1063",
+        "english": "for",
+        "why_it_matters": {
+          "text": "This small word gives a reason. It shows verse 5 explains verse 4 and cannot stand alone as a general saying.",
+          "sources": [
+            "w:G1063",
+            "v:4.4",
+            "v:4.5"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Against teachers who banned good gifts like food and marriage, Paul says what God created is good. Received with thanks, it is set apart for God by his word and by prayer.",
+      "sources": [
+        "v:4.3",
+        "v:4.4",
+        "v:4.5"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.0",
+      "reason": "The lexicon gives 'set apart for God' as one sense, but it also lists 'to purify.' Flatly stating that the verse is 'not saying prayer changes the food' adopts one interpretation as the only reading, which the cited sources do not establish.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon only lists 1 Tim 2:1 as another occurrence (plural). No cited source gives the content of 2:1, so the claim that Paul uses the word 'for the prayers he urges for all people' is unsupported.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

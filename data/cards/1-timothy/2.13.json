@@ -1,0 +1,194 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 2,
+    "verse": 13
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:45:53.185Z",
+  "card": {
+    "in_context": {
+      "text": "This verse gives a reason for the rule in the verse before it, where Paul says he does not allow a woman to teach or usurp authority over the man in the church. It points back to the creation account, where Adam was formed before Eve. It belongs to a section on prayer and conduct in worship.",
+      "sources": [
+        "v:2.12",
+        "v:2.13",
+        "b:outline",
+        "x:genesis.2.7",
+        "x:genesis.2.22"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The women and men of the Ephesian church as they gathered for prayer and teaching. The verse itself talks about Adam and Eve.",
+        "sources": [
+          "v:2.8",
+          "v:2.9",
+          "v:2.11",
+          "v:2.12",
+          "v:2.13"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul states the order of creation: Adam was formed first, then Eve. The word \"for\" shows he offers this as support for what he just said about women teaching and authority. The next verse adds a second reason about Eve being deceived.",
+      "sources": [
+        "v:2.13",
+        "v:2.12",
+        "v:2.14",
+        "w:G1063",
+        "w:G4413G",
+        "w:G1534"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse looks back to the creation of the first man and woman, told in Genesis 2.",
+        "sources": [
+          "x:genesis.2.7",
+          "x:genesis.2.22"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia, known for its temple of Artemis. Where Paul wrote from is not stated, though it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul is guiding how believers should conduct themselves in worship. This verse backs up his instruction about who teaches and holds authority in the gathered church.",
+        "sources": [
+          "b:purpose",
+          "v:2.12",
+          "v:2.13"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter was written partly to confront false teaching in Ephesus and to set order in God's household. Paul makes a similar appeal to creation in 1 Corinthians 11:8-9, saying the woman was made of and for the man. Genesis also says God created both male and female in his image.",
+        "sources": [
+          "b:purpose",
+          "x:1-corinthians.11.8",
+          "x:1-corinthians.11.9",
+          "x:genesis.1.27"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers should read this verse together with verse 12, since it explains that verse. It should also be weighed alongside the chapter's wider teaching that God wants all people saved.",
+        "sources": [
+          "v:2.12",
+          "v:2.4",
+          "w:G1063"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Quoted on its own as a general statement that women are lesser than men or must defer to men in every area of life.",
+      "in_context_reading": {
+        "text": "The verse opens with \"for\" and supports a specific instruction about teaching and authority in the church's worship. It speaks of order in creation, not of worth. The same chapter says God wants all people to be saved.",
+        "sources": [
+          "w:G1063",
+          "v:2.12",
+          "v:2.13",
+          "b:outline",
+          "v:2.4",
+          "x:genesis.1.27"
+        ]
+      }
+    },
+    "christians_differ": {
+      "text": "Some Christians (often called complementarians) read the appeal to creation order as grounding a lasting pattern that reserves certain teaching and authority roles in the church for men. Others (often called egalitarians) read verses 12-14 as addressing a particular problem in Ephesus, where false teaching was spreading. They take the creation reference as tied to that situation rather than as a rule for all times.",
+      "sources": [
+        "v:2.12",
+        "v:2.13",
+        "v:2.14",
+        "b:purpose"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G1063",
+        "english": "For",
+        "why_it_matters": {
+          "text": "This word marks a reason or explanation. It ties the verse directly to verse 12, so the verse is an argument, not a free-standing statement.",
+          "sources": [
+            "w:G1063",
+            "v:2.12"
+          ]
+        }
+      },
+      {
+        "strong": "G4111",
+        "english": "was formed",
+        "why_it_matters": {
+          "text": "The verb means to form or mould. In the Greek Old Testament it mostly translates the Hebrew word behind \"formed\" in Genesis 2:7, so Paul is echoing that creation scene.",
+          "sources": [
+            "w:G4111",
+            "x:genesis.2.7"
+          ]
+        }
+      },
+      {
+        "strong": "G4413G",
+        "english": "first",
+        "why_it_matters": {
+          "text": "The word means first. Paul's point rests on the order of creation: \"Adam was first formed, then Eve.\"",
+          "sources": [
+            "w:G4413G",
+            "v:2.13"
+          ]
+        }
+      },
+      {
+        "strong": "G1534",
+        "english": "then",
+        "why_it_matters": {
+          "text": "This word marks sequence, \"then, next.\" It completes the order Paul draws from Genesis: Adam first, then Eve.",
+          "sources": [
+            "w:G1534"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is Paul's reason, drawn from Genesis, for his instruction about women teaching in the Ephesian church. It cannot be understood apart from verse 12. Christians disagree about whether that reason sets a lasting rule or answered a local situation.",
+      "sources": [
+        "v:2.12",
+        "v:2.13",
+        "w:G1063",
+        "x:genesis.2.22",
+        "b:purpose"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.2",
+      "reason": "The lexicon's 'in NT always of Time' applies to the comparative πρότερος, not to πρῶτος, the word in this verse. The claim carries that restriction over to πρῶτος, which the source does not support.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

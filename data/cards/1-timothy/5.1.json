@@ -1,0 +1,166 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 1
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:50:03.585Z",
+  "card": {
+    "in_context": {
+      "text": "Paul begins a section on how Timothy should treat different groups in the Ephesian church. He tells him to deal with people as family: older men as fathers, younger men as brothers, older women as mothers, younger women as sisters.",
+      "sources": [
+        "v:5.1",
+        "v:5.2",
+        "b:outline",
+        "b:recipients"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in his name.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Older and younger men in the church, and in the next verse older and younger women.",
+        "sources": [
+          "v:5.1",
+          "v:5.2"
+        ]
+      }
+    },
+    "what": {
+      "text": "Timothy should not sharply rebuke an older man. He should appeal to him as he would to his own father, and treat younger men as brothers. Correction still happens, but in a family spirit.",
+      "sources": [
+        "v:5.1",
+        "w:G1969",
+        "w:G3870",
+        "w:G4245H"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse is an instruction, not a story. It concerns Timothy's ongoing leadership in Ephesus after Paul left for Macedonia.",
+        "sources": [
+          "b:recipients",
+          "b:writtenFrom"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, between Paul's two Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110; others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The church in Ephesus, a wealthy port city and capital of the Roman province of Asia. The letter may have been sent from Macedonia, but the text does not say.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul is guiding a young leader in how to conduct himself in God's household. Timothy is young, so he must correct older people with respect.",
+        "sources": [
+          "b:purpose",
+          "b:recipients",
+          "v:5.1"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter treats the church as God's household (3:15), and this verse tells Timothy to treat older men \"as a father\" and younger men \"as brethren.\" Respect for the old echoes the Law's command to honour the aged.",
+        "sources": [
+          "b:purpose",
+          "v:5.1",
+          "v:5.2",
+          "x:leviticus.19.32"
+        ]
+      },
+      "for_readers": {
+        "text": "When correcting someone, the manner matters. Approach older people with the respect due a parent and peers as equals, in the spirit of meekness.",
+        "sources": [
+          "v:5.1",
+          "x:galatians.6.1"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4245H",
+        "english": "elder",
+        "why_it_matters": {
+          "text": "Here the word means an older man, set against \"younger men\" in the same sentence. It is about age, not the church office of elder discussed later in 5:17-20, where elders who sin can be rebuked publicly.",
+          "sources": [
+            "w:G4245H",
+            "v:5.1",
+            "v:5.17",
+            "v:5.20"
+          ]
+        }
+      },
+      {
+        "strong": "G1969",
+        "english": "rebuke",
+        "why_it_matters": {
+          "text": "The verb can mean to strike at or punish. Paul forbids a harsh, cutting rebuke, not all correction.",
+          "sources": [
+            "w:G1969"
+          ]
+        }
+      },
+      {
+        "strong": "G3870",
+        "english": "intreat",
+        "why_it_matters": {
+          "text": "This word means to call on, plead with, or exhort. Timothy is to appeal to an older man rather than scold him.",
+          "sources": [
+            "w:G3870"
+          ]
+        }
+      },
+      {
+        "strong": "G0080",
+        "english": "brethren",
+        "why_it_matters": {
+          "text": "Literally \"brothers.\" Younger men are to be treated as equals in the family, not as underlings.",
+          "sources": [
+            "w:G0080",
+            "v:5.1"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Correct people as family: plead with older men as fathers and treat younger men as brothers. The verse is about respect for age, not about shielding leaders from accountability.",
+      "sources": [
+        "v:5.1",
+        "w:G4245H",
+        "v:5.19",
+        "v:5.20"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.big_picture",
+      "reason": "The verse is a simile: treat an older man \"as a father\" and younger men \"as brethren.\" Saying it applies the household image \"literally\" contradicts the text. None of the cited sources says church members are literally family.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

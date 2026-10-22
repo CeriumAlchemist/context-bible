@@ -1,0 +1,176 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 10
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:49:15.950Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just told Timothy to train himself in godliness, which holds promise for this life and the next (4:7-8), and calls this a trustworthy saying (4:9). Verse 10 gives the reason Paul and his co-workers toil and struggle: their hope rests on the living God, the Saviour of all people, especially of believers.",
+      "sources": [
+        "v:4.7",
+        "v:4.8",
+        "v:4.9",
+        "v:4.10"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, writing to Timothy. The 'we' includes Paul and those who labor with him.",
+        "sources": [
+          "b:author",
+          "v:4.10"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The verse speaks of 'all men' and 'those that believe.' It also bears on the church Timothy leads, whom he is to command and teach these things.",
+        "sources": [
+          "v:4.10",
+          "v:4.11"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul explains why he and his co-workers work hard and endure. They have set their hope on the living God. God is described as Saviour of all people, and especially of those who believe.",
+      "sources": [
+        "v:4.10",
+        "w:G1679",
+        "w:G4990",
+        "w:G3122"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul is guiding Timothy while Timothy leads in Ephesus and Paul is away, expecting to come later (4:13).",
+        "sources": [
+          "b:recipients",
+          "v:4.13"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, by Paul, between his Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110 and see it as written in Paul's name by a follower; others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port and capital of the province of Asia. The place of writing is not stated; Paul may have written from Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to see that godly effort is worth it because it rests on hope in God, unlike the false teaching and fables he must refuse (4:1-7).",
+        "sources": [
+          "v:4.1",
+          "v:4.7",
+          "v:4.8",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The verse echoes a theme of the letter: God desires all people to be saved (2:4), and Christ gave himself a ransom for all (2:6). It also keeps a special place for those who believe.",
+        "sources": [
+          "b:themes",
+          "x:1-timothy.2.4",
+          "x:1-timothy.2.6",
+          "v:4.10"
+        ]
+      },
+      "for_readers": {
+        "text": "Hard work and hardship in serving God make sense because hope is placed in a God who is alive and who saves. Timothy is told to keep at this so that he saves himself and his hearers (4:16).",
+        "sources": [
+          "v:4.10",
+          "v:4.16"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Christians read 'Saviour of all men, specially of those that believe' in different ways. Some take it to mean God will in the end save every person; others take 'Saviour' in its wider sense of deliverer or preserver of all, with eternal salvation for believers; others say God's saving offer is truly for all but received by those who believe. The lexicon notes the word can mean saviour, deliverer, or preserver, and the cross-references stress both God's will for all (2:4) and believing (John 3:15).",
+      "sources": [
+        "v:4.10",
+        "w:G4990",
+        "w:G3122",
+        "x:1-timothy.2.4",
+        "x:john.3.15"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G4990",
+        "english": "Saviour",
+        "why_it_matters": {
+          "text": "The Greek word can mean saviour, deliverer, or preserver, and was a common title for kings. This range is part of why readers interpret 'Saviour of all men' differently.",
+          "sources": [
+            "w:G4990"
+          ]
+        }
+      },
+      {
+        "strong": "G3122",
+        "english": "specially",
+        "why_it_matters": {
+          "text": "This word means 'especially' or 'most of all.' It sets believers apart in some way within God's relation to all people.",
+          "sources": [
+            "w:G3122"
+          ]
+        }
+      },
+      {
+        "strong": "G0075",
+        "english": "strive (KJV: suffer reproach)",
+        "why_it_matters": {
+          "text": "The Greek text listed here reads a word meaning to contend for a prize or struggle, while the KJV reads 'suffer reproach.' The sources do not explain this difference. The athletic sense fits Paul's training image in 4:7-8.",
+          "sources": [
+            "w:G0075",
+            "v:4.10",
+            "v:4.7",
+            "v:4.8"
+          ]
+        }
+      },
+      {
+        "strong": "G2872",
+        "english": "labour",
+        "why_it_matters": {
+          "text": "The word means to toil to the point of weariness. Paul often uses it for the hard work of ministry.",
+          "sources": [
+            "w:G2872"
+          ]
+        }
+      },
+      {
+        "strong": "G1679",
+        "english": "trust",
+        "why_it_matters": {
+          "text": "The Greek is 'we have hoped' or 'we have set our hope.' It describes a settled hope fixed on God, which drives the effort.",
+          "sources": [
+            "w:G1679"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul toils and struggles because his hope is fixed on the living God, who saves all people and especially those who believe. Read with its context, the verse is about why godly effort is worthwhile.",
+      "sources": [
+        "v:4.8",
+        "v:4.10"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

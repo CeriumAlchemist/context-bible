@@ -1,0 +1,178 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 4
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:46:32.093Z",
+  "card": {
+    "in_context": {
+      "text": "This verse is part of Paul's list of qualities for a bishop, or overseer, in 1 Timothy 3:1-7. The next verse gives the reason. A man who cannot manage his own home is not ready to care for the church of God.",
+      "sources": [
+        "v:3.1",
+        "v:3.2",
+        "v:3.4",
+        "v:3.5",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote it in Paul's name. Others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Men who desire the office of bishop, along with their households and children. The church they would lead is also affected.",
+        "sources": [
+          "v:3.1",
+          "v:3.4",
+          "v:3.5"
+        ]
+      }
+    },
+    "what": {
+      "text": "A bishop must manage his own household well. His children should be orderly and obedient, and this should be handled with dignity. A similar standard is given for deacons in verse 12.",
+      "sources": [
+        "v:3.4",
+        "v:3.12",
+        "w:G4291",
+        "w:G5292",
+        "w:G4587"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The letter describes how the church in Ephesus should choose its leaders. It does not narrate a single event.",
+        "sources": [
+          "b:purpose",
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. The text does not say where it was written. Paul had gone on to Macedonia, so he may have written from there.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants leaders whose character is proven at home. He reasons that the household is a testing ground for caring for God's church.",
+        "sources": [
+          "v:3.5",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul calls the church \"the house of God.\" So how a man leads his own house shows how he would serve in God's house. This fits the letter's theme that belief and behavior belong together.",
+        "sources": [
+          "v:3.15",
+          "b:themes",
+          "w:G3624H"
+        ]
+      },
+      "for_readers": {
+        "text": "Leadership in the church is measured partly by faithfulness in ordinary home life, not only by public gifts. Scripture also praises those who lead their households to serve the LORD.",
+        "sources": [
+          "v:3.4",
+          "v:3.5",
+          "x:joshua.24.15",
+          "x:genesis.18.19"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Christians differ on what \"children in subjection\" requires. Some read it together with Titus 1:6 (\"having faithful children\") and say a leader's children must be believers. Others say it means children who are orderly and respectful while under his care.",
+      "sources": [
+        "v:3.4",
+        "x:titus.1.6"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G4291",
+        "english": "ruleth",
+        "why_it_matters": {
+          "text": "The word means to preside over, govern, or direct. Verse 5 pairs this ruling with \"take care of\" the church. That shows the rule in view is caring oversight, not domination.",
+          "sources": [
+            "w:G4291",
+            "v:3.5"
+          ]
+        }
+      },
+      {
+        "strong": "G2573",
+        "english": "well",
+        "why_it_matters": {
+          "text": "The word means finely or rightly. The test is not merely holding authority but leading in a good way. The same pairing appears for deacons and elders.",
+          "sources": [
+            "w:G2573",
+            "x:1-timothy.3.12"
+          ]
+        }
+      },
+      {
+        "strong": "G5292",
+        "english": "subjection",
+        "why_it_matters": {
+          "text": "The word means submission or subjection. The letter uses the same word in 2:11.",
+          "sources": [
+            "w:G5292"
+          ]
+        }
+      },
+      {
+        "strong": "G4587",
+        "english": "gravity",
+        "why_it_matters": {
+          "text": "The word means dignity or seriousness. The same word appears in 2:2 and Titus 2:7, and Titus 2:2 asks older men to be \"grave.\" It suggests a household ordered in a dignified, respectful way.",
+          "sources": [
+            "w:G4587",
+            "x:titus.2.2"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is not a stand-alone rule for strict parenting. It is one qualification for church leaders. A man's faithful, dignified care for his own home is evidence that he can care for God's church.",
+      "sources": [
+        "v:3.4",
+        "v:3.5",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.2",
+      "reason": "The lexicon only lists 1 Tim 2:11 as another use of the word. That does not support the conclusion that the verse describes an ordered household 'rather than harsh treatment.' The inference is drawn without support from the cited source.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "No cited source mentions any debate over whether the verse requires a bishop to have children. The sources also do not attest which traditions hold the stated readings on believing children.",
+      "fix": "checked and approved by Kourtland"
+    }
+  ]
+}

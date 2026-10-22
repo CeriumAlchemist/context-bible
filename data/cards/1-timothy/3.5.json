@@ -1,0 +1,186 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 5
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:46:57.469Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is listing the qualities a church overseer (\"bishop\") must have. Verse 4 says he must rule his own house well, with his children in order. Verse 5 is a short aside in parentheses giving the reason: a man who cannot manage his own home is not ready to care for God's church.",
+      "sources": [
+        "v:3.1",
+        "v:3.2",
+        "v:3.4",
+        "v:3.5"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote it in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Men who desire the office of overseer, and the church they would care for. Deacons are held to a similar standard about their homes in verse 12.",
+        "sources": [
+          "v:3.1",
+          "v:3.5",
+          "v:3.12"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse is a reasoned question, not a new rule. It argues from the smaller to the larger: a man's home life shows whether he can lead and care for the church.",
+      "sources": [
+        "v:3.4",
+        "v:3.5",
+        "w:G4459"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The text does not tie this instruction to a specific event. It is part of Paul's guidance for setting up leaders in the Ephesian church.",
+        "sources": [
+          "b:purpose",
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's first and second Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. Where Paul wrote from is not stated, though it may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to choose leaders of proven character. Managing a household well is evidence that a man can be trusted with the church.",
+        "sources": [
+          "b:purpose",
+          "b:themes",
+          "v:3.5"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul calls the church \"the house of God\" in verse 15, so the home and the church are compared directly. A man who leads his own house well is fit to help care for God's house.",
+        "sources": [
+          "v:3.15",
+          "x:1-timothy.3.15",
+          "w:G3624H"
+        ]
+      },
+      "for_readers": {
+        "text": "Character shown at home matters for leading the church. 1 Samuel gives a warning: God judged a house \"because his sons made themselves vile, and he restrained them not.\"",
+        "sources": [
+          "v:3.5",
+          "x:1-samuel.3.13",
+          "x:1-samuel.2.29"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Traditions differ on what the \"bishop\" (overseer) office is. Some see it as a distinct, higher office over several churches. Others treat it as the same role as elder or pastor, noting that in Acts 20:28 Paul calls the Ephesian elders \"overseers.\" Readers also differ on whether this verse requires a leader to be married with children, or simply requires that any household he has be well managed.",
+      "sources": [
+        "v:3.1",
+        "v:3.4",
+        "b:outline",
+        "x:acts.20.28"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G4291",
+        "english": "rule",
+        "why_it_matters": {
+          "text": "The word means to stand before or preside over. It describes leading from the front, the same word used of church leaders elsewhere (Romans 12:8; 1 Timothy 5:17).",
+          "sources": [
+            "w:G4291"
+          ]
+        }
+      },
+      {
+        "strong": "G1959",
+        "english": "take care of",
+        "why_it_matters": {
+          "text": "Paul shifts from \"rule\" to \"take care of\" when he speaks of the church. This verb is used elsewhere in the New Testament only in Luke 10:34-35.",
+          "sources": [
+            "w:G1959",
+            "v:3.5"
+          ]
+        }
+      },
+      {
+        "strong": "G3624H",
+        "english": "house",
+        "why_it_matters": {
+          "text": "The word means a house or household. Paul uses the same idea for the church as \"the house of God\" in verse 15, which is what makes the comparison work.",
+          "sources": [
+            "w:G3624H",
+            "v:3.15"
+          ]
+        }
+      },
+      {
+        "strong": "G1577",
+        "english": "church",
+        "why_it_matters": {
+          "text": "The word means an assembly or congregation. Here it is the gathered people of God, not a building.",
+          "sources": [
+            "w:G1577"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Leading God's people is like leading a family, only larger. Paul asks how a man who cannot rule his own house could take care of the church of God.",
+      "sources": [
+        "v:3.4",
+        "v:3.5",
+        "v:3.15"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.for_readers",
+      "reason": "The cited verses never name Eli or call him a priest. That identification comes from outside the cited text.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "takeaway",
+      "reason": "Paul does not call home management the 'best proof'. Verse 5 only asks how a man who cannot rule his house could care for the church. Calling it the best proof overstates the text.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon gives only the reference Luke 10:34-35. It does not mention the Good Samaritan or a wounded man. The conclusion that leadership is pictured as 'tender care, not just control' is interpretation the source does not state.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "No cited source says some traditions see the bishop as a higher office over several churches. Acts 20:28 calls its hearers 'overseers' but does not call them elders. The cited sources also do not describe a debate over whether leaders must be married with children.",
+      "fix": "checked and approved by Kourtland"
+    }
+  ]
+}

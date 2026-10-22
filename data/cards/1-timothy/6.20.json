@@ -1,0 +1,186 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 6,
+    "verse": 20
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:55:18.619Z",
+  "card": {
+    "in_context": {
+      "text": "This is Paul's closing charge at the end of the letter. After warning about false teachers who quarrel over words and treat godliness as a way to get rich, he tells Timothy to guard what was entrusted to him. He also tells him to turn away from empty talk and from rival claims to 'knowledge' that some have followed away from the faith.",
+      "sources": [
+        "v:6.3",
+        "v:6.4",
+        "v:6.5",
+        "v:6.20",
+        "v:6.21",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote in Paul's name. Others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, addressed here by name. Paul had left him to lead the church at Ephesus.",
+        "sources": [
+          "v:6.20",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The church in Ephesus, and the 'some' who took up this so-called knowledge and went astray from the faith.",
+        "sources": [
+          "v:6.21",
+          "b:purpose"
+        ]
+      }
+    },
+    "what": {
+      "text": "Timothy is to keep safe the 'deposit' entrusted to him. That means the sound teaching he received. He must also steer clear of irreverent, empty chatter and the opposing arguments of a 'knowledge' that does not deserve the name.",
+      "sources": [
+        "v:6.20",
+        "w:G3866",
+        "w:G5442I",
+        "w:G2757",
+        "w:G0477",
+        "w:G5581",
+        "w:G1108",
+        "v:6.3"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The charge comes at the close of the letter, while Timothy was leading the Ephesian church after Paul had gone on to Macedonia.",
+        "sources": [
+          "b:recipients",
+          "b:writtenFrom",
+          "v:6.21"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110. Others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia, known for its temple of Artemis. Where it was written is not stated. It may have been Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The letter aims to help Timothy confront false teachers in Ephesus. This verse sums up that task in one final command: protect the true teaching and refuse to be drawn into the false teachers' talk.",
+        "sources": [
+          "b:purpose",
+          "v:6.3",
+          "v:6.20"
+        ]
+      },
+      "big_picture": {
+        "text": "The same charge appears in 2 Timothy, where Timothy is told to keep 'that good thing which was committed unto thee' and to 'shun profane and vain babblings'. It fits the letter's theme that sound teaching and godly living belong together.",
+        "sources": [
+          "x:2-timothy.1.14",
+          "x:2-timothy.2.16",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers are called to treat the faith as something entrusted to them and to guard it. They are also warned not to be impressed by talk that claims special insight but leads people away from the faith.",
+        "sources": [
+          "v:6.20",
+          "v:6.21",
+          "x:colossians.2.8"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "The KJV phrase 'science falsely so called' is often quoted as if Paul were warning against modern science or scientific theories.",
+      "in_context_reading": {
+        "text": "The Greek word translated 'science' is gnōsis, meaning 'knowledge', especially claimed spiritual knowledge. In context, Paul is warning about the arguments of false teachers in the church who claimed a 'knowledge' that led some away from the faith. He is not talking about the study of nature.",
+        "sources": [
+          "w:G1108",
+          "w:G5581",
+          "w:G0477",
+          "v:6.20",
+          "v:6.21",
+          "v:6.3"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3866",
+        "english": "that which is committed to thy trust (deposit)",
+        "why_it_matters": {
+          "text": "Parathēkē means a deposit or trust, something placed in another's keeping for safekeeping. The teaching is pictured as valuable property Timothy holds for its owner, not something he may change.",
+          "sources": [
+            "w:G3866",
+            "x:2-timothy.1.12",
+            "x:2-timothy.1.14"
+          ]
+        }
+      },
+      {
+        "strong": "G5442I",
+        "english": "keep (guard)",
+        "why_it_matters": {
+          "text": "The verb means to guard or watch, as a sentry does. Timothy's role is active protection, not just remembering.",
+          "sources": [
+            "w:G5442I"
+          ]
+        }
+      },
+      {
+        "strong": "G1108",
+        "english": "science (knowledge)",
+        "why_it_matters": {
+          "text": "Gnōsis means knowledge, in the New Testament often of spiritual truth. The KJV word 'science' here meant knowledge in general, not modern natural science.",
+          "sources": [
+            "w:G1108"
+          ]
+        }
+      },
+      {
+        "strong": "G0477",
+        "english": "oppositions",
+        "why_it_matters": {
+          "text": "Antithesis means opposition, here opposing arguments. It shows Paul has in mind rival teachings that set themselves against the faith.",
+          "sources": [
+            "w:G0477",
+            "v:6.21"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Guard the faith you have been entrusted with. Do not be drawn away by empty talk or by teaching that calls itself 'knowledge' but leads people from the faith.",
+      "sources": [
+        "v:6.20",
+        "v:6.21",
+        "w:G3866",
+        "w:G1108"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "christians_differ",
+      "reason": "None of the cited sources say how Catholic, Orthodox, or Protestant readers understand the 'deposit'. 2 Thessalonians 2:15 mentions traditions taught by word or epistle, but nothing cited ties it to 1 Timothy 6:20 or attributes these views to any tradition.",
+      "fix": "note removed at Kourtland's direction: it described later church traditions rather than the text"
+    }
+  ]
+}

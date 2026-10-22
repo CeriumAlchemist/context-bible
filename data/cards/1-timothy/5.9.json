@@ -1,0 +1,166 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 9
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:50:58.605Z",
+  "card": {
+    "in_context": {
+      "text": "This verse sits in Paul's instructions about caring for widows (5:3-16). He sets rules for which widows may be put on the church's list: those at least sixty, \"the wife of one man,\" and known for good works (5:9-10).",
+      "sources": [
+        "v:5.3",
+        "v:5.9",
+        "v:5.10",
+        "v:5.16",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself as the writer of the letter.",
+        "sources": [
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Widows in the church, especially older widows with no family to support them. Paul calls them \"widows indeed.\"",
+        "sources": [
+          "v:5.3",
+          "v:5.4",
+          "v:5.5",
+          "v:5.16"
+        ]
+      }
+    },
+    "what": {
+      "text": "A widow is not to be \"taken into the number\" unless she is at least sixty and has been \"the wife of one man.\" The Greek word means to enroll, as on an official list. One lexicon suggests it may mean a recognized group or order of widows.",
+      "sources": [
+        "v:5.9",
+        "w:G2639",
+        "w:G5503",
+        "w:G1835"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The instruction belongs to Timothy's work leading the Ephesian church after Paul went on to Macedonia.",
+        "sources": [
+          "b:recipients",
+          "b:writtenFrom"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, by Paul. Scholarly view: many critical scholars date it around AD 80-110 and think a follower wrote it in Paul's name, while others defend Paul's authorship and the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The church at Ephesus, a wealthy port city and capital of the Roman province of Asia.",
+      "sources": [
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants the church's help to go to widows who truly have no one else. Families should care for their own, \"that it may relieve them that are widows indeed.\" Younger widows are told to remarry instead of being enrolled.",
+        "sources": [
+          "v:5.4",
+          "v:5.8",
+          "v:5.11",
+          "v:5.14",
+          "v:5.16"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches Timothy how believers should conduct themselves in God's household. It holds that belief and behavior belong together, and that people given a recognized place in the church should have proven character.",
+        "sources": [
+          "b:purpose",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse shows a church taking practical care of vulnerable members. It also shows the church using clear, fair standards so that its help reaches those in real need.",
+        "sources": [
+          "v:5.3",
+          "v:5.9",
+          "v:5.10",
+          "v:5.16",
+          "v:5.21"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "The text does not define \"wife of one man.\" The phrase mirrors the rule for a bishop in 3:2, \"the husband of one wife.\" Some Christians read it as married only once. Others read it as having been a faithful, one-man woman.",
+      "sources": [
+        "v:5.9",
+        "x:1-timothy.3.2",
+        "w:G1520",
+        "w:G0435H"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G2639",
+        "english": "taken into the number (enrol)",
+        "why_it_matters": {
+          "text": "The word means to choose out and enroll, as soldiers on a roll. The verse is about a formal church list, not about which widows deserve kindness in general.",
+          "sources": [
+            "w:G2639",
+            "v:5.9"
+          ]
+        }
+      },
+      {
+        "strong": "G5503",
+        "english": "widow",
+        "why_it_matters": {
+          "text": "One lexicon notes that here the word may point to a member of an order of widows. That suggests a recognized group in the church, not just any woman whose husband has died.",
+          "sources": [
+            "w:G5503"
+          ]
+        }
+      },
+      {
+        "strong": "G0435H",
+        "english": "man (husband)",
+        "why_it_matters": {
+          "text": "This word can mean a husband, so \"one man\" refers to her marriage. It is the counterpart to \"one wife\" in the bishop's qualifications.",
+          "sources": [
+            "w:G0435H",
+            "x:1-timothy.3.2"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is a practical church rule for enrolling older, proven widows for the church's care. It belongs to Paul's wider point that families should provide for their own, so the church can help those who truly have no one.",
+      "sources": [
+        "v:5.8",
+        "v:5.9",
+        "v:5.10",
+        "v:5.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "in_context",
+      "reason": "It renders \"wife of one man\" as \"faithful in marriage,\" which is only one reading. The card itself notes in christians_differ that others take it to mean married only once, and the cited verse does not define the phrase.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

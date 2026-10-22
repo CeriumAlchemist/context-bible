@@ -1,0 +1,195 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 2,
+    "verse": 6
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:44:52.508Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just urged prayer for all people, including rulers, because God wants all people to be saved (2:1-4). Verses 5-6 give the reason: there is one God and one mediator, Christ Jesus, who gave himself as a ransom for all. Verse 7 adds that Paul was appointed to preach this message to the Gentiles.",
+      "sources": [
+        "v:2.1",
+        "v:2.2",
+        "v:2.4",
+        "v:2.5",
+        "v:2.6",
+        "v:2.7"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a follower wrote it in his name.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "\"All\" people, the same \"all men\" the church is told to pray for and whom God wills to be saved.",
+        "sources": [
+          "v:2.1",
+          "v:2.4",
+          "v:2.6"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse says Christ Jesus gave himself as a ransom, a price paid to set people free, on behalf of all. This act is the testimony, or witness, that was made known at God's chosen time.",
+      "sources": [
+        "v:2.6",
+        "w:G0487",
+        "w:G5228",
+        "w:G3142",
+        "w:G2540"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse looks back to Christ giving himself, which other passages tie to his death. It says this was made known \"in due time,\" which the Greek puts as \"in its own proper times.\"",
+        "sources": [
+          "v:2.6",
+          "x:1-peter.3.18",
+          "w:G2540",
+          "w:G2398",
+          "x:galatians.4.4"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110, though others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. Where it was written from is not stated, though Paul had gone on to Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse explains why Christians should pray for everyone, rulers included. Since Christ gave himself for all, no group is outside the church's prayers.",
+        "sources": [
+          "v:2.1",
+          "v:2.2",
+          "v:2.3",
+          "v:2.6"
+        ]
+      },
+      "big_picture": {
+        "text": "It sits in a section on prayer and conduct in worship, and it supports a central theme of the letter: God desires all people to be saved. It also grounds Paul's own calling as a teacher of the Gentiles.",
+        "sources": [
+          "b:outline",
+          "b:themes",
+          "v:2.4",
+          "v:2.7"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers are reminded that Christ's self-giving is the basis for praying for and reaching out to all kinds of people. Jesus used similar words of himself, giving \"his life a ransom for many.\"",
+        "sources": [
+          "v:2.1",
+          "v:2.6",
+          "x:matthew.20.28"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Many traditions read \"for all\" as every person without exception, pointing to 2:4 and to 1 John 2:2, \"the whole world.\" Reformed (Calvinist) readers often take \"all\" as all kinds of people, kings and common folk, Jews and Gentiles, in line with 2:1-2 and Matthew 20:28's \"many.\" Christians also differ on whether a ransom for all means all will finally be saved; the passage itself also stresses coming to \"the knowledge of the truth.\"",
+      "sources": [
+        "v:2.1",
+        "v:2.2",
+        "v:2.4",
+        "v:2.6",
+        "v:2.7",
+        "x:1-john.2.2",
+        "x:matthew.20.28"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G0487",
+        "english": "ransom",
+        "why_it_matters": {
+          "text": "The Greek word means a ransom, a price paid to free someone. The lexicon lists this verse as its only New Testament use. It presents Christ's death as a costly act that frees people.",
+          "sources": [
+            "w:G0487"
+          ]
+        }
+      },
+      {
+        "strong": "G5228",
+        "english": "for",
+        "why_it_matters": {
+          "text": "This word means \"on behalf of.\" It is used especially of Christ giving his life for people's redemption, so the ransom is paid for their benefit.",
+          "sources": [
+            "w:G5228"
+          ]
+        }
+      },
+      {
+        "strong": "G3956",
+        "english": "all",
+        "why_it_matters": {
+          "text": "The word means all or every. It echoes the \"all men\" of verses 1 and 4 and links Christ's ransom to the call to pray for everyone.",
+          "sources": [
+            "w:G3956",
+            "v:2.1",
+            "v:2.4"
+          ]
+        }
+      },
+      {
+        "strong": "G3142",
+        "english": "to be testified",
+        "why_it_matters": {
+          "text": "The Greek is a noun meaning testimony, witness, or proof. Paul goes on to say he was appointed a preacher of this message (2:7).",
+          "sources": [
+            "w:G3142",
+            "v:2.7"
+          ]
+        }
+      },
+      {
+        "strong": "G2540",
+        "english": "due time",
+        "why_it_matters": {
+          "text": "Kairos means a fixed, fitting season. Together with \"its own,\" it says the witness came at the time God appointed.",
+          "sources": [
+            "w:G2540",
+            "w:G2398"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is the reason behind the call to pray for everyone: Christ Jesus gave himself as a ransom on behalf of all. It is the message Paul says he was appointed to preach.",
+      "sources": [
+        "v:2.1",
+        "v:2.6",
+        "v:2.7"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.3",
+      "reason": "The lexicon only defines μαρτύριον as testimony or witness. It does not say that Christ's self-giving is itself the testimony 'not just something later talked about.' That is one interpretive reading presented as the only one, and verse 7, which speaks of preaching, allows the proclamation reading.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

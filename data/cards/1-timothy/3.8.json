@@ -1,0 +1,194 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 3,
+    "verse": 8
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:47:04.992Z",
+  "card": {
+    "in_context": {
+      "text": "After listing what a bishop (overseer) must be like (3:1-7), Paul turns to deacons with \"likewise.\" This verse starts their list: serious, honest in speech, not given to much wine, and not greedy for dishonest money. The list continues through verse 13.",
+      "sources": [
+        "v:3.1",
+        "v:3.2",
+        "v:3.7",
+        "v:3.8",
+        "v:3.13",
+        "w:G5615"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle, who names himself at the start of the letter. Many critical scholars think a later follower wrote in his name.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Deacons, church servants who are listed alongside bishops. The same pairing appears in the greeting of Philippians.",
+        "sources": [
+          "v:3.8",
+          "x:philippians.1.1",
+          "w:G1249"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse sets character standards for deacons. They must be serious and worthy of respect, say the same thing to everyone, not be given to much wine, and not chase dishonest gain. The last two also appear in the bishop's list in 3:3.",
+      "sources": [
+        "v:3.8",
+        "x:1-timothy.3.3",
+        "w:G4586",
+        "w:G1351",
+        "w:G0146"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The letter gives instructions for an existing church with set offices. It does not describe a single event. Nero was emperor in this period.",
+        "sources": [
+          "b:setting",
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 62-64, between Paul's two Roman imprisonments. Scholarly view: many critical scholars date it around AD 80-110, though others defend the earlier date.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The instructions are for the church at Ephesus, a wealthy port city and capital of the Roman province of Asia. Paul may have written from Macedonia, but the letter does not say.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Timothy to know how people should behave in \"the house of God, which is the church of the living God.\" Setting qualifications for leaders is part of that.",
+        "sources": [
+          "v:3.14",
+          "v:3.15",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "A major theme of the letter is that belief and behavior belong together, and church leaders must be people of proven character. Deacons must also \"first be proved\" before serving.",
+        "sources": [
+          "b:themes",
+          "v:3.9",
+          "v:3.10"
+        ]
+      },
+      "for_readers": {
+        "text": "People who serve in the church are measured first by character: honest speech, self-control, and a clean relationship with money. Verse 13 says those who serve well gain \"great boldness in the faith.\"",
+        "sources": [
+          "v:3.8",
+          "v:3.13"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "The verse is cited on both sides of the debate about alcohol. Some read \"not given to much wine,\" together with Paul telling Timothy to \"use a little wine\" (5:23), as allowing moderate drinking. Others point to warnings like Leviticus 10:9 and read the verse as encouraging abstinence.",
+      "sources": [
+        "v:3.8",
+        "x:1-timothy.5.23",
+        "x:leviticus.10.9"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G1249",
+        "english": "deacons",
+        "why_it_matters": {
+          "text": "The Greek word simply means a servant or attendant. It is used of Christ's servants generally as well as this church role. A deacon is, at root, someone who serves.",
+          "sources": [
+            "w:G1249"
+          ]
+        }
+      },
+      {
+        "strong": "G4586",
+        "english": "grave",
+        "why_it_matters": {
+          "text": "It means grave, serious, worthy of respect. The same word describes the women in 3:11.",
+          "sources": [
+            "w:G4586",
+            "v:3.11"
+          ]
+        }
+      },
+      {
+        "strong": "G1351",
+        "english": "doubletongued",
+        "why_it_matters": {
+          "text": "Literally \"two-worded.\" It describes someone who says one thing to one person and something else to another. This word appears only here in the New Testament.",
+          "sources": [
+            "w:G1351"
+          ]
+        }
+      },
+      {
+        "strong": "G4337",
+        "english": "given to",
+        "why_it_matters": {
+          "text": "The verb means to turn one's mind to or attend to. The warning is against being devoted to much wine, rather than simply against wine as such.",
+          "sources": [
+            "w:G4337",
+            "w:G3631",
+            "w:G4183"
+          ]
+        }
+      },
+      {
+        "strong": "G0146",
+        "english": "greedy of filthy lucre",
+        "why_it_matters": {
+          "text": "The word joins \"shameful\" and \"gain.\" It warns against seeking money by base or dishonest means. That matters for people who may handle church affairs.",
+          "sources": [
+            "w:G0146"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is a character test for church servants, not a standalone rule. It asks for people who are serious, honest in speech, self-controlled, and clean in money matters, and who have been proved before they serve.",
+      "sources": [
+        "v:3.8",
+        "v:3.10",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "what",
+      "reason": "Only two of the four traits (wine, filthy lucre) appear in 3:3. 'Grave' and 'not doubletongued' are not there, so 'largely echo' overstates the overlap.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon gives 'reverend, venerable, grave, serious.' Nothing in the sources supports the qualification 'not gloomy.'",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "None of the cited sources mentions churches differing over whether deacons are ordained officers or lay helpers. The lexicon entry only defines the word as servant.",
+      "fix": "checked and approved by Kourtland"
+    }
+  ]
+}

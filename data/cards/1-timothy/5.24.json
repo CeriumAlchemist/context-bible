@@ -1,0 +1,156 @@
+{
+  "ref": {
+    "book": "1-timothy",
+    "chapter": 5,
+    "verse": 24
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-22T01:53:02.594Z",
+  "card": {
+    "in_context": {
+      "text": "This verse follows Paul's warning to Timothy not to lay hands on anyone hastily, that is, not to appoint church leaders too quickly (5:22). Some people's sins are plain from the start, while others' come to light only later. Verse 25 adds that good works work the same way, so Timothy should take time to judge character.",
+      "sources": [
+        "v:5.22",
+        "v:5.24",
+        "v:5.25"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul the apostle names himself as the writer. Many critical scholars think a follower wrote in Paul's name, while others defend Paul's authorship.",
+        "sources": [
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Timothy, Paul's younger co-worker, whom Paul had left to lead the church at Ephesus.",
+        "sources": [
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "People being considered for church leadership, especially elders. Paul has just discussed honoring elders, handling accusations against them, and not appointing anyone hastily.",
+        "sources": [
+          "v:5.17",
+          "v:5.19",
+          "v:5.20",
+          "v:5.22"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul makes an observation about how character is revealed. Some sins are obvious and go ahead of a person to judgment. Others follow behind and show up only later. So a leader who judges by first impressions can be fooled.",
+      "sources": [
+        "v:5.24",
+        "w:G4271",
+        "w:G4254",
+        "w:G1872"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The advice applies to Timothy's ongoing work of leading the Ephesian church and choosing its elders.",
+        "sources": [
+          "b:recipients",
+          "b:purpose",
+          "v:5.22"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 62-64, between Paul's two Roman imprisonments. Scholarly: many critical scholars date it around AD 80-110.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter was sent to Ephesus, a wealthy port city and capital of the Roman province of Asia. The place of writing is not stated, though Paul had gone on to Macedonia.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse explains why Timothy must not appoint leaders quickly. Hidden faults may surface later, and Timothy would then share in their sins.",
+        "sources": [
+          "v:5.22",
+          "v:5.24"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter insists that church leaders be people of proven character, and that belief and behavior belong together. This verse shows that proving character takes time.",
+        "sources": [
+          "b:themes",
+          "b:purpose"
+        ]
+      },
+      "for_readers": {
+        "text": "First impressions can mislead in both directions. Some faults appear only with time, and some good works, though not obvious at first, cannot stay hidden.",
+        "sources": [
+          "v:5.24",
+          "v:5.25"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4271",
+        "english": "open beforehand",
+        "why_it_matters": {
+          "text": "The word can mean 'evident beforehand' or 'clearly evident.' It describes sins that are visible before any careful inquiry is made. The same word is used of good works in verse 25.",
+          "sources": [
+            "w:G4271",
+            "v:5.25"
+          ]
+        }
+      },
+      {
+        "strong": "G4254",
+        "english": "going before",
+        "why_it_matters": {
+          "text": "The word means to go or lead before. The picture is of sins walking ahead of a person, announcing him before he arrives.",
+          "sources": [
+            "w:G4254"
+          ]
+        }
+      },
+      {
+        "strong": "G1872",
+        "english": "follow after",
+        "why_it_matters": {
+          "text": "This verb means to follow after. Here it pictures sins trailing behind and catching up later. The same verb is used in 5:10 of a widow who has 'followed every good work.'",
+          "sources": [
+            "w:G1872",
+            "v:5.10"
+          ]
+        }
+      },
+      {
+        "strong": "G2920",
+        "english": "judgment",
+        "why_it_matters": {
+          "text": "The lexicon lists this verse under the general sense 'a decision, judgment,' separate from its listings for divine and last judgment. In context this fits Timothy's assessment of candidates, though the verse itself does not spell out whose judgment is meant.",
+          "sources": [
+            "w:G2920",
+            "v:5.22"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Do not trust first impressions when choosing leaders. Character, both bad and good, eventually shows itself, so take time before entrusting anyone with responsibility.",
+      "sources": [
+        "v:5.22",
+        "v:5.24",
+        "v:5.25"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}
