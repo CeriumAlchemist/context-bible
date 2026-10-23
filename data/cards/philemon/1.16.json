@@ -46,11 +46,13 @@
       }
     },
     "what": {
-      "text": "Paul describes how Philemon should now see Onesimus. He is \"not now as a servant, but above a servant, a brother beloved.\" Paul says Onesimus is dear to him, and should be even dearer to Philemon, \"both in the flesh, and in the Lord.\"",
+      "text": "Paul tells Philemon plainly how to take Onesimus back: \"not now as a servant, but above a servant, a brother beloved,\" dear to Paul and dearer still to Philemon, \"both in the flesh, and in the Lord.\" The next verses press the same point: \"receive him as myself,\" and if Onesimus owes anything, \"put that on mine account… I will repay it.\"",
       "sources": [
+        "v:1.15",
         "v:1.16",
-        "v:1.12",
-        "v:1.17"
+        "v:1.17",
+        "v:1.18",
+        "v:1.19"
       ]
     },
     "when": {
@@ -107,17 +109,21 @@
         ]
       }
     },
-    "misuse": null,
-    "christians_differ": {
-      "text": "Readers differ on how far \"not now as a servant\" reaches. Some take it to mean Paul is hinting that Philemon should free Onesimus, pointing to \"in the flesh\" and to Paul's hope that Philemon will \"do more than I say.\" Others read it as a change in how the two relate as brothers, without a change in legal status, pointing to passages that tell believing servants to serve masters who are brethren.",
-      "sources": [
-        "v:1.16",
-        "v:1.21",
-        "x:1-timothy.6.2",
-        "x:colossians.3.22",
-        "x:1-corinthians.7.22"
-      ]
+    "misuse": {
+      "popular_reading": "Paul only hints that Philemon might treat Onesimus more kindly, and leaves the master and slave relationship as it was.",
+      "in_context_reading": {
+        "text": "Paul does not hint. He instructs Philemon to receive Onesimus \"for ever,\" \"not now as a servant, but above a servant, a brother beloved,\" and \"as myself,\" and he takes Onesimus's debt on himself: \"put that on mine account… I will repay it.\" He writes with confidence that Philemon \"wilt also do more than I say.\"",
+        "sources": [
+          "v:1.15",
+          "v:1.16",
+          "v:1.17",
+          "v:1.18",
+          "v:1.19",
+          "v:1.21"
+        ]
+      }
     },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G1401",
@@ -194,6 +200,11 @@
       "claim": "takeaway",
       "reason": "The cited sources say only that Onesimus had \"departed\" or left Philemon. Calling him a \"runaway\" is one reading of the situation, which some interpreters dispute, and the takeaway states it as fact.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "Kourtland (2026-10-23): the text is plain; Paul instructs, he does not hint, and 1:17-19 confirm it.",
+      "fix": "note removed; what and misuse answer from 1:15-19"
     }
   ]
 }

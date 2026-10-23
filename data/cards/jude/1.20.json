@@ -100,17 +100,7 @@
       }
     },
     "misuse": null,
-    "christians_differ": {
-      "text": "Some Christians read \"praying in the Holy Ghost\" as including prayer in tongues, linking it with 1 Corinthians 14:4 and 14:15, where speaking in a tongue \"edifieth himself\" and Paul says \"I will pray with the spirit.\" Others read it as all prayer that is guided and helped by the Spirit, as in Romans 8:26-27 and Ephesians 6:18. Jude 20 itself does not mention tongues.",
-      "sources": [
-        "v:1.20",
-        "x:1-corinthians.14.4",
-        "x:1-corinthians.14.15",
-        "x:romans.8.26",
-        "x:romans.8.27",
-        "x:ephesians.6.18"
-      ]
-    },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G4771",
@@ -176,6 +166,11 @@
       "claim": "key_words.2",
       "reason": "The cited lexicon entry for ἑαυτοὺς says nothing about the word being plural or addressed to the group. Jude's reflexive 'build up yourselves' is also not the same as the reciprocal 'edify one another' of 1 Thessalonians 5:11. Treating the verse as being about mutual strengthening goes beyond the cited sources.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "Sweep after Kourtland's Philemon 1:16 note: the verse does not mention tongues, so the note brought in an outside debate.",
+      "fix": "note removed"
     }
   ]
 }
