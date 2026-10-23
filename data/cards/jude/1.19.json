@@ -1,0 +1,170 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 19
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.972Z",
+  "card": {
+    "in_context": {
+      "text": "Jude sums up the mockers the apostles warned about (1:17-18). He says they are the ones who create divisions, who live by natural, worldly instincts, and who do not have the Spirit. The next verse turns to the faithful: \"But ye, beloved\" are to pray in the Holy Ghost (1:20).",
+      "sources": [
+        "v:1.17",
+        "v:1.18",
+        "v:1.19",
+        "v:1.20"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself \"the servant of Jesus Christ, and brother of James.\" Tradition identifies him with Judas, one of Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers who are \"sanctified by God the Father, and preserved in Jesus Christ, and called.\" The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The \"certain men crept in unawares\" among the believers. These were ungodly men who turned God's grace into an excuse for immorality. Jude calls them mockers who walk after their own lusts.",
+        "sources": [
+          "v:1.4",
+          "v:1.18",
+          "b:recipients"
+        ]
+      }
+    },
+    "what": {
+      "text": "This is a three-part description of the false teachers. They draw lines that divide the church, they are \"natural\" rather than spiritual, and they lack God's Spirit. Paul says the same kind of \"natural man\" cannot receive the things of the Spirit, and that whoever lacks the Spirit of Christ \"is none of his.\"",
+      "sources": [
+        "v:1.19",
+        "w:G0592",
+        "w:G5591",
+        "x:1-corinthians.2.14",
+        "x:romans.8.9"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Jude says these men are the \"mockers in the last time\" that the apostles foretold. They were already present among his readers.",
+        "sources": [
+          "v:1.4",
+          "v:1.18"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: estimates range from the 50s to the early second century, and some scholars think a later follower wrote in Jude's name.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The text does not say where Jude wrote from or where his readers lived. The letter's many references to Israel's history suggest readers who knew Jewish tradition well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude wants his readers to recognize the intruders for what they are, so they can \"earnestly contend for the faith.\" These men separate themselves, are sensual, and lack the Spirit.",
+        "sources": [
+          "v:1.3",
+          "v:1.4",
+          "v:1.19",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The verse sets up a contrast. The divisive, Spirit-less men stand against believers who build themselves up in faith, pray in the Holy Ghost, and keep themselves in God's love. James likewise calls wisdom that does not come from above \"earthly, sensual, devilish.\"",
+        "sources": [
+          "v:1.19",
+          "v:1.20",
+          "v:1.21",
+          "x:james.3.15",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Jude's test is plain: these men have not the Spirit (compare Romans 8:9). He calls the faithful to keep themselves in God's love and to show compassion (1:20-23).",
+        "sources": [
+          "v:1.19",
+          "v:1.20",
+          "v:1.21",
+          "v:1.22",
+          "v:1.23",
+          "x:romans.8.9"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0592",
+        "english": "separate themselves (causing divisions)",
+        "why_it_matters": {
+          "text": "The lexicon defines the word as \"to mark off,\" and so, figuratively, \"to make separations.\" Here it is glossed \"causing divisions.\" The only place the entry lists for it is this verse.",
+          "sources": [
+            "w:G0592",
+            "v:1.19"
+          ]
+        }
+      },
+      {
+        "strong": "G5591",
+        "english": "sensual (natural)",
+        "why_it_matters": {
+          "text": "The word means \"natural,\" of the soul, and the lexicon sets it opposite to \"spiritual.\" Paul uses it for the \"natural man\" who cannot receive the things of the Spirit. James uses it for wisdom that is not from above.",
+          "sources": [
+            "w:G5591",
+            "x:1-corinthians.2.14",
+            "x:james.3.15"
+          ]
+        }
+      },
+      {
+        "strong": "G4151G",
+        "english": "Spirit",
+        "why_it_matters": {
+          "text": "The word is glossed here as \"[the] Spirit,\" which links the verse to the Holy Ghost in 1:20. Romans 8:9 likewise says that anyone who has not the Spirit of Christ \"is none of his.\"",
+          "sources": [
+            "w:G4151G",
+            "v:1.20",
+            "x:romans.8.9"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Jude marks out false teachers by their fruit. They divide God's people, live by mere natural instinct, and lack the Spirit. He then calls the faithful to pray in the Holy Ghost and keep themselves in God's love.",
+      "sources": [
+        "v:1.19",
+        "v:1.20",
+        "v:1.21"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.purpose",
+      "reason": "None of the cited sources say the intruders claimed spiritual standing. The verse says only that they divide, are sensual, and lack the Spirit.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "why.for_readers",
+      "reason": "The cited texts do not describe the people in 1:22 as 'wavering'. They also do not set the Spirit against 'outward religious talk'; Jude only says these men lack the Spirit.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

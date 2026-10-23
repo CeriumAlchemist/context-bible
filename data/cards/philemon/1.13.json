@@ -1,0 +1,172 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 13
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.932Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just told Philemon he is sending Onesimus back to him (1:12). Here he says he wanted to keep Onesimus with him, so that Onesimus could serve Paul in prison on Philemon's behalf. In the next verse Paul explains why he did not: he would do nothing without Philemon's consent (1:14).",
+      "sources": [
+        "v:1.12",
+        "v:1.13",
+        "v:1.14"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, who calls himself a prisoner of Jesus Christ, writing with Timothy.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, a beloved fellow-worker of Paul, along with Apphia, Archippus and the church in his house.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Onesimus, Philemon's servant who had left him and became a believer through Paul. Paul calls him \"my son\" and \"mine own bowels,\" meaning his very heart.",
+        "sources": [
+          "v:1.10",
+          "v:1.12",
+          "b:purpose"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul admits a wish he chose not to act on. He would have liked Onesimus to stay and serve him while he was in chains for the gospel, as if Philemon himself were serving Paul. Instead he sent Onesimus back and left the choice to Philemon.",
+      "sources": [
+        "v:1.13",
+        "v:1.14",
+        "w:G1014",
+        "w:G2722",
+        "w:G1247"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "During Paul's imprisonment, after Onesimus had become a believer and before he travelled back to Philemon.",
+        "sources": [
+          "v:1.10",
+          "v:1.12",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 60-62, from prison in Rome, at the same time as Colossians. Scholarly: nearly all accept Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison; the letter does not name the city, and Rome is the traditional view. Philemon's house church was most likely in Colossae, though the letter does not name it.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul shows that Onesimus has become truly useful to him, \"profitable to thee and to me\" (1:11). He also makes clear he will not use that usefulness to override Philemon. Any kindness must come \"willingly,\" not \"of necessity\" (1:14).",
+        "sources": [
+          "v:1.11",
+          "v:1.13",
+          "v:1.14"
+        ]
+      },
+      "big_picture": {
+        "text": "The verse fits Paul's way of appealing for love's sake rather than commanding (1:8-9). Paul speaks elsewhere of believers sharing in his bonds and supplying what others lacked toward him (Philippians 1:7; Philippians 2:30; 1 Corinthians 16:17). Onesimus could have done the same service for Philemon.",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "b:themes",
+          "x:philippians.1.7",
+          "x:philippians.2.30",
+          "x:1-corinthians.16.17"
+        ]
+      },
+      "for_readers": {
+        "text": "Paul had authority and a real need, yet he respected another believer's right to decide. Readers see that service and generosity among Christians are meant to be given freely, not pressured.",
+        "sources": [
+          "v:1.8",
+          "v:1.13",
+          "v:1.14"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1014",
+        "english": "would (was wishing)",
+        "why_it_matters": {
+          "text": "The lexicon defines this verb as to will, wish, desire or purpose, and notes it can mark a deliberate choice. Here it names a real wish of Paul's, which he then set aside out of respect for Philemon (1:14).",
+          "sources": [
+            "w:G1014",
+            "v:1.14"
+          ]
+        }
+      },
+      {
+        "strong": "G2722",
+        "english": "retained (to keep)",
+        "why_it_matters": {
+          "text": "The lexicon glosses this as to hold back or detain, and lists this verse under that sense. Paul is saying he could have held Onesimus back from returning, but chose not to.",
+          "sources": [
+            "w:G2722"
+          ]
+        }
+      },
+      {
+        "strong": "G1247",
+        "english": "ministered (he may serve)",
+        "why_it_matters": {
+          "text": "This word means to serve, wait upon, or care for someone's needs, and the lexicon lists this verse among its uses. Paul had in mind help given to him \"in the bonds of the gospel.\"",
+          "sources": [
+            "w:G1247",
+            "v:1.13"
+          ]
+        }
+      },
+      {
+        "strong": "G1199",
+        "english": "bonds (chains)",
+        "why_it_matters": {
+          "text": "The word means a band or bond and is used of Paul's actual imprisonment in Philippians 1:7 and Philemon 10. \"The bonds of the gospel\" means Paul was in chains because of the gospel he preached.",
+          "sources": [
+            "w:G1199",
+            "x:philippians.1.7",
+            "v:1.10"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul wanted to keep a helper he loved, but he would not take what was not freely given. Love asks, and it leaves the other person free to choose.",
+      "sources": [
+        "v:1.9",
+        "v:1.13",
+        "v:1.14"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.2",
+      "reason": "The lexicon only lists Matt 20:28 as a reference. It does not say the verse is about Christ coming to serve, and that text is not cited, so this detail goes beyond the sources.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

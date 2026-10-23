@@ -24,6 +24,14 @@ export function claimsOf(card: ContextCard): [string, Claim][] {
   return out;
 }
 
+/**
+ * Hedges about whether Christians agree, outside christians_differ. Kourtland's rule: when the text is clear,
+ * answer from Scripture instead. Authorship and dating views (when.written, who.speaker) are exempt.
+ */
+const HEDGE =
+  /\b(?:debated|(?:christians|readers|churches|traditions|interpreters|scholars)\s+(?:still\s+)?(?:differ|disagree|debate|read (?:it|this|the verse) differently))\b|\breaders (?:take|read) (?:it|this) (?:in )?(?:different|several) ways\b|\bhow far (?:it|this)(?: verse)? applies\b/i;
+const HEDGE_EXEMPT = new Set(["christians_differ", "when.written", "who.speaker"]);
+
 // "Acts 19:1", "1 Timothy 3:14-15", "Rom. 8:28". Bare "3:14" refers to the same book and is checked by the source ids.
 const SCRIPTURE_REF = /\b((?:[1-3]\s?)?[A-Z][a-z]+\.?(?:\s(?:of\s)?[A-Z][a-z]+)?)\s(\d{1,3}):(\d{1,3})(?:[-–](\d{1,3}))?/g;
 
@@ -42,6 +50,8 @@ export function checkCard({ card, sourceIds, verseStrongs, versesIn }: CheckInpu
   const problems: string[] = [];
 
   for (const [where, claim] of claimsOf(card)) {
+    const hedge = HEDGE_EXEMPT.has(where) ? null : claim.text.match(HEDGE);
+    if (hedge) problems.push(`${where}: hedges ("${hedge[0]}"); answer from the text and other Scripture instead`);
     if (claim.sources.length === 0) problems.push(`${where}: no source cited`);
     for (const id of claim.sources) {
       if (!sourceIds.has(id)) problems.push(`${where}: cites ${id}, which it was not given`);

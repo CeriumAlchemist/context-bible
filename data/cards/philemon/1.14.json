@@ -1,0 +1,149 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 14
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.922Z",
+  "card": {
+    "in_context": {
+      "text": "Paul would have liked to keep Onesimus with him in prison as a helper (1:13). But he would not do it without Philemon's consent. He wanted any kindness from Philemon to be freely chosen, not forced.",
+      "sources": [
+        "v:1.13",
+        "v:1.14",
+        "w:G1106",
+        "w:G1595"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, a prisoner of Jesus Christ, writing with Timothy.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, Paul's fellow-worker, along with Apphia, Archippus and the church in his house.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Onesimus, Philemon's servant, who had left him and become a believer through Paul.",
+        "sources": [
+          "v:1.10",
+          "v:1.11",
+          "b:purpose"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul explains why he sent Onesimus back instead of keeping him. Paul could have commanded, but he chose to appeal for love's sake (1:8-9). Here he leaves the decision to Philemon so that his goodness would be willing.",
+      "sources": [
+        "v:1.8",
+        "v:1.9",
+        "v:1.12",
+        "v:1.14"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "During Paul's imprisonment, when Onesimus was being sent back to Philemon with this letter.",
+        "sources": [
+          "v:1.9",
+          "v:1.12",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 60-62, from Rome, at the same time as Colossians. Scholarly: nearly all accept Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul wrote from prison; the letter does not name the city. It was sent to Philemon's household, traditionally at Colossae.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wanted Philemon to act from his own free will, not because Paul pressured him. That is why he asks rather than orders.",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "v:1.14"
+        ]
+      },
+      "big_picture": {
+        "text": "Scripture often values good done willingly over good done under pressure. Paul says the same about giving, \"not grudgingly, or of necessity\" (2 Corinthians 9:7). Peter tells elders to serve \"not by constraint, but willingly\" (1 Peter 5:2).",
+        "sources": [
+          "x:2-corinthians.9.7",
+          "x:1-peter.5.2",
+          "x:1-chronicles.29.17"
+        ]
+      },
+      "for_readers": {
+        "text": "Christian leaders are pictured as helpers, not lords over others' faith (2 Corinthians 1:24; 1 Peter 5:3). Good done freely and from the heart is what is sought.",
+        "sources": [
+          "x:2-corinthians.1.24",
+          "x:1-peter.5.3",
+          "v:1.14"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1106",
+        "english": "mind (consent)",
+        "why_it_matters": {
+          "text": "The word can mean mind, judgment, or counsel. The lexicon lists this verse under \"counsel, advice.\" So \"thy mind\" here means Philemon's own judgment or consent.",
+          "sources": [
+            "w:G1106"
+          ]
+        }
+      },
+      {
+        "strong": "G0318",
+        "english": "necessity",
+        "why_it_matters": {
+          "text": "It means necessity or compulsion. The same phrase \"of necessity\" is used in 2 Corinthians 9:7 about giving. Paul does not want Philemon's kindness to be forced.",
+          "sources": [
+            "w:G0318",
+            "x:2-corinthians.9.7"
+          ]
+        }
+      },
+      {
+        "strong": "G1595",
+        "english": "willingly",
+        "why_it_matters": {
+          "text": "It means voluntary, and in this phrase \"of free will.\" The lexicon lists only this verse for it. It stands as the opposite of acting under necessity.",
+          "sources": [
+            "w:G1595"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul could have commanded, but he wanted Philemon's goodness to be his own free choice. Love asks and leaves room for a willing response.",
+      "sources": [
+        "v:1.8",
+        "v:1.9",
+        "v:1.14"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

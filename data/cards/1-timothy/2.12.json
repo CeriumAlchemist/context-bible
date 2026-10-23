@@ -102,28 +102,24 @@
     "misuse": {
       "popular_reading": "Quoted as a blanket rule that women should never speak, lead, or teach in any setting, or as proof that the Bible looks down on women.",
       "in_context_reading": {
-        "text": "The verse belongs to instructions on prayer and conduct in the church's worship (2:1-15; 3:14-15). The same passage also tells women to learn (2:11). How far it applies today is debated among Christians.",
+        "text": "The verse belongs to instructions on prayer and conduct in the church's worship (2:1-15; 3:14-15). The same passage tells women to learn (2:11), and Paul elsewhere charges older women to be \"teachers of good things\" who teach the younger women (Titus 2:3-5).",
         "sources": [
           "b:outline",
           "b:purpose",
-          "v:2.11"
+          "v:2.11",
+          "x:titus.2.3",
+          "x:titus.2.4",
+          "x:titus.2.5"
         ]
       }
     },
-    "christians_differ": {
-      "text": "One view, often called complementarian, holds that this is a lasting rule: certain teaching and leading roles over men in the church are reserved for men, because Paul grounds it in creation order (2:13). Another view, often called egalitarian, reads it as aimed at a specific problem with false teaching in Ephesus, and points to the rare word for authority. Many churches hold positions between these.",
-      "sources": [
-        "v:2.13",
-        "b:purpose",
-        "w:G0831"
-      ]
-    },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G0831",
         "english": "usurp authority",
         "why_it_matters": {
-          "text": "This verb, authentein, appears only here in the New Testament. The lexicon glosses it as \"to domineer\" and \"to govern, exercise authority over.\" Its exact shade of meaning is part of why readers disagree about the verse.",
+          "text": "This verb, authentein, appears only here in the New Testament. The lexicon glosses it as \"to domineer\" and \"to govern, exercise authority over.\"",
           "sources": [
             "w:G0831"
           ]
@@ -143,7 +139,7 @@
         "strong": "G0435G",
         "english": "the man",
         "why_it_matters": {
-          "text": "Anēr can mean \"man\" or \"husband.\" The lexicon lists this verse under \"man\" as opposed to woman, though some readers take it as husband and wife.",
+          "text": "Anēr can mean \"man\" or \"husband.\" The lexicon lists this verse under \"man\" as opposed to woman.",
           "sources": [
             "w:G0435G",
             "w:G1135G"
@@ -152,11 +148,14 @@
       }
     ],
     "takeaway": {
-      "text": "This verse gives Paul's instruction on order in worship at Ephesus, grounded in his reading of creation. It should be read with the whole passage and the letter's purpose, keeping in mind that Christians differ on how it applies today.",
+      "text": "In the church's worship, Paul does not permit a woman to teach or to exercise authority over a man, and he gives his reasons from creation (2:13-14). The same Paul has older women teach the younger (Titus 2:3-5), so the verse is about the gathered church, not every setting.",
       "sources": [
-        "v:2.11",
+        "v:2.12",
         "v:2.13",
-        "b:purpose"
+        "v:2.14",
+        "b:outline",
+        "x:titus.2.3",
+        "x:titus.2.4"
       ]
     }
   },
@@ -167,6 +166,31 @@
       "claim": "key_words.1",
       "reason": "The lexicon lists 1 Timothy 2:11-12 under sense 2, 'stillness, silence,' not under the 'quietness' sense used for 2 Thessalonians 3:12. Using 2 Thessalonians to argue that the word here need not mean silence goes against the cited source's own classification of this verse.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "misuse",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
+    },
+    {
+      "claim": "key_words.0",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
+    },
+    {
+      "claim": "key_words.2",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
+    },
+    {
+      "claim": "takeaway",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
     }
   ]
 }

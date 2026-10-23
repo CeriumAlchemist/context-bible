@@ -1,0 +1,166 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 22
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.923Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just finished his appeal for Onesimus and said he trusts Philemon will do even more than he asks. Now he adds one more request: get a guest room ready for me. He hopes that through the prayers of Philemon and the church in his house he will be released from prison and come to them.",
+      "sources": [
+        "v:1.21",
+        "v:1.22",
+        "v:1.1",
+        "v:1.2"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, who calls himself \"a prisoner of Jesus Christ,\" writing with Timothy.",
+        "sources": [
+          "v:1.1",
+          "v:1.9",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "The request for lodging is made to Philemon. The \"your prayers\" and \"unto you\" take in the wider group named at the start: Apphia, Archippus and the church that met in Philemon's house.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "v:1.22",
+          "b:recipients"
+        ]
+      },
+      "affected": null
+    },
+    "what": {
+      "text": "Paul asks Philemon to prepare a place for him to stay. He gives the reason: he trusts that, through their prayers, he will be \"given\" to them, that is, freed and allowed to visit.",
+      "sources": [
+        "v:1.22",
+        "w:G3578",
+        "w:G5483"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul writes while in prison, near the close of the letter, after making his appeal for Onesimus. The visit is something he hopes for in the future. The text does not say whether it happened.",
+        "sources": [
+          "v:1.9",
+          "v:1.10",
+          "v:1.22",
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 60-62, during Paul's imprisonment in Rome, at the same time as Colossians. Scholarly view: nearly all accept Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison, and the letter does not name the city. Rome is the traditional view. The lodging would be at Philemon's home, traditionally placed at Colossae in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.2"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Philemon to expect him in person. He makes the request straight after saying he is confident Philemon will obey. The verse itself does not say why he raises the visit at this point.",
+        "sources": [
+          "v:1.21",
+          "v:1.22"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul often hopes to be freed and to see the churches again. He believes that the prayers of believers play a part in what God does. He says much the same to the Philippians: \"this shall turn to my salvation through your prayer\" and \"I trust in the Lord that I also myself shall come shortly.\"",
+        "sources": [
+          "x:philippians.1.19",
+          "x:philippians.1.25",
+          "x:philippians.2.24",
+          "x:2-corinthians.1.11"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse shows Paul treating the prayers of an ordinary house church as truly mattering. It also shows him planning ahead with hope while still in chains. Scripture elsewhere urges believers to \"pray one for another\" because such prayer \"availeth much.\"",
+        "sources": [
+          "v:1.22",
+          "x:james.5.16",
+          "x:2-corinthians.1.11"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3578",
+        "english": "lodging",
+        "why_it_matters": {
+          "text": "The word can mean hospitality in general or a place where a guest stays. The same word is used for Paul's lodging in Rome in Acts 28:23.",
+          "sources": [
+            "w:G3578",
+            "x:acts.28.23"
+          ]
+        }
+      },
+      {
+        "strong": "G5483",
+        "english": "I shall be given",
+        "why_it_matters": {
+          "text": "This verb means to show favour or to give freely. Elsewhere it can mean to forgive freely. Paul pictures his release as something freely granted, given as a gift to the church in answer to prayer.",
+          "sources": [
+            "w:G5483",
+            "v:1.22"
+          ]
+        }
+      },
+      {
+        "strong": "G1679",
+        "english": "I trust",
+        "why_it_matters": {
+          "text": "The word means to look for, expect or hope. Paul uses it in the same way when he hopes to visit or send someone (Philippians 2:19, 23). It voices confident hope, not a fixed promise.",
+          "sources": [
+            "w:G1679",
+            "x:philippians.2.24"
+          ]
+        }
+      },
+      {
+        "strong": "G4335",
+        "english": "prayers",
+        "why_it_matters": {
+          "text": "This is the ordinary word for prayer to God. It is the same word Paul used at the start for his own prayers for Philemon (verse 4). The letter opens with Paul praying for them and closes with him relying on their prayers for him.",
+          "sources": [
+            "w:G4335",
+            "v:1.4",
+            "v:1.22"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "From prison, Paul asks for a guest room because he expects God to answer the church's prayers and free him. Hope, prayer and practical planning go together in this verse.",
+      "sources": [
+        "v:1.22",
+        "x:philippians.1.19",
+        "x:philippians.2.24"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.0",
+      "reason": "The lexicon gives 'lodging-place' only as a possible meaning for Phm 22 ('and so perh.'). It notes that ICC reads it as 'hospitality' instead. The claim's conclusion that the request is definitely for a real room overstates the source and presents one reading as settled.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

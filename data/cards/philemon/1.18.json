@@ -1,0 +1,162 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 18
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.925Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is asking Philemon to take back Onesimus, who had departed from him and has now become a believer, as a beloved brother. Here Paul says that if Onesimus has wronged Philemon or owes him anything, Philemon should charge it to Paul. In the next verse Paul signs a promise in his own hand: \"I will repay it.\"",
+      "sources": [
+        "v:1.10",
+        "v:1.15",
+        "v:1.16",
+        "v:1.17",
+        "v:1.18",
+        "v:1.19"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, writing from prison with Timothy.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, Paul's beloved fellow-worker, along with Apphia, Archippus and the church that met in his house.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Onesimus, Philemon's servant. He had been \"unprofitable\" to Philemon and had \"departed,\" but he became a believer through Paul.",
+        "sources": [
+          "v:1.10",
+          "v:1.11",
+          "v:1.15",
+          "b:setting"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul offers to stand in for Onesimus. Any wrong done or debt owed to Philemon is to be put on Paul's account, and Paul promises in writing to pay it back. This removes any loss that might stand in the way of Philemon receiving Onesimus \"as myself.\"",
+      "sources": [
+        "v:1.17",
+        "v:1.18",
+        "v:1.19",
+        "b:purpose"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This happened while Paul was in prison, when Onesimus was being sent back to Philemon. Onesimus travelled with Tychicus, who also carried the letter to the Colossians.",
+        "sources": [
+          "v:1.9",
+          "v:1.12",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 60-62, during Paul's imprisonment in Rome, at the same time as Colossians. Scholarly view: nearly all scholars accept that Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison. The letter does not name the city, and Rome is the traditional view. It was sent to Philemon's household, which was most likely in Colossae in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul chooses to appeal for love's sake rather than give orders. By taking on any debt himself, he clears the way for Philemon to welcome Onesimus freely and willingly.",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "v:1.14",
+          "b:themes"
+        ]
+      },
+      "big_picture": {
+        "text": "One of the letter's themes is one person taking another's debt on himself. The cross-references point to Isaiah 53:4, where one \"hath borne our griefs, and carried our sorrows.\" The word for \"put on account\" is also used of sin being reckoned in Romans 5:13.",
+        "sources": [
+          "b:themes",
+          "x:isaiah.53.4",
+          "w:G1677"
+        ]
+      },
+      "for_readers": {
+        "text": "Paul does not just ask Philemon to forgive. He pays the cost of reconciliation himself. Readers see love that makes peace between others by bearing their burden.",
+        "sources": [
+          "v:1.17",
+          "v:1.18",
+          "v:1.19",
+          "v:1.20"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1677",
+        "english": "put that on mine account",
+        "why_it_matters": {
+          "text": "The word means \"to charge to one's account, impute.\" Besides this verse, it is used of sin being reckoned in Romans 5:13. It is bookkeeping language: Paul asks for the debt to be entered under his own name.",
+          "sources": [
+            "w:G1677"
+          ]
+        }
+      },
+      {
+        "strong": "G0091",
+        "english": "wronged",
+        "why_it_matters": {
+          "text": "The word means to do wrong or to wrong someone. It is used the same way in Matthew 20:13 and Colossians 3:25. Paul admits Onesimus may truly have harmed Philemon and does not excuse it. He offers to cover it.",
+          "sources": [
+            "w:G0091"
+          ]
+        }
+      },
+      {
+        "strong": "G3784",
+        "english": "oweth",
+        "why_it_matters": {
+          "text": "The word means to owe or be a debtor, as in the debts of Matthew 18:28 and Luke 7:41. In the next verse Paul turns the idea around, reminding Philemon that he owes Paul \"even thine own self.\"",
+          "sources": [
+            "w:G3784",
+            "v:1.19"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul makes himself responsible for whatever Onesimus owes, so that nothing stands between Philemon and his returning brother. Real reconciliation can mean someone willingly bearing the cost for another.",
+      "sources": [
+        "v:1.16",
+        "v:1.18",
+        "v:1.19",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "in_context",
+      "reason": "The cited verses (1:10, 1:16-19) do not say that Onesimus had left Philemon. That detail comes from 1:15 ('departed'), which is not cited here.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

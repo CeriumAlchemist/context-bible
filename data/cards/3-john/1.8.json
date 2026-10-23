@@ -1,0 +1,178 @@
+{
+  "ref": {
+    "book": "3-john",
+    "chapter": 1,
+    "verse": 8
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:39:21.967Z",
+  "card": {
+    "in_context": {
+      "text": "The elder has just praised Gaius for helping travelling Christian workers who went out for Christ's name and took nothing from the Gentiles. This verse draws the conclusion: believers ought to welcome such workers, and by doing so they share in the work of the truth. It sets up the contrast with Diotrephes, who refused to receive them.",
+      "sources": [
+        "v:1.5",
+        "v:1.6",
+        "v:1.7",
+        "v:1.8",
+        "v:1.9",
+        "v:1.10"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" who does not give his name. Early Christian tradition identifies him as John the apostle. Some scholars think he was a different church leader.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Gaius, a believer the elder loves and counts among his children in the faith. The \"we\" includes the elder, Gaius and believers like them.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "b:recipients",
+          "w:G3165"
+        ]
+      },
+      "affected": {
+        "text": "The travelling brethren and strangers who went out for Christ's name and depended on churches to house them and send them on.",
+        "sources": [
+          "v:1.5",
+          "v:1.7",
+          "b:setting"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse states a duty: we ought to receive and welcome such workers. It gives the reason: so that we become fellow workers with the truth they carry. Paul uses similar language of believers as labourers together with God.",
+      "sources": [
+        "v:1.8",
+        "w:G3784",
+        "w:G5274",
+        "w:G4904",
+        "x:1-corinthians.3.9",
+        "x:1-thessalonians.3.2"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The letter describes an ongoing situation. Workers had come to Gaius's church, and Gaius had helped them. Diotrephes was turning such visitors away.",
+        "sources": [
+          "v:1.3",
+          "v:1.5",
+          "v:1.6",
+          "v:1.10"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, around the time of 1 and 2 John. Scholarly view: most scholars also place it in the late first century, while some think the elder was not the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written. Early tradition places John's last years in Ephesus. It was sent to a church where Gaius lived, likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "To commend Gaius's hospitality and urge it as a shared duty. It also prepares for the elder's rebuke of Diotrephes, who would not receive the brethren.",
+        "sources": [
+          "b:purpose",
+          "v:1.8",
+          "v:1.10"
+        ]
+      },
+      "big_picture": {
+        "text": "Those who support gospel workers share in the work itself. The New Testament elsewhere speaks of believers as labourers together with God and fellowlabourers in the gospel.",
+        "sources": [
+          "b:themes",
+          "x:1-corinthians.3.9",
+          "x:2-corinthians.6.1",
+          "x:1-thessalonians.3.2"
+        ]
+      },
+      "for_readers": {
+        "text": "Not everyone travels or preaches. But welcoming and helping those who do is a real way to take part in spreading the truth.",
+        "sources": [
+          "v:1.7",
+          "v:1.8",
+          "b:themes"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3784",
+        "english": "ought",
+        "why_it_matters": {
+          "text": "The word means to owe or be a debtor. With a following verb it means to be bound or obliged to do something, as in John 13:14. Welcoming these workers is a duty, not merely a kindness.",
+          "sources": [
+            "w:G3784"
+          ]
+        }
+      },
+      {
+        "strong": "G5274",
+        "english": "receive",
+        "why_it_matters": {
+          "text": "Here the word means to receive, welcome or entertain. The lexicon lists this verse for that sense. It points to practical hospitality like the help Gaius gave.",
+          "sources": [
+            "w:G5274",
+            "v:1.5",
+            "v:1.6"
+          ]
+        }
+      },
+      {
+        "strong": "G4904",
+        "english": "fellowhelpers",
+        "why_it_matters": {
+          "text": "The word means a fellow worker. Paul uses it of his co-workers, as in Romans 16:3 and Philippians 2:25, and of believers as God's fellow workers in 1 Corinthians 3:9. Here it places those who give hospitality alongside the workers themselves.",
+          "sources": [
+            "w:G4904",
+            "x:1-corinthians.3.9"
+          ]
+        }
+      },
+      {
+        "strong": "G0225",
+        "english": "truth",
+        "why_it_matters": {
+          "text": "The word can mean religious truth, especially Christian teaching, or sincerity of character. Truth runs through this letter: Gaius walks in the truth (1:3-4).",
+          "sources": [
+            "w:G0225",
+            "v:1.3",
+            "v:1.4"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Welcoming and supporting those who serve Christ is something believers owe. By doing it, they become partners in the work of the truth.",
+      "sources": [
+        "v:1.8",
+        "w:G3784",
+        "w:G4904"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.3",
+      "reason": "It cites 1:7 (workers going out for Christ's name) as an example of the truth theme, but that verse does not mention truth. The verses that actually show the theme are 1:3-4.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

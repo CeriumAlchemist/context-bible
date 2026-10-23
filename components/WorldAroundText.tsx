@@ -148,7 +148,7 @@ export function VerseWorld({ world, chapter, verse, bookSlug }: { world: World; 
       <p className="period">
         <strong>{world.period.label}.</strong>{" "}
         {world.rulers[0] && `${world.rulers[0].role}: ${world.rulers[0].name} (${world.rulers[0].years}). `}
-        {world.places[0]?.summary}
+        {world.places.find((p) => world.map.primary.includes(p.slug))?.summary}
       </p>
       <details>
         <summary>Who ruled</summary>

@@ -1,0 +1,184 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 15
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.972Z",
+  "card": {
+    "in_context": {
+      "text": "Jude quotes Enoch's prophecy that the Lord will come with his holy ones to judge all and to convict the ungodly of their ungodly deeds and their hard words against him. Jude applies this to the ungodly men who had crept in among the believers. The next verse describes them as murmurers and complainers whose mouths speak great swelling words.",
+      "sources": [
+        "v:1.14",
+        "v:1.15",
+        "v:1.4",
+        "v:1.16"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, the servant of Jesus Christ and brother of James, is quoting a prophecy he attributes to Enoch, the seventh from Adam. The prophecy is also found in a Jewish writing outside the Bible, 1 Enoch.",
+        "sources": [
+          "v:1.1",
+          "v:1.14",
+          "b:setting"
+        ]
+      },
+      "audience": {
+        "text": "Believers who are called, sanctified by God the Father and preserved in Jesus Christ. The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The ungodly men who had crept in unawares, turning God's grace into lasciviousness and denying the Lord. Jude says Enoch prophesied of these.",
+        "sources": [
+          "v:1.4",
+          "v:1.14",
+          "v:1.16"
+        ]
+      }
+    },
+    "what": {
+      "text": "The Lord comes to execute judgment on all. He will convict the ungodly of two things: their ungodly deeds and the hard speeches they have spoken against him. Both what they did and what they said are brought into judgment.",
+      "sources": [
+        "v:1.14",
+        "v:1.15",
+        "x:1-samuel.2.3",
+        "x:ecclesiastes.11.9"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Enoch spoke long before. The judgment he foretells comes when the Lord comes. Earlier in the letter Jude speaks of \"the judgment of the great day\" (1:6).",
+        "sources": [
+          "v:1.14",
+          "v:1.6",
+          "x:1-corinthians.4.5"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name while others defend Jude's authorship.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or where it was sent. Its many references to Israel's history and Jewish tradition suggest readers who knew them well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude uses the prophecy to show that the intruders' coming condemnation was foretold long ago. It adds to his examples of judgment: Israel in the wilderness, the fallen angels, and Sodom and Gomorrha.",
+        "sources": [
+          "v:1.4",
+          "v:1.5",
+          "v:1.6",
+          "v:1.7",
+          "v:1.14"
+        ]
+      },
+      "big_picture": {
+        "text": "Other Scripture agrees that God will judge people's works and even hidden things. Judgment is committed to the Son, and God will judge the secrets of men by Jesus Christ.",
+        "sources": [
+          "x:john.5.22",
+          "x:romans.2.16",
+          "x:1-corinthians.4.5",
+          "x:revelation.22.12"
+        ]
+      },
+      "for_readers": {
+        "text": "Jude does not tell believers to carry out this judgment themselves. He calls them to build themselves up in faith, keep themselves in God's love, and have compassion on some, pulling them out of the fire.",
+        "sources": [
+          "v:1.20",
+          "v:1.21",
+          "v:1.22",
+          "v:1.23"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1651",
+        "english": "convince",
+        "why_it_matters": {
+          "text": "The word means to convict, reprove or expose. Here it means the Lord will prove the ungodly guilty, not merely persuade them. The lexicon lists it with John 16:8, where the Spirit convicts the world.",
+          "sources": [
+            "w:G1651"
+          ]
+        }
+      },
+      {
+        "strong": "G0765",
+        "english": "ungodly",
+        "why_it_matters": {
+          "text": "The word means ungodly or impious, from a root meaning to reverence. Jude uses the same word for the intruders in verse 4. That shows the prophecy is aimed at them.",
+          "sources": [
+            "w:G0765",
+            "v:1.4"
+          ]
+        }
+      },
+      {
+        "strong": "G0764",
+        "english": "have ungodly committed",
+        "why_it_matters": {
+          "text": "This verb means to be ungodly or act profanely. Together with \"ungodly\" and \"ungodliness\" in the same verse, it piles up the theme of irreverence toward God.",
+          "sources": [
+            "w:G0764",
+            "w:G0763"
+          ]
+        }
+      },
+      {
+        "strong": "G4642",
+        "english": "hard speeches",
+        "why_it_matters": {
+          "text": "The word means hard, rough or harsh. Here it describes harsh things spoken against the Lord, so the judgment covers words as well as deeds.",
+          "sources": [
+            "w:G4642",
+            "v:1.16"
+          ]
+        }
+      },
+      {
+        "strong": "G2920",
+        "english": "judgment",
+        "why_it_matters": {
+          "text": "The word means a decision or judgment. The lexicon lists this verse, with Jude 6, under the last judgment.",
+          "sources": [
+            "w:G2920",
+            "v:1.6"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "God takes both ungodly deeds and hard words against him seriously, and the Lord will bring them into judgment. Jude's readers are to hold to the faith, keep themselves in God's love, and trust him who is able to keep them from falling.",
+      "sources": [
+        "v:1.15",
+        "v:1.3",
+        "v:1.21",
+        "v:1.24"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "when.events",
+      "reason": "Verse 6 mentions 'the judgment of the great day,' but Jude never explicitly connects Enoch's prophecy to it. The cited sources do not show that Jude 'ties' the two together; that link is the card's own inference.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

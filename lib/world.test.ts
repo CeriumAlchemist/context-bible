@@ -1,3 +1,5 @@
+import { readdirSync } from "node:fs";
+import path from "node:path";
 import { describe, expect, it } from "vitest";
 import { bookBySlug } from "./books";
 import { loadChapter } from "./bible";
@@ -17,8 +19,10 @@ describe("world notes", () => {
     expect(describeWorldSource("Tacitus, Annals 15.44")).toEqual({ label: "Tacitus, Annals 15.44" });
   });
 
-  it("1 Timothy's world data points at real places and verses", async () => {
-    const book = bookBySlug("1-timothy")!;
+  it.each(readdirSync(path.join(process.cwd(), "data", "world")).map((f) => f.replace(/\.json$/, "")))(
+    "%s: world data points at real places and verses",
+    async (slug) => {
+    const book = bookBySlug(slug)!;
     const world = (await loadWorld(book))!;
     expect((await placesBySlug(world.map.places)).length).toBe(world.map.places.length);
 
@@ -34,6 +38,18 @@ describe("world notes", () => {
         expect(Number(end ?? v), s).toBeLessThanOrEqual(chapter.length);
       }
     }
+    // Every verse a note is tied to exists in the book.
+    for (const n of notes) {
+      for (const r of n.verses ?? []) {
+        const [, c, , to] = r.match(/^(\d+):(\d+)(?:-(\d+))?$/)!;
+        const chapter = await loadChapter("kjv", book, Number(c));
+        expect(Number(to ?? r.split(":")[1]), `${slug} ${r}`).toBeLessThanOrEqual(chapter.length);
+      }
+    }
+  });
+
+  it("ties notes to their verses", async () => {
+    const world = (await loadWorld(bookBySlug("1-timothy")!))!;
     expect(notesForVerse(world, 2, 9).life.map((n) => n.topic)).toContain("Hair, gold and pearls");
   });
 });

@@ -1,0 +1,181 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 23
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.973Z",
+  "card": {
+    "in_context": {
+      "text": "Jude is telling faithful believers how to treat people near them who are being drawn away by the ungodly men in their midst. Some need compassion; others must be rescued urgently, like someone pulled from a fire. All the while, the rescuers must hate the sin that stains, so they are not stained themselves.",
+      "sources": [
+        "v:1.4",
+        "v:1.20",
+        "v:1.21",
+        "v:1.22",
+        "v:1.23"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James. Traditionally he is one of Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers he calls \"beloved,\" who are sanctified, preserved and called. False teachers had crept in among them.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "v:1.20",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "\"Others\" in the church who are in danger. They are being pulled toward the ungodly men's ways and the judgment those ways bring.",
+        "sources": [
+          "v:1.22",
+          "v:1.23",
+          "v:1.4",
+          "v:1.7"
+        ]
+      }
+    },
+    "what": {
+      "text": "This is a command to rescue people in danger, done with fear and with real hatred of sin. Jude's \"fire\" recalls the \"eternal fire\" of Sodom's judgment earlier in the letter. It also echoes Zechariah's picture of \"a brand plucked out of the fire.\"",
+      "sources": [
+        "v:1.23",
+        "v:1.7",
+        "x:zechariah.3.2"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This is the letter's own present. Ungodly men had already slipped into the church's gatherings and love-feasts.",
+        "sources": [
+          "v:1.4",
+          "v:1.12"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or where its readers lived. Its many references to Israel's history suggest readers who knew Jewish tradition well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude has told believers to build themselves up and keep themselves in God's love (vv. 20-21). Here he turns them outward, to help those who are wavering or in danger.",
+        "sources": [
+          "v:1.20",
+          "v:1.21",
+          "v:1.22",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter warns that God judges, using the exodus, the fallen angels and Sodom as examples. It also says God is able to keep his people from falling. Rescuing others fits both truths, as 1 Timothy 4:16 speaks of saving \"thyself, and them that hear thee.\"",
+        "sources": [
+          "v:1.5",
+          "v:1.6",
+          "v:1.7",
+          "v:1.24",
+          "b:themes",
+          "x:1-timothy.4.16"
+        ]
+      },
+      "for_readers": {
+        "text": "Caring about people caught in sin means acting to rescue them, not ignoring them. It also means staying alert, since \"evil communications corrupt good manners.\" Scripture pictures faithful people as those who \"have not defiled their garments.\"",
+        "sources": [
+          "v:1.23",
+          "x:1-corinthians.15.33",
+          "x:revelation.3.4"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0726",
+        "english": "pulling (snatching)",
+        "why_it_matters": {
+          "text": "The lexicon glosses it as to seize, snatch away or carry off by force. This is a picture of urgent, forceful rescue, not gentle persuasion.",
+          "sources": [
+            "w:G0726"
+          ]
+        }
+      },
+      {
+        "strong": "G5401",
+        "english": "fear",
+        "why_it_matters": {
+          "text": "The word means fear or dread, and the lexicon also lists uses for reverential fear, including fear of the Lord. The rescue is done with a sober awareness of danger and of God.",
+          "sources": [
+            "w:G5401"
+          ]
+        }
+      },
+      {
+        "strong": "G3404",
+        "english": "hating",
+        "why_it_matters": {
+          "text": "The lexicon notes this verb is used here with a thing as its object, not a person. What is hated is the stained garment, not the people being rescued.",
+          "sources": [
+            "w:G3404",
+            "v:1.23"
+          ]
+        }
+      },
+      {
+        "strong": "G5509",
+        "english": "garment",
+        "why_it_matters": {
+          "text": "This is the tunic, the garment worn next to the skin. The picture is of something in close contact with the body that has become stained.",
+          "sources": [
+            "w:G5509"
+          ]
+        }
+      },
+      {
+        "strong": "G4695",
+        "english": "spotted (stained)",
+        "why_it_matters": {
+          "text": "It means to stain, spot or defile. The lexicon lists it in the New Testament only at James 3:6 and here.",
+          "sources": [
+            "w:G4695"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Rescue people in danger urgently, as if pulling them from a fire. But stay humble and watchful, hating the sin that stains, while trusting God, who is able to keep you from falling.",
+      "sources": [
+        "v:1.23",
+        "v:1.24",
+        "x:zechariah.3.2"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.big_picture",
+      "reason": "The cited 1 Timothy 4:16 does not name its author. Calling it Paul's words presents traditional authorship as settled, though the authorship of 1 Timothy is disputed.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "ref": {
+    "book": "2-john",
+    "chapter": 1,
+    "verse": 10
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:50:24.570Z",
+  "card": {
+    "in_context": {
+      "text": "The elder has just warned of deceivers who deny that Jesus Christ has come in the flesh, and said that whoever does not abide in the doctrine of Christ does not have God. This verse tells the readers not to take such a teacher into their house or give him a welcoming greeting. The next verse gives the reason: whoever welcomes him shares in his evil deeds.",
+      "sources": [
+        "v:1.7",
+        "v:1.9",
+        "v:1.10",
+        "v:1.11"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" who does not give his name. Early Christian tradition identifies him as John the apostle.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "\"The elect lady and her children.\" This may be a Christian woman and her family, or a figurative name for a local church. The letter does not say which.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Travelling deceivers who \"confess not that Jesus Christ is come in the flesh\" and who come bringing a different teaching.",
+        "sources": [
+          "v:1.7",
+          "v:1.10",
+          "b:setting"
+        ]
+      }
+    },
+    "what": {
+      "text": "If someone comes to them and does not bring the doctrine of Christ, they are not to receive him into the house or greet him with welcome. Doing so would make them partners in his evil deeds.",
+      "sources": [
+        "v:1.9",
+        "v:1.10",
+        "v:1.11"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Christian teachers travelled between churches and depended on believers to house them. Some taught that Jesus Christ had not come in the flesh. Domitian was emperor (AD 81-96).",
+        "sources": [
+          "b:setting",
+          "v:1.7"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, late in John's life, near the time of 1 John. Scholarly view: most also date it to the late first century, though some think \"the elder\" was a church leader other than the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or sent. Early tradition places John's last years in Ephesus, and the readers were likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The letter urges the readers to keep walking in truth and love. It also warns them not to welcome or support teachers who deny that Jesus Christ has come in the flesh.",
+        "sources": [
+          "b:purpose",
+          "v:1.4",
+          "v:1.6",
+          "v:1.7"
+        ]
+      },
+      "big_picture": {
+        "text": "Truth and love belong together. The same letter that commands \"that we love one another\" also says hospitality must not become support for false teaching. Other letters likewise tell believers to mark and avoid those who teach contrary to the doctrine they learned.",
+        "sources": [
+          "v:1.5",
+          "b:themes",
+          "x:romans.16.17",
+          "x:titus.3.10"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse is about not helping someone spread a false message about Christ by hosting and endorsing him. It sits beside a clear command to love one another, so readers should hold both together.",
+        "sources": [
+          "v:1.5",
+          "v:1.10",
+          "v:1.11"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Quoted as a rule to refuse any kindness, contact, or even a hello to anyone who disagrees on any religious point.",
+      "in_context_reading": {
+        "text": "The \"doctrine\" here is the doctrine of Christ, and the person in view is a deceiver who denies Jesus Christ came in the flesh and comes bringing that teaching. The concern is not becoming a partner in his work, at a time when travelling teachers relied on believers for lodging.",
+        "sources": [
+          "v:1.7",
+          "v:1.9",
+          "v:1.11",
+          "b:setting"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1322",
+        "english": "teaching (doctrine)",
+        "why_it_matters": {
+          "text": "The word means that which is taught. The lexicon notes it is used of the teaching \"of Christ\" in 2 John 9, so \"this doctrine\" points back to the teaching about Christ in the verse before.",
+          "sources": [
+            "w:G1322",
+            "v:1.9"
+          ]
+        }
+      },
+      {
+        "strong": "G5342",
+        "english": "bring",
+        "why_it_matters": {
+          "text": "The word means to bear or carry. It pictures someone carrying a message to the readers, which fits teachers who came to churches with their teaching.",
+          "sources": [
+            "w:G5342",
+            "b:setting"
+          ]
+        }
+      },
+      {
+        "strong": "G2064",
+        "english": "come",
+        "why_it_matters": {
+          "text": "Used of persons arriving from elsewhere. It fits the setting of teachers who travelled between churches.",
+          "sources": [
+            "w:G2064",
+            "b:setting"
+          ]
+        }
+      },
+      {
+        "strong": "G3614G",
+        "english": "house",
+        "why_it_matters": {
+          "text": "The word means a house or dwelling, and the lexicon lists this verse under that sense. The command concerns taking such a teacher in as a guest.",
+          "sources": [
+            "w:G3614G",
+            "b:setting"
+          ]
+        }
+      },
+      {
+        "strong": "G5463",
+        "english": "greet (God speed)",
+        "why_it_matters": {
+          "text": "The word's basic meaning is to rejoice or be glad, and this form was used as a greeting. Verse 11 shows the greeting in view is one that makes a person a partaker of the teacher's evil deeds.",
+          "sources": [
+            "w:G5463",
+            "v:1.11"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Love one another, but do not lend your home and blessing to someone spreading a denial of Christ. Welcoming such a teacher means sharing in his work.",
+      "sources": [
+        "v:1.5",
+        "v:1.10",
+        "v:1.11"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

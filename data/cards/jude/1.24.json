@@ -1,0 +1,181 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 24
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.970Z",
+  "card": {
+    "in_context": {
+      "text": "Jude ends his letter by praising God. He has warned at length about ungodly men who crept in, and told the readers to keep themselves in God's love (1:20-21). Now he points them to the God who is able to keep them from falling and bring them faultless and joyful before his glory.",
+      "sources": [
+        "v:1.4",
+        "v:1.20",
+        "v:1.21",
+        "v:1.24",
+        "v:1.25",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself the servant of Jesus Christ and brother of James. Tradition identifies him with the Judas named among Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers who are \"sanctified by God the Father, and preserved in Jesus Christ, and called.\" The letter does not say where they lived, and false teachers had come in among them.",
+        "sources": [
+          "v:1.1",
+          "b:recipients",
+          "v:1.4"
+        ]
+      },
+      "affected": {
+        "text": "The verse is about God, \"the only wise God our Saviour,\" who is praised for his power to keep his people.",
+        "sources": [
+          "v:1.24",
+          "v:1.25"
+        ]
+      }
+    },
+    "what": {
+      "text": "This is the opening half of a doxology, a short hymn of praise. It names what God can do: guard believers so they do not stumble, and set them before his glory without blemish and with great joy. Verse 25 finishes the sentence by giving him glory, majesty, dominion and power.",
+      "sources": [
+        "v:1.24",
+        "v:1.25",
+        "w:G0679",
+        "w:G0299",
+        "w:G0020"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse looks ahead to the day believers stand before God's glory. This fits Jude's call to look \"for the mercy of our Lord Jesus Christ unto eternal life.\"",
+        "sources": [
+          "v:1.24",
+          "v:1.21"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name while others defend Jude's authorship.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or where it was sent. Its many references to Israel's history suggest readers who knew Jewish tradition well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "After warning of men who turned grace into an excuse for sin, Jude closes by turning the readers' eyes to God. Their safety in the face of these dangers rests on God's power to keep them.",
+        "sources": [
+          "v:1.4",
+          "v:1.24",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Other letters praise God the same way: \"Now unto him that is able\" (Ephesians 3:20), and the Lord \"will preserve me unto his heavenly kingdom\" (2 Timothy 4:18). Colossians 1:22 speaks of believers presented \"holy and unblameable,\" and Jesus says no man is able to pluck them out of the Father's hand (John 10:29).",
+        "sources": [
+          "x:ephesians.3.20",
+          "x:2-timothy.4.18",
+          "x:colossians.1.22",
+          "x:ephesians.5.27",
+          "x:john.10.29"
+        ]
+      },
+      "for_readers": {
+        "text": "Jude holds two truths together. Believers are told to keep themselves in God's love (1:21), and God is the one able to keep them from falling (1:24).",
+        "sources": [
+          "v:1.21",
+          "v:1.24",
+          "b:themes"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0679",
+        "english": "from falling",
+        "why_it_matters": {
+          "text": "The word means \"without stumbling, sure-footed,\" used here in a figurative sense. The lexicon lists Jude 24 as its only New Testament use. The picture is of God guarding his people's steps on the way.",
+          "sources": [
+            "w:G0679"
+          ]
+        }
+      },
+      {
+        "strong": "G5442I",
+        "english": "to keep",
+        "why_it_matters": {
+          "text": "The word means to guard or watch. God is pictured as a guard over his people, able to keep them from falling.",
+          "sources": [
+            "w:G5442I",
+            "v:1.24"
+          ]
+        }
+      },
+      {
+        "strong": "G0299",
+        "english": "faultless",
+        "why_it_matters": {
+          "text": "The word was used of sacrifices \"without blemish,\" and of Christ himself. It is also used of believers being made unblemished before God in Ephesians 1:4, 5:27 and Colossians 1:22.",
+          "sources": [
+            "w:G0299",
+            "x:colossians.1.22",
+            "x:ephesians.5.27"
+          ]
+        }
+      },
+      {
+        "strong": "G0020",
+        "english": "exceeding joy",
+        "why_it_matters": {
+          "text": "The word means exultation or exuberant joy. The lexicon lists it also at Luke 1:44.",
+          "sources": [
+            "w:G0020"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Jude's last word to believers facing false teachers is not a warning but praise. The God who is able to guard them will bring them blameless and rejoicing before his glory.",
+      "sources": [
+        "v:1.24",
+        "v:1.25",
+        "v:1.4"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.big_picture",
+      "reason": "Colossians 1:22 as quoted does not name Christ as the one who presents believers; it only says 'to present you.' John 10:29 as quoted speaks of 'them,' not 'his sheep.' These details go beyond the cited texts.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon cites Luke 2:8 only for the cognate-accusative construction. Nothing in the sources mentions shepherds watching their flocks.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.3",
+      "reason": "The lexicon only cites Luke 1:44 as a reference. No source says this is the verse where the unborn John leaped for joy. That detail comes from outside the cited sources.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

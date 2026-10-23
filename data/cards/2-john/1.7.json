@@ -1,0 +1,196 @@
+{
+  "ref": {
+    "book": "2-john",
+    "chapter": 1,
+    "verse": 7
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:50:24.568Z",
+  "card": {
+    "in_context": {
+      "text": "The elder has just urged his readers to keep walking in truth and love (1:4-6). Now he gives the reason for care: many deceivers deny that Jesus Christ is come in the flesh. He goes on to warn the readers not to lose what they have worked for and not to welcome such teachers (1:8-11).",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "v:1.6",
+        "v:1.7",
+        "v:1.8",
+        "v:1.10",
+        "v:1.11"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" who does not give his name. Early Christian tradition identifies him as John the apostle, and the letter's wording closely matches 1 John.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "\"The elect lady and her children.\" This may be a Christian woman and her family, or a figurative name for a local church; the letter does not say which.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The \"many deceivers\" who deny that Jesus Christ is come in the flesh. These seem to be travelling teachers who wanted to be received into believers' homes.",
+        "sources": [
+          "v:1.7",
+          "v:1.10",
+          "b:setting"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse names a test: anyone who does not confess that Jesus Christ is come in the flesh is a deceiver and an antichrist. 1 John 4:3 gives the same test, and John 1:14 states the truth being denied: \"the Word was made flesh.\"",
+      "sources": [
+        "v:1.7",
+        "x:1-john.4.3",
+        "x:john.1.14"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The deceivers were already active when the elder wrote; they \"are entered into the world.\" 1 John 2:18 likewise says \"even now are there many antichrists.\"",
+        "sources": [
+          "v:1.7",
+          "x:1-john.2.18"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 85-95, late in John's life, near the time of 1 John. Scholarly: most also place it in the late first century, though some think \"the elder\" was a church leader other than the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or sent. Early tradition places John's last years in Ephesus, and the readers were likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse explains why the readers must hold to what they heard from the beginning. It sets up the warning to watch themselves and not to house or support teachers who bring a different doctrine.",
+        "sources": [
+          "v:1.6",
+          "v:1.8",
+          "v:1.9",
+          "v:1.10",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "John's letters tie truth and love together, and hold that Jesus Christ truly came in the flesh. To deny this is to lack God, while abiding in Christ's doctrine means having \"both the Father and the Son.\"",
+        "sources": [
+          "v:1.9",
+          "b:themes",
+          "x:1-john.2.22",
+          "x:john.1.14"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers are called to test teachers by what they say about Jesus, not by how they appear. 1 John 4:1 says, \"believe not every spirit, but try the spirits whether they are of God.\"",
+        "sources": [
+          "x:1-john.4.1",
+          "x:1-john.4.3",
+          "v:1.7"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "\"Antichrist\" is often used only for one future world ruler, or tossed as a label at any person or leader someone dislikes.",
+      "in_context_reading": {
+        "text": "Here the word is applied to the many deceivers of the writer's own day, defined by one thing: denying that Jesus Christ is come in the flesh. 1 John 2:18 and 2:22 also speak of \"many antichrists\" already present and define antichrist by denial of the Father and the Son.",
+        "sources": [
+          "v:1.7",
+          "x:1-john.2.18",
+          "x:1-john.2.22",
+          "w:G0500"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4108",
+        "english": "deceivers",
+        "why_it_matters": {
+          "text": "The word means one who leads astray, a deceiver or impostor. It names someone who misleads others, not someone who is merely mistaken.",
+          "sources": [
+            "w:G4108"
+          ]
+        }
+      },
+      {
+        "strong": "G1831",
+        "english": "have gone out",
+        "why_it_matters": {
+          "text": "The word means to go or come out. It matches 1 John 4:1, where false prophets \"are gone out into the world,\" picturing teachers who went out from among the churches.",
+          "sources": [
+            "w:G1831",
+            "x:1-john.4.1",
+            "b:setting"
+          ]
+        }
+      },
+      {
+        "strong": "G3670",
+        "english": "confessing",
+        "why_it_matters": {
+          "text": "The word means to agree with, confess, or acknowledge. The same test of confessing Jesus appears in 1 John 4:2 and 4:15, so the issue is what a teacher openly acknowledges about Jesus.",
+          "sources": [
+            "w:G3670",
+            "x:1-john.4.3"
+          ]
+        }
+      },
+      {
+        "strong": "G4561",
+        "english": "flesh",
+        "why_it_matters": {
+          "text": "The word means flesh, the soft substance of the body, as in \"flesh and bones\" in Luke 24:39. The confession is that Jesus came with a real human body, as John 1:14 says the Word \"was made flesh.\"",
+          "sources": [
+            "w:G4561",
+            "x:john.1.14"
+          ]
+        }
+      },
+      {
+        "strong": "G0500",
+        "english": "antichrist",
+        "why_it_matters": {
+          "text": "The lexicon defines it as one who takes on the guise of Christ while opposing Christ. In the New Testament it appears only in 1 John 2:18, 2:22, 4:3 and here.",
+          "sources": [
+            "w:G0500",
+            "x:1-john.2.18",
+            "x:1-john.2.22",
+            "x:1-john.4.3"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse gives a clear test for teachers: do they confess that Jesus Christ came in real flesh? Those who deny it are deceivers, and believers should not support their teaching.",
+      "sources": [
+        "v:1.7",
+        "v:1.10",
+        "x:1-john.4.3"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.0",
+      "reason": "The lexicon only lists Matthew 27:63 as a reference. It does not say the word is used of Jesus by his enemies there, and that passage's text is not among the sources. The conclusion drawn from it ('a charge of misleading people, not just being mistaken') therefore rests on outside information.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

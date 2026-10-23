@@ -63,6 +63,13 @@ describe("checkCard", () => {
     expect(problems).toContain("key_words: G0025 is not a word in this verse");
   });
 
+  it("flags hedges about whether Christians agree, except in christians_differ and authorship", () => {
+    const hedged = run(card({ takeaway: claim("Obey it. How far it applies today is debated among Christians.", "v:1.3") }));
+    expect(hedged).toEqual(['takeaway: hedges ("How far it applies"); answer from the text and other Scripture instead']);
+    expect(run(card({ christians_differ: claim("Readers differ on what 'law' means here.", "v:1.3") }))).toEqual([]);
+    expect(run(card({ when: { events: claim("Then.", "v:1.3"), written: claim("Scholars debate the date.", "b:date") } }))).toEqual([]);
+  });
+
   it("keeps the lead to three sentences", () => {
     const problems = run(card({ in_context: claim("One. Two. Three. Four.", "v:1.3") }));
     expect(problems).toContain("in_context: 4 sentences; keep it to 3");

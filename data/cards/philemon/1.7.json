@@ -1,0 +1,170 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 7
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.933Z",
+  "card": {
+    "in_context": {
+      "text": "Paul closes his thanksgiving for Philemon (1:4-7) by saying that Philemon's love has brought him great joy and encouragement. The reason is that Philemon has refreshed the hearts of the believers. The next verse begins \"Wherefore,\" so this praise sets up Paul's appeal for Onesimus.",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "v:1.7",
+        "v:1.8",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, a prisoner of Jesus Christ, writing with Timothy.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, whom Paul calls \"brother\" and \"fellowlabourer.\" The letter also greets Apphia, Archippus and the church in his house.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "v:1.7",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "\"The saints,\" fellow believers whose hearts Philemon had refreshed, likely including the church that met in his house.",
+        "sources": [
+          "v:1.2",
+          "v:1.5",
+          "v:1.7"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul says Philemon's love has given him joy and comfort, because Philemon has refreshed the hearts of God's people. This is the love toward \"all saints\" that Paul had heard about.",
+      "sources": [
+        "v:1.5",
+        "v:1.7",
+        "w:G3874",
+        "w:G0373"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul wrote while in prison, after hearing reports of Philemon's love and faith, and before sending Onesimus back.",
+        "sources": [
+          "v:1.1",
+          "v:1.5",
+          "v:1.9",
+          "v:1.12"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 60-62, during Paul's imprisonment in Rome. Scholarly: nearly all accept Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison; the city is not named, and Rome is the traditional view. Philemon is thought to have lived in Colossae, though the letter does not name it.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse praises how Philemon has already refreshed others. Later Paul asks him to do the same for him: \"refresh my bowels in the Lord\" (1:20), by receiving Onesimus, whom Paul calls \"mine own bowels\" (1:12).",
+        "sources": [
+          "v:1.7",
+          "v:1.12",
+          "v:1.20",
+          "x:philemon.1.20"
+        ]
+      },
+      "big_picture": {
+        "text": "A theme of the letter is that faith shows itself in love toward all the saints. Other letters show the same joy when believers hear of love and truth in others (2 Corinthians 7:13; 3 John 1:3, 6).",
+        "sources": [
+          "b:themes",
+          "x:2-corinthians.7.13",
+          "x:3-john.1.3",
+          "x:3-john.1.6"
+        ]
+      },
+      "for_readers": {
+        "text": "Love that refreshes fellow believers brings real joy to others in the church. Paul's praise also invites Philemon to show that same love again in a hard case.",
+        "sources": [
+          "v:1.7",
+          "v:1.9",
+          "v:1.20",
+          "x:1-thessalonians.3.9"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4698",
+        "english": "bowels (hearts)",
+        "why_it_matters": {
+          "text": "The word is glossed \"affection/entrails\" and is always plural in the New Testament. Paul uses it again for Onesimus, \"mine own bowels\" (1:12), and for himself, \"refresh my bowels\" (1:20). This ties Philemon's past kindness to the request Paul is about to make.",
+          "sources": [
+            "w:G4698",
+            "v:1.12",
+            "v:1.20"
+          ]
+        }
+      },
+      {
+        "strong": "G0373",
+        "english": "refreshed",
+        "why_it_matters": {
+          "text": "It means to give rest or refresh. The lexicon lists it in Matthew 11:28 and in Philemon 20, where Paul asks Philemon to refresh him too. It is also used of Titus, whose \"spirit was refreshed\" (2 Corinthians 7:13).",
+          "sources": [
+            "w:G0373",
+            "x:philemon.1.20",
+            "x:2-corinthians.7.13"
+          ]
+        }
+      },
+      {
+        "strong": "G3874",
+        "english": "consolation",
+        "why_it_matters": {
+          "text": "The word means exhortation or encouragement, and also appeal or entreaty. Philemon's love has encouraged Paul even while he is in prison.",
+          "sources": [
+            "w:G3874",
+            "v:1.9"
+          ]
+        }
+      },
+      {
+        "strong": "G0026",
+        "english": "love",
+        "why_it_matters": {
+          "text": "Its gloss is love, goodwill or esteem. It is used of people's love for one another (John 13:35). Paul builds on it in 1:9: \"for love's sake I rather beseech thee.\"",
+          "sources": [
+            "w:G0026",
+            "v:1.9"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Philemon was known for love that refreshed God's people, and that love gave Paul great joy. Paul praises it so he can ask Philemon to show the same love to Onesimus.",
+      "sources": [
+        "v:1.7",
+        "v:1.10",
+        "v:1.20"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

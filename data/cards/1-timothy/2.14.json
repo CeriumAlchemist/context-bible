@@ -112,16 +112,7 @@
         ]
       }
     },
-    "christians_differ": {
-      "text": "Many Christians read 2:13-14 as grounding a lasting rule: women should not teach or hold authority over men in church, because the reasons given reach back to creation and the fall. Others read it as aimed at a specific problem with false teaching in Ephesus, with Eve as an example of what deception leads to, and so not a rule for every church today.",
-      "sources": [
-        "v:2.12",
-        "v:2.13",
-        "v:2.14",
-        "b:purpose",
-        "x:2-corinthians.11.3"
-      ]
-    },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G1818",
@@ -157,7 +148,7 @@
       }
     ],
     "takeaway": {
-      "text": "This verse gives the second reason for Paul's instruction in 2:12, pointing to Eve's deception in Genesis. Paul uses the same example to warn all believers in 2 Corinthians 11:3. Christians still disagree on whether 2:12 sets a rule for every church.",
+      "text": "This verse gives the second reason for Paul's instruction in 2:12, pointing to Eve's deception in Genesis. Paul uses the same example to warn all believers in 2 Corinthians 11:3.",
       "sources": [
         "v:2.12",
         "v:2.14",
@@ -177,6 +168,16 @@
       "claim": "misuse",
       "reason": "The cited sources do not state that the verse is 'not a general statement about women's minds' or that it only concerns who teaches in the Ephesian church. That is one interpretation presented as the only reading.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "takeaway",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
     }
   ]
 }

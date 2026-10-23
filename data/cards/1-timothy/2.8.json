@@ -101,15 +101,7 @@
       }
     },
     "misuse": null,
-    "christians_differ": {
-      "text": "Some Christians read 'men' here, with the following verses, as meaning that men should lead public prayer in church; others see it as addressing a specific problem of angry men in Ephesus, not limiting who may pray. Some churches also take 'lifting up holy hands' as encouraging that physical posture, while others see the stress as falling on holy lives rather than a required gesture.",
-      "sources": [
-        "w:G0435G",
-        "v:2.8",
-        "v:2.12",
-        "w:G3741"
-      ]
-    },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G0435G",
@@ -185,6 +177,11 @@
       "claim": "key_words.2",
       "reason": "The lexicon only lists references (Eph 4:31, Col 3:8, Jas 1:19-20) under human anger. It does not say that other letters tell believers to put such anger away, so that detail goes beyond the cited source.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
     }
   ]
 }

@@ -1,0 +1,179 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 16
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.974Z",
+  "card": {
+    "in_context": {
+      "text": "Jude is finishing his portrait of the ungodly men who had slipped into the church (1:4). Right after quoting Enoch's warning about the 'hard speeches' of the ungodly against the Lord (1:15), he says these men grumble, complain about their lot, follow their own desires, boast loudly, and flatter people to gain something. He then turns to the faithful readers with 'But, beloved' (1:17).",
+      "sources": [
+        "v:1.4",
+        "v:1.15",
+        "v:1.16",
+        "v:1.17"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James. Tradition identifies him with the Judas named among Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers 'sanctified by God the Father, and preserved in Jesus Christ, and called.' The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The 'certain men crept in unawares,' ungodly men who turned God's grace into an excuse for immorality and denied the Lord (1:4). 'These' in verse 16 points back to them.",
+        "sources": [
+          "v:1.4",
+          "v:1.16",
+          "w:G3778"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse lists marks of the intruders. They grumble and complain, live by their own desires, speak boastful words, and show favor to people for what they can get. The same picture appears in 2 Peter: men who 'speak great swelling words of vanity' and 'walk after the flesh in the lust of uncleanness.'",
+      "sources": [
+        "v:1.16",
+        "x:2-peter.2.18",
+        "x:2-peter.2.10"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The text describes men already present among the readers, sharing their 'feasts of charity' (1:12). Jude says the apostles had foretold such 'mockers in the last time' (1:18).",
+        "sources": [
+          "v:1.12",
+          "v:1.18"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name while others defend Jude's authorship.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or where its readers lived. Its many references to Israel's history and Jewish tradition suggest readers who knew them well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude shows the readers how to recognize the false teachers so they will 'earnestly contend for the faith' (1:3). Their grumbling and self-serving talk sets them apart from the faithful, who are told to keep themselves in God's love (1:21).",
+        "sources": [
+          "v:1.3",
+          "v:1.21",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Grumbling recalls Israel in the wilderness. Paul warns, 'Neither murmur ye, as some of them also murmured, and were destroyed' (1 Corinthians 10:10), and Jude has already recalled that the Lord destroyed those who did not believe after the exodus (1:5). James shows where following one's own lust leads: 'sin... bringeth forth death' (James 1:14-15).",
+        "sources": [
+          "x:1-corinthians.10.10",
+          "v:1.5",
+          "x:james.1.14",
+          "x:james.1.15"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse doubles as a mirror for believers. Scripture tells them to 'do all things without murmurings and disputings' (Philippians 2:14), to live 'to the will of God' instead of human lusts (1 Peter 4:2), and to withdraw from those who suppose 'that gain is godliness' (1 Timothy 6:5).",
+        "sources": [
+          "x:philippians.2.14",
+          "x:1-peter.4.2",
+          "x:1-timothy.6.5"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1113",
+        "english": "murmurers",
+        "why_it_matters": {
+          "text": "The word means 'a murmurer,' and in the New Testament the lexicon lists it only here. Its related verb is used for grumbling, which links these men to the murmuring Israelites whom Paul warns against (1 Corinthians 10:10).",
+          "sources": [
+            "w:G1113",
+            "x:1-corinthians.10.10"
+          ]
+        }
+      },
+      {
+        "strong": "G3202",
+        "english": "complainers",
+        "why_it_matters": {
+          "text": "The word is built from 'to find fault' and 'lot' or 'fate.' It means 'complaining of one's fate, querulous,' so these men are discontent with what God has given them. The lexicon lists it only here.",
+          "sources": [
+            "w:G3202"
+          ]
+        }
+      },
+      {
+        "strong": "G5246",
+        "english": "great swelling words",
+        "why_it_matters": {
+          "text": "The word first meant 'of excessive weight or size' and was later used of arrogant speech. The New Testament uses it only here and in 2 Peter 2:18, where such boastful words are used to lure people back into sin.",
+          "sources": [
+            "w:G5246",
+            "x:2-peter.2.18"
+          ]
+        }
+      },
+      {
+        "strong": "G2296",
+        "english": "having in admiration",
+        "why_it_matters": {
+          "text": "The verb normally means \"to marvel, wonder at.\" Paired with \"faces\" (KJV \"persons\"), the lexicon notes it renders an Old Testament phrase found in Deuteronomy 10:17, where God \"regardeth not persons.\"",
+          "sources": [
+            "w:G2296",
+            "w:G4383"
+          ]
+        }
+      },
+      {
+        "strong": "G5622",
+        "english": "advantage",
+        "why_it_matters": {
+          "text": "The word means 'profit, advantage, benefit.' Their favor toward people is bought by what they can gain, which fits Jude's picture of men running 'greedily after the error of Balaam for reward' (1:11).",
+          "sources": [
+            "w:G5622",
+            "w:G5484",
+            "v:1.11"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Jude teaches that false teachers can be known by how they talk and what drives them. They grumble against their lot, follow their own desires, boast, and flatter for gain. Believers are called instead to contentment, humility, and keeping themselves in God's love.",
+      "sources": [
+        "v:1.16",
+        "v:1.20",
+        "v:1.21",
+        "x:philippians.2.14"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.3",
+      "reason": "The lexicon only says that θαυμάζω with πρόσωπον renders the Hebrew phrase in Deut 10:17. It does not explain that phrase as 'showing favor to a person.' The claim credits the lexicon with a gloss it does not give.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

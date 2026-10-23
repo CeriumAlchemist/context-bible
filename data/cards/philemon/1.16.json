@@ -1,0 +1,199 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 16
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.925Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is sending Onesimus back to Philemon, the master he had left. Onesimus has since become a believer through Paul. Paul asks Philemon to receive him not just as a servant but as a dear brother, both as a man and as a fellow Christian.",
+      "sources": [
+        "v:1.10",
+        "v:1.12",
+        "v:1.15",
+        "v:1.16",
+        "b:purpose"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, writing from prison with Timothy.",
+        "sources": [
+          "v:1.1",
+          "v:1.9",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, Paul's fellow worker, along with Apphia, Archippus and the church that met in his house.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Onesimus, Philemon's servant, who had left him and whom Paul calls \"my son\" because he came to faith through Paul in prison.",
+        "sources": [
+          "v:1.10",
+          "v:1.11",
+          "v:1.15",
+          "b:setting"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul describes how Philemon should now see Onesimus. He is \"not now as a servant, but above a servant, a brother beloved.\" Paul says Onesimus is dear to him, and should be even dearer to Philemon, \"both in the flesh, and in the Lord.\"",
+      "sources": [
+        "v:1.16",
+        "v:1.12",
+        "v:1.17"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Onesimus had \"departed for a season\" and had met Paul, who was in prison. He then became a believer and served Paul there before being sent back.",
+        "sources": [
+          "v:1.10",
+          "v:1.13",
+          "v:1.15"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 60-62, during Paul's imprisonment in Rome, at the same time as Colossians. Scholarly view: nearly all accept that Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison, but the letter does not name the city; Rome is the traditional view. The letter was going to Philemon's house church, most likely in Colossae, since Colossians calls Onesimus \"one of you.\"",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.2"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Philemon to welcome Onesimus back warmly, as he would welcome Paul himself. He appeals for love's sake instead of giving an order, and he even offers to pay any debt Onesimus owes.",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "v:1.17",
+          "v:1.18",
+          "v:1.19",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Faith in Christ makes master and servant brothers. Elsewhere Paul says a servant called in the Lord is \"the Lord's freeman.\" Believing masters are to be seen as \"brethren,\" and Jesus said \"all ye are brethren.\"",
+        "sources": [
+          "b:themes",
+          "x:1-corinthians.7.22",
+          "x:1-timothy.6.2",
+          "x:matthew.23.8"
+        ]
+      },
+      "for_readers": {
+        "text": "Faith in Christ changes how believers see and treat one another, even across social lines. Someone once thought of as \"unprofitable\" can become a beloved brother.",
+        "sources": [
+          "v:1.11",
+          "v:1.16",
+          "x:1-peter.1.22"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Readers differ on how far \"not now as a servant\" reaches. Some take it to mean Paul is hinting that Philemon should free Onesimus, pointing to \"in the flesh\" and to Paul's hope that Philemon will \"do more than I say.\" Others read it as a change in how the two relate as brothers, without a change in legal status, pointing to passages that tell believing servants to serve masters who are brethren.",
+      "sources": [
+        "v:1.16",
+        "v:1.21",
+        "x:1-timothy.6.2",
+        "x:colossians.3.22",
+        "x:1-corinthians.7.22"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G1401",
+        "english": "servant",
+        "why_it_matters": {
+          "text": "The lexicon glosses the word here as \"a slave\" and defines it as one \"in bondage to, subject to\" another. Slavery was part of ordinary household life in the Roman world, and this was Onesimus's position.",
+          "sources": [
+            "w:G1401",
+            "b:setting"
+          ]
+        }
+      },
+      {
+        "strong": "G5613",
+        "english": "as",
+        "why_it_matters": {
+          "text": "This word means \"as, like as, just as.\" Paul's point is about the way Philemon will regard and receive Onesimus: no longer \"as\" a slave, and \"as myself\" (v. 17).",
+          "sources": [
+            "w:G5613",
+            "v:1.16",
+            "v:1.17"
+          ]
+        }
+      },
+      {
+        "strong": "G0080",
+        "english": "brother",
+        "why_it_matters": {
+          "text": "The word literally means one born of the same womb, and it is also used of neighbours and fellow countrymen. Here it names a fellow believer, as when Jesus says \"all ye are brethren.\"",
+          "sources": [
+            "w:G0080",
+            "x:matthew.23.8"
+          ]
+        }
+      },
+      {
+        "strong": "G4561",
+        "english": "flesh",
+        "why_it_matters": {
+          "text": "Its basic meaning is the flesh of the body. \"In the flesh\" points to ordinary human life, the same sphere in which Paul speaks of \"masters according to the flesh.\" Paul says Onesimus is a brother there too, not only \"in the Lord.\"",
+          "sources": [
+            "w:G4561",
+            "x:colossians.3.22",
+            "x:ephesians.6.5"
+          ]
+        }
+      },
+      {
+        "strong": "G2962G",
+        "english": "Lord",
+        "why_it_matters": {
+          "text": "The word means one with power or authority, a lord or master, and it is used as the opposite of slaves. Saying Onesimus is a brother \"in the Lord\" places both him and Philemon under one Master, Christ.",
+          "sources": [
+            "w:G2962G",
+            "x:ephesians.6.7",
+            "x:matthew.23.8"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "In Christ, a servant who had departed comes back as a beloved brother. Faith reshapes how believers treat one another, \"both in the flesh, and in the Lord.\"",
+      "sources": [
+        "v:1.15",
+        "v:1.16",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "takeaway",
+      "reason": "The cited sources say only that Onesimus had \"departed\" or left Philemon. Calling him a \"runaway\" is one reading of the situation, which some interpreters dispute, and the takeaway states it as fact.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

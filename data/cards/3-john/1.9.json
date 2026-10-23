@@ -1,0 +1,159 @@
+{
+  "ref": {
+    "book": "3-john",
+    "chapter": 1,
+    "verse": 9
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:39:21.971Z",
+  "card": {
+    "in_context": {
+      "text": "After praising Gaius for welcoming travelling believers (1:5-8), the elder turns to a problem. He had written to the church, but Diotrephes, who loves to be first, does not receive him. Verse 10 explains that Diotrephes also speaks against the elder, refuses the brethren, and puts out those who would welcome them.",
+      "sources": [
+        "v:1.5",
+        "v:1.8",
+        "v:1.9",
+        "v:1.10",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" the unnamed writer of this letter and of 2 John. Early Christian tradition identifies him as John the apostle.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Gaius, a believer the elder loves and counts among his children in the faith.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Diotrephes, a man in the church who wants the first place, and the church the elder wrote to. Travelling brethren and church members who would host them are also hurt by his actions.",
+        "sources": [
+          "v:1.9",
+          "v:1.10"
+        ]
+      }
+    },
+    "what": {
+      "text": "The elder reports that his earlier letter to the church was not received because Diotrephes refuses him. The verse names the root of the trouble: Diotrephes loves to have the preeminence among them.",
+      "sources": [
+        "v:1.9",
+        "w:G5383",
+        "w:G1926"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The events fall in a time when Christian workers travelled \"for his name's sake\" and depended on churches to house them and send them on. Domitian was emperor (AD 81-96).",
+        "sources": [
+          "v:1.7",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, near the time of 1 and 2 John. Scholarly view: most also place it in the late first century, though some think \"the elder\" was a church leader other than the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not name the place. The church was one the elder had written to before, where Gaius lived, likely in the province of Asia; early tradition places John's last years in Ephesus.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The elder warns Gaius about Diotrephes, who rejected the elder's authority and turned visiting believers away. This sets up the call to follow what is good, not what is evil.",
+        "sources": [
+          "b:purpose",
+          "v:1.10",
+          "v:1.11"
+        ]
+      },
+      "big_picture": {
+        "text": "Jesus rebuked his disciples for arguing over who was greatest and said he was among them \"as he that serveth\" (Luke 22:24, 27; Mark 9:34). He also taught that \"one is your Master, even Christ; and all ye are brethren\" (Matthew 23:8). Diotrephes' love of first place is the opposite of this pattern.",
+        "sources": [
+          "x:luke.22.24",
+          "x:luke.22.27",
+          "x:mark.9.34",
+          "x:matthew.23.8",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Wanting to be first in the church harms others, especially those who carry the gospel. The letter sets this against Gaius, who is praised for faithful, open-handed welcome.",
+        "sources": [
+          "v:1.5",
+          "v:1.8",
+          "v:1.10",
+          "b:themes"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G5383",
+        "english": "loveth to have the preeminence",
+        "why_it_matters": {
+          "text": "The Greek word means \"to love to be first\" or \"to strive to be first.\" The lexicon lists this verse as its only New Testament use. It names Diotrephes' motive, not just his actions.",
+          "sources": [
+            "w:G5383"
+          ]
+        }
+      },
+      {
+        "strong": "G1926",
+        "english": "receiveth",
+        "why_it_matters": {
+          "text": "The word means to accept or welcome. Here Diotrephes does not accept the elder; in verse 10 the same word is used for receiving the brethren hospitably, which he also refuses. His rejection of the elder and of the travellers go together.",
+          "sources": [
+            "w:G1926",
+            "v:1.10"
+          ]
+        }
+      },
+      {
+        "strong": "G1577",
+        "english": "church",
+        "why_it_matters": {
+          "text": "The word means an assembly, in the New Testament especially a company of Christians. The elder had written to the church as a whole, but Diotrephes \"receiveth us not.\"",
+          "sources": [
+            "w:G1577",
+            "v:1.9"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is a warning about loving first place in the church. Scripture calls believers to serve as Christ served, and to follow what is good, not what is evil.",
+      "sources": [
+        "v:1.9",
+        "v:1.11",
+        "x:luke.22.27",
+        "x:matthew.23.8"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.2",
+      "reason": "The sources do not say Diotrephes blocked the letter. Verse 9 says only that he 'receiveth us not' (does not receive the elder). The idea that this made it a matter for the whole church is interpretation the cited lexicon entry does not support.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 2
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.965Z",
+  "card": {
+    "in_context": {
+      "text": "This is Jude's greeting, right after he names himself and his readers. He prays that mercy, peace, and love will grow greater and greater for them. It comes just before he urges them to contend for the faith against ungodly men who had crept in.",
+      "sources": [
+        "v:1.1",
+        "v:1.2",
+        "v:1.3",
+        "v:1.4",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James. Traditionally he is the Judas named among Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers described as sanctified by God the Father, preserved in Jesus Christ, and called. The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": null
+    },
+    "what": {
+      "text": "A blessing in the form of a wish. Jude asks that mercy, peace, and love be multiplied to his readers, meaning increased in full measure.",
+      "sources": [
+        "v:1.2",
+        "w:G4129"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "No event is described. This is the opening greeting of the letter, before the warnings that follow.",
+        "sources": [
+          "v:1.2",
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name while others defend Jude's authorship.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or sent. Its many references to Israel's history and Jewish tradition suggest readers who knew them well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude opens by asking God's good gifts for his readers before he warns them about false teachers. The same gifts return later: he tells them to keep themselves in the love of God while looking for the mercy of Christ.",
+        "sources": [
+          "v:1.2",
+          "v:1.4",
+          "v:1.21"
+        ]
+      },
+      "big_picture": {
+        "text": "Other New Testament letters open with similar wishes, such as \"Grace unto you, and peace, be multiplied\" in 1 Peter 1:2 and 2 Peter 1:2, and grace and peace from God in Romans 1:7 and Revelation 1:4. Jude's greeting puts mercy and love alongside peace.",
+        "sources": [
+          "x:1-peter.1.2",
+          "x:2-peter.1.2",
+          "x:romans.1.7",
+          "x:revelation.1.4",
+          "v:1.2"
+        ]
+      },
+      "for_readers": {
+        "text": "Even a letter full of sharp warnings begins with a prayer for mercy, peace, and love. Jude's readers face danger, but he wants God's care for them to keep growing.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "v:1.24"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1656",
+        "english": "Mercy",
+        "why_it_matters": {
+          "text": "The word means mercy, pity, or compassion. In the Greek Old Testament it chiefly stands for the Hebrew word chesed. Jude uses mercy again when he tells readers to look for the mercy of Christ unto eternal life.",
+          "sources": [
+            "w:G1656",
+            "v:1.21"
+          ]
+        }
+      },
+      {
+        "strong": "G1515",
+        "english": "peace",
+        "why_it_matters": {
+          "text": "The word means peace, including freedom from conflict and concord between persons. In the Greek Old Testament it chiefly stands for the Hebrew shalom.",
+          "sources": [
+            "w:G1515"
+          ]
+        }
+      },
+      {
+        "strong": "G0026",
+        "english": "love",
+        "why_it_matters": {
+          "text": "This word is used of people's love for one another and for God, and of God's and Christ's love for people. In its plural form it names the love feasts, which Jude mentions in verse 12 as the feasts of charity. He later urges readers to keep themselves in the love of God.",
+          "sources": [
+            "w:G0026",
+            "v:1.12",
+            "v:1.21"
+          ]
+        }
+      },
+      {
+        "strong": "G4129",
+        "english": "be multiplied",
+        "why_it_matters": {
+          "text": "The verb means to be increased or multiplied. The same form of greeting appears in 1 Peter 1:2 and 2 Peter 1:2, where grace and peace are to be multiplied to the readers.",
+          "sources": [
+            "w:G4129",
+            "x:1-peter.1.2",
+            "x:2-peter.1.2"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Jude begins not with warning but with blessing: he asks that mercy, peace, and love keep growing for God's called people. He returns to love and mercy at the end, telling them to keep themselves in God's love and look for Christ's mercy (1:21).",
+      "sources": [
+        "v:1.2",
+        "v:1.1",
+        "v:1.21"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "takeaway",
+      "reason": "1:21 names only love and mercy, not peace, and it tells readers to look for mercy rather than hold on to it. Saying \"those same gifts\" are what he tells them to hold on to overstates the text.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.0",
+      "reason": "The lexicon only says ἔλεος chiefly stands for חֶסֶד in the LXX. It does not define that Hebrew word as \"steadfast kindness,\" so that gloss goes beyond the cited source.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "ref": {
+    "book": "3-john",
+    "chapter": 1,
+    "verse": 3
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:39:21.968Z",
+  "card": {
+    "in_context": {
+      "text": "The elder explains why he wrote his warm wish for Gaius in verse 2. Travelling believers had come and reported that Gaius held to the truth and lived by it, and this made the elder very glad. The next verse says this kind of news is his greatest joy.",
+      "sources": [
+        "v:1.2",
+        "v:1.3",
+        "v:1.4"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" the unnamed writer of 2 and 3 John. Early Christian tradition identifies him as John the apostle. Some scholars think he was a different church leader.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Gaius, a believer the elder loves and counts among his children in the faith.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "\"The brethren,\" travelling believers who had visited Gaius. They later spoke of his love before the church.",
+        "sources": [
+          "v:1.3",
+          "v:1.5",
+          "v:1.6",
+          "b:setting"
+        ]
+      }
+    },
+    "what": {
+      "text": "The elder reports his great joy at hearing good testimony about Gaius. The brethren bore witness that the truth was in Gaius and that he was walking in it, meaning he lived it out and did not only believe it.",
+      "sources": [
+        "v:1.3",
+        "w:G3140",
+        "w:G0225",
+        "w:G4043"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Some time before the letter was written, travelling brethren visited Gaius and then returned to the elder with their report.",
+        "sources": [
+          "v:1.3",
+          "v:1.6",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 85-95, around the time of 1 and 2 John. Scholarly: most scholars also place it in the late first century.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written. Early tradition places John's last years in Ephesus. Gaius lived in a church the elder had written to before, likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.9"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse opens the elder's praise of Gaius. It sets up the contrast with Diotrephes, who refused the brethren and drove others out of the church.",
+        "sources": [
+          "b:purpose",
+          "v:1.5",
+          "v:1.9",
+          "v:1.10"
+        ]
+      },
+      "big_picture": {
+        "text": "John's letters join truth and life: believing the truth means walking in it. In 2 John 1:4 the elder uses almost the same words about others \"walking in truth.\" Paul likewise rejoiced when others brought good news of a church's faith.",
+        "sources": [
+          "x:2-john.1.4",
+          "x:2-john.1.2",
+          "x:1-thessalonians.3.6",
+          "x:1-thessalonians.3.9",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Faithfulness is seen in how a person lives, and others notice it. A life that matches the truth gives real joy to those who care for us.",
+        "sources": [
+          "v:1.3",
+          "v:1.4",
+          "v:1.11"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0225",
+        "english": "truth",
+        "why_it_matters": {
+          "text": "The lexicon lists 3 John 3 under the sense of truthfulness: sincerity and integrity of character, not just correct words. So \"the truth that is in thee\" is about who Gaius is, not only what he knows.",
+          "sources": [
+            "w:G0225",
+            "v:1.3"
+          ]
+        }
+      },
+      {
+        "strong": "G4043",
+        "english": "walkest",
+        "why_it_matters": {
+          "text": "Its basic meaning is to walk, but the lexicon notes a figurative use for living or conducting oneself. \"Walking in the truth\" means a whole way of life shaped by the truth.",
+          "sources": [
+            "w:G4043",
+            "v:1.4",
+            "x:2-john.1.4"
+          ]
+        }
+      },
+      {
+        "strong": "G3140",
+        "english": "testified",
+        "why_it_matters": {
+          "text": "The word means to be a witness or bear witness. The report about Gaius came from people who had seen his life firsthand, the same kind of witness given to the church in verse 6.",
+          "sources": [
+            "w:G3140",
+            "v:1.6"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "The elder rejoiced because others saw that Gaius did not just hold the truth but lived it. In John's letters, truth is something you walk in.",
+      "sources": [
+        "v:1.3",
+        "v:1.4",
+        "x:2-john.1.4"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

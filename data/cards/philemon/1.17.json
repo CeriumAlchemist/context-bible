@@ -1,0 +1,165 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 17
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.921Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just asked Philemon to take Onesimus back \"not now as a servant, but above a servant, a brother beloved\" (1:16). Now he builds on his own friendship with Philemon: if Philemon counts Paul a partner, he should welcome Onesimus the way he would welcome Paul himself. In the next verses Paul even offers to pay whatever Onesimus owes (1:18-19).",
+      "sources": [
+        "v:1.16",
+        "v:1.17",
+        "v:1.18",
+        "v:1.19"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, writing from prison with Timothy (1:1, 1:9).",
+        "sources": [
+          "v:1.1",
+          "v:1.9",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, Paul's \"dearly beloved, and fellowlabourer,\" in whose house a church met (1:1-2).",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Onesimus, Philemon's servant who had left him and had become a believer through Paul (1:10-11, 1:15).",
+        "sources": [
+          "v:1.10",
+          "v:1.11",
+          "v:1.15",
+          "b:purpose"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul asks Philemon to receive Onesimus \"as myself.\" He links the welcome Philemon gives Onesimus to the partnership Philemon shares with Paul.",
+      "sources": [
+        "v:1.17",
+        "w:G2844",
+        "w:G4355"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Onesimus had \"departed\" from Philemon for a season and was now being sent back by Paul (1:12, 1:15).",
+        "sources": [
+          "v:1.12",
+          "v:1.15",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 60-62, during Paul's imprisonment in Rome. Scholarly: nearly all accept Paul wrote it; some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison; the letter does not name the city, and Rome is the traditional view. It went to Philemon's household, traditionally linked to Colossae (Colossians 4:9, 4:17).",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul appeals for love's sake rather than giving an order (1:8-9). He wants Philemon's welcome of Onesimus to be willing, not forced (1:14).",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "v:1.14",
+          "b:themes"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul makes the same request as in 1:12, \"receive him.\" Jesus taught that receiving one he sends is receiving him (Matthew 10:40). Here Paul stands in for Onesimus, so a welcome given to the one counts as given to the other.",
+        "sources": [
+          "x:philemon.1.12",
+          "x:matthew.10.40",
+          "v:1.17"
+        ]
+      },
+      "for_readers": {
+        "text": "Fellowship with other believers is meant to show itself in how we receive those they love, even one who was once \"unprofitable\" (1:11).",
+        "sources": [
+          "v:1.11",
+          "v:1.5",
+          "v:1.17"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G2844",
+        "english": "partner",
+        "why_it_matters": {
+          "text": "The word means a partner, associate or companion, and also a sharer. Paul uses it of Titus, \"my partner and fellowhelper\" (2 Corinthians 8:23). Paul's appeal rests on this shared bond with Philemon.",
+          "sources": [
+            "w:G2844",
+            "x:2-corinthians.8.23"
+          ]
+        }
+      },
+      {
+        "strong": "G4355",
+        "english": "receive",
+        "why_it_matters": {
+          "text": "It means to take to oneself or receive, used of persons. The same verb appears in Romans 14:1 and 15:7, so Paul is asking Philemon to take Onesimus in, not just to let him back.",
+          "sources": [
+            "w:G4355",
+            "v:1.12"
+          ]
+        }
+      },
+      {
+        "strong": "G1487G",
+        "english": "If",
+        "why_it_matters": {
+          "text": "This is a conditional particle that can state a general assumption. Paul builds his request on something he assumes is true: that Philemon does count him a partner.",
+          "sources": [
+            "w:G1487G",
+            "v:1.17"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul puts himself in Onesimus's place. If Philemon values his partnership with Paul, he should welcome Onesimus as he would welcome Paul.",
+      "sources": [
+        "v:1.17",
+        "v:1.18",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.big_picture",
+      "reason": "Matthew 18:5 speaks of receiving a little child in Jesus' name, not of receiving \"one he sends.\" Citing it for that teaching misrepresents the verse.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "why.for_readers",
+      "reason": "Verse 1:18 is conditional (\"If he hath wronged thee\"), and 1:11 says only that Onesimus was \"unprofitable.\" Neither verse states that Onesimus actually wronged Philemon, so \"someone who once did us wrong\" overstates the sources.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

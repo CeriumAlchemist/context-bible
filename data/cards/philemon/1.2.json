@@ -1,0 +1,164 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 2
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.931Z",
+  "card": {
+    "in_context": {
+      "text": "This verse finishes the greeting of Paul's letter to Philemon. Besides Philemon, Paul greets Apphia, Archippus, and the whole church that met in Philemon's house. So a personal appeal about Onesimus is also read in front of the gathered believers.",
+      "sources": [
+        "v:1.1",
+        "v:1.2",
+        "v:1.3",
+        "b:recipients",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, writing as \"a prisoner of Jesus Christ,\" together with Timothy.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon is the main addressee. Apphia, Archippus, and the church meeting in Philemon's house are named with him.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": null
+    },
+    "what": {
+      "text": "Paul names Apphia as a beloved believer and Archippus as a \"fellowsoldier,\" a partner in Christian service. He includes the house church in the greeting. The text does not say how Apphia or Archippus were related to Philemon.",
+      "sources": [
+        "v:1.2",
+        "w:G0079",
+        "w:G4961",
+        "b:recipients"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The greeting opens a letter Paul sent while in prison, before Onesimus returned to Philemon.",
+        "sources": [
+          "v:1.1",
+          "v:1.9",
+          "v:1.12",
+          "b:writtenFrom"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 60-62, from prison in Rome, at the same time as Colossians. Scholarly: nearly all accept Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The church met in a home, \"thy house\" (Philemon's). The letter does not name the town, but Colossae is indicated because Colossians also sends a message to Archippus.",
+      "sources": [
+        "v:1.2",
+        "b:destination",
+        "x:colossians.4.17"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "By greeting the whole house church, Paul places his request about Onesimus before the community. Philemon's response to receiving Onesimus as \"a brother beloved\" becomes a matter of shared faith and love.",
+        "sources": [
+          "v:1.2",
+          "v:1.16",
+          "b:purpose",
+          "b:themes"
+        ]
+      },
+      "big_picture": {
+        "text": "Early believers often gathered in homes. Paul greets other house churches the same way, such as those of Priscilla and Aquila and of Nymphas.",
+        "sources": [
+          "x:romans.16.5",
+          "x:1-corinthians.16.19",
+          "x:colossians.4.15"
+        ]
+      },
+      "for_readers": {
+        "text": "Faith is lived among fellow believers, not alone. Paul treats ordinary church members as family and fellow workers in the Lord.",
+        "sources": [
+          "v:1.2",
+          "v:1.5",
+          "v:1.7",
+          "w:G0079",
+          "w:G4961"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0079",
+        "english": "sister",
+        "why_it_matters": {
+          "text": "The word here is glossed \"our sister.\" It is used of a fellow member of the Christian community, as with Phoebe in Romans 16:1. Apphia is greeted as family in the faith.",
+          "sources": [
+            "w:G0079",
+            "v:1.2"
+          ]
+        }
+      },
+      {
+        "strong": "G4961",
+        "english": "fellowsoldier",
+        "why_it_matters": {
+          "text": "It means a fellow soldier and is used figuratively of fellowship in Christian service. The only other use is for Epaphroditus in Philippians 2:25. Paul elsewhere pictures the believer as \"a good soldier of Jesus Christ\" (2 Timothy 2:3).",
+          "sources": [
+            "w:G4961",
+            "x:philippians.2.25",
+            "x:2-timothy.2.3"
+          ]
+        }
+      },
+      {
+        "strong": "G1577",
+        "english": "church",
+        "why_it_matters": {
+          "text": "The word means an assembly. In the New Testament it is used especially of a company of Christians. Here it means the people gathered, not a building.",
+          "sources": [
+            "w:G1577",
+            "v:1.2"
+          ]
+        }
+      },
+      {
+        "strong": "G3624G",
+        "english": "house",
+        "why_it_matters": {
+          "text": "The word means a house or dwelling, a home. The church met in an ordinary home, as other churches did.",
+          "sources": [
+            "w:G3624G",
+            "x:romans.16.5",
+            "x:colossians.4.15"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul's private appeal is set within a church family meeting in a home. Fellow believers are sisters, brothers, and fellow soldiers in the Lord's service.",
+      "sources": [
+        "v:1.2",
+        "w:G0079",
+        "w:G4961",
+        "w:G1577"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

@@ -1,0 +1,159 @@
+{
+  "ref": {
+    "book": "2-john",
+    "chapter": 1,
+    "verse": 6
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:50:24.568Z",
+  "card": {
+    "in_context": {
+      "text": "The elder has just asked the lady to keep the old command that believers love one another (1:5). In this verse he explains what that love looks like: living by God's commandments, the very command they heard from the beginning. The next verse turns to deceivers who deny that Jesus Christ came in the flesh (1:7).",
+      "sources": [
+        "v:1.5",
+        "v:1.6",
+        "v:1.7"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" who does not give his name. Early Christian tradition identifies him as John the apostle, and the letter's wording closely matches 1 John.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "\"The elect lady and her children.\" This may be a Christian woman and her family, or a figurative name for a local church; the letter does not say which.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": null
+    },
+    "what": {
+      "text": "The verse defines love by obedience: to love is to walk after God's commandments. It then says the commandment itself is to walk in love, as they heard from the start. Love and obedience explain each other. The same link appears in 1 John 5:3 and in Jesus' words in John 14:15 and 15:10.",
+      "sources": [
+        "v:1.5",
+        "v:1.6",
+        "x:1-john.5.3",
+        "x:john.14.15",
+        "x:john.15.10"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This is not a story but instruction. \"From the beginning\" points back to what the readers were taught when they first heard the message (compare 1 John 2:24).",
+        "sources": [
+          "v:1.6",
+          "x:1-john.2.24"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, late in John's life, around the time of 1 John. Scholarly view: most also place it in the late first century, though some think \"the elder\" was a church leader other than the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written. Early tradition places John's last years in Ephesus. It went to a church or household the elder hoped to visit soon, likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.12"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The elder wants the readers to keep walking in truth and love, which means walking after God's commandments. This prepares them for his warning not to welcome or support teachers who deny that Jesus Christ came in the flesh.",
+        "sources": [
+          "b:purpose",
+          "v:1.4",
+          "v:1.7",
+          "v:1.10"
+        ]
+      },
+      "big_picture": {
+        "text": "Across John's writings, love for God is shown by keeping his commandments, and keeping his word is where his love is made complete. Paul likewise says the whole law is fulfilled in loving your neighbour.",
+        "sources": [
+          "x:1-john.5.3",
+          "x:1-john.2.5",
+          "x:john.15.10",
+          "x:galatians.5.14"
+        ]
+      },
+      "for_readers": {
+        "text": "Love here is not only a feeling. It is a way of life shaped by what God has commanded, and above all by the command to love one another.",
+        "sources": [
+          "v:1.5",
+          "v:1.6",
+          "x:galatians.5.13"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0026",
+        "english": "love",
+        "why_it_matters": {
+          "text": "Agapē means love, goodwill or esteem. The lexicon lists it for people's love to one another (John 13:35) and to God (1 John 2:5). Both fit here, since the verse ties love for one another to obeying God.",
+          "sources": [
+            "w:G0026",
+            "v:1.5",
+            "x:1-john.2.5"
+          ]
+        }
+      },
+      {
+        "strong": "G4043",
+        "english": "walk",
+        "why_it_matters": {
+          "text": "The verb means to walk. It is also used figuratively of how one lives and conducts oneself. So \"walk after his commandments\" means living one's whole life by them, not obeying once.",
+          "sources": [
+            "w:G4043",
+            "v:1.4"
+          ]
+        }
+      },
+      {
+        "strong": "G1785",
+        "english": "commandments",
+        "why_it_matters": {
+          "text": "Entolē means a charge, order or command, especially a religious precept. The verse moves from \"commandments\" (plural) to \"the commandment\" (singular), the command to love from verse 5.",
+          "sources": [
+            "w:G1785",
+            "v:1.5",
+            "v:1.6"
+          ]
+        }
+      },
+      {
+        "strong": "G0746",
+        "english": "beginning",
+        "why_it_matters": {
+          "text": "Archē means beginning or origin. John uses \"from the beginning\" for what believers first heard (1 John 2:24). This shows the command to love is not new teaching (1:5).",
+          "sources": [
+            "w:G0746",
+            "x:1-john.2.24",
+            "v:1.5"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "True love is shown by walking in God's commands, and God's command is to walk in love. Believers keep both by holding to what they heard from the beginning.",
+      "sources": [
+        "v:1.6",
+        "x:1-john.5.3",
+        "x:1-john.2.24"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

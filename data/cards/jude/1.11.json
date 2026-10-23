@@ -1,0 +1,178 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 11
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.969Z",
+  "card": {
+    "in_context": {
+      "text": "Jude has been describing ungodly men who crept into the church, turned God's grace into an excuse for sin, and spoke evil of what they did not understand. In verse 11 he pronounces 'Woe' on them and ties them to three Old Testament rebels: Cain, Balaam and Korah. The verses that follow keep painting their portrait and their coming judgment.",
+      "sources": [
+        "v:1.4",
+        "v:1.8",
+        "v:1.10",
+        "v:1.11",
+        "v:1.12",
+        "v:1.13"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James. Tradition identifies him as one of Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers who are 'sanctified by God the Father, and preserved in Jesus Christ, and called.' The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients",
+          "b:destination"
+        ]
+      },
+      "affected": {
+        "text": "The 'certain men crept in unawares' among the believers. The 'Woe' is spoken about them, not to the faithful readers.",
+        "sources": [
+          "v:1.4",
+          "v:1.11",
+          "v:1.12"
+        ]
+      }
+    },
+    "what": {
+      "text": "Jude declares grief and judgment on the false teachers. He says they follow Cain, who killed his brother because his own works were evil. They rush after Balaam's error for pay, and they share the fate of Korah, who rose against Moses and Aaron and was swallowed by the earth.",
+      "sources": [
+        "v:1.11",
+        "x:1-john.3.12",
+        "x:2-peter.2.15",
+        "x:numbers.26.9",
+        "x:numbers.26.10"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The three examples come from Israel's early history: Cain in Genesis 4, Balaam in Numbers 22-24, and Korah's rebellion in the wilderness, recalled in Numbers 26.",
+        "sources": [
+          "x:genesis.4.3",
+          "w:G0903",
+          "x:numbers.26.9",
+          "x:numbers.26.10"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name while others defend Jude's authorship.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or where it was sent. Its heavy use of Israel's history suggests readers who knew those stories well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "b:setting"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude wants believers to 'earnestly contend for the faith' by exposing those who abuse grace and deny the Lord. Naming Cain, Balaam and Korah shows what kind of men these are and how God judges such paths.",
+        "sources": [
+          "v:1.3",
+          "v:1.4",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Verse 11 belongs to Jude's list of judgment examples from Israel's past, alongside the unbelieving Israelites, the angels who left their place, and Sodom and Gomorrha. Together they show that God judges those who turn from him.",
+        "sources": [
+          "v:1.5",
+          "v:1.6",
+          "v:1.7",
+          "b:outline",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "The warning is meant to protect the faithful, not frighten them. Jude goes on to tell them to build themselves up in faith and keep themselves in God's love, trusting the One able to keep them from falling.",
+        "sources": [
+          "v:1.20",
+          "v:1.21",
+          "v:1.24"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1632",
+        "english": "ran greedily",
+        "why_it_matters": {
+          "text": "The verb means 'to pour out,' used of pouring blood or wine. Used of persons, the lexicon glosses it 'to give oneself up to,' noting the rendering 'ran riotously in.' This pictures people pouring themselves wholly into Balaam's error.",
+          "sources": [
+            "w:G1632"
+          ]
+        }
+      },
+      {
+        "strong": "G3408",
+        "english": "reward",
+        "why_it_matters": {
+          "text": "The word means wages or hire. It links to 2 Peter 2:15, where Balaam 'loved the wages of unrighteousness,' showing the motive Jude exposes is gain.",
+          "sources": [
+            "w:G3408",
+            "x:2-peter.2.15",
+            "v:1.16"
+          ]
+        }
+      },
+      {
+        "strong": "G4106",
+        "english": "error",
+        "why_it_matters": {
+          "text": "The word means a wandering or going astray, used in the New Testament of moral or religious error. Revelation 2:14 shows Balaam's error led Israel into idol feasts and fornication.",
+          "sources": [
+            "w:G4106",
+            "x:revelation.2.14"
+          ]
+        }
+      },
+      {
+        "strong": "G0485",
+        "english": "gainsaying",
+        "why_it_matters": {
+          "text": "The word means speaking against, or strife. It fits Korah, who 'strove against Moses and against Aaron' and so 'against the LORD.'",
+          "sources": [
+            "w:G0485",
+            "x:numbers.26.9"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Jude 11 warns that the ways of Cain, Balaam and Korah lead to ruin: evil works against a righteous brother, error for reward, and rebellion. Read in context, it calls believers to recognize such paths and keep themselves in the love of God.",
+      "sources": [
+        "v:1.11",
+        "x:1-john.3.12",
+        "x:2-peter.2.15",
+        "x:numbers.26.10",
+        "v:1.21"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "takeaway",
+      "reason": "The cited sources do not name envy as Cain's sin. 1 John 3:12 says only that Cain's works were evil and his brother's righteous, so reading Cain's way as envy is an interpretation the sources don't state.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

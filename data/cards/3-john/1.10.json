@@ -1,0 +1,164 @@
+{
+  "ref": {
+    "book": "3-john",
+    "chapter": 1,
+    "verse": 10
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:39:21.966Z",
+  "card": {
+    "in_context": {
+      "text": "The elder warns that if he visits, he will bring up what Diotrephes has been doing. Diotrephes talks nonsense against the elder with evil words, refuses to welcome travelling believers, stops others from welcoming them, and throws those people out of the church. This explains the complaint of verse 9 and contrasts with Gaius, who welcomes such brethren.",
+      "sources": [
+        "v:1.9",
+        "v:1.10",
+        "v:1.5",
+        "v:1.8"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" the unnamed writer of 2 and 3 John. Early Christian tradition identifies him as John the apostle.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Gaius, a believer the elder loves and counts among his children in the faith.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Diotrephes, a man who loves to be first in the church, and the travelling brethren and church members he turns away and casts out.",
+        "sources": [
+          "v:1.9",
+          "v:1.10",
+          "v:1.7"
+        ]
+      }
+    },
+    "what": {
+      "text": "The elder lists four wrongs by Diotrephes: slandering the elder, refusing to receive the brethren, forbidding others who want to receive them, and expelling those who do. He promises to call these deeds to mind when he comes.",
+      "sources": [
+        "v:1.10",
+        "w:G5279",
+        "w:G1544"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "While Christian workers were travelling \"for his name's sake\" and relying on churches for lodging and help. The elder had already written to the church and hoped to visit soon.",
+        "sources": [
+          "v:1.7",
+          "v:1.9",
+          "v:1.14",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 85-95, near the time of 1 and 2 John. Scholarly: most also place it in the late first century, though some think the elder was a church leader other than the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The church is not named. It was a church the elder had written to before, where Gaius lived, likely in the province of Asia. Where the letter was written from is not stated, though early tradition places John's last years in Ephesus.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The elder confronts Diotrephes' behavior, which blocked the hospitality the elder had just praised in Gaius. The next verse urges Gaius to follow good, not evil.",
+        "sources": [
+          "b:purpose",
+          "v:1.8",
+          "v:1.11"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter teaches that receiving those who carry the gospel makes believers \"fellowhelpers to the truth,\" while loving first place harms the church. Like Paul's warning \"if I come again, I will not spare\" (2 Corinthians 13:2), the elder plans to deal with wrong face to face.",
+        "sources": [
+          "b:themes",
+          "v:1.8",
+          "x:2-corinthians.13.2"
+        ]
+      },
+      "for_readers": {
+        "text": "Using a church position to shut out faithful believers is a serious wrong. Scripture shows God sees those who are cast out, as Jesus sought out the man thrown out in John 9.",
+        "sources": [
+          "v:1.10",
+          "x:john.9.34",
+          "x:john.9.35",
+          "x:luke.6.22"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G5396",
+        "english": "prating against",
+        "why_it_matters": {
+          "text": "The word means \"to talk nonsense,\" and the lexicon lists this verse as its only use. The elder treats Diotrephes' accusations as empty talk, recalling Proverbs' warning that \"a prating fool shall fall.\"",
+          "sources": [
+            "w:G5396",
+            "x:proverbs.10.8",
+            "x:proverbs.10.10"
+          ]
+        }
+      },
+      {
+        "strong": "G1926",
+        "english": "receive",
+        "why_it_matters": {
+          "text": "Here it means \"to receive hospitably.\" The same word is used in verse 9, so Diotrephes rejects both the elder and the travelling brethren.",
+          "sources": [
+            "w:G1926",
+            "v:1.9"
+          ]
+        }
+      },
+      {
+        "strong": "G1544",
+        "english": "casteth out",
+        "why_it_matters": {
+          "text": "The word means to drive out or expel, and the lexicon lists this verse as expulsion from the church. It is the same act done to the healed man in John 9:34.",
+          "sources": [
+            "w:G1544",
+            "x:john.9.34"
+          ]
+        }
+      },
+      {
+        "strong": "G5279",
+        "english": "remember",
+        "why_it_matters": {
+          "text": "The word means \"to cause one to remember\" or remind. The elder is not just recalling privately; he will bring Diotrephes' deeds to attention.",
+          "sources": [
+            "w:G5279"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is a warning against a leader who slanders others and shuts out faithful believers. It sets Diotrephes against Gaius, whose welcome of the brethren the elder praises.",
+      "sources": [
+        "v:1.10",
+        "v:1.5",
+        "v:1.6",
+        "v:1.11"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

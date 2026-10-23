@@ -1,0 +1,181 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 9
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.967Z",
+  "card": {
+    "in_context": {
+      "text": "Jude has just said that the false teachers \"speak evil of dignities\" (1:8). He sets Michael beside them: even when this chief angel argued with the devil himself, he would not pronounce a slanderous judgment but left it to the Lord. Jude then adds that \"these speak evil of those things which they know not\" (1:10).",
+      "sources": [
+        "v:1.8",
+        "v:1.9",
+        "v:1.10"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself \"the servant of Jesus Christ, and brother of James.\" Traditionally he is the Judas named among Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers \"sanctified by God the Father, and preserved in Jesus Christ, and called.\" False teachers had slipped in among them. The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Michael the archangel and the devil are the figures in the story. The ungodly men of 1:8 and 1:10 are the ones being exposed by the comparison.",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "v:1.10"
+        ]
+      }
+    },
+    "what": {
+      "text": "Michael and the devil argued over Moses' body. Michael did not dare bring a railing judgment against him. He said only \"The Lord rebuke thee,\" the same words the LORD speaks to Satan in Zechariah 3:2.",
+      "sources": [
+        "v:1.9",
+        "x:zechariah.3.2",
+        "w:G5111",
+        "w:G2920"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The dispute is tied to Moses' death. Deuteronomy says \"he buried him\" and \"no man knoweth of his sepulchre unto this day\" (Deuteronomy 34:6). The text does not say when the dispute itself happened.",
+        "sources": [
+          "v:1.9",
+          "x:deuteronomy.34.6"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly: views range from the 50s to the early second century, and some think a later follower wrote it in Jude's name.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Moses was buried \"in a valley in the land of Moab, over against Bethpeor.\" Jude does not say where the dispute took place, and the letter does not say where it was written from.",
+      "sources": [
+        "x:deuteronomy.34.6",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude wants to show how reckless the false teachers are. If even an archangel held back his tongue before the devil, men who mock what they do not understand stand condemned.",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "v:1.10",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Judgment belongs to God, who keeps the rebellious for \"the judgment of the great day\" (1:6) and will judge the ungodly (1:15). 2 Peter 2:11 makes the same point: angels \"bring not railing accusation against them before the Lord.\"",
+        "sources": [
+          "v:1.6",
+          "v:1.15",
+          "x:2-peter.2.11",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers are warned against proud, scornful speech about spiritual powers and authority. They are told to build themselves up in faith and keep themselves in God's love instead (1:20-21).",
+        "sources": [
+          "v:1.10",
+          "v:1.20",
+          "v:1.21"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Quoted as a spoken formula for commanding or rebuking the devil, as if saying \"The Lord rebuke thee\" were a technique of spiritual warfare.",
+      "in_context_reading": {
+        "text": "Jude's point is restraint, not technique. Michael refused to pass judgment himself and handed the matter to the Lord, and Jude uses this to shame men who \"speak evil of dignities.\"",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "v:1.10",
+          "x:2-peter.2.11"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1228",
+        "english": "devil",
+        "why_it_matters": {
+          "text": "The word means \"slanderous, accusing falsely,\" a slanderer. In the Greek Old Testament it translates \"satan\" (as in Job 1:6). So Michael would not answer the slanderer with slander of his own.",
+          "sources": [
+            "w:G1228",
+            "v:1.9"
+          ]
+        }
+      },
+      {
+        "strong": "G0988",
+        "english": "railing (accusation)",
+        "why_it_matters": {
+          "text": "Defined as \"railing slander\" and, in other places, impious speech against God. It names the kind of abusive speech Michael refused to use.",
+          "sources": [
+            "w:G0988",
+            "v:1.9"
+          ]
+        }
+      },
+      {
+        "strong": "G2920",
+        "english": "accusation (judgment)",
+        "why_it_matters": {
+          "text": "The word means a decision or judgment. Jude uses it of God's final judgment in 1:6 and 1:15. Michael did not bring judgment himself because judging belongs to God.",
+          "sources": [
+            "w:G2920",
+            "v:1.6",
+            "v:1.15"
+          ]
+        }
+      },
+      {
+        "strong": "G2008",
+        "english": "rebuke",
+        "why_it_matters": {
+          "text": "It means to censure or rebuke. In the Greek Old Testament it is the word used in Zechariah 3:2, where the LORD says to Satan, \"The LORD rebuke thee.\" Michael echoes that verse.",
+          "sources": [
+            "w:G2008",
+            "x:zechariah.3.2"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Even the archangel Michael, facing the devil himself, did not pass judgment but said, \"The Lord rebuke thee.\" Rebuke and judgment belong to God, so scornful speech about what we do not understand is out of place.",
+      "sources": [
+        "v:1.9",
+        "v:1.10",
+        "x:zechariah.3.2"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "when.events",
+      "reason": "Deuteronomy 34:6 as cited says only \"he buried him.\" It does not name God as the one who buried Moses, so \"Scripture says God buried him\" goes beyond the cited text.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

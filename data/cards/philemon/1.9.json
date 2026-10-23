@@ -1,0 +1,175 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 9
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.926Z",
+  "card": {
+    "in_context": {
+      "text": "Paul says he could boldly order Philemon to do what is right, but he chooses to plead instead, for love's sake. He points to himself as \"Paul the aged\" and now a prisoner of Jesus Christ. The plea that follows is for Onesimus, whom Philemon is asked to receive back as a brother.",
+      "sources": [
+        "v:1.8",
+        "v:1.9",
+        "v:1.10",
+        "v:1.16"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, who calls himself a prisoner of Jesus Christ, writing with Timothy.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, a believer and fellow-worker of Paul, along with Apphia, Archippus, and the church in his house.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Onesimus, Philemon's servant who had left him and became a believer through Paul. He is the subject of the appeal that begins in the next verse.",
+        "sources": [
+          "v:1.10",
+          "v:1.11",
+          "b:purpose"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul sets aside his right to command and makes a personal request instead. He grounds it in love and in his own condition as an older man and a prisoner. This sets up his plea that Philemon welcome Onesimus, and Paul says he wants Philemon's goodness to be willing, not forced.",
+      "sources": [
+        "v:1.8",
+        "v:1.9",
+        "v:1.14",
+        "b:themes"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul is in prison when he writes. Onesimus has become a believer through him there and is being sent back to Philemon.",
+        "sources": [
+          "v:1.9",
+          "v:1.10",
+          "v:1.12",
+          "b:writtenFrom"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 60-62, during Paul's imprisonment in Rome, at the same time as Colossians. Scholarly view: nearly all accept Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison, though the letter does not name the city. Rome is the traditional view. The letter goes to Philemon's house church, traditionally at Colossae, which Colossians links to Onesimus and Archippus.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Philemon to act out of love, not obligation. So he appeals rather than orders, and he offers his age and his chains as reasons Philemon might listen.",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "v:1.14",
+          "b:themes"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul often appeals instead of commanding. He writes \"I therefore, the prisoner of the Lord, beseech you\" in Ephesians 4:1, and \"I beseech you therefore, brethren, by the mercies of God\" in Romans 12:1. Here that same pleading tone serves a call to receive a servant as \"a brother beloved.\"",
+        "sources": [
+          "x:ephesians.4.1",
+          "x:romans.12.1",
+          "v:1.16"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse shows a leader who has authority choosing to persuade through love. It also shows a request that leaves room for a willing response.",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "v:1.14",
+          "v:1.21"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "The word rendered \"the aged\" usually means an old man. One reading takes it that way, as Paul pointing to his age, much as Psalm 71:18 speaks of being \"old and greyheaded.\" The lexicon also notes a second reading, \"an ambassador,\" which fits Paul's words elsewhere: \"we are ambassadors for Christ.\"",
+      "sources": [
+        "w:G4246",
+        "x:psalms.71.18",
+        "x:2-corinthians.5.20"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G3870",
+        "english": "beseech",
+        "why_it_matters": {
+          "text": "The word means to call on, beseech, or entreat. It is also used of calling on God, as in Matthew 26:53. Here Paul uses it in contrast to \"enjoin\" (command) in verse 8, and he repeats it in verse 10.",
+          "sources": [
+            "w:G3870",
+            "v:1.8",
+            "v:1.10"
+          ]
+        }
+      },
+      {
+        "strong": "G0026",
+        "english": "love",
+        "why_it_matters": {
+          "text": "The word means love, goodwill, or esteem, and the lexicon lists its use for people's love to one another. Paul has just praised Philemon's love toward the saints. Now he appeals on the basis of that same love.",
+          "sources": [
+            "w:G0026",
+            "v:1.5",
+            "v:1.7"
+          ]
+        }
+      },
+      {
+        "strong": "G4246",
+        "english": "aged",
+        "why_it_matters": {
+          "text": "The lexicon's first meaning is \"an old man.\" It also notes that the word can stand for \"an ambassador\" in this very verse. This affects whether Paul is stressing his age or his role as Christ's envoy.",
+          "sources": [
+            "w:G4246"
+          ]
+        }
+      },
+      {
+        "strong": "G1198",
+        "english": "a prisoner",
+        "why_it_matters": {
+          "text": "The word means one bound or captive. The lexicon lists the phrase \"prisoner of Christ\" in Ephesians 3:1, 2 Timothy 1:8, and Philemon 1 and 9. Paul presents his imprisonment as belonging to Christ.",
+          "sources": [
+            "w:G1198",
+            "x:ephesians.3.1",
+            "x:philemon.1.1"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul could have commanded Philemon, but he chose to plead with him in love, as an old man and a prisoner for Christ. The point is a willing welcome for Onesimus, not a forced one.",
+      "sources": [
+        "v:1.8",
+        "v:1.9",
+        "v:1.14",
+        "v:1.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

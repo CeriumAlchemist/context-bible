@@ -1,0 +1,189 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 5
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.969Z",
+  "card": {
+    "in_context": {
+      "text": "Jude has warned that ungodly men have crept in among the believers (1:4). He now reminds his readers of something they already knew: the Lord saved Israel out of Egypt, then destroyed those who did not believe. It is the first of three examples of God's judgment, alongside the fallen angels and Sodom and Gomorrha (1:6-7).",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "v:1.6",
+        "v:1.7"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James. Traditionally he is the Judas named among Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers who are called, sanctified and preserved. The letter does not say where they lived, and false teachers had slipped in among them.",
+        "sources": [
+          "v:1.1",
+          "b:recipients",
+          "b:destination"
+        ]
+      },
+      "affected": {
+        "text": "The verse speaks of the Israelites brought out of Egypt, some of whom later perished for unbelief. Jude uses them as a warning about the ungodly men among his readers.",
+        "sources": [
+          "v:1.5",
+          "v:1.4",
+          "x:numbers.26.65"
+        ]
+      }
+    },
+    "what": {
+      "text": "Jude gives a reminder, not new teaching. God rescued a whole people from Egypt, yet those who would not believe were later destroyed in the wilderness. Numbers records that of that generation only Caleb and Joshua were left.",
+      "sources": [
+        "v:1.5",
+        "w:G5279",
+        "x:numbers.26.64",
+        "x:numbers.26.65",
+        "x:psalms.106.26"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The events are the exodus from Egypt and the years in the wilderness that followed, when God said the unbelieving generation would die there.",
+        "sources": [
+          "v:1.5",
+          "x:numbers.14.22",
+          "x:numbers.26.65"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The verse recalls Egypt, the land Israel was saved out of, and the wilderness where the unbelievers fell. The letter does not say where it was written or sent.",
+      "sources": [
+        "p:egypt",
+        "x:psalms.106.26",
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude wants his readers to contend for the faith and to see that God judges those who turn his grace into an excuse for sin. Israel's story shows that being among the rescued did not shield the unbelieving from judgment.",
+        "sources": [
+          "v:1.3",
+          "v:1.4",
+          "b:purpose",
+          "b:themes"
+        ]
+      },
+      "big_picture": {
+        "text": "Other New Testament writers use the same history as a warning. Hebrews says not all who came out of Egypt by Moses provoked God, and that the word did not profit those who lacked faith. Paul tells the Corinthians that all passed through the sea, so let him who thinks he stands take heed lest he fall.",
+        "sources": [
+          "x:hebrews.3.16",
+          "x:hebrews.4.2",
+          "x:1-corinthians.10.1",
+          "x:1-corinthians.10.12"
+        ]
+      },
+      "for_readers": {
+        "text": "Jude pairs this warning with comfort. He tells readers to keep themselves in God's love, and he praises God who is able to keep them from falling (1:21, 1:24).",
+        "sources": [
+          "v:1.21",
+          "v:1.24",
+          "b:themes"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G5279",
+        "english": "put you in remembrance",
+        "why_it_matters": {
+          "text": "The word means to cause someone to remember or put them in mind. Jude is not bringing new teaching but recalling what the readers already knew. The same verb is used in 2 Peter 1:12.",
+          "sources": [
+            "w:G5279",
+            "v:1.5",
+            "v:1.17"
+          ]
+        }
+      },
+      {
+        "strong": "G0530",
+        "english": "once",
+        "why_it_matters": {
+          "text": "The lexicon lists this verse under the sense 'once for all,' the same word Jude uses of the faith 'once delivered' in verse 3. The readers had already been fully taught these things.",
+          "sources": [
+            "w:G0530",
+            "v:1.3"
+          ]
+        }
+      },
+      {
+        "strong": "G1208",
+        "english": "afterward",
+        "why_it_matters": {
+          "text": "The word means secondly or a second time. It sets two acts in order: first God saved the people, then he destroyed those who did not believe.",
+          "sources": [
+            "w:G1208",
+            "v:1.5"
+          ]
+        }
+      },
+      {
+        "strong": "G4100",
+        "english": "believed",
+        "why_it_matters": {
+          "text": "The word means to have faith in or to trust. The whole people was brought out of Egypt; afterward those who did not believe were destroyed, as Hebrews 4:2 says the word was \"not being mixed with faith.\"",
+          "sources": [
+            "w:G4100",
+            "v:1.5",
+            "x:hebrews.4.2"
+          ]
+        }
+      },
+      {
+        "strong": "G0622",
+        "english": "destroyed",
+        "why_it_matters": {
+          "text": "The word means to destroy utterly or kill. It points to the death of the unbelieving generation in the wilderness that Numbers and Psalms describe.",
+          "sources": [
+            "w:G0622",
+            "x:numbers.26.65",
+            "x:psalms.106.26"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Being part of a rescued people is no excuse for unbelief or careless living. Jude recalls the exodus generation to warn against those who abuse God's grace. He also points readers to the God who is able to keep them.",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "v:1.24",
+        "x:1-corinthians.10.12"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.3",
+      "reason": "The verse says the whole people was saved out of Egypt and only afterward were the unbelieving destroyed. Calling faith 'the line between those saved and those destroyed' contradicts that: the destroyed were among the saved, and faith divided those destroyed from those spared.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

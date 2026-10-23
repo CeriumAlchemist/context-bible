@@ -1,0 +1,181 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 6
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.932Z",
+  "card": {
+    "in_context": {
+      "text": "Verse 6 is part of Paul's prayer for Philemon, which follows his thanks for Philemon's love and faith toward the Lord and all saints. Paul prays that the fellowship that comes from Philemon's faith will become active and effective. This prepares for his appeal that Philemon receive Onesimus as a brother.",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "v:1.6",
+        "v:1.10",
+        "v:1.16",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, a prisoner of Jesus Christ, writing with Timothy.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, Paul's beloved fellow-worker. Apphia, Archippus and the church in his house are also greeted. The 'thy' in this verse is singular and points to Philemon.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients",
+          "w:G4771"
+        ]
+      },
+      "affected": {
+        "text": "The saints Philemon has refreshed, and soon Onesimus, whom Paul asks Philemon to receive.",
+        "sources": [
+          "v:1.7",
+          "v:1.10",
+          "v:1.12"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul prays that Philemon's 'communication', or fellowship, of faith may become effective. That happens as he recognizes every good thing that is theirs in Christ Jesus. Paul's request about Onesimus will give that fellowship a concrete test.",
+      "sources": [
+        "v:1.6",
+        "w:G2842",
+        "w:G1756",
+        "w:G1922",
+        "v:1.17"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul prays this while he is in prison, after Onesimus had become a believer through him.",
+        "sources": [
+          "v:1.1",
+          "v:1.9",
+          "v:1.10"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 60-62, during Paul's imprisonment in Rome. Scholarly view: nearly all scholars accept that Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison, and the letter does not name the city. Rome is the traditional view. The letter went to Philemon's house church, traditionally placed at Colossae.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.2"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The prayer sets up Paul's appeal. He has praised Philemon's love toward all saints, and now he will ask him to show that love by receiving Onesimus as a beloved brother.",
+        "sources": [
+          "v:1.5",
+          "v:1.7",
+          "v:1.8",
+          "v:1.9",
+          "v:1.16",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul often prays that believers grow in knowledge that bears fruit. He prays that love may 'abound yet more and more in knowledge' in Philippians 1:9. Peter warns against being 'unfruitful in the knowledge of our Lord Jesus Christ' in 2 Peter 1:8. In Philemon, faith shows itself in love toward the saints.",
+        "sources": [
+          "x:philippians.1.9",
+          "x:philippians.1.11",
+          "x:colossians.1.9",
+          "x:2-peter.1.8",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Faith shared in fellowship is meant to become active in real relationships. For Philemon, that meant welcoming a returning servant as a brother.",
+        "sources": [
+          "v:1.6",
+          "v:1.16",
+          "v:1.17",
+          "x:titus.3.14"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Often quoted alone as a general verse about evangelism, meaning 'share your faith with others so it becomes effective.'",
+      "in_context_reading": {
+        "text": "In the letter it is a prayer for Philemon. The fellowship that comes from his faith, already seen in his love for the saints, should become active. Paul then asks him to show it by receiving Onesimus.",
+        "sources": [
+          "v:1.5",
+          "v:1.6",
+          "v:1.7",
+          "v:1.16",
+          "v:1.17",
+          "w:G2842"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G2842",
+        "english": "communication (fellowship)",
+        "why_it_matters": {
+          "text": "The lexicon glosses koinōnia as fellowship or communion, and lists this verse there. It can also mean a contribution that comes out of fellowship, as in Romans 15:26. So 'communication' here means shared participation, not just speech.",
+          "sources": [
+            "w:G2842"
+          ]
+        }
+      },
+      {
+        "strong": "G1756",
+        "english": "effectual",
+        "why_it_matters": {
+          "text": "Energēs means at work, active, effective. Paul's prayer is that the fellowship of faith will actually be at work.",
+          "sources": [
+            "w:G1756"
+          ]
+        }
+      },
+      {
+        "strong": "G1922",
+        "english": "acknowledging",
+        "why_it_matters": {
+          "text": "Epignōsis means acquaintance, discernment or recognition. Paul uses the same word in his prayers in Philippians 1:9 and Colossians 1:9.",
+          "sources": [
+            "w:G1922",
+            "x:philippians.1.9",
+            "x:colossians.1.9"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul prays that Philemon's fellowship in faith will become active through recognizing the good that is theirs in Christ. He then asks Philemon to put that into practice by welcoming Onesimus as a brother.",
+      "sources": [
+        "v:1.6",
+        "v:1.16",
+        "v:1.17"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "christians_differ",
+      "reason": "The cited sources give 'fellowship' and 'contribution' as meanings of koinōnia. None of them mentions reading the phrase as sharing or communicating one's faith with others, so the second interpretation has no support in the cited sources.",
+      "fix": "claim removed"
+    }
+  ]
+}

@@ -159,9 +159,10 @@
         "strong": "G1362",
         "english": "double",
         "why_it_matters": {
-          "text": "It means twofold, or in double measure. That is why readers debate whether it points to two kinds of honour or to generous honour.",
+          "text": "It means twofold, or in double measure. Verse 18 ties the honour to a worker's fair wage.",
           "sources": [
-            "w:G1362"
+            "w:G1362",
+            "v:5.18"
           ]
         }
       }
@@ -183,6 +184,11 @@
       "claim": "key_words.1",
       "reason": "The lexicon defines the verb only as 'preside, rule, govern' and 'direct, maintain'. Its use for managing a household does not establish 'caring oversight rather than domination'; that contrast is interpretation the cited source does not make.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.3",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
     }
   ]
 }

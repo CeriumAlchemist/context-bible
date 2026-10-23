@@ -1,0 +1,173 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 5
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.931Z",
+  "card": {
+    "in_context": {
+      "text": "This verse is part of Paul's opening thanksgiving (1:4-7). Paul thanks God for Philemon because he keeps hearing of Philemon's love and faith toward the Lord Jesus and toward all the saints. This praise sets up Paul's request that Philemon welcome back Onesimus, now \"a brother beloved\" (1:16).",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "v:1.7",
+        "v:1.16",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, a prisoner of Jesus Christ, writing with Timothy.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, Paul's dearly beloved fellow-worker. The letter also greets Apphia, Archippus, and the church that met in his house.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "\"All saints\" means God's people, the believers. Philemon's love had already refreshed them (1:7). Soon Onesimus would be among them as a brother (1:16).",
+        "sources": [
+          "v:1.5",
+          "v:1.7",
+          "v:1.16",
+          "w:G0040H"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul says what he has heard about Philemon: his love and faith are directed toward the Lord Jesus and toward all believers. Paul is reporting what others have told him, and it moves him to thank God and pray.",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "w:G0191"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul is in prison when he hears these reports and writes. Onesimus has come to faith through him there (1:9-10).",
+        "sources": [
+          "v:1.1",
+          "v:1.9",
+          "v:1.10",
+          "b:writtenFrom"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 60-62, during Paul's imprisonment in Rome, at the same time as Colossians. Scholarly view: nearly all accept that Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison; the letter does not name the city. It is sent to the church in Philemon's house, traditionally at Colossae, though the letter itself does not name the town.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.2"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul praises Philemon's love first because he is about to appeal \"for love's sake\" rather than give an order (1:8-9). A man known for love toward all the saints is asked to show that love to Onesimus.",
+        "sources": [
+          "v:1.5",
+          "v:1.8",
+          "v:1.9",
+          "v:1.10",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul gives the same kind of thanks in other letters: \"your faith in Christ Jesus, and... the love which ye have to all the saints\" (Colossians 1:4; see Ephesians 1:15). 1 John 5:1-2 likewise ties loving God to loving his children.",
+        "sources": [
+          "x:colossians.1.4",
+          "x:ephesians.1.15",
+          "x:1-john.5.1",
+          "x:1-john.5.2",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Faith in Jesus is meant to show itself in love for other believers. Paul hopes that love will now reach Onesimus too (1:16-17).",
+        "sources": [
+          "v:1.5",
+          "v:1.6",
+          "v:1.16",
+          "v:1.17",
+          "b:themes"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0026",
+        "english": "love",
+        "why_it_matters": {
+          "text": "Agapē means love, goodwill, esteem. It is used of people's love for one another and for God. Here it is the love Paul will appeal to when he asks for Onesimus (1:7, 1:9).",
+          "sources": [
+            "w:G0026",
+            "v:1.7",
+            "v:1.9"
+          ]
+        }
+      },
+      {
+        "strong": "G4102G",
+        "english": "faith",
+        "why_it_matters": {
+          "text": "Pistis means faith, belief, trust, confidence. The lexicon notes that in the New Testament it always refers to religious faith, and it lists this verse, with \"toward\" (pros), among its uses.",
+          "sources": [
+            "w:G4102G"
+          ]
+        }
+      },
+      {
+        "strong": "G0040H",
+        "english": "saints",
+        "why_it_matters": {
+          "text": "Hagios means holy, set apart to God. \"Saints\" here simply means God's people, all believers, not a special class. That is why Onesimus could count among them (1:16).",
+          "sources": [
+            "w:G0040H",
+            "x:1-corinthians.16.1",
+            "v:1.16"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul praises a faith in the Lord Jesus that shows itself in love for all God's people. He then asks Philemon to let that love include a returning servant.",
+      "sources": [
+        "v:1.5",
+        "v:1.16",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.for_readers",
+      "reason": "Verse 1:18 is conditional (\"If he hath wronged thee\"). The claim states as fact that Onesimus once wronged Philemon, which overstates the source.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "No cited source describes differing readings. The second view, that \"faith\" toward the saints means faithfulness or loyalty, has no support in the cited sources; the cited lexicon says pistis in the NT always means religious faith.",
+      "fix": "claim removed"
+    }
+  ]
+}

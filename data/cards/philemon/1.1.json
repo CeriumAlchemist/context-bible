@@ -1,0 +1,185 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 1
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.925Z",
+  "card": {
+    "in_context": {
+      "text": "This is the opening line of Paul's short letter to Philemon. Paul names himself and Timothy as senders, and Philemon as the one receiving it. He calls himself a prisoner, which sets the gentle tone of the appeal for Onesimus that follows.",
+      "sources": [
+        "v:1.1",
+        "v:1.9",
+        "v:1.10",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, who calls himself a prisoner of Jesus Christ, writes together with Timothy. Later he signs part of the letter in his own hand.",
+        "sources": [
+          "v:1.1",
+          "v:1.19",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, whom Paul calls dearly beloved and a fellowlabourer. The greeting also includes Apphia, Archippus, and the church that met in Philemon's house.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The letter is mainly about Onesimus, Philemon's servant who had left him and had become a believer through Paul. He is not named in this verse.",
+        "sources": [
+          "v:1.10",
+          "v:1.11",
+          "v:1.15",
+          "b:purpose"
+        ]
+      }
+    },
+    "what": {
+      "text": "A standard letter greeting: who is writing and to whom. Unlike letters where Paul calls himself \"an apostle of Jesus Christ\" (Colossians 1:1; 2 Corinthians 1:1), here he calls himself \"a prisoner of Jesus Christ.\" He uses the same title again in 1:9, where he chooses to plead for love's sake rather than give orders.",
+      "sources": [
+        "v:1.1",
+        "x:colossians.1.1",
+        "x:2-corinthians.1.1",
+        "x:philemon.1.9",
+        "v:1.8",
+        "b:themes"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul is in prison when he writes. Timothy is with him.",
+        "sources": [
+          "v:1.1",
+          "v:1.9",
+          "b:writtenFrom"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 60-62, during Paul's imprisonment in Rome, at the same time as Colossians. Scholarly: nearly all scholars accept that Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison, but the letter does not name the city. Rome is the traditional view. The letter was likely sent to Colossae, since Colossians calls Onesimus \"one of you\" and mentions Archippus.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The greeting opens a personal appeal. Paul asks Philemon to receive Onesimus back \"not now as a servant, but above a servant, a brother beloved.\"",
+        "sources": [
+          "b:purpose",
+          "v:1.16"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul's words of family and partnership (brother, beloved, fellowlabourer) prepare for the letter's main point. In Christ, a servant who had departed comes back as a beloved brother, to be received as Paul himself.",
+        "sources": [
+          "v:1.1",
+          "v:1.15",
+          "v:1.16",
+          "v:1.17",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Paul leads with his chains and his friendship, not his authority. It shows how believers can appeal to one another in love as brothers and fellow workers.",
+        "sources": [
+          "v:1.1",
+          "v:1.8",
+          "v:1.9"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1198",
+        "english": "a prisoner",
+        "why_it_matters": {
+          "text": "The word means one bound or captive. The phrase \"prisoner of Christ\" is also used in Ephesians 3:1 and 2 Timothy 1:8. Paul names his chains as belonging to Christ.",
+          "sources": [
+            "w:G1198",
+            "x:ephesians.3.1",
+            "x:2-timothy.1.8"
+          ]
+        }
+      },
+      {
+        "strong": "G4904",
+        "english": "fellowlabourer",
+        "why_it_matters": {
+          "text": "The word means a fellow-worker. Paul uses it for close partners in the gospel, such as Timothy and Epaphroditus. In 1 Corinthians 3:9 he says believers labour together with God. Calling Philemon this treats him as a partner in the work.",
+          "sources": [
+            "w:G4904",
+            "x:1-thessalonians.3.2",
+            "x:philippians.2.25",
+            "x:1-corinthians.3.9"
+          ]
+        }
+      },
+      {
+        "strong": "G0080",
+        "english": "brother",
+        "why_it_matters": {
+          "text": "Its basic meaning is a brother born of the same parents. It is also used for a neighbour or a member of the same people. Paul uses it for fellow believers like Timothy, and later for Onesimus (1:16).",
+          "sources": [
+            "w:G0080",
+            "v:1.16",
+            "x:colossians.1.1"
+          ]
+        }
+      },
+      {
+        "strong": "G0027",
+        "english": "dearly beloved",
+        "why_it_matters": {
+          "text": "The word means beloved. Christians often used it for one another. It begins the warm family language Paul uses throughout the appeal.",
+          "sources": [
+            "w:G0027",
+            "v:1.2",
+            "v:1.16"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul opens not as a commanding apostle but as Christ's prisoner writing to a beloved friend and co-worker. That tone of love and partnership shapes everything he asks of Philemon.",
+      "sources": [
+        "v:1.1",
+        "v:1.9",
+        "x:colossians.1.1",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.big_picture",
+      "reason": "The sources only say Onesimus 'departed' and 'had left him.' Calling him a 'runaway servant' states one interpretation of why he left as fact, and no cited source says it.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.0",
+      "reason": "The phrase 'not just to Rome' assumes Paul was imprisoned in Rome. The sources say the letter does not name the city, call Rome only the traditional view, and note that some scholars place the imprisonment at Ephesus or Caesarea.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

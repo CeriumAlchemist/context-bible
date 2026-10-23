@@ -1,0 +1,185 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 7
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.973Z",
+  "card": {
+    "in_context": {
+      "text": "This is the third of three warning examples Jude gives of God's judgment, after Israel in the wilderness and the angels who left their place. Sodom, Gomorrha and nearby cities gave themselves to sexual sin and now stand as a warning of judgment by fire. Jude then says the ungodly men troubling his readers act 'likewise.'",
+      "sources": [
+        "v:1.5",
+        "v:1.6",
+        "v:1.7",
+        "v:1.8"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers 'sanctified by God the Father, and preserved in Jesus Christ, and called.' The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients",
+          "b:destination"
+        ]
+      },
+      "affected": {
+        "text": "Sodom, Gomorrha and the cities around them are the example. The ungodly men who had \"crept in unawares\" act \"likewise\" (1:8), and the readers are warned about them.",
+        "sources": [
+          "v:1.4",
+          "v:1.7",
+          "v:1.8"
+        ]
+      }
+    },
+    "what": {
+      "text": "The cities gave themselves over to sexual immorality and went after 'strange flesh.' Their destruction by fire is held up as a warning example of God's punishment. Genesis tells how the LORD rained brimstone and fire on them because their sin was very grievous.",
+      "sources": [
+        "v:1.7",
+        "x:genesis.18.20",
+        "x:genesis.19.24"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The destruction of Sodom and Gomorrah happened in the time of Genesis, long before Jude wrote. Later Scripture looks back on it as a lasting sign of God's anger.",
+        "sources": [
+          "x:genesis.19.24",
+          "x:deuteronomy.29.23",
+          "x:jeremiah.50.40"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly: views range from the 50s to the early second century, and some think a later follower wrote in Jude's name.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Sodom and Gomorrah were settlements in the same area, placed near latitude 31.21, longitude 35.45. Jeremiah calls the surrounding towns their 'neighbour cities.' The letter does not say where it was written or sent.",
+      "sources": [
+        "p:sodom",
+        "p:gomorrah",
+        "x:jeremiah.50.40",
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude wants his readers to see that God judges those who turn his grace into an excuse for immorality. Sodom proves the point, just as the wilderness generation and the fallen angels do.",
+        "sources": [
+          "v:1.4",
+          "v:1.5",
+          "v:1.6",
+          "v:1.7",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Scripture often uses Sodom and Gomorrah as the standard picture of God's judgment. Peter likewise calls them 'an ensample unto those that after should live ungodly.'",
+        "sources": [
+          "x:2-peter.2.6",
+          "x:deuteronomy.29.23",
+          "x:jeremiah.50.40",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "The warning is serious, yet Jude also points his readers to God, who is \"able to keep you from falling\" (1:24), and tells them to keep themselves in his love (1:21).",
+        "sources": [
+          "v:1.20",
+          "v:1.21",
+          "v:1.24"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Readers differ on what 'going after strange flesh' means. Some read it as same-sex relations, comparing Romans 1:26-27. Others link 'in like manner' to the angels of verse 6, who 'left their own habitation,' and read it as crossing the boundary between humans and angels.",
+      "sources": [
+        "v:1.6",
+        "v:1.7",
+        "w:G2087",
+        "x:romans.1.26",
+        "x:romans.1.27"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G1608",
+        "english": "giving themselves over to fornication",
+        "why_it_matters": {
+          "text": "The lexicon calls this a strengthened form of the usual word for fornication, 'implying excessive indulgence': to give oneself up to it. In the New Testament it appears only here.",
+          "sources": [
+            "w:G1608"
+          ]
+        }
+      },
+      {
+        "strong": "G2087",
+        "english": "strange",
+        "why_it_matters": {
+          "text": "The basic meaning is 'other,' often 'the second of a pair.' So the phrase speaks of going after 'other flesh.'",
+          "sources": [
+            "w:G2087"
+          ]
+        }
+      },
+      {
+        "strong": "G1164",
+        "english": "example",
+        "why_it_matters": {
+          "text": "The word means a thing shown, a specimen, and here a warning example. It appears only here, and 2 Peter 2:6 uses a related word for the same cities.",
+          "sources": [
+            "w:G1164",
+            "x:2-peter.2.6"
+          ]
+        }
+      },
+      {
+        "strong": "G0166",
+        "english": "eternal",
+        "why_it_matters": {
+          "text": "Its gloss is 'age-long, eternal.' The same word describes fire in Matthew 18:8 and punishment in Matthew 25:46.",
+          "sources": [
+            "w:G0166"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Jude points to Sodom and Gomorrha as a clear warning that God judges sexual immorality and ungodliness. Believers are called to keep themselves in God's love and trust him to keep them from falling.",
+      "sources": [
+        "v:1.7",
+        "v:1.21",
+        "v:1.24"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.for_readers",
+      "reason": "The cited verses do not say the warning is meant to make believers watchful rather than fearful. That framing is the card's own interpretation, and Jude 1:23 even speaks of saving others 'with fear.'",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "who.affected",
+      "reason": "The cited verses call Sodom an example and say the ungodly men act 'likewise', which implies they face similar judgment. They do not say the example is addressed to those men as a warning. The letter is written to believers, so the readers are the ones being warned about them.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

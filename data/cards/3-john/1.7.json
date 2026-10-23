@@ -1,0 +1,164 @@
+{
+  "ref": {
+    "book": "3-john",
+    "chapter": 1,
+    "verse": 7
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:39:21.967Z",
+  "card": {
+    "in_context": {
+      "text": "Verse 7 gives the reason Gaius should send the travelling brethren on their way in a godly manner (1:6). They had set out for the sake of God's name and took nothing from the Gentiles. So believers like Gaius ought to receive them and become \"fellowhelpers to the truth\" (1:8).",
+      "sources": [
+        "v:1.6",
+        "v:1.7",
+        "v:1.8",
+        "w:G1063"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" the unnamed writer of the letter. Early Christian tradition identifies him as John the apostle.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Gaius, a believer the elder calls \"wellbeloved\" and counts among his children in the faith.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The travelling brethren, Christian workers who went from place to place and depended on churches to house them and send them on.",
+        "sources": [
+          "v:1.5",
+          "v:1.6",
+          "b:setting"
+        ]
+      }
+    },
+    "what": {
+      "text": "The elder explains why these travellers deserve help. They left home for the sake of the name, and they accepted nothing from the Gentiles. In this letter the Gentiles are the people outside the faith. Because they refused support from outsiders, it fell to believers to support them.",
+      "sources": [
+        "v:1.7",
+        "v:1.8",
+        "w:G1831",
+        "w:G2983",
+        "w:G1482"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The travellers' journeys took place in the late first century, while Domitian was emperor (AD 81-96).",
+        "sources": [
+          "b:setting",
+          "b:date"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, around the same time as 1 and 2 John. Scholarly view: most scholars also place it in the late first century, though some think \"the elder\" was a church leader other than the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not name its place of writing or its destination. It went to a church the elder had written to before, likely in the province of Asia. Early tradition places John's last years in Ephesus.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.9"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse supports the elder's praise of Gaius for helping these workers. It also sets up the contrast with Diotrephes, who refused to receive the brethren and threw out those who did.",
+        "sources": [
+          "v:1.6",
+          "v:1.8",
+          "v:1.10",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Other Scripture shows the same pattern. Paul preached the gospel \"freely\" and \"without charge\" and kept himself from being a burden, while other believers supplied his needs. Christ also praises those who labour \"for my name's sake.\"",
+        "sources": [
+          "x:2-corinthians.11.7",
+          "x:2-corinthians.11.9",
+          "x:1-corinthians.9.18",
+          "x:2-corinthians.12.13",
+          "x:revelation.2.3",
+          "x:2-corinthians.4.5"
+        ]
+      },
+      "for_readers": {
+        "text": "These workers took nothing from unbelievers, so their support fell to believers. Those who take such workers in share in their work as \"fellowhelpers to the truth\" (1:8).",
+        "sources": [
+          "v:1.7",
+          "v:1.8",
+          "b:themes"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3686",
+        "english": "name",
+        "why_it_matters": {
+          "text": "The word means the name by which a person is called. Here it stands for the one these workers served. Revelation 2:3 uses it the same way: \"for my name's sake hast laboured.\"",
+          "sources": [
+            "w:G3686",
+            "v:1.7",
+            "x:revelation.2.3"
+          ]
+        }
+      },
+      {
+        "strong": "G1482",
+        "english": "Gentiles",
+        "why_it_matters": {
+          "text": "Used as a noun, the word means \"the Gentile.\" The lexicon notes that it \"describes character rather than mere position.\" Elsewhere it marks people outside the community of faith (Matthew 5:47, 6:7, 18:17). So the point is that the workers took no support from unbelievers.",
+          "sources": [
+            "w:G1482"
+          ]
+        }
+      },
+      {
+        "strong": "G2983",
+        "english": "taking",
+        "why_it_matters": {
+          "text": "The word means to take or lay hold of. Combined with \"nothing\" and \"from,\" it shows that the workers chose to receive no support at all from outsiders.",
+          "sources": [
+            "w:G2983",
+            "w:G3367",
+            "w:G0575"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is the reason behind a command, not a stand-alone saying. Those who go out for Christ's name and refuse support from unbelievers should be received and supported by fellow believers.",
+      "sources": [
+        "v:1.6",
+        "v:1.7",
+        "v:1.8"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.for_readers",
+      "reason": "Verse 7 only describes what these workers did. The cited sources never state a general rule that those who serve for Christ's name should not lean on outsiders, so turning the description into a rule goes beyond them.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

@@ -114,13 +114,7 @@
         ]
       }
     },
-    "christians_differ": {
-      "text": "Some Christian traditions apply the verse directly, discouraging braided hair, gold jewelry, or similar adornment. Others read it as a principle against extravagant or showy dress, with the specific items reflecting the setting at the time. Both views agree that good works and modest character are the main point.",
-      "sources": [
-        "v:2.9",
-        "v:2.10"
-      ]
-    },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G2885",
@@ -202,6 +196,11 @@
       "claim": "in_context",
       "reason": "The cited verse 2:8 says 'without wrath and doubting'. Nothing in the sources mentions quarrelling, so the claim misstates its cited text.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
     }
   ]
 }

@@ -1,0 +1,169 @@
+{
+  "ref": {
+    "book": "3-john",
+    "chapter": 1,
+    "verse": 12
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:39:21.970Z",
+  "card": {
+    "in_context": {
+      "text": "After warning Gaius about Diotrephes and urging him to follow what is good, the elder commends a man named Demetrius. Everyone speaks well of him, the truth itself backs him up, and the elder adds his own witness. Gaius can trust that witness.",
+      "sources": [
+        "v:1.9",
+        "v:1.10",
+        "v:1.11",
+        "v:1.12",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" the unnamed writer of the letter. Early Christian tradition identifies him as John the apostle. Some scholars think he was a different church leader.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Gaius, a believer the elder loves and counts among his children in the faith.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Demetrius, a Christian disciple named only here. He is a different man from the silversmith Demetrius in Acts 19.",
+        "sources": [
+          "v:1.12",
+          "w:G1216"
+        ]
+      }
+    },
+    "what": {
+      "text": "The elder gives Demetrius a threefold recommendation: a good report from all, the witness of the truth itself, and the elder's own record. He then reminds Gaius that his record is true.",
+      "sources": [
+        "v:1.12",
+        "w:G3140",
+        "w:G3141",
+        "w:G0227"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Written while travelling Christian workers depended on churches to house them and send them on. Diotrephes was turning such visitors away.",
+        "sources": [
+          "v:1.7",
+          "v:1.10",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, around the time of 1 and 2 John. Scholarly view: most scholars also place it in the late first century.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written. Early tradition places John's last years in Ephesus. It went to a church where Gaius lived, likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "After the bad example of Diotrephes, the elder points Gaius to a good one. Verse 11 says \"he that doeth good is of God,\" and Demetrius is shown to be such a person.",
+        "sources": [
+          "v:1.10",
+          "v:1.11",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter values walking in the truth. Here a person's life is said to be confirmed by \"the truth itself.\" Other Scripture also uses \"good report\" for trustworthy people, such as Ananias and Cornelius, and asks it of church leaders.",
+        "sources": [
+          "v:1.3",
+          "v:1.4",
+          "x:acts.22.12",
+          "x:acts.10.22",
+          "x:1-timothy.3.7",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "A trustworthy Christian is known by a consistent life that others can witness to and that matches the truth. This is also how believers should walk before outsiders.",
+        "sources": [
+          "v:1.12",
+          "x:1-timothy.3.7",
+          "x:1-thessalonians.4.12"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3140",
+        "english": "hath good report (witness has been given)",
+        "why_it_matters": {
+          "text": "The word means to be a witness or to testify. So Demetrius's \"good report\" is testimony borne about him, not just a passing reputation.",
+          "sources": [
+            "w:G3140",
+            "v:1.12"
+          ]
+        }
+      },
+      {
+        "strong": "G0225",
+        "english": "truth",
+        "why_it_matters": {
+          "text": "The word can mean the reality of a matter, and also sincerity and integrity of character. The same word appears in 3 John 1:3. Here \"the truth itself\" stands as a witness alongside people.",
+          "sources": [
+            "w:G0225",
+            "v:1.3",
+            "v:1.12"
+          ]
+        }
+      },
+      {
+        "strong": "G3141",
+        "english": "record (testimony)",
+        "why_it_matters": {
+          "text": "The word means witness, testimony or evidence. The lexicon lists it in John 19:35 and 21:24, where the same kind of claim is made that the testimony is true.",
+          "sources": [
+            "w:G3141",
+            "x:john.19.35",
+            "x:john.21.24"
+          ]
+        }
+      },
+      {
+        "strong": "G0227",
+        "english": "true",
+        "why_it_matters": {
+          "text": "Used of things, it means true and conforming to reality. The lexicon lists it with John 19:35 and 21:24, which use the same wording about trustworthy witness.",
+          "sources": [
+            "w:G0227",
+            "x:john.19.35",
+            "x:john.21.24"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Demetrius is commended by everyone, by the truth, and by the elder. He stands as a living example of the good that Gaius should follow, in contrast to Diotrephes.",
+      "sources": [
+        "v:1.10",
+        "v:1.11",
+        "v:1.12"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

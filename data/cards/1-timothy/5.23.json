@@ -114,15 +114,7 @@
         ]
       }
     },
-    "christians_differ": {
-      "text": "Christians who favor abstaining from alcohol often read this verse as a medical exception for a sick man that does not support everyday drinking. Christians who allow moderate drinking see it as showing that wine itself is acceptable, in line with 4:4 and Psalm 104:15, as long as it is not abused. Both groups note the limits Paul sets: \"a little,\" and for health.",
-      "sources": [
-        "v:5.23",
-        "x:1-timothy.4.4",
-        "x:psalms.104.15",
-        "x:1-timothy.3.3"
-      ]
-    },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G5202",
@@ -178,5 +170,12 @@
     }
   },
   "problems": [],
-  "unsupported": []
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "christians_differ",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
+    }
+  ]
 }
