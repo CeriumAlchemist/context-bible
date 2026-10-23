@@ -117,15 +117,7 @@
         ]
       }
     },
-    "christians_differ": {
-      "text": "Some Christians (often called complementarians) read the appeal to creation order as grounding a lasting pattern that reserves certain teaching and authority roles in the church for men. Others (often called egalitarians) read verses 12-14 as addressing a particular problem in Ephesus, where false teaching was spreading. They take the creation reference as tied to that situation rather than as a rule for all times.",
-      "sources": [
-        "v:2.12",
-        "v:2.13",
-        "v:2.14",
-        "b:purpose"
-      ]
-    },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G1063",
@@ -172,13 +164,12 @@
       }
     ],
     "takeaway": {
-      "text": "This verse is Paul's reason, drawn from Genesis, for his instruction about women teaching in the Ephesian church. It cannot be understood apart from verse 12. Christians disagree about whether that reason sets a lasting rule or answered a local situation.",
+      "text": "This verse is Paul's reason, drawn from Genesis, for his instruction about women teaching in the church's worship. It cannot be understood apart from verse 12, and it grounds that instruction in the order of creation.",
       "sources": [
         "v:2.12",
         "v:2.13",
         "w:G1063",
-        "x:genesis.2.22",
-        "b:purpose"
+        "x:genesis.2.22"
       ]
     }
   },
@@ -189,6 +180,16 @@
       "claim": "key_words.2",
       "reason": "The lexicon's 'in NT always of Time' applies to the comparative πρότερος, not to πρῶτος, the word in this verse. The claim carries that restriction over to πρῶτος, which the source does not support.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "takeaway",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
     }
   ]
 }

@@ -1,0 +1,156 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 24
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.931Z",
+  "card": {
+    "in_context": {
+      "text": "Near the end of his letter, Paul passes on greetings from the men with him. After naming Epaphras his fellowprisoner, he adds Mark, Aristarchus, Demas and Luke, calling them \"my fellowlabourers.\" The letter then closes with a blessing of grace.",
+      "sources": [
+        "v:1.23",
+        "v:1.24",
+        "v:1.25",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, writing from prison with Timothy, sends these greetings.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, along with Apphia, Archippus and the church that met in his house.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Four of Paul's companions: Mark, Aristarchus, Demas and Luke. The same names appear together in Colossians 4:10-14.",
+        "sources": [
+          "v:1.24",
+          "x:colossians.4.10",
+          "x:colossians.4.14"
+        ]
+      }
+    },
+    "what": {
+      "text": "This is a list of greetings. Paul names four men who are with him and calls them his fellow workers, the same title he gives Philemon at the start of the letter.",
+      "sources": [
+        "v:1.24",
+        "v:1.1",
+        "w:G4904"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The greetings come from Paul's time in prison, while these men were with him.",
+        "sources": [
+          "v:1.1",
+          "v:1.9",
+          "v:1.23"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 60-62, from Rome, at the same time as Colossians. Scholarly view: nearly all scholars accept Paul wrote it, though some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison, but the letter does not name the city; Rome is the traditional view. The letter was sent to Philemon, traditionally at Colossae.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The greetings show Paul surrounded by \"fellowlabourers\" while in prison, and tie the letter to the shared work of the gospel.",
+        "sources": [
+          "v:1.23",
+          "v:1.24",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Other Scripture shows these men's stories over time. Mark had once been the cause of a sharp split between Paul and Barnabas, yet here he is Paul's fellow worker, and later Paul calls him \"profitable to me for the ministry.\" Demas, named here as a fellow worker, later \"hath forsaken me, having loved this present world.\"",
+        "sources": [
+          "x:acts.15.37",
+          "x:acts.15.39",
+          "x:2-timothy.4.11",
+          "x:2-timothy.4.10",
+          "w:G3138",
+          "w:G1214"
+        ]
+      },
+      "for_readers": {
+        "text": "A short list of names shows that Paul did not work alone. The later stories of Mark and Demas show that a person once at odds can be restored, and a faithful worker can later turn away.",
+        "sources": [
+          "v:1.24",
+          "x:2-timothy.4.11",
+          "x:2-timothy.4.10"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4904",
+        "english": "fellowlabourers",
+        "why_it_matters": {
+          "text": "The word means \"a fellow-worker.\" Paul uses it of Philemon in verse 1 and of these four men here, putting them on the same footing in the work.",
+          "sources": [
+            "w:G4904",
+            "v:1.1",
+            "v:1.24"
+          ]
+        }
+      },
+      {
+        "strong": "G3138",
+        "english": "Marcus",
+        "why_it_matters": {
+          "text": "Marcus is a Roman name. Acts names a \"John, whose surname was Mark\" who travelled with Paul and Barnabas, and over whom they later parted (Acts 12:12; 15:37-39).",
+          "sources": [
+            "x:acts.12.12",
+            "x:acts.15.37",
+            "x:acts.15.39"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is a simple greeting, but it names real people working beside Paul. It shows the gospel work was shared, and other Scripture shows these workers' paths did not all end the same way.",
+      "sources": [
+        "v:1.24",
+        "x:2-timothy.4.10",
+        "x:2-timothy.4.11"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.purpose",
+      "reason": "No cited source says these men know Philemon or that the greetings place Paul's appeal within a circle of believers acquainted with him. The verses only list names and titles, so this reading of the greetings' purpose is interpretation beyond the text.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.1",
+      "reason": "The cited lexicon entry is for the name John and only lists 'John surnamed Mark' among several Johns. It does not mention Philemon 24 or say that the Mark here is John Mark, so the claim that 'the lexicon identifies this Mark' overstates the source.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

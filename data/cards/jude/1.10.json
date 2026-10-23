@@ -1,0 +1,167 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 10
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.964Z",
+  "card": {
+    "in_context": {
+      "text": "Jude has just said that even Michael the archangel did not dare bring a railing accusation against the devil (1:9). By contrast, these intruders mock what they do not understand. The things they do grasp, by bare instinct like animals, are the very things that ruin them.",
+      "sources": [
+        "v:1.9",
+        "v:1.10",
+        "v:1.8"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James. Tradition identifies him as one of Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers whom Jude calls sanctified, preserved and called. The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The \"certain men crept in unawares\" among the believers. They turned God's grace into lasciviousness, defiled the flesh and spoke evil of dignities.",
+        "sources": [
+          "v:1.4",
+          "v:1.8"
+        ]
+      }
+    },
+    "what": {
+      "text": "Jude charges the false teachers with two faults. They speak evil of heavenly things beyond their understanding, which Michael would not do. And they live only by animal instinct, and that instinct destroys them. 2 Peter 2:12 makes the same charge in almost the same words.",
+      "sources": [
+        "v:1.8",
+        "v:1.9",
+        "v:1.10",
+        "x:2-peter.2.12"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse describes what the false teachers were doing among the readers at the time Jude wrote.",
+        "sources": [
+          "v:1.4",
+          "v:1.10"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly: views range from the 50s to the early second century, and some think a later follower wrote in Jude's name.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or where its readers lived. Its many references to Israel's history suggest readers who knew Jewish tradition well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude writes to expose ungodly men who had slipped in, and to urge believers to earnestly contend for the faith once delivered to the saints.",
+        "sources": [
+          "v:1.3",
+          "v:1.4",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "This verse is part of Jude's portrait of the ungodly, set among Israel's examples of judgment. It shows that despising God's order leads to self-destruction, and the next verse pronounces woe on them.",
+        "sources": [
+          "b:outline",
+          "v:1.5",
+          "v:1.11",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Jude sets these men, who \"speak evil of those things which they know not,\" against what believers should do: build themselves up in faith and keep themselves in the love of God (1:20-21).",
+        "sources": [
+          "v:1.10",
+          "v:1.20",
+          "v:1.21"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0987",
+        "english": "speak evil of",
+        "why_it_matters": {
+          "text": "The lexicon defines this word as speaking lightly or profanely of sacred things, to blaspheme. The same word is used in the parallel at 2 Peter 2:12. The charge is irreverent talk about holy things, not merely rudeness.",
+          "sources": [
+            "w:G0987",
+            "x:2-peter.2.12"
+          ]
+        }
+      },
+      {
+        "strong": "G5447",
+        "english": "naturally",
+        "why_it_matters": {
+          "text": "It means \"naturally, by nature,\" and the lexicon lists only this verse for it. The knowledge Jude grants them is mere instinct, not spiritual understanding. This fits his later description of them as \"sensual, having not the Spirit\" (1:19).",
+          "sources": [
+            "w:G5447",
+            "v:1.19"
+          ]
+        }
+      },
+      {
+        "strong": "G0249",
+        "english": "brute",
+        "why_it_matters": {
+          "text": "It means \"without reason, irrational,\" and is used with \"animals\" here and in 2 Peter 2:12. Jude compares these men to creatures acting without reason.",
+          "sources": [
+            "w:G0249",
+            "w:G2226",
+            "x:2-peter.2.12"
+          ]
+        }
+      },
+      {
+        "strong": "G5351",
+        "english": "corrupt themselves",
+        "why_it_matters": {
+          "text": "The word means to destroy, corrupt or spoil. So their instincts both corrupt and ruin them. 2 Peter 2:12 says such men \"shall utterly perish in their own corruption.\"",
+          "sources": [
+            "w:G5351",
+            "x:2-peter.2.12"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Mocking spiritual things we do not understand is not boldness but foolishness. Living by instinct alone leads to ruin. Other Scripture agrees that those who profess themselves wise without honoring God become fools.",
+      "sources": [
+        "v:1.10",
+        "x:romans.1.21",
+        "x:romans.1.22"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.for_readers",
+      "reason": "The cited verses (1:20-21) only tell readers to build themselves up in faith and keep themselves in God's love. Neither cited verse contains a warning not to follow those who mock what they do not understand.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

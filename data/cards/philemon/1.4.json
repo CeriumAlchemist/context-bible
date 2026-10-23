@@ -1,0 +1,150 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 4
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.934Z",
+  "card": {
+    "in_context": {
+      "text": "Right after his greeting, Paul begins the letter by telling Philemon that he thanks God for him and remembers him in prayer. This opens the thanksgiving section (1:4-7), which praises Philemon's love and faith. It prepares for Paul's request about Onesimus that follows (1:8-21).",
+      "sources": [
+        "v:1.3",
+        "v:1.4",
+        "v:1.5",
+        "v:1.7",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, who calls himself a prisoner of Jesus Christ, writing with Timothy.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, Paul's dearly beloved fellow-worker. The letter is also addressed to Apphia, Archippus, and the church in Philemon's house. The \"thee\" in this verse is singular, pointing to Philemon.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients",
+          "w:G4771"
+        ]
+      },
+      "affected": null
+    },
+    "what": {
+      "text": "Paul says he gives thanks to his God and always mentions Philemon when he prays. The next verse gives the reason: he hears of Philemon's love and faith toward the Lord Jesus and all the saints.",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "w:G2168",
+        "w:G3417"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Paul is in prison as he writes and prays (1:1, 1:9-10). The letter does not say where.",
+        "sources": [
+          "v:1.1",
+          "v:1.9",
+          "b:writtenFrom"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 60-62, during Paul's imprisonment in Rome, at the same time as Colossians. Scholarly: nearly all accept Paul wrote it; some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison; the city is not named, with Rome the traditional view. The letter went to Philemon, likely at Colossae, though the letter itself does not name the town.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul thanks God for Philemon's faith and love before he makes his appeal. He then appeals for love's sake rather than by command (1:8-9).",
+        "sources": [
+          "v:1.5",
+          "v:1.7",
+          "v:1.8",
+          "v:1.9",
+          "b:themes"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul often opens his letters by thanking God and naming his readers in prayer. He does so in Romans 1:8, Philippians 1:3, Colossians 1:3, 1 Thessalonians 1:2, and 2 Timothy 1:3. These openings show his steady habit of prayer for the churches and people he loved.",
+        "sources": [
+          "x:romans.1.8",
+          "x:philippians.1.3",
+          "x:colossians.1.3",
+          "x:1-thessalonians.1.2",
+          "x:2-timothy.1.3",
+          "x:ephesians.1.16"
+        ]
+      },
+      "for_readers": {
+        "text": "Thanking God for other believers and praying for them by name is part of ordinary Christian love. Paul did this even while in prison.",
+        "sources": [
+          "v:1.4",
+          "v:1.9",
+          "x:2-thessalonians.1.3"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3417",
+        "english": "mention",
+        "why_it_matters": {
+          "text": "The word means remembrance or mention. The same phrase, \"making mention,\" appears in Paul's prayers in Romans 1:9, Ephesians 1:16, and 1 Thessalonians 1:2. It shows Paul naming Philemon before God in prayer.",
+          "sources": [
+            "w:G3417",
+            "x:ephesians.1.16",
+            "x:1-thessalonians.1.2"
+          ]
+        }
+      },
+      {
+        "strong": "G2168",
+        "english": "I thank",
+        "why_it_matters": {
+          "text": "It means to be thankful or give thanks. With \"to God\" it is also used in Philippians 1:3 and Colossians 1:3, where Paul likewise opens by thanking God for his readers.",
+          "sources": [
+            "w:G2168",
+            "x:philippians.1.3",
+            "x:colossians.1.3"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Before asking Philemon for anything, Paul tells him that he thanks God for him and prays for him always. His appeal grows out of prayer and gratitude for Philemon's love and faith.",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "v:1.8",
+        "v:1.9"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.purpose",
+      "reason": "The sources show Paul thanks God for Philemon's love and faith and then appeals for love's sake, but nothing cited speaks to whether the thanksgiving is 'honest' or sincere. That judgment about Paul's motive goes beyond the sources.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "ref": {
+    "book": "3-john",
+    "chapter": 1,
+    "verse": 6
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:39:21.971Z",
+  "card": {
+    "in_context": {
+      "text": "The elder praises Gaius for his faithful care of travelling believers, even strangers (1:5). Those travellers have told the church about Gaius's love. Now the elder asks him to send them on their next journey in a way worthy of God.",
+      "sources": [
+        "v:1.5",
+        "v:1.6",
+        "w:G4311",
+        "w:G0516"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" the unnamed writer of 2 and 3 John. Early Christian tradition identifies him as John the apostle.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Gaius, a believer the elder loves and counts among his children in the faith.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The travelling brethren and strangers Gaius has hosted. They went out for Christ's name and took nothing from the Gentiles.",
+        "sources": [
+          "v:1.5",
+          "v:1.7",
+          "b:setting"
+        ]
+      }
+    },
+    "what": {
+      "text": "The travellers have testified before the church about Gaius's love. The elder says Gaius will do well to help them on their way, supplying what they need for the next stage, \"after a godly sort,\" that is, worthily of God.",
+      "sources": [
+        "v:1.6",
+        "w:G3140",
+        "w:G0026",
+        "w:G4311",
+        "w:G0516",
+        "x:titus.3.13"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Travelling Christian workers had visited Gaius, then reported his love to the church. The text does not give the exact time.",
+        "sources": [
+          "v:1.5",
+          "v:1.6",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 85-95, near the time of 1 and 2 John. Scholarly: most also place it in the late first century, though some think the elder was a church leader other than the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not name a place. Gaius lived near a church the elder had written to, likely in the province of Asia. Early tradition places John's last years in Ephesus.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom",
+        "v:1.9"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The elder commends Gaius's hospitality and urges him to keep supporting gospel workers. This stands in contrast to Diotrephes, who refused to receive the brethren and cast out those who did.",
+        "sources": [
+          "b:purpose",
+          "v:1.8",
+          "v:1.10"
+        ]
+      },
+      "big_picture": {
+        "text": "Sending believers on their way was a common practice in the early church. Titus is told to bring Zenas and Apollos on their journey diligently, and churches brought travelling believers on their way (Acts 15:3; 21:5).",
+        "sources": [
+          "x:titus.3.13",
+          "x:acts.15.3",
+          "x:acts.21.5",
+          "w:G4311"
+        ]
+      },
+      "for_readers": {
+        "text": "Supporting those who carry the gospel makes believers \"fellowhelpers to the truth.\" Such help should be given in a manner worthy of God, as believers are called to walk worthy of God.",
+        "sources": [
+          "v:1.8",
+          "x:1-thessalonians.2.12",
+          "x:colossians.1.10"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4311",
+        "english": "bring forward on their journey",
+        "why_it_matters": {
+          "text": "The word means to set forward on a journey or escort. It is used of churches sending believers on their way (Acts 15:3; Titus 3:13), so it points to practical help for the next stage of travel, not just a farewell.",
+          "sources": [
+            "w:G4311",
+            "x:acts.15.3",
+            "x:titus.3.13"
+          ]
+        }
+      },
+      {
+        "strong": "G0516",
+        "english": "after a godly sort (worthily)",
+        "why_it_matters": {
+          "text": "The word means \"worthily.\" The same phrase, worthily of God, appears in 1 Thessalonians 2:12, so the standard for Gaius's help is what fits God himself.",
+          "sources": [
+            "w:G0516",
+            "x:1-thessalonians.2.12",
+            "x:colossians.1.10"
+          ]
+        }
+      },
+      {
+        "strong": "G0026",
+        "english": "charity (love)",
+        "why_it_matters": {
+          "text": "The word is agapē, love or goodwill, used of believers' love for one another. The \"charity\" here is Gaius's love shown in hospitality, not merely giving alms.",
+          "sources": [
+            "w:G0026",
+            "v:1.5"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Faithful love shows itself in practical care for those serving Christ. That care should send them on their way as God himself would be honored.",
+      "sources": [
+        "v:1.5",
+        "v:1.6",
+        "v:1.8",
+        "w:G0516"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.big_picture",
+      "reason": "The cited sources never name Paul. Titus 3:13 is quoted without naming its author, and Acts 15:3 and 21:5 do not mention Paul. Calling it Paul's request and saying churches brought 'Paul' on his way goes beyond the cited text.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 6
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.968Z",
+  "card": {
+    "in_context": {
+      "text": "Jude gives a second example of God's judgment, after Israel in the wilderness (1:5) and before Sodom and Gomorrha (1:7). Some angels did not keep their original place and abandoned their own dwelling, so God now keeps them chained in darkness until the final judgment. The point is a warning about the ungodly men who had crept into the church (1:4).",
+      "sources": [
+        "v:1.5",
+        "v:1.6",
+        "v:1.7",
+        "v:1.4"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James. Tradition holds he is the Judas named among Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers who are \"sanctified,\" \"preserved\" and \"called.\" The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The verse speaks of angels who left their place. Jude uses them as a picture of the ungodly men among his readers, who also \"despise dominion\" (1:8).",
+        "sources": [
+          "v:1.6",
+          "v:1.4",
+          "v:1.8"
+        ]
+      }
+    },
+    "what": {
+      "text": "This is a statement of judgment. Angels who did not keep their position, but deserted their home, are held by God in everlasting chains under darkness until \"the judgment of the great day.\" 2 Peter 2:4 gives the same picture: angels that sinned, delivered into chains of darkness and reserved unto judgment.",
+      "sources": [
+        "v:1.6",
+        "x:2-peter.2.4"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The angels' fall lies in the past, and the text does not say when it happened. Their final judgment is still future, at \"the great day.\" 2 Peter 2:9 likewise speaks of the unjust being reserved unto the day of judgment.",
+        "sources": [
+          "v:1.6",
+          "x:2-peter.2.9"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or sent. The verse places the angels only \"under darkness.\" 2 Peter 2:4 says they were cast down to hell.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.6",
+        "x:2-peter.2.4"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude reminds his readers that God judges rebellion, even among angels. He wants them to see what awaits the ungodly men who turned grace into lasciviousness and denied the Lord.",
+        "sources": [
+          "v:1.4",
+          "v:1.5",
+          "b:purpose",
+          "b:themes"
+        ]
+      },
+      "big_picture": {
+        "text": "Other Scripture also speaks of fallen spiritual powers awaiting judgment. Jesus speaks of everlasting fire \"prepared for the devil and his angels,\" and evil spirits ask whether he has come to torment them \"before the time.\"",
+        "sources": [
+          "x:matthew.25.41",
+          "x:matthew.8.29",
+          "x:revelation.20.10"
+        ]
+      },
+      "for_readers": {
+        "text": "The angels did not keep their place, so God keeps them for judgment. Jude tells believers to \"keep yourselves in the love of God\" (1:21), and he trusts God, who is able to keep them from falling (1:24).",
+        "sources": [
+          "v:1.6",
+          "v:1.21",
+          "v:1.24"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "The verse does not name the angels' sin beyond leaving their place. Verse 7 says Sodom and the cities sinned \"in like manner,\" going after strange flesh. Some readers take this to mean the angels' sin was of a similar kind, while others read it as a general rebellion against their God-given position, like the devil who \"abode not in the truth.\"",
+      "sources": [
+        "v:1.6",
+        "v:1.7",
+        "x:john.8.44"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G5083H",
+        "english": "reserved (kept)",
+        "why_it_matters": {
+          "text": "This is the same verb, \"to keep, guard, preserve,\" used of the angels who did not keep their place earlier in the verse. The angels did not keep what was theirs, so God keeps them for judgment. The verb appears again in Jude 21, \"keep yourselves in the love of God.\"",
+          "sources": [
+            "w:G5083H",
+            "w:G5083G",
+            "v:1.6",
+            "v:1.21"
+          ]
+        }
+      },
+      {
+        "strong": "G0746",
+        "english": "first estate",
+        "why_it_matters": {
+          "text": "The word here is ἀρχή, which the lexicon glosses \"domain\" in this verse. Its basic sense is \"beginning, origin.\" It points to the original position the angels had been given.",
+          "sources": [
+            "w:G0746"
+          ]
+        }
+      },
+      {
+        "strong": "G0620",
+        "english": "left",
+        "why_it_matters": {
+          "text": "Besides \"to leave behind,\" the lexicon gives the sense \"to desert, abandon,\" and it lists Jude 6 under that meaning. The angels did not merely drift away. They walked out of their place.",
+          "sources": [
+            "w:G0620"
+          ]
+        }
+      },
+      {
+        "strong": "G3613",
+        "english": "habitation",
+        "why_it_matters": {
+          "text": "The word means a dwelling or habitation. The lexicon's only other New Testament use is 2 Corinthians 5:2, used in a figurative sense. The angels abandoned the home that was \"their own.\"",
+          "sources": [
+            "w:G3613",
+            "w:G2398"
+          ]
+        }
+      },
+      {
+        "strong": "G0126",
+        "english": "everlasting",
+        "why_it_matters": {
+          "text": "The word means \"everlasting.\" The lexicon lists only one other New Testament use, Romans 1:20. It describes the chains as lasting, not temporary.",
+          "sources": [
+            "w:G0126"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Even angels who abandoned their God-given place are held for judgment, so no one should treat God's grace as license. Believers are called to keep themselves in God's love, and God is able to keep them.",
+      "sources": [
+        "v:1.6",
+        "v:1.4",
+        "v:1.21",
+        "v:1.24"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

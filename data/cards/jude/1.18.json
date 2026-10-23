@@ -1,0 +1,184 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 18
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.965Z",
+  "card": {
+    "in_context": {
+      "text": "Jude reminds his readers that the apostles had warned of mockers in the last time who would live by their own ungodly desires. The next verse says \"These be they\": the men who had crept into the church were that very warning coming true. So the verse explains the trouble the readers already faced, then leads into Jude's call to stay built up in faith.",
+      "sources": [
+        "v:1.17",
+        "v:1.18",
+        "v:1.19",
+        "v:1.4",
+        "v:1.20"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, \"the servant of Jesus Christ, and brother of James,\" is writing. He is passing on what \"the apostles of our Lord Jesus Christ\" had said before.",
+        "sources": [
+          "v:1.1",
+          "v:1.17",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers Jude calls \"beloved,\" who are \"sanctified by God the Father, and preserved in Jesus Christ.\" The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "v:1.17",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The mockers are the \"ungodly men\" who had \"crept in unawares,\" turning God's grace into an excuse for immorality. Jude says they separate themselves and do not have the Spirit.",
+        "sources": [
+          "v:1.4",
+          "v:1.16",
+          "v:1.19"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse states the apostles' warning: in the last time there would be mockers driven by their own ungodly desires. 2 Peter gives almost the same warning: \"there shall come in the last days scoffers, walking after their own lusts,\" and 1 and 2 Timothy warn that some would depart from the faith and follow \"their own lusts.\"",
+      "sources": [
+        "v:1.18",
+        "x:2-peter.3.3",
+        "x:1-timothy.4.1",
+        "x:2-timothy.4.3"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The apostles had spoken this warning earlier (\"spoken before\"). Jude sees it being fulfilled in his own day, among his readers.",
+        "sources": [
+          "v:1.17",
+          "v:1.19",
+          "v:1.4"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some scholars think a later follower wrote in Jude's name, while others defend Jude's authorship.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The text does not say where Jude wrote from or where his readers lived. Its many references to Israel's history suggest readers who knew Jewish tradition well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude wants his readers not to be shaken by these men. The apostles had already said such people would come. Knowing that, the readers can keep contending for the faith and keep themselves in God's love.",
+        "sources": [
+          "v:1.3",
+          "v:1.17",
+          "v:1.20",
+          "v:1.21",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Across the New Testament, the apostles warned that false teachers and ungodly people would rise among believers. 2 Peter 2:1 says \"there shall be false teachers among you,\" and 2 Timothy 3:1 speaks of \"perilous times\" in the last days. Jude's verse is one of these shared warnings.",
+        "sources": [
+          "x:2-peter.2.1",
+          "x:2-timothy.3.1",
+          "x:2-peter.3.3",
+          "b:setting"
+        ]
+      },
+      "for_readers": {
+        "text": "Mockery and self-serving teaching inside a church do not mean God's plan has failed; they were foretold. Jude's answer is to build up in faith, pray, keep in God's love, and show compassion (1:20-23).",
+        "sources": [
+          "v:1.18",
+          "v:1.20",
+          "v:1.21",
+          "v:1.22",
+          "v:1.23",
+          "v:1.24"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G1703",
+        "english": "mockers",
+        "why_it_matters": {
+          "text": "The lexicon defines it as \"a mocker\" and lists only two New Testament uses: here and 2 Peter 3:3. That ties Jude's warning directly to Peter's words about scoffers in the last days.",
+          "sources": [
+            "w:G1703",
+            "x:2-peter.3.3"
+          ]
+        }
+      },
+      {
+        "strong": "G2078",
+        "english": "last",
+        "why_it_matters": {
+          "text": "The lexicon places this phrase with others about the Messianic age, such as \"last days\" (Heb 1:2) and \"last hour\" (1 Jn 2:18). Jude uses it for his own time, since he says the mockers are already present.",
+          "sources": [
+            "w:G2078",
+            "v:1.19"
+          ]
+        }
+      },
+      {
+        "strong": "G0763",
+        "english": "ungodly",
+        "why_it_matters": {
+          "text": "The word means \"ungodliness, impiety.\" The lexicon reads the phrase here as \"desires for ungodly things or deeds.\" It repeats the \"ungodly\" theme of Enoch's prophecy in verse 15.",
+          "sources": [
+            "w:G0763",
+            "v:1.15"
+          ]
+        }
+      },
+      {
+        "strong": "G1939",
+        "english": "lusts",
+        "why_it_matters": {
+          "text": "The word means desire or longing, often desire for forbidden things. The same word is used in 2 Timothy 4:3 of people who follow \"their own lusts.\" The mockers' problem is that they are ruled by their own wants.",
+          "sources": [
+            "w:G1939",
+            "x:2-timothy.4.3",
+            "v:1.16"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Jude tells believers that the mockers among them were exactly what the apostles had foretold. The right response is to remember those words, stay rooted in the faith, and trust God, who is \"able to keep you from falling.\"",
+      "sources": [
+        "v:1.17",
+        "v:1.18",
+        "v:1.20",
+        "v:1.24"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "what",
+      "reason": "The cited sources only label the verses as '2 Peter' and '1/2 Timothy'. They never name Paul (or Peter) as the author. Stating 'Paul likewise warned' presents a disputed traditional authorship as fact.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "why.for_readers",
+      "reason": "Verse 22 says only 'of some have compassion, making a difference'. Nothing in the cited text identifies these people as 'those wavering', so that phrase is an interpretive addition.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 14
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.962Z",
+  "card": {
+    "in_context": {
+      "text": "Jude has just described the ungodly men who crept into the church with vivid pictures of judgment (1:4-13). Now he brings in Enoch, 'the seventh from Adam,' as a witness who long ago foretold that the Lord would come with vast numbers of his holy ones. The prophecy continues in the next verse: the Lord comes to judge and convict the ungodly for their deeds and words (1:15).",
+      "sources": [
+        "v:1.4",
+        "v:1.13",
+        "v:1.14",
+        "v:1.15"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, 'the servant of Jesus Christ, and brother of James,' is writing. He quotes a prophecy he credits to Enoch.",
+        "sources": [
+          "v:1.1",
+          "v:1.14",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers who are 'sanctified by God the Father, and preserved in Jesus Christ, and called.' The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "'These' are the ungodly men Jude has been describing. They turned God's grace into an excuse for immorality and denied the Lord (1:4). The prophecy is about them.",
+        "sources": [
+          "v:1.4",
+          "v:1.14",
+          "w:G3778",
+          "v:1.16"
+        ]
+      }
+    },
+    "what": {
+      "text": "Jude says Enoch prophesied about men like these. The prophecy announces that the Lord comes with 'ten thousands of his saints' to judge the ungodly. Older Scripture uses the same picture of the LORD coming with ten thousands of saints (Deuteronomy 33:2).",
+      "sources": [
+        "v:1.14",
+        "v:1.15",
+        "x:deuteronomy.33.2"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Enoch lived in the earliest generations, seventh in line from Adam (Genesis 5:18). The judgment he foretold is the Lord's coming, which other letters link to the coming of the Lord Jesus.",
+        "sources": [
+          "v:1.14",
+          "w:G1802",
+          "w:G1442",
+          "x:1-thessalonians.3.13",
+          "x:2-thessalonians.1.7"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or where it was sent. Its many references to Israel's history and Jewish tradition suggest readers who knew them well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude uses Enoch's words to show that judgment on such ungodly people was announced long ago. This backs up his call to 'earnestly contend for the faith' (1:3).",
+        "sources": [
+          "v:1.3",
+          "v:1.4",
+          "v:1.14",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "This is the last in a chain of examples showing that God judges: Israel in the wilderness, the angels who left their place, Sodom and Gomorrha. The prophecy Jude quotes is also found in a Jewish writing outside the Bible, 1 Enoch.",
+        "sources": [
+          "v:1.5",
+          "v:1.6",
+          "v:1.7",
+          "b:setting",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "The Lord will come with judgment on the ungodly. Jude's call to his readers while they wait is to build up their faith, pray in the Holy Ghost, and keep themselves in God's love (1:20-21).",
+        "sources": [
+          "v:1.14",
+          "v:1.15",
+          "v:1.20",
+          "v:1.21"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Readers differ on who the 'saints' (holy ones) coming with the Lord are. Some see them as angels, pointing to 2 Thessalonians 1:7, where the Lord comes 'with his mighty angels.' Others see them as God's people, or both, pointing to 1 Thessalonians 3:13, where he comes 'with all his saints.'",
+      "sources": [
+        "v:1.14",
+        "w:G0040H",
+        "x:2-thessalonians.1.7",
+        "x:1-thessalonians.3.13",
+        "x:psalms.50.5"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G4395",
+        "english": "prophesied",
+        "why_it_matters": {
+          "text": "The lexicon defines it mainly as telling forth God's counsels, and only sometimes as foretelling. It lists this verse among uses introduced by 'saying.' Enoch is presented as speaking God's message about the ungodly.",
+          "sources": [
+            "w:G4395",
+            "v:1.14"
+          ]
+        }
+      },
+      {
+        "strong": "G3461",
+        "english": "ten thousands (myriads)",
+        "why_it_matters": {
+          "text": "The word means ten thousand, a myriad. The lexicon places this verse with uses that stand for vast numbers. The point is an immense company, not an exact count.",
+          "sources": [
+            "w:G3461",
+            "x:deuteronomy.33.2"
+          ]
+        }
+      },
+      {
+        "strong": "G0040H",
+        "english": "saints (holy ones)",
+        "why_it_matters": {
+          "text": "The word means holy, set apart to God. The lexicon notes it is used of angels (1 Thessalonians 3:13), as well as of prophets and apostles.",
+          "sources": [
+            "w:G0040H",
+            "x:1-thessalonians.3.13"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Jude 1:14 does not stand alone. It brings in an ancient witness to show that the Lord will come with a vast holy company to judge the ungodly people Jude warns about. Its comfort for believers is that God will act, so they can hold to the faith and stay in his love.",
+      "sources": [
+        "v:1.14",
+        "v:1.15",
+        "v:1.21",
+        "v:1.24"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.for_readers",
+      "reason": "The cited verses (1:14-15, 1:20-21) do not mention mockers of the faith (that is 1:18, not cited). They also don't say believers need not fear. That reassurance is the card's own addition, not something the text states.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

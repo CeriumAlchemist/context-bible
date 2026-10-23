@@ -1,0 +1,143 @@
+{
+  "ref": {
+    "book": "3-john",
+    "chapter": 1,
+    "verse": 13
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:39:21.968Z",
+  "card": {
+    "in_context": {
+      "text": "This verse begins the elder's closing words to Gaius. He says he had much more to say, but did not want to put it all in ink and pen. In the next verse he explains why: he hopes to see Gaius soon and speak face to face.",
+      "sources": [
+        "v:1.13",
+        "v:1.14",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" the unnamed writer of this letter and of 2 John. Early Christian tradition identifies him as John the apostle.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Gaius, a believer the elder calls \"wellbeloved\" and counts among his children in the faith.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "b:recipients"
+        ]
+      },
+      "affected": null
+    },
+    "what": {
+      "text": "The elder stops writing on purpose. He still has many things to say, but he chooses to save them for a personal visit rather than a longer letter.",
+      "sources": [
+        "v:1.13",
+        "v:1.14"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse comes after the elder has praised Gaius, warned about Diotrephes, and commended Demetrius. He expects to visit Gaius \"shortly.\"",
+        "sources": [
+          "v:1.3",
+          "v:1.9",
+          "v:1.10",
+          "v:1.12",
+          "v:1.14"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, around the same time as 1 and 2 John. Scholarly view: most scholars also place it in the late first century, though some think \"the elder\" was a church leader other than the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written. Early tradition places John's last years in Ephesus. Gaius lived in a church the elder had written to before, likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.9"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The elder wants to deal with the remaining matters in person. He had already said he would come and address Diotrephes's deeds, so some things were better handled face to face.",
+        "sources": [
+          "v:1.10",
+          "v:1.13",
+          "v:1.14"
+        ]
+      },
+      "big_picture": {
+        "text": "The same ending appears in 2 John 1:12, where the elder also prefers to speak face to face \"that our joy may be full.\" For this writer, a letter served the relationship but did not replace being together.",
+        "sources": [
+          "x:2-john.1.12",
+          "v:1.13",
+          "v:1.14"
+        ]
+      },
+      "for_readers": {
+        "text": "Some things are best said in person, not in writing. The elder's care for Gaius shows in his wish to come and speak with him directly.",
+        "sources": [
+          "v:1.1",
+          "v:1.14",
+          "x:2-john.1.12"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3188",
+        "english": "ink",
+        "why_it_matters": {
+          "text": "The word means \"black\"; used as a noun it means ink. The lexicon lists it in 2 Corinthians 3:3, 2 John 12, and here, which ties this closing to the matching ending of 2 John.",
+          "sources": [
+            "w:G3188",
+            "x:2-john.1.12"
+          ]
+        }
+      },
+      {
+        "strong": "G2563",
+        "english": "pen",
+        "why_it_matters": {
+          "text": "The basic meaning is a reed. A cut reed was used as a staff, a measuring rod, or a writing pen, and the lexicon lists this verse for the writing pen.",
+          "sources": [
+            "w:G2563"
+          ]
+        }
+      },
+      {
+        "strong": "G2309",
+        "english": "I desire",
+        "why_it_matters": {
+          "text": "The word means to will, be willing, wish, or desire. The elder is describing his own choice not to write more.",
+          "sources": [
+            "w:G2309",
+            "v:1.13"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is a warm, personal sign-off, not a teaching about writing. The elder holds back further words because he hopes to see Gaius soon and talk face to face.",
+      "sources": [
+        "v:1.13",
+        "v:1.14",
+        "x:2-john.1.12"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

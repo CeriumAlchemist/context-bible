@@ -1,0 +1,151 @@
+{
+  "ref": {
+    "book": "2-john",
+    "chapter": 1,
+    "verse": 2
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:50:24.563Z",
+  "card": {
+    "in_context": {
+      "text": "Verse 2 finishes the greeting of verse 1. The elder says he and all who know the truth love the lady and her children because of the truth, which lives in believers and will stay with them for ever. Love and truth are tied together from the letter's first lines.",
+      "sources": [
+        "v:1.1",
+        "v:1.2",
+        "v:1.3",
+        "b:themes"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" who does not give his name. Early Christian tradition identifies him as John the apostle. Some scholars think he was a different church leader.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "\"The elect lady and her children.\" This may be a Christian woman and her family, or a figurative name for a local church and its members. The letter does not say which.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The \"us\" in whom the truth dwells takes in the elder, the readers, and \"all they that have known the truth.\"",
+        "sources": [
+          "v:1.1",
+          "v:1.2"
+        ]
+      }
+    },
+    "what": {
+      "text": "The elder explains why believers love one another: for the sake of the truth they share. That truth is not only something they hold. It \"dwelleth in us,\" literally \"is abiding,\" and it will be with them for ever.",
+      "sources": [
+        "v:1.1",
+        "v:1.2",
+        "w:G3306",
+        "w:G1223"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This is part of a letter greeting, written when travelling teachers who denied that Jesus Christ had come in the flesh were visiting churches.",
+        "sources": [
+          "b:setting",
+          "v:1.7"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, late in John's life. Scholarly view: most scholars also place it in the late first century.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or sent. Early tradition places John's last years in Ephesus, and the readers were likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse grounds the letter's call to love in shared truth. This prepares for the later warning not to welcome teachers who do not bring the doctrine of Christ.",
+        "sources": [
+          "v:1.2",
+          "v:1.5",
+          "v:1.9",
+          "v:1.10",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "John's letters often speak of God's word or truth abiding in believers. \"The word of God abideth in you\" (1 John 2:14). Jesus says, \"my words abide in you\" (John 15:7). John also says that he who does God's will \"abideth for ever\" (1 John 2:17).",
+        "sources": [
+          "x:1-john.2.14",
+          "x:john.15.7",
+          "x:1-john.2.17",
+          "w:G3306"
+        ]
+      },
+      "for_readers": {
+        "text": "Christian love here rests on the truth about Christ that believers share. That truth is a lasting presence within them, not a passing opinion.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "v:1.9"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0225",
+        "english": "truth",
+        "why_it_matters": {
+          "text": "The lexicon gives \"truth.\" It can mean religious truth and Christian doctrine, and also truthfulness and integrity of character. In this letter, truth is tied to \"the doctrine of Christ\" (1:9).",
+          "sources": [
+            "w:G0225",
+            "v:1.9"
+          ]
+        }
+      },
+      {
+        "strong": "G3306",
+        "english": "dwelleth (is abiding)",
+        "why_it_matters": {
+          "text": "The word means to stay, abide, or remain. The lexicon cites this very verse for truth abiding. It also lists God's word abiding in believers (1 John 2:14), which shows the truth as a settled presence.",
+          "sources": [
+            "w:G3306",
+            "x:1-john.2.14"
+          ]
+        }
+      },
+      {
+        "strong": "G0165H",
+        "english": "for ever (age)",
+        "why_it_matters": {
+          "text": "The word means an age or an indefinitely long period, eternity. Here it is used with a preposition to say the truth will be with believers without end.",
+          "sources": [
+            "w:G0165H",
+            "w:G1519"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Believers love one another because they share the truth, and that truth lives in them and will never leave them.",
+      "sources": [
+        "v:1.1",
+        "v:1.2"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

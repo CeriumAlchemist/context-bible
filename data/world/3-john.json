@@ -1,0 +1,329 @@
+{
+  "period": {
+    "label": "About AD 85-95",
+    "note": "This follows the traditional date. The letter itself gives no date, and most scholars also place it in the late first century."
+  },
+  "map": {
+    "places": [
+      "ephesus",
+      "patmos",
+      "smyrna",
+      "pergamum",
+      "thyatira",
+      "sardis",
+      "philadelphia",
+      "laodicea",
+      "rome",
+      "jerusalem"
+    ],
+    "primary": [
+      "ephesus"
+    ],
+    "regions": [
+      {
+        "name": "Macedonia",
+        "lat": 41.15,
+        "lon": 21.4
+      },
+      {
+        "name": "Achaia",
+        "lat": 38.5,
+        "lon": 21.9
+      },
+      {
+        "name": "Asia",
+        "lat": 39.2,
+        "lon": 28.9
+      },
+      {
+        "name": "Galatia",
+        "lat": 39.6,
+        "lon": 32.8
+      },
+      {
+        "name": "Phrygia",
+        "lat": 38.9,
+        "lon": 30.6
+      },
+      {
+        "name": "Italia",
+        "lat": 42.4,
+        "lon": 13.6
+      },
+      {
+        "name": "Syria",
+        "lat": 34.9,
+        "lon": 37.6
+      },
+      {
+        "name": "Judea",
+        "lat": 31.0,
+        "lon": 34.7
+      },
+      {
+        "name": "Egypt",
+        "lat": 28.2,
+        "lon": 30.4
+      }
+    ],
+    "seas": [
+      {
+        "name": "Mediterranean Sea",
+        "lat": 34.2,
+        "lon": 19.5
+      },
+      {
+        "name": "Aegean Sea",
+        "lat": 38.9,
+        "lon": 25.0
+      },
+      {
+        "name": "Black Sea",
+        "lat": 43.3,
+        "lon": 34.0
+      }
+    ]
+  },
+  "rulers": [
+    {
+      "name": "Domitian",
+      "role": "Roman emperor",
+      "years": "AD 81-96",
+      "text": "Son of Vespasian and brother of Titus. Suetonius says he had himself styled \"our Lord and God\" in official letters. Early Christian writers say John was exiled to Patmos in his reign.",
+      "sources": [
+        "Suetonius, Domitian 13",
+        "Revelation 1:9",
+        "Irenaeus, Against Heresies 5.30.3",
+        "Eusebius, Church History 3.18"
+      ]
+    },
+    {
+      "name": "Nerva and Trajan",
+      "role": "Roman emperors",
+      "years": "AD 96-98, 98-117",
+      "text": "After Domitian was murdered in AD 96 the Senate chose the elderly Nerva, who adopted the general Trajan. Early tradition says John lived on in Ephesus into Trajan's reign.",
+      "sources": [
+        "Suetonius, Domitian 14-17",
+        "Cassius Dio, Roman History 68.1-4",
+        "Irenaeus, Against Heresies 2.22.5"
+      ]
+    },
+    {
+      "name": "The proconsul of Asia",
+      "role": "Governor of the province of Asia",
+      "years": "One-year terms",
+      "text": "Asia was governed by a proconsul appointed for a year at a time, who heard cases in its leading cities, Ephesus among them.",
+      "sources": [
+        "Acts 19:38",
+        "Strabo, Geography 17.3.25"
+      ]
+    },
+    {
+      "name": "Pacorus II",
+      "role": "King of Parthia",
+      "years": "c. AD 78-110",
+      "text": "Ruler of the Parthian empire beyond the Euphrates, Rome's great rival in the east, at peace with Rome through these years.",
+      "sources": [
+        "Cassius Dio, Roman History 68.17"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "year": 70,
+      "when": "AD 70",
+      "kind": "war",
+      "title": "Jerusalem and its temple destroyed",
+      "text": "Roman armies under Titus took Jerusalem after a long siege and burned the temple, as Jesus had foretold.",
+      "sources": [
+        "Josephus, Jewish War 6.249-287",
+        "Luke 21:5-6",
+        "Luke 21:20-24"
+      ]
+    },
+    {
+      "year": 79,
+      "when": "August AD 79",
+      "kind": "disaster",
+      "title": "Vesuvius buries Pompeii",
+      "text": "The eruption of Vesuvius buried Pompeii and Herculaneum. Pliny the Younger watched it from across the bay; his uncle Pliny the Elder died trying to rescue people.",
+      "sources": [
+        "Pliny the Younger, Letters 6.16, 6.20"
+      ]
+    },
+    {
+      "year": 80,
+      "when": "AD 80",
+      "kind": "building",
+      "title": "The Colosseum opens in Rome",
+      "text": "Titus opened the great amphitheater begun by his father Vespasian with 100 days of games.",
+      "sources": [
+        "Suetonius, Titus 7.3",
+        "Cassius Dio, Roman History 66.25"
+      ]
+    },
+    {
+      "year": 83,
+      "when": "AD 83 or 84",
+      "kind": "war",
+      "title": "Rome's furthest push into Britain",
+      "text": "The governor Agricola defeated the Caledonians at Mons Graupius in what is now Scotland, and his fleet sailed around the north of Britain.",
+      "sources": [
+        "Tacitus, Agricola 29-38"
+      ]
+    },
+    {
+      "year": 85,
+      "when": "AD 85-89",
+      "kind": "war",
+      "title": "War with the Dacians",
+      "text": "The Dacians crossed the Danube and killed a Roman governor. After years of fighting, Domitian made a peace that paid their king Decebalus a yearly subsidy.",
+      "sources": [
+        "Suetonius, Domitian 6",
+        "Cassius Dio, Roman History 67.6-7"
+      ]
+    },
+    {
+      "year": 89,
+      "when": "c. AD 89",
+      "kind": "building",
+      "title": "Ephesus builds a temple to the emperors",
+      "text": "Ephesus won the honor of a provincial temple for the worship of the emperors, the Temple of the Sebastoi, with a colossal statue of an emperor. Its remains stand in the city's upper square.",
+      "sources": [
+        "Temple of the Sebastoi, Ephesus (excavated remains and inscriptions)"
+      ]
+    },
+    {
+      "year": 93,
+      "when": "AD 93-94",
+      "kind": "discovery",
+      "title": "Josephus finishes his history of the Jews",
+      "text": "In Rome the Jewish historian Josephus completed his Antiquities of the Jews, which mentions John the Baptist, James the brother of Jesus, and Jesus himself.",
+      "sources": [
+        "Josephus, Antiquities 20.267",
+        "Josephus, Antiquities 18.116-119, 20.200"
+      ]
+    },
+    {
+      "year": 95,
+      "when": "c. AD 95",
+      "kind": "church",
+      "title": "John on Patmos",
+      "text": "John was on the island of Patmos \"for the word of God, and for the testimony of Jesus Christ\" when he received the Revelation. Early writers date this to the end of Domitian's reign.",
+      "sources": [
+        "Revelation 1:9",
+        "Irenaeus, Against Heresies 5.30.3"
+      ]
+    },
+    {
+      "year": 96,
+      "when": "c. AD 96",
+      "kind": "church",
+      "title": "Clement of Rome writes to Corinth",
+      "text": "The church at Rome sent a letter, traditionally by Clement, to settle a dispute at Corinth where younger members had removed their elders. It is one of the earliest Christian writings outside the New Testament.",
+      "sources": [
+        "1 Clement 1, 44, 47"
+      ]
+    },
+    {
+      "year": 96,
+      "when": "September AD 96",
+      "kind": "rule",
+      "title": "Domitian is murdered",
+      "text": "Domitian was killed in a palace plot. The Senate condemned his memory and chose Nerva as emperor.",
+      "sources": [
+        "Suetonius, Domitian 14-17, 23"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "slug": "ephesus",
+      "name": "Ephesus",
+      "summary": "Where early tradition places John's last years. The greatest city of the province of Asia, on the west coast of today's Turkey.",
+      "facts": [
+        {
+          "topic": "John in Ephesus",
+          "text": "Irenaeus, who as a boy knew Polycarp, a disciple of John, writes that John lived in Ephesus until the time of Trajan.",
+          "sources": [
+            "Irenaeus, Against Heresies 3.3.4",
+            "Eusebius, Church History 3.23"
+          ]
+        },
+        {
+          "topic": "Port and trade",
+          "text": "Ephesus stood near the mouth of the Cayster River and was, in Strabo's words, the greatest trading center of Asia this side of the Taurus mountains.",
+          "sources": [
+            "Strabo, Geography 14.1.24"
+          ]
+        },
+        {
+          "topic": "The temple of Artemis",
+          "text": "The city's temple of Artemis (Diana) was counted among the Seven Wonders of the World, and the city called itself the goddess's \"temple keeper.\"",
+          "sources": [
+            "Acts 19:27",
+            "Acts 19:35",
+            "Pliny, Natural History 36.95-97"
+          ]
+        },
+        {
+          "topic": "The church there",
+          "text": "Paul taught in Ephesus about three years and warned its elders that false teachers would rise from among them. Revelation later praises the church for testing false apostles.",
+          "sources": [
+            "Acts 19:10",
+            "Acts 20:29-31",
+            "Revelation 2:1-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "life": [
+    {
+      "topic": "Travelling teachers",
+      "text": "Christian teachers and messengers moved between cities and lodged with believers. An early church manual, the Didache, tells churches to welcome a travelling teacher who teaches the truth, but says one who stays three days, or asks for money, is a false prophet.",
+      "sources": [
+        "Acts 18:27",
+        "Romans 16:1-2",
+        "Didache 11.1-6"
+      ],
+      "verses": [
+        "1:5-8"
+      ]
+    },
+    {
+      "topic": "Paper and ink",
+      "text": "Letters were written with a reed pen and ink on papyrus, a paper made from the papyrus plant. Each of these short letters would fit on a single sheet.",
+      "sources": [
+        "Jeremiah 36:18",
+        "Pliny, Natural History 13.68-83"
+      ],
+      "verses": [
+        "1:13"
+      ]
+    },
+    {
+      "topic": "Wishing good health",
+      "text": "Greek letters of the period usually opened with a wish that the reader was in good health, much as letters today begin \"I hope you are well.\" Many such letters survive on papyrus from Egypt.",
+      "sources": [
+        "Oxyrhynchus Papyri (private letters)"
+      ],
+      "verses": [
+        "1:2"
+      ]
+    },
+    {
+      "topic": "Taking nothing from the Gentiles",
+      "text": "Jesus had sent out his disciples to be supported by those who received them, and Paul often refused support so as not to burden new believers.",
+      "sources": [
+        "Matthew 10:9-11",
+        "1 Corinthians 9:14-15",
+        "1 Thessalonians 2:9"
+      ],
+      "verses": [
+        "1:7"
+      ]
+    }
+  ],
+  "basis": "Scripture first, then ancient writers on these years (Suetonius, Tacitus, Cassius Dio, Josephus, Pliny, Irenaeus, Eusebius). The letter names no place, so the setting follows early tradition. Drafted by Claude and not yet reviewed by a person."
+}

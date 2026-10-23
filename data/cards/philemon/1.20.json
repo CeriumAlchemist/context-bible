@@ -1,0 +1,170 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 20
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.931Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just offered to pay anything Onesimus owes and gently reminded Philemon that he owes Paul his own self. Now he sums up his appeal: 'Yes, brother,' give me this benefit and refresh my heart. The way Philemon can do that is by receiving Onesimus as he would receive Paul.",
+      "sources": [
+        "v:1.17",
+        "v:1.18",
+        "v:1.19",
+        "v:1.20",
+        "v:1.21"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, a prisoner of Jesus Christ, writing with Timothy. He signs part of the letter in his own hand.",
+        "sources": [
+          "v:1.1",
+          "v:1.19",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, whom Paul calls a dearly beloved fellowlabourer and here 'brother.' The letter also greets Apphia, Archippus, and the church in his house.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "v:1.20",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Onesimus, Philemon's servant, who had left him and became a believer through Paul. Paul is asking Philemon to receive him as a brother beloved.",
+        "sources": [
+          "v:1.10",
+          "v:1.12",
+          "v:1.16",
+          "b:purpose"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul asks Philemon for joy and refreshment 'in the Lord.' Philemon has already refreshed the hearts of the saints. Paul now asks him to refresh Paul's heart too, by welcoming Onesimus, whom Paul calls 'mine own bowels,' meaning his own heart.",
+      "sources": [
+        "v:1.7",
+        "v:1.12",
+        "v:1.17",
+        "v:1.20"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The appeal comes while Paul is in prison. Onesimus is being sent back to Philemon.",
+        "sources": [
+          "v:1.9",
+          "v:1.10",
+          "v:1.12"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 60-62, during Paul's imprisonment in Rome, at the same time as Colossians. Scholarly view: nearly all scholars accept that Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison, and the letter does not name the city; Rome is the traditional view. It went to Philemon's household church, likely at Colossae, since Colossians calls Onesimus 'one of you.'",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul closes his appeal warmly instead of commanding. He has said he prefers to beseech 'for love's sake,' and he trusts Philemon will do even more than he asks.",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "v:1.21",
+          "b:themes"
+        ]
+      },
+      "big_picture": {
+        "text": "Other letters show Paul finding his joy in how believers live. He calls the Thessalonians 'our glory and joy' and asks the Philippians to 'fulfil ye my joy' by being of one mind. Here that joy hangs on Philemon welcoming a servant as a brother in Christ.",
+        "sources": [
+          "x:1-thessalonians.2.20",
+          "x:philippians.2.2",
+          "v:1.16",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Kindness to one person can refresh the hearts of others who love that person. Scripture ties real love to opening one's heart to a brother in need.",
+        "sources": [
+          "v:1.7",
+          "v:1.20",
+          "x:1-john.3.17"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3685",
+        "english": "let me have joy",
+        "why_it_matters": {
+          "text": "The lexicon glosses this word as 'to profit, benefit, help' and, in this form, 'to have profit, derive benefit.' It lists Philemon 20 as its New Testament use. Paul is asking for a benefit from Philemon, after describing Onesimus as now 'profitable' in verse 11.",
+          "sources": [
+            "w:G3685",
+            "v:1.11"
+          ]
+        }
+      },
+      {
+        "strong": "G0373",
+        "english": "refresh",
+        "why_it_matters": {
+          "text": "It means to give rest or refresh, as in Matthew 11:28. The same word appears in verse 7, where the saints' hearts 'are refreshed' by Philemon. Paul asks him to do for Paul what he already does for others.",
+          "sources": [
+            "w:G0373",
+            "v:1.7"
+          ]
+        }
+      },
+      {
+        "strong": "G4698",
+        "english": "bowels",
+        "why_it_matters": {
+          "text": "The word means the inward parts and, by extension, the heart or affection. Paul used it in verse 12 when he called Onesimus 'mine own bowels.' So refreshing Paul's heart points back to welcoming Onesimus.",
+          "sources": [
+            "w:G4698",
+            "v:1.12",
+            "v:1.7"
+          ]
+        }
+      },
+      {
+        "strong": "G3483",
+        "english": "Yea",
+        "why_it_matters": {
+          "text": "This is a word of affirmation. The lexicon lists Philemon 20 among its uses 'in confirmation of a previous assertion,' so it underlines the appeal Paul has just made.",
+          "sources": [
+            "w:G3483",
+            "v:1.17",
+            "v:1.19"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is Paul's warm closing plea. Philemon can bring Paul joy and rest of heart by receiving Onesimus as a beloved brother 'in the Lord.'",
+      "sources": [
+        "v:1.16",
+        "v:1.17",
+        "v:1.20"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

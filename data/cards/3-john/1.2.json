@@ -1,0 +1,170 @@
+{
+  "ref": {
+    "book": "3-john",
+    "chapter": 1,
+    "verse": 2
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:39:21.965Z",
+  "card": {
+    "in_context": {
+      "text": "This is the elder's opening wish for his friend Gaius, right after the greeting. He hopes Gaius's outward life and health go as well as his soul already does. He then explains why: travelling brethren had reported that Gaius walks in the truth.",
+      "sources": [
+        "v:1.1",
+        "v:1.2",
+        "v:1.3",
+        "v:1.4"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" an unnamed writer. Early Christian tradition identifies him as John the apostle. Some scholars think he was a different church leader.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Gaius, a believer the elder loves and counts among his children in the faith. The text does not show that he is the same as any other Gaius in the New Testament.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "b:recipients"
+        ]
+      },
+      "affected": null
+    },
+    "what": {
+      "text": "The elder prays that Gaius will do well and be in good health. He measures this wish by the health of Gaius's soul, which is already doing well.",
+      "sources": [
+        "v:1.2",
+        "w:G2172",
+        "w:G2137",
+        "w:G5198",
+        "w:G2531"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Travelling Christian workers had visited Gaius's church and reported back to the elder about his faithfulness. This happened during trouble with Diotrephes, who turned such visitors away.",
+        "sources": [
+          "v:1.3",
+          "v:1.5",
+          "v:1.6",
+          "v:1.9",
+          "v:1.10",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, near the time of 1 and 2 John. Scholarly view: most scholars also place it in the late first century.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or sent. Early tradition places John's last years in Ephesus. Gaius's church was likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The wish opens a letter that praises Gaius for walking in the truth and for receiving travelling brethren. It sets a warm tone before the elder deals with Diotrephes.",
+        "sources": [
+          "b:purpose",
+          "v:1.3",
+          "v:1.5",
+          "v:1.9"
+        ]
+      },
+      "big_picture": {
+        "text": "The elder's greatest joy is not Gaius's success or health but that his children walk in truth. Other letters likewise give thanks when believers' faith and love are reported.",
+        "sources": [
+          "v:1.4",
+          "x:colossians.1.4",
+          "x:colossians.1.6",
+          "x:1-thessalonians.2.13"
+        ]
+      },
+      "for_readers": {
+        "text": "Christians may rightly pray for one another's wellbeing and health. The verse also makes the soul's health the measure, and that health is shown by walking in the truth.",
+        "sources": [
+          "v:1.2",
+          "v:1.3",
+          "v:1.11"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Often quoted as a promise that God wants every believer to be financially wealthy and always physically healthy.",
+      "in_context_reading": {
+        "text": "It is a personal wish in a letter's greeting to one friend, Gaius. The elder links it to the health of Gaius's soul and says his greatest joy is that his children walk in truth.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "v:1.3",
+          "v:1.4"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G2172",
+        "english": "wish",
+        "why_it_matters": {
+          "text": "The word means \"to pray.\" It is used for prayer to God in Acts 26:29 and James 5:16. So the elder's \"wish\" is a prayer for Gaius, not a promise made to all readers.",
+          "sources": [
+            "w:G2172"
+          ]
+        }
+      },
+      {
+        "strong": "G2137",
+        "english": "prosper",
+        "why_it_matters": {
+          "text": "The word first means to help someone on their way or to have a good journey. Used figuratively, it means to prosper or succeed. It also appears in Romans 1:10 and 1 Corinthians 16:2, and the verse itself applies it to Gaius's soul as well.",
+          "sources": [
+            "w:G2137",
+            "v:1.2"
+          ]
+        }
+      },
+      {
+        "strong": "G5198",
+        "english": "be in health",
+        "why_it_matters": {
+          "text": "It means to be sound or in good health, as in Luke 5:31. In the Pastoral Letters the same word describes \"sound\" doctrine and faith.",
+          "sources": [
+            "w:G5198"
+          ]
+        }
+      },
+      {
+        "strong": "G5590I",
+        "english": "soul",
+        "why_it_matters": {
+          "text": "The word covers both life itself and the inner self, the seat of will, desires and affections. The elder uses it as the standard by which he measures the rest of his wish.",
+          "sources": [
+            "w:G5590I",
+            "v:1.2"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This is a loving prayer that a friend's body and circumstances would do as well as his soul. The elder's deepest joy is that believers walk in the truth.",
+      "sources": [
+        "v:1.2",
+        "v:1.4"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

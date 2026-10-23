@@ -1,0 +1,183 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 8
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.971Z",
+  "card": {
+    "in_context": {
+      "text": "Jude has just named three examples of God's judgment: Israel in the wilderness, the angels who left their place, and Sodom and Gomorrha. Here he says the false teachers who had crept into the church act 'likewise.' They defile the flesh, reject authority, and speak evil of glorious beings.",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "v:1.6",
+        "v:1.7",
+        "v:1.8"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James. Traditionally he is the Judas named among Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers whom Jude calls sanctified, preserved and called. The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients",
+          "b:destination"
+        ]
+      },
+      "affected": {
+        "text": "The verse describes 'certain men crept in unawares,' ungodly men who turned God's grace into lasciviousness and denied the Lord.",
+        "sources": [
+          "v:1.4",
+          "v:1.8"
+        ]
+      }
+    },
+    "what": {
+      "text": "Jude names three marks of these men. They pollute the body through immorality, as Sodom did. They set aside lordship or authority. They slander 'dignities,' or glorious ones. Verse 9 contrasts them with Michael, who would not even bring a railing accusation against the devil.",
+      "sources": [
+        "v:1.7",
+        "v:1.8",
+        "v:1.9",
+        "v:1.10"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Jude describes men who were active among his readers at the time he wrote. He links them to the 'mockers in the last time' the apostles had foretold.",
+        "sources": [
+          "v:1.4",
+          "v:1.17",
+          "v:1.18"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or sent. Its many references to Israel's history suggest readers who knew Jewish tradition well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude exposes these men so that believers will recognize them and 'earnestly contend for the faith which was once delivered unto the saints.'",
+        "sources": [
+          "v:1.3",
+          "v:1.4",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The word 'likewise' ties these men to past rebels whom God judged. God's grace is never a license for sin, and judgment is coming on the ungodly. 2 Peter 2:10 gives a closely parallel description.",
+        "sources": [
+          "v:1.5",
+          "v:1.7",
+          "v:1.15",
+          "b:themes",
+          "x:2-peter.2.10"
+        ]
+      },
+      "for_readers": {
+        "text": "Jude does not tell his readers to copy these men's slander. He tells them to build themselves up in faith, pray, and keep themselves in God's love. They are also to show mercy to some and pull others out of the fire.",
+        "sources": [
+          "v:1.20",
+          "v:1.21",
+          "v:1.22",
+          "v:1.23"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Readers differ on who the 'dominion' and 'dignities' are. Some see angelic or heavenly powers, since the next verse speaks of Michael and the devil, and the same word for lordship is used of heavenly powers in Ephesians 1:21 and Colossians 1:16. Others see the Lord's own authority, since verse 4 says these men deny the Lord. Still others include human rulers, pointing to the command not to speak evil of the ruler (Exodus 22:28, Acts 23:5).",
+      "sources": [
+        "v:1.4",
+        "v:1.9",
+        "w:G2963",
+        "x:exodus.22.28",
+        "x:acts.23.5",
+        "x:2-peter.2.10"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G1797",
+        "english": "dreamers",
+        "why_it_matters": {
+          "text": "The word simply means 'to dream.' The only other New Testament use is Acts 2:17, in Peter's quotation of Joel. It may point to these men claiming visions or living in delusion, but the verse does not explain it.",
+          "sources": [
+            "w:G1797"
+          ]
+        }
+      },
+      {
+        "strong": "G3392",
+        "english": "defile",
+        "why_it_matters": {
+          "text": "It means to stain or soil. Here it is used in a moral sense, as in Titus 1:15 and Hebrews 12:15. That links it to the sexual sin of Sodom in verse 7.",
+          "sources": [
+            "w:G3392",
+            "v:1.7"
+          ]
+        }
+      },
+      {
+        "strong": "G0114",
+        "english": "despise",
+        "why_it_matters": {
+          "text": "The word means to set aside, nullify or reject. Elsewhere it is used of rejecting a commandment or a law (Mark 7:9, Hebrews 10:28). So it describes refusing authority, not just disliking it.",
+          "sources": [
+            "w:G0114"
+          ]
+        }
+      },
+      {
+        "strong": "G2963",
+        "english": "dominion",
+        "why_it_matters": {
+          "text": "The word means 'lordship.' It appears elsewhere only in Ephesians 1:21, Colossians 1:16 and 2 Peter 2:10, where it can describe heavenly powers.",
+          "sources": [
+            "w:G2963"
+          ]
+        }
+      },
+      {
+        "strong": "G1391",
+        "english": "dignities",
+        "why_it_matters": {
+          "text": "This is the ordinary word for 'glory,' used here in the plural as 'glorious ones.' It names beings who have honor, which fits the contrast with Michael in verse 9.",
+          "sources": [
+            "w:G1391",
+            "v:1.9"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Jude 1:8 is a warning portrait of false teachers: immoral, rejecting authority, and slandering what they do not understand. It calls believers to recognize such conduct and to keep themselves in God's love, not to imitate it.",
+      "sources": [
+        "v:1.8",
+        "v:1.10",
+        "v:1.21"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

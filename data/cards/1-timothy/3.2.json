@@ -143,11 +143,10 @@
         "strong": "G1520",
         "english": "one",
         "why_it_matters": {
-          "text": "Together with the words for man and woman, it forms the phrase \"a man of one woman.\" How this phrase is understood shapes the debate over what the verse requires.",
+          "text": "Together with the words for man and woman, it forms the phrase \"a man of one woman.\" The same phrase, reversed, describes widows in 5:9.",
           "sources": [
             "w:G1520",
-            "w:G0435H",
-            "w:G1135H"
+            "v:5.9"
           ]
         }
       },
@@ -197,6 +196,11 @@
       "claim": "key_words.4",
       "reason": "The cited sources only define the word as 'apt at teaching'. They do not say it is the one item in the list about skill rather than character; that is the card's own judgment.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.2",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
     }
   ]
 }

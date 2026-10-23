@@ -1,0 +1,186 @@
+{
+  "ref": {
+    "book": "3-john",
+    "chapter": 1,
+    "verse": 11
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:39:21.969Z",
+  "card": {
+    "in_context": {
+      "text": "Right after warning about Diotrephes, who turned visiting believers away (1:9-10), and just before praising Demetrius (1:12), the elder tells Gaius to copy the good example, not the bad one. The way a person acts shows whether he is from God.",
+      "sources": [
+        "v:1.9",
+        "v:1.10",
+        "v:1.11",
+        "v:1.12",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" the unnamed writer of this letter. Early Christian tradition says he is John the apostle; some scholars think he was a different church leader.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Gaius, a believer the elder loves and counts among his children in the faith.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Diotrephes, whose bad deeds stand just before this verse, and Demetrius, whose good report stands just after it.",
+        "sources": [
+          "v:1.9",
+          "v:1.10",
+          "v:1.12"
+        ]
+      }
+    },
+    "what": {
+      "text": "A plain command: do not imitate evil, imitate good. Then a test: whoever does good is of God, but whoever does evil has not seen God.",
+      "sources": [
+        "v:1.11",
+        "w:G3401"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The trouble with Diotrephes was happening in the church as the letter was written, while travelling Christian workers depended on churches to host them.",
+        "sources": [
+          "v:1.9",
+          "v:1.10",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, near the time of 1 and 2 John. Scholarly view: most also place it in the late first century.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not name its place. It went to a church where Gaius lived, likely in the province of Asia; early tradition places John's last years in Ephesus.",
+      "sources": [
+        "b:destination",
+        "b:writtenFrom"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The elder wants Gaius to keep welcoming travelling brethren and not follow Diotrephes, who refused them and threw out those who did receive them.",
+        "sources": [
+          "v:1.5",
+          "v:1.8",
+          "v:1.10",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Scripture repeatedly calls God's people to turn from evil and do good. It also says those who do evil avoid the light, and urges believers to imitate God as dear children.",
+        "sources": [
+          "x:psalms.34.14",
+          "x:psalms.37.27",
+          "x:1-peter.3.11",
+          "x:john.3.20",
+          "x:ephesians.5.1"
+        ]
+      },
+      "for_readers": {
+        "text": "Choose your examples carefully. Leaders who love first place and shut others out are not to be copied, however much influence they have.",
+        "sources": [
+          "v:1.9",
+          "v:1.11",
+          "b:themes"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3401",
+        "english": "follow",
+        "why_it_matters": {
+          "text": "The word means \"to imitate.\" Gaius is told to copy a pattern of behavior, like the good example of Demetrius rather than the bad one of Diotrephes. It is also used in 2 Thessalonians 3:7, 3:9 and Hebrews 13:7.",
+          "sources": [
+            "w:G3401",
+            "v:1.10",
+            "v:1.12"
+          ]
+        }
+      },
+      {
+        "strong": "G0015",
+        "english": "doeth good",
+        "why_it_matters": {
+          "text": "A single word meaning \"to do good,\" especially for another's benefit. The lexicon lists it also in 1 Peter 2-3, Mark 3:4 and Luke 6:9.",
+          "sources": [
+            "w:G0015"
+          ]
+        }
+      },
+      {
+        "strong": "G2554",
+        "english": "doeth evil",
+        "why_it_matters": {
+          "text": "It means \"to do harm, to do evil.\" Here it stands opposite \"he that doeth good\" in the same verse.",
+          "sources": [
+            "w:G2554",
+            "v:1.11"
+          ]
+        }
+      },
+      {
+        "strong": "G1537",
+        "english": "of",
+        "why_it_matters": {
+          "text": "The word means \"out from\" or \"from.\" So \"of God\" points to where a person comes from. The good he does shows that he comes from God.",
+          "sources": [
+            "w:G1537",
+            "v:1.11"
+          ]
+        }
+      },
+      {
+        "strong": "G3708",
+        "english": "hath not seen",
+        "why_it_matters": {
+          "text": "The word means \"to see, perceive, behold.\" The lexicon lists it with God as its object in John 1:18 and 1 John 4:20.",
+          "sources": [
+            "w:G3708"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Copy what is good, not what is evil. How you live shows whether you truly know God.",
+      "sources": [
+        "v:1.11",
+        "x:1-peter.3.13"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.1",
+      "reason": "The cited G0015 entry lists Mark 3:4 and Luke 6:9 under doing good 'for another's benefit.' It does not say doing good is set against doing harm there. That contrast comes only from the uncited G2554 entry.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.2",
+      "reason": "The cited G2554 entry lists Mark 3:4 and Luke 6:9 only for 'to do harm, to do evil.' It does not say the matching word for doing good appears in the same passages, so the 'same pair of words' claim goes beyond this source.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

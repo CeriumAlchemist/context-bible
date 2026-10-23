@@ -1,0 +1,176 @@
+{
+  "ref": {
+    "book": "2-john",
+    "chapter": 1,
+    "verse": 12
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:50:24.567Z",
+  "card": {
+    "in_context": {
+      "text": "After warning the lady not to welcome teachers who deny that Jesus Christ came in the flesh, the elder ends his short letter. He says he has much more to say but would rather not put it in ink. He hopes to visit and talk in person, so that their joy may be full.",
+      "sources": [
+        "v:1.7",
+        "v:1.10",
+        "v:1.11",
+        "v:1.12",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" who does not give his name. Early Christian tradition identifies him as John the apostle.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "\"The elect lady and her children.\" This may be a Christian woman and her family, or a figurative name for a local church. The letter does not say which.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": null
+    },
+    "what": {
+      "text": "The elder explains why the letter is so short. He chose not to write everything with paper and ink. He hopes instead to come and speak with them face to face.",
+      "sources": [
+        "v:1.12",
+        "w:G1014",
+        "w:G5489",
+        "w:G3188"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This closes the letter, just before the final greetings. The visit is something hoped for later. The text does not say whether it happened.",
+        "sources": [
+          "v:1.12",
+          "v:1.13",
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, late in John's life. Scholarly view: most scholars also place it in the late first century, though some think the elder was a church leader other than the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written. Early tradition places John's last years in Ephesus. The readers were a church or household the elder knew, likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse explains the letter's brevity and points to a coming visit. The elder values talking in person over writing more. He wants their shared joy to be complete.",
+        "sources": [
+          "v:1.12",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The same wish closes 3 John: many things to write, but a hope to speak face to face. The hope \"that our joy may be full\" echoes Jesus' words to his disciples, \"that your joy might be full\" (John 15:11).",
+        "sources": [
+          "x:3-john.1.13",
+          "x:3-john.1.14",
+          "x:john.15.11"
+        ]
+      },
+      "for_readers": {
+        "text": "Written words matter, but this verse shows that Christian fellowship also longs for being together in person. Shared truth and love lead to shared joy.",
+        "sources": [
+          "v:1.12",
+          "v:1.1",
+          "v:1.4"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4750",
+        "english": "face (literally \"mouth\")",
+        "why_it_matters": {
+          "text": "The Greek says \"mouth to mouth,\" which the lexicon glosses as \"face to face.\" The same phrase is used in Numbers 12:8, where God speaks with Moses \"mouth to mouth.\" It stresses direct, personal speech.",
+          "sources": [
+            "w:G4750",
+            "x:numbers.12.8"
+          ]
+        }
+      },
+      {
+        "strong": "G1014",
+        "english": "I would (not)",
+        "why_it_matters": {
+          "text": "The lexicon defines this verb as to will or purpose. It says it implies deliberate choice more strongly than θέλω, another verb for wanting. Writing no more was the elder's chosen decision.",
+          "sources": [
+            "w:G1014"
+          ]
+        }
+      },
+      {
+        "strong": "G5489",
+        "english": "paper",
+        "why_it_matters": {
+          "text": "The lexicon defines this as a sheet of paper made from papyrus strips. In the New Testament it lists only this verse.",
+          "sources": [
+            "w:G5489"
+          ]
+        }
+      },
+      {
+        "strong": "G5479",
+        "english": "joy",
+        "why_it_matters": {
+          "text": "This is the same word for joy used in John 15:11, 16:24 and 17:13, where Jesus speaks of his disciples' joy being full.",
+          "sources": [
+            "w:G5479",
+            "x:john.15.11",
+            "x:john.16.24",
+            "x:john.17.13"
+          ]
+        }
+      },
+      {
+        "strong": "G4137",
+        "english": "full",
+        "why_it_matters": {
+          "text": "The verb means to fill or make full. Its form here pictures joy that is made complete.",
+          "sources": [
+            "w:G4137"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "The elder would rather speak in person than write more, so that his joy and theirs may be complete. It is a warm, personal close to a letter about truth and love.",
+      "sources": [
+        "v:1.12",
+        "v:1.3",
+        "x:3-john.1.14"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.big_picture",
+      "reason": "The verse (1:12) reads \"that our joy may be full\", not \"your joy\". The quoted phrase matches John 15:11 and 16:24 but misquotes the verse itself.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.3",
+      "reason": "In John 16:24 the disciples' joy is full through asking and receiving in Jesus' name, not through Jesus speaking. So the claim that in all three verses Jesus speaks so their joy may be full overstates the cited text.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

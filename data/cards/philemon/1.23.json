@@ -1,0 +1,168 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 23
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.927Z",
+  "card": {
+    "in_context": {
+      "text": "As Paul closes his letter, he passes on greetings to Philemon from the men with him. Epaphras comes first, and Paul calls him his fellow prisoner in Christ Jesus. Four fellow workers follow in the next verse.",
+      "sources": [
+        "v:1.23",
+        "v:1.24",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, who writes as \"a prisoner of Jesus Christ\" together with Timothy, sends this greeting on behalf of Epaphras.",
+        "sources": [
+          "v:1.1",
+          "v:1.23",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon. The word \"thee\" is singular, though the letter as a whole also greets Apphia, Archippus and the church in his house.",
+        "sources": [
+          "v:1.23",
+          "v:1.1",
+          "v:1.2",
+          "w:G4771"
+        ]
+      },
+      "affected": {
+        "text": "Epaphras, a believer from the Colossian church. Colossians says the Colossians first learned the faith from him and calls him \"one of you.\"",
+        "sources": [
+          "x:colossians.1.7",
+          "x:colossians.4.12",
+          "w:G1889"
+        ]
+      }
+    },
+    "what": {
+      "text": "This is a standard closing greeting. Epaphras sends his respects to Philemon. Paul describes him as sharing his imprisonment, and he does so \"in Christ Jesus,\" because Paul counts his own bonds as being for Christ and the gospel.",
+      "sources": [
+        "v:1.23",
+        "w:G0782",
+        "w:G4869",
+        "v:1.9",
+        "v:1.13"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The greeting was sent while Paul was in prison and was sending Onesimus back to Philemon.",
+        "sources": [
+          "v:1.1",
+          "v:1.10",
+          "v:1.12"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 60-62, from Rome, at the same time as Colossians. Scholarly: nearly all accept Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison, and the letter does not name the city. The greeting goes to Philemon's household, traditionally at Colossae, which was the home church of Epaphras.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "x:colossians.4.12"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The greeting ties Philemon to the believers around Paul, among them Epaphras, who was \"one of you\" (Colossians 4:12).",
+        "sources": [
+          "v:1.23",
+          "v:1.24",
+          "x:colossians.4.12"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul's letters often close with greetings from co-workers. Here Epaphras is joined by Mark, Aristarchus, Demas and Luke, several of whom also send greetings in Colossians. Paul's imprisonment did not cut him off: others shared it with him and kept serving.",
+        "sources": [
+          "v:1.24",
+          "x:colossians.4.10",
+          "x:colossians.4.12",
+          "w:G0782"
+        ]
+      },
+      "for_readers": {
+        "text": "Even a list of names shows that the gospel is lived out among real, connected people. Epaphras was a minister to his home church. Colossians says he prayed fervently for them, and here he is with Paul in his bonds.",
+        "sources": [
+          "x:colossians.1.7",
+          "x:colossians.4.12",
+          "v:1.23"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4869",
+        "english": "fellowprisoner",
+        "why_it_matters": {
+          "text": "The lexicon defines it as a fellow prisoner, properly a captive taken in war. In the New Testament it appears only in Romans 16:7, Colossians 4:10 and here. It shows that Epaphras shared Paul's captivity and did not merely visit him.",
+          "sources": [
+            "w:G4869",
+            "x:romans.16.7",
+            "x:colossians.4.10"
+          ]
+        }
+      },
+      {
+        "strong": "G0782",
+        "english": "salute",
+        "why_it_matters": {
+          "text": "It means to welcome or greet. The lexicon notes it was the usual term for passing on greetings at the end of a letter, so this verse is part of the letter's closing.",
+          "sources": [
+            "w:G0782"
+          ]
+        }
+      },
+      {
+        "strong": "G1889",
+        "english": "Epaphras",
+        "why_it_matters": {
+          "text": "The lexicon lists this name only at Colossians 1:7, Colossians 4:12 and here. Those passages identify him as a Colossian and a faithful minister to them, which links Philemon's letter to the church at Colossae.",
+          "sources": [
+            "w:G1889",
+            "x:colossians.1.7",
+            "x:colossians.4.12"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Philemon 1:23 is a closing greeting from Epaphras, a Colossian believer who shared Paul's imprisonment for Christ. It reminds Philemon that faithful brothers stand with Paul as he makes his appeal for Onesimus.",
+      "sources": [
+        "v:1.23",
+        "x:colossians.4.12",
+        "b:purpose"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.purpose",
+      "reason": "None of the cited sources say that Epaphras or the others knew about Paul's appeal for Onesimus. That idea is an interpretive inference, not something the sources state.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "why.big_picture",
+      "reason": "The cited Colossians verses name only Aristarchus, Mark and Epaphras. Nothing cited shows that Demas and Luke are also named in Colossians, so 'the same group' is not supported by the sources given.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

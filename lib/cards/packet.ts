@@ -2,7 +2,7 @@ import { loadChapter } from "../bible";
 import { BOOKS, type Book } from "../books";
 import { loadOverview } from "../books-overview";
 import { formatReference } from "../reference";
-import { crossRefsFor, isFunctionWord, lexiconFor, placesFor, wordsFor, type Word } from "../study";
+import { crossRefsFor, isFunctionWord, lexiconFor, placesFor, wordLanguage, wordsFor, type Word } from "../study";
 import { PRIMARY } from "../translations";
 
 /**
@@ -46,10 +46,14 @@ export async function buildPacket(book: Book, chapter: number, verse: number): P
 
   const words = await wordsFor(book, chapter, verse);
   const lexicon = await lexiconFor(book);
-  for (const [original, translit, english, strong] of words) {
+  for (const word of words) {
+    const [original, translit, english, strong] = word;
     const entry = lexicon[strong];
     if (!entry || isFunctionWord(strong) || sources.has(`w:${strong}`)) continue;
-    sources.set(`w:${strong}`, `${original} (${translit}), "${english}" here. ${entry.g}. ${entry.d.replace(/\n/g, "; ")}`);
+    sources.set(
+      `w:${strong}`,
+      `${wordLanguage(book, word)} ${original} (${translit}), "${english}" here. ${entry.g}. ${entry.d.replace(/\n/g, "; ")}`,
+    );
   }
 
   for (const [b, c, vs, ve] of await crossRefsFor(book, chapter, verse)) {

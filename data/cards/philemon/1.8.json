@@ -1,0 +1,162 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 8
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.933Z",
+  "card": {
+    "in_context": {
+      "text": "Paul has just praised Philemon for refreshing the saints with his love (1:7). \"Wherefore\" links that praise to his appeal: Paul says he could boldly order Philemon to do what is fitting. In the next verse he says he will rather beseech him \"for love's sake\" (1:9).",
+      "sources": [
+        "v:1.7",
+        "v:1.8",
+        "v:1.9",
+        "w:G1352"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, who calls himself a prisoner of Jesus Christ, writing with Timothy.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, a dearly beloved fellow-labourer, with Apphia, Archippus, and the church in his house.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Onesimus, Philemon's servant who had left him and had become a believer through Paul. He is the subject of the appeal that follows.",
+        "sources": [
+          "v:1.10",
+          "v:1.11",
+          "v:1.15",
+          "v:1.16",
+          "b:purpose"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul admits he has authority in Christ to command Philemon about what is right. He sets that authority aside and chooses to appeal instead, so that Philemon's good deed would be done \"not as it were of necessity, but willingly\" (1:14).",
+      "sources": [
+        "v:1.8",
+        "v:1.9",
+        "v:1.14",
+        "b:themes"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse opens Paul's appeal for Onesimus (1:8-21), written while Paul was in prison and Onesimus was being sent back.",
+        "sources": [
+          "b:outline",
+          "v:1.10",
+          "v:1.12"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 60-62, from Rome, at the same time as Colossians. Scholarly: nearly all accept Paul as author, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison; the letter does not name the city, and Rome is the traditional view. It was sent to Philemon's house church, traditionally in Colossae.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.2"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul prepares Philemon to receive Onesimus back as \"a brother beloved\" (1:16). He does it by appeal, not by order.",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "v:1.16",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Elsewhere Paul also speaks of authority he could use but holds back, saying it was given \"for edification, and not for your destruction\" (2 Corinthians 10:8). He also writes that the apostles \"might have been burdensome\" yet were not (1 Thessalonians 2:6). He beseeches \"by the meekness and gentleness of Christ\" (2 Corinthians 10:1).",
+        "sources": [
+          "x:2-corinthians.10.8",
+          "x:1-thessalonians.2.6",
+          "x:2-corinthians.10.1"
+        ]
+      },
+      "for_readers": {
+        "text": "Paul shows that a leader with real authority can choose to ask in love rather than demand. He still trusts Philemon to do even more than he asks (1:21).",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "v:1.21"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3954",
+        "english": "boldness",
+        "why_it_matters": {
+          "text": "The word means freedom of speech, plainness, openness. Paul uses it in 2 Corinthians 3:12, \"great plainness of speech\", so his \"boldness\" here is the freedom to speak plainly and directly to Philemon.",
+          "sources": [
+            "w:G3954",
+            "x:2-corinthians.3.12"
+          ]
+        }
+      },
+      {
+        "strong": "G2004",
+        "english": "to command",
+        "why_it_matters": {
+          "text": "The word means to command or charge. Paul names this kind of order as something he could give and then chooses not to (1:9).",
+          "sources": [
+            "w:G2004",
+            "v:1.9"
+          ]
+        }
+      },
+      {
+        "strong": "G0433",
+        "english": "befitting",
+        "why_it_matters": {
+          "text": "The word means what is due or befitting, in a moral sense. It is also used in Ephesians 5:4 for talk that is \"not convenient.\" So \"convenient\" in the KJV means fitting or right, not easy.",
+          "sources": [
+            "w:G0433",
+            "x:ephesians.5.4"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul had the right to command what was right, but he chose to appeal in love. He wanted Philemon's kindness to Onesimus to be willing, not forced.",
+      "sources": [
+        "v:1.8",
+        "v:1.9",
+        "v:1.14"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon only lists Mark 1:27 and Luke 8:25 as references. It does not say that these are passages where unclean spirits and the winds obey Jesus, and none of the cited sources give that content.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

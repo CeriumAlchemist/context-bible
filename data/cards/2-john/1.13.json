@@ -1,0 +1,167 @@
+{
+  "ref": {
+    "book": "2-john",
+    "chapter": 1,
+    "verse": 13
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:50:24.565Z",
+  "card": {
+    "in_context": {
+      "text": "This is the last line of the letter. After saying he hopes to visit soon and talk face to face, the elder passes on greetings from the children of the reader's \"elect sister.\" It closes the letter the way it opened, with family language for those who share the truth.",
+      "sources": [
+        "v:1.12",
+        "v:1.13",
+        "v:1.1",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" who does not give his name. Early Christian tradition identifies him as John the apostle. Some scholars think he was a different church leader.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "The \"elect lady,\" addressed here as \"thee.\" She may be a Christian woman or a figurative name for a local church. The letter does not say which.",
+        "sources": [
+          "v:1.1",
+          "v:1.13",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The children of the lady's \"elect sister\" are the ones sending the greeting. They are with the elder or known to him.",
+        "sources": [
+          "v:1.13",
+          "b:recipients"
+        ]
+      }
+    },
+    "what": {
+      "text": "A closing greeting. The children of the elect sister send their respects, and the letter ends with \"Amen.\"",
+      "sources": [
+        "v:1.13",
+        "w:G0782",
+        "w:G0281"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The greeting comes at the end of the letter, while the elder still hopes to visit in person.",
+        "sources": [
+          "v:1.12",
+          "v:1.13"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, late in John's life, around the time of 1 John. Scholarly view: most also place it in the late first century, though some think the elder was not the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written. Early tradition places John's last years in Ephesus. The destination, a church or household the elder hoped to visit, was likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.12"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The greeting links the readers with another group of believers. It reminds them they belong to a wider family that shares the truth.",
+        "sources": [
+          "v:1.13",
+          "v:1.1",
+          "v:1.2"
+        ]
+      },
+      "big_picture": {
+        "text": "The letter calls its readers to walk in truth and love and to refuse support to teachers who deny that Jesus Christ has come in the flesh. The closing greeting shows the love between faithful believers that the letter urges.",
+        "sources": [
+          "b:purpose",
+          "v:1.5",
+          "v:1.7",
+          "v:1.10"
+        ]
+      },
+      "for_readers": {
+        "text": "Believers in different places are tied together as family. Even a simple greeting can express the love of those who \"have known the truth.\"",
+        "sources": [
+          "v:1.1",
+          "v:1.13",
+          "w:G0079"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Readers take the \"elect sister\" in two main ways. Some see a real Christian woman whose children send greetings. Others see a sister church and its members, much as 1 Peter 5:13 sends greetings from \"the church that is at Babylon, elected together with you.\" The letter itself does not say which.",
+      "sources": [
+        "v:1.13",
+        "v:1.1",
+        "b:recipients",
+        "x:1-peter.5.13"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G1588",
+        "english": "elect",
+        "why_it_matters": {
+          "text": "The word means chosen. It is used of Israel as chosen by God, of Christ, and of holy angels. So \"elect sister\" points to someone chosen by God, the same word used for the \"elect lady\" in verse 1.",
+          "sources": [
+            "w:G1588",
+            "v:1.1"
+          ]
+        }
+      },
+      {
+        "strong": "G0079",
+        "english": "sister",
+        "why_it_matters": {
+          "text": "It can mean a sister by birth. It is also used of a member of the Christian community, as in Romans 16:1. That second sense is part of why some read the sister as a fellow church or believer.",
+          "sources": [
+            "w:G0079"
+          ]
+        }
+      },
+      {
+        "strong": "G0782",
+        "english": "greet",
+        "why_it_matters": {
+          "text": "It means to welcome, greet, or pay respects to someone. It was a standard term for passing on greetings at the end of a letter, which fits this closing line.",
+          "sources": [
+            "w:G0782"
+          ]
+        }
+      },
+      {
+        "strong": "G5043",
+        "english": "children",
+        "why_it_matters": {
+          "text": "It means a child, someone begotten or born. It is also used as a kindly address from an elder to a junior or from a teacher to a disciple. So \"children\" may mean actual children or members of a fellowship.",
+          "sources": [
+            "w:G5043"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "This verse is a warm closing greeting, not a teaching on its own. It shows that believers chosen by God, in different places, share one family in the truth.",
+      "sources": [
+        "v:1.13",
+        "v:1.1",
+        "w:G1588"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

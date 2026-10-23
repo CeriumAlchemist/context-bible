@@ -1,0 +1,176 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 20
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.968Z",
+  "card": {
+    "in_context": {
+      "text": "Jude has just described false teachers as people \"who separate themselves, sensual, having not the Spirit\" (1:19). Verse 20 turns to the readers with \"But ye\" and shows how they are to live instead: build up on the faith and pray in the Holy Ghost. These lead into the main command of the next verse: \"Keep yourselves in the love of God\" (1:21).",
+      "sources": [
+        "v:1.19",
+        "v:1.20",
+        "v:1.21"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself \"the servant of Jesus Christ, and brother of James.\" Traditionally he is the Judas named among Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers Jude calls \"beloved,\" those \"sanctified by God the Father, and preserved in Jesus Christ, and called.\" The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "v:1.20",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The ungodly men who had \"crept in unawares\" stand in the background as the contrast. Unlike them, the readers are to grow in faith and pray in the Spirit.",
+        "sources": [
+          "v:1.4",
+          "v:1.19"
+        ]
+      }
+    },
+    "what": {
+      "text": "Jude tells the believers to keep building their lives on \"your most holy faith\" and to keep praying in the Holy Ghost. This is how they guard themselves while false teachers are among them.",
+      "sources": [
+        "v:1.20",
+        "v:1.21",
+        "v:1.3"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse describes no single event. It speaks to an ongoing situation in which false teachers had slipped into the church.",
+        "sources": [
+          "v:1.4",
+          "v:1.18",
+          "v:1.19"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name, while others defend Jude's authorship.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The text does not say where the letter was written or where its readers lived. Its many references to Israel's history suggest readers who knew Jewish tradition well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude wrote so the readers would \"earnestly contend for the faith which was once delivered unto the saints\" (1:3). Verse 20 gives the positive side of that fight: grow strong in the faith and pray, rather than only oppose error.",
+        "sources": [
+          "v:1.3",
+          "b:purpose",
+          "v:1.20"
+        ]
+      },
+      "big_picture": {
+        "text": "The believers are to keep themselves in God's love (1:21), and God is the one \"able to keep you from falling\" (1:24). Other Scripture also speaks of being \"built up in him, and stablished in the faith\" (Colossians 2:7) and of \"praying always ... in the Spirit\" (Ephesians 6:18).",
+        "sources": [
+          "v:1.21",
+          "v:1.24",
+          "x:colossians.2.7",
+          "x:ephesians.6.18",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "When false ideas are around, the answer Jude gives is not only to argue against them. It is to keep growing in the true faith and to keep praying with the Spirit's help, as Romans 8:26 says the Spirit \"helpeth our infirmities.\"",
+        "sources": [
+          "v:1.20",
+          "v:1.3",
+          "x:romans.8.26"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4771",
+        "english": "ye (you yourselves)",
+        "why_it_matters": {
+          "text": "The lexicon marks this pronoun as emphatic here, \"you yourselves.\" It sharpens the contrast with the men just described as \"having not the Spirit\" (1:19).",
+          "sources": [
+            "w:G4771",
+            "v:1.19",
+            "v:1.20"
+          ]
+        }
+      },
+      {
+        "strong": "G2026",
+        "english": "building up",
+        "why_it_matters": {
+          "text": "In the New Testament this word is always a picture of the spiritual life as a building. It is also used in Colossians 2:7, \"rooted and built up in him, and stablished in the faith.\"",
+          "sources": [
+            "w:G2026",
+            "x:colossians.2.7"
+          ]
+        }
+      },
+      {
+        "strong": "G1438",
+        "english": "yourselves",
+        "why_it_matters": {
+          "text": "The readers are to build up \"yourselves\" on their most holy faith. 1 Thessalonians 5:11 gives a related call: \"edify one another.\"",
+          "sources": [
+            "w:G1438",
+            "v:1.20",
+            "x:1-thessalonians.5.11"
+          ]
+        }
+      },
+      {
+        "strong": "G4336",
+        "english": "praying",
+        "why_it_matters": {
+          "text": "This word is always used of prayer to God. The lexicon lists \"in the Spirit\" alongside it in both Ephesians 6:18 and Jude, tying the two passages together.",
+          "sources": [
+            "w:G4336",
+            "x:ephesians.6.18"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Jude 20 tells believers how to stand when false teachers are near: keep building on the faith once delivered and keep praying in the Holy Ghost. They do this as they keep themselves in God's love, trusting God to keep them from falling.",
+      "sources": [
+        "v:1.20",
+        "v:1.21",
+        "v:1.24",
+        "v:1.3"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.2",
+      "reason": "The cited lexicon entry for ἑαυτοὺς says nothing about the word being plural or addressed to the group. Jude's reflexive 'build up yourselves' is also not the same as the reciprocal 'edify one another' of 1 Thessalonians 5:11. Treating the verse as being about mutual strengthening goes beyond the cited sources.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "Sweep after Kourtland's Philemon 1:16 note: the verse does not mention tongues, so the note brought in an outside debate.",
+      "fix": "note removed"
+    }
+  ]
+}

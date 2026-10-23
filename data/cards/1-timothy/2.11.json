@@ -114,15 +114,7 @@
         ]
       }
     },
-    "christians_differ": {
-      "text": "Some Christians read 2:11-12 as a lasting pattern for church order, since Paul grounds it in creation (2:13). Others read it as aimed at a particular problem with false teaching in Ephesus (1:3), so it does not bar women from teaching today. The sources here do not settle the question.",
-      "sources": [
-        "v:2.12",
-        "v:2.13",
-        "b:purpose",
-        "b:recipients"
-      ]
-    },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G3129",
@@ -158,12 +150,14 @@
       }
     ],
     "takeaway": {
-      "text": "Paul tells women in the Ephesian church to learn, in quietness and submission, within worship. How far this applies today is debated among Christians. Read it with its whole paragraph.",
+      "text": "Paul tells women in the Ephesian church to learn, in quietness and submission, within the church's worship. Read it with its whole paragraph, and alongside Paul's charge that older women be \"teachers of good things\" to younger women (Titus 2:3-5).",
       "sources": [
         "v:2.11",
         "v:2.12",
         "b:outline",
-        "b:purpose"
+        "x:titus.2.3",
+        "x:titus.2.4",
+        "x:titus.2.5"
       ]
     }
   },
@@ -174,6 +168,16 @@
       "claim": "key_words.2",
       "reason": "The lexicon only lists 1 Timothy 3:4 as a reference. It does not say that verse concerns children's submission in a household, and the text of 3:4 is not among the sources.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "takeaway",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
     }
   ]
 }

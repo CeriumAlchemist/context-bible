@@ -1,0 +1,169 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 21
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.969Z",
+  "card": {
+    "in_context": {
+      "text": "Jude has described ungodly men who slipped into the church and \"separate themselves\" without the Spirit. In contrast, he tells the \"beloved\" to build up their faith, pray in the Holy Ghost, keep themselves in God's love, and wait for Christ's mercy that leads to eternal life.",
+      "sources": [
+        "v:1.4",
+        "v:1.19",
+        "v:1.20",
+        "v:1.21"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James. Tradition identifies him as one of Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers Jude calls \"beloved\": people called, sanctified by God the Father, and preserved in Jesus Christ. The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "v:1.20",
+          "b:recipients"
+        ]
+      },
+      "affected": null
+    },
+    "what": {
+      "text": "This is a command with a hope attached. The readers are to keep themselves in God's love. Meanwhile they wait for the mercy of Jesus Christ, which leads to eternal life.",
+      "sources": [
+        "v:1.21",
+        "w:G5083G",
+        "w:G4327"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse describes no single event. It speaks to believers living in \"the last time,\" when mockers appear, as they wait for the Lord's mercy.",
+        "sources": [
+          "v:1.18",
+          "v:1.21"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or where its readers lived. Its many references to Israel's history suggest readers who knew Jewish tradition well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "After warning against false teachers, Jude tells the faithful how to stand firm. They are not to copy those men but to stay in God's love and look ahead to Christ's mercy.",
+        "sources": [
+          "b:purpose",
+          "v:1.19",
+          "v:1.20",
+          "v:1.21"
+        ]
+      },
+      "big_picture": {
+        "text": "The believers' part, \"keep yourselves,\" sits beside God's part. The letter closes by praising \"him that is able to keep you from falling.\" Jesus also told his disciples, \"continue ye in my love.\"",
+        "sources": [
+          "v:1.21",
+          "v:1.24",
+          "b:themes",
+          "x:john.15.9"
+        ]
+      },
+      "for_readers": {
+        "text": "Believers are called to stay close to God's love and to wait in hope. Scripture elsewhere speaks of looking for Christ, who will appear \"unto salvation\" for those who look for him.",
+        "sources": [
+          "v:1.21",
+          "x:hebrews.9.28",
+          "x:lamentations.3.26"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "\"The love of God\" can be read two ways. Some take it as God's love for believers, which they are to stay within (compare \"continue ye in my love,\" John 15:9). Others take it as believers' love for God, kept up by obedience (compare John 15:10).",
+      "sources": [
+        "v:1.21",
+        "w:G0026",
+        "x:john.15.9",
+        "x:john.15.10"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G5083G",
+        "english": "keep",
+        "why_it_matters": {
+          "text": "The word means to watch over, guard, keep or preserve. The lexicon also lists it in Jude 6, where angels who left their place are \"reserved\" for judgment, and in John 17:11-12.",
+          "sources": [
+            "w:G5083G",
+            "v:1.6"
+          ]
+        }
+      },
+      {
+        "strong": "G4327",
+        "english": "looking for",
+        "why_it_matters": {
+          "text": "The word means to expect, look for, or wait for. The lexicon lists the same use in Luke 2:25 and Titus 2:13.",
+          "sources": [
+            "w:G4327"
+          ]
+        }
+      },
+      {
+        "strong": "G1656",
+        "english": "mercy",
+        "why_it_matters": {
+          "text": "It means mercy, pity, compassion. In the Greek Old Testament it chiefly translates the Hebrew word for God's steadfast kindness. Jude opened with \"Mercy unto you\" and here points to Christ's mercy still to come.",
+          "sources": [
+            "w:G1656",
+            "v:1.2"
+          ]
+        }
+      },
+      {
+        "strong": "G0026",
+        "english": "love",
+        "why_it_matters": {
+          "text": "The lexicon shows this word used both for people's love toward God and for God's love toward people. Its plural names the \"feasts of charity\" in Jude 12, which the false teachers spoiled.",
+          "sources": [
+            "w:G0026",
+            "v:1.12"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Unlike those who drift away, believers are to stay in God's love and wait in hope for Christ's mercy. They do so trusting the God who is able to keep them from falling.",
+      "sources": [
+        "v:1.19",
+        "v:1.21",
+        "v:1.24"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon only defines the word as 'expect, look for, wait for'; it says nothing about the waiting being eager rather than idle.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

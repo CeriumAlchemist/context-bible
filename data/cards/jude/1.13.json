@@ -1,0 +1,184 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 13
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.966Z",
+  "card": {
+    "in_context": {
+      "text": "Jude is describing ungodly men who had slipped into the church unnoticed. This verse continues a chain of pictures from nature begun in verse 12: they are like wild sea waves that throw up foam, and like stars that wander off course, and deep darkness is kept for them for ever.",
+      "sources": [
+        "v:1.4",
+        "v:1.12",
+        "v:1.13"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James. Traditionally he is the Judas named among Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers who are \"sanctified by God the Father, and preserved in Jesus Christ, and called.\" The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients",
+          "b:destination"
+        ]
+      },
+      "affected": {
+        "text": "The \"certain men crept in unawares\": ungodly men who turned God's grace into an excuse for immorality and denied the Lord. They shared the church's love feasts.",
+        "sources": [
+          "v:1.4",
+          "v:1.12"
+        ]
+      }
+    },
+    "what": {
+      "text": "Two pictures describe the ungodly men. Like raging waves that cast up foam, they spill out their own shame. Like wandering stars, they go astray, and the blackness of darkness is reserved for them.",
+      "sources": [
+        "v:1.13",
+        "w:G0152",
+        "w:G4107",
+        "x:isaiah.57.20"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The false teachers were already among the believers, taking part in their feasts. Jude says the apostles had warned that such mockers would come \"in the last time.\"",
+        "sources": [
+          "v:1.4",
+          "v:1.12",
+          "v:1.18"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name, while others defend Jude's authorship.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or where its readers lived. The images come from the sea and the night sky, not from a named place.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.13"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude wants his readers to see these men clearly, so they will \"earnestly contend for the faith\" and not be misled. The vivid pictures expose how empty and dangerous the men are.",
+        "sources": [
+          "v:1.3",
+          "v:1.4",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "The verse belongs to Jude's section on God's past judgments and his portrait of the ungodly. The same word \"reserved\" is used of the angels kept in darkness for judgment in verse 6. 2 Peter 2:17 uses a very similar picture: \"to whom the mist of darkness is reserved for ever.\"",
+        "sources": [
+          "b:outline",
+          "v:1.6",
+          "w:G5083H",
+          "x:2-peter.2.17"
+        ]
+      },
+      "for_readers": {
+        "text": "In contrast to these men, the readers are told to keep themselves in the love of God. God is the one able to keep them from falling.",
+        "sources": [
+          "v:1.20",
+          "v:1.21",
+          "v:1.24"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0066",
+        "english": "raging (wild)",
+        "why_it_matters": {
+          "text": "The word means wild, and here savage or fierce. Elsewhere it describes the wild honey John the Baptist ate, so it pictures the sea at its most untamed.",
+          "sources": [
+            "w:G0066"
+          ]
+        }
+      },
+      {
+        "strong": "G1890",
+        "english": "foaming out",
+        "why_it_matters": {
+          "text": "It means to foam up, used here as a picture. The lexicon lists no other New Testament use. It echoes Isaiah 57:20, where the wicked are like a troubled sea that casts up mire and dirt.",
+          "sources": [
+            "w:G1890",
+            "x:isaiah.57.20"
+          ]
+        }
+      },
+      {
+        "strong": "G0152",
+        "english": "shame",
+        "why_it_matters": {
+          "text": "In this verse the word is plural and means shameful deeds. The waves throw up the men's actual shameful acts, not just a feeling of embarrassment.",
+          "sources": [
+            "w:G0152"
+          ]
+        }
+      },
+      {
+        "strong": "G4107",
+        "english": "wandering",
+        "why_it_matters": {
+          "text": "It means a wanderer. With \"stars\" it means wandering stars, which the lexicon notes were what the ancients called the planets.",
+          "sources": [
+            "w:G4107",
+            "w:G0792"
+          ]
+        }
+      },
+      {
+        "strong": "G5083H",
+        "english": "is reserved",
+        "why_it_matters": {
+          "text": "It means to keep, guard, or preserve. Jude uses it of the angels kept for judgment (v. 6) and of believers keeping themselves in God's love (v. 21), setting the two kinds of keeping side by side.",
+          "sources": [
+            "w:G5083H",
+            "v:1.6",
+            "v:1.21"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Jude paints false teachers as restless, shameful, and unreliable, and certain to face God's judgment. His point is to warn believers so they stay anchored in the faith and in God's love.",
+      "sources": [
+        "v:1.13",
+        "v:1.3",
+        "v:1.21"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "what",
+      "reason": "The sources call them 'wandering stars' but nowhere say such stars 'cannot guide anyone'. The navigation-guide idea is an added interpretation.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.3",
+      "reason": "The lexicon gives only 'wanderer' and 'wandering stars' (planets). 'Stars that drift cannot be trusted as guides' is an interpretation the cited sources do not state.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

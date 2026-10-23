@@ -150,7 +150,7 @@
         "strong": "G3588",
         "english": "the",
         "why_it_matters": {
-          "text": "The Greek reads \"the childbearing,\" with the article that the KJV leaves out. Some readers take this to point to one particular birth, the birth of Christ.",
+          "text": "The Greek reads \"the childbearing,\" with the article that the KJV leaves out.",
           "sources": [
             "w:G3588",
             "w:G5042"
@@ -170,7 +170,7 @@
       }
     ],
     "takeaway": {
-      "text": "This is a hard verse, and Christians read it differently. In its chapter, salvation rests on Christ the one mediator, and the verse ties it to lasting faith, love, holiness, and self-control.",
+      "text": "In its chapter, salvation rests on Christ the one mediator (2:5-6), and this verse ties it to continuing in faith, love, holiness, and self-control.",
       "sources": [
         "v:2.5",
         "v:2.6",
@@ -185,6 +185,16 @@
       "claim": "key_words.1",
       "reason": "The lexicon confirms the word is unique to this verse in the NT, but it gives a plain gloss ('child-bearing') and cites a use in Aristotle. It says nothing about the word's sense being hard to settle, so that part is added.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "takeaway",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
+    },
+    {
+      "claim": "key_words.2",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
     }
   ]
 }

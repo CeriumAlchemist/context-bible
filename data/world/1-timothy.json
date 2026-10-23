@@ -1,0 +1,341 @@
+{
+  "period": {
+    "label": "About AD 62-64",
+    "note": "This follows the traditional date of the letter. If it was written later (around AD 80-110, as many critical scholars hold), the emperors were Vespasian, Titus, Domitian or Trajan, and Jerusalem's temple had already fallen in AD 70."
+  },
+  "map": {
+    "places": ["ephesus", "macedonia", "rome", "jerusalem", "laodicea", "miletus", "philippi", "thessalonica", "corinth"],
+    "primary": ["ephesus"],
+    "regions": [
+      { "name": "Italia", "lat": 42.4, "lon": 13.6 },
+      { "name": "Macedonia", "lat": 41.15, "lon": 21.4 },
+      { "name": "Achaia", "lat": 38.5, "lon": 21.9 },
+      { "name": "Asia", "lat": 39.2, "lon": 28.9 },
+      { "name": "Galatia", "lat": 39.6, "lon": 32.8 },
+      { "name": "Syria", "lat": 34.9, "lon": 37.6 },
+      { "name": "Judea", "lat": 31.0, "lon": 34.7 },
+      { "name": "Egypt", "lat": 28.2, "lon": 30.4 }
+    ],
+    "seas": [
+      { "name": "Mediterranean Sea", "lat": 34.2, "lon": 19.5 },
+      { "name": "Aegean Sea", "lat": 38.9, "lon": 25.0 },
+      { "name": "Black Sea", "lat": 43.3, "lon": 34.0 }
+    ]
+  },
+  "rulers": [
+    {
+      "name": "Nero",
+      "role": "Roman emperor",
+      "years": "AD 54-68",
+      "text": "Emperor over the whole Roman world, including Ephesus, Macedonia and Judea. When Paul appealed to Caesar as a Roman citizen, the Caesar was Nero. Paul tells Timothy to have prayers made \"for kings, and for all that are in authority.\"",
+      "sources": ["Acts 25:10-12", "Acts 28:16", "1 Timothy 2:1-2", "Suetonius, Nero", "Tacitus, Annals 13-16"],
+      "verses": ["2:1-2"]
+    },
+    {
+      "name": "The proconsul of Asia",
+      "role": "Governor of the province where Ephesus stood",
+      "years": "One-year terms",
+      "text": "Asia was governed by a proconsul, a former consul appointed by the Senate for a year at a time, who heard cases in the province's leading cities. During the riot in Ephesus the town clerk reminded the crowd that \"the law is open, and there are deputies\" (proconsuls).",
+      "sources": ["Acts 19:38-39", "Strabo, Geography 17.3.25"]
+    },
+    {
+      "name": "Herod Agrippa II",
+      "role": "Jewish client king",
+      "years": "c. AD 50-90s",
+      "text": "Ruled territories north and east of Galilee under Rome and had the right to appoint the high priest in Jerusalem. He heard Paul's defense with Festus and told him, \"Almost thou persuadest me to be a Christian.\"",
+      "sources": ["Acts 25:13", "Acts 26:28", "Josephus, Antiquities 20.179, 20.203"]
+    },
+    {
+      "name": "Festus, Albinus and Florus",
+      "role": "Roman governors of Judea",
+      "years": "c. AD 59-66",
+      "text": "Porcius Festus sent Paul to Rome and died in office around AD 62. Lucceius Albinus (62-64) and Gessius Florus (64-66) followed; Josephus blames Florus's greed and brutality for pushing Judea into revolt.",
+      "sources": ["Acts 24:27", "Acts 25:12", "Josephus, Antiquities 20.197-203, 20.252-258", "Josephus, Jewish War 2.271-308"]
+    },
+    {
+      "name": "Vologases I",
+      "role": "King of Parthia",
+      "years": "c. AD 51-78",
+      "text": "Ruler of the Parthian empire east of the Euphrates, Rome's one great rival. He fought Rome over Armenia until a settlement in AD 63 let his brother Tiridates rule Armenia as Rome's client.",
+      "sources": ["Tacitus, Annals 15.1-17, 15.24-31", "Cassius Dio, Roman History 62.19-23"]
+    }
+  ],
+  "events": [
+    {
+      "year": 58,
+      "when": "AD 58-63",
+      "kind": "war",
+      "title": "Rome and Parthia fight over Armenia",
+      "text": "Roman armies under Corbulo took the Armenian capitals Artaxata and Tigranocerta. In AD 62 a second Roman army under Paetus surrendered at Rhandeia, and in AD 63 the two empires made peace.",
+      "sources": ["Tacitus, Annals 13.34-41, 14.23-26, 15.1-17, 15.24-31"]
+    },
+    {
+      "year": 60,
+      "when": "AD 60",
+      "kind": "disaster",
+      "title": "Earthquake destroys Laodicea",
+      "text": "Laodicea, about 150 km (95 miles) east of Ephesus in the same province, was ruined by an earthquake and rebuilt from its own wealth without help from Rome. Paul's letters mention the church there, and Revelation later quotes the city's boast, \"I am rich.\"",
+      "sources": ["Tacitus, Annals 14.27", "Colossians 4:13-16", "Revelation 3:17"]
+    },
+    {
+      "year": 60,
+      "when": "AD 60-61",
+      "kind": "war",
+      "title": "Boudica's revolt in Britain",
+      "text": "Boudica, queen of the Iceni, led a rising that burned Camulodunum (Colchester), Londinium (London) and Verulamium before the Roman governor Suetonius Paulinus defeated her.",
+      "sources": ["Tacitus, Annals 14.29-39"]
+    },
+    {
+      "year": 60,
+      "when": "c. AD 60-62",
+      "kind": "church",
+      "title": "Paul under guard in Rome",
+      "text": "Paul lived two whole years in Rome under house arrest, receiving visitors and preaching openly. The traditional date for 1 Timothy places it soon after his release.",
+      "sources": ["Acts 28:16", "Acts 28:30-31"]
+    },
+    {
+      "year": 61,
+      "when": "c. AD 61-63",
+      "kind": "discovery",
+      "title": "Nero's expedition up the Nile",
+      "text": "Nero sent a party of soldiers to find the source of the Nile. They travelled far beyond Egypt and reached vast marshes they could not cross, likely the Sudd in today's South Sudan. The date is approximate.",
+      "sources": ["Seneca, Natural Questions 6.8.3-4", "Pliny, Natural History 6.181"]
+    },
+    {
+      "year": 62,
+      "when": "AD 62",
+      "kind": "church",
+      "title": "James, the Lord's brother, is killed in Jerusalem",
+      "text": "Festus died in office. Before the next governor arrived, the high priest Ananus had \"James, the brother of Jesus who was called Christ\" and others stoned. Ananus was removed after three months.",
+      "sources": ["Josephus, Antiquities 20.197-203", "Galatians 1:19", "Acts 15:13"]
+    },
+    {
+      "year": 62,
+      "when": "AD 62 or 63",
+      "kind": "disaster",
+      "title": "Earthquake hits Pompeii",
+      "text": "An earthquake badly damaged Pompeii and Herculaneum in Italy, seventeen years before Vesuvius buried them. Seneca dates it to AD 62; Tacitus to AD 63.",
+      "sources": ["Seneca, Natural Questions 6.1", "Tacitus, Annals 15.22"]
+    },
+    {
+      "year": 62,
+      "when": "c. AD 62",
+      "kind": "discovery",
+      "title": "Hero of Alexandria's machines",
+      "text": "The engineer Hero of Alexandria, whose work is dated by an eclipse of AD 62 he describes, wrote up a steam-spun sphere (the aeolipile) and a coin-operated machine that dispensed water in temples.",
+      "sources": ["Hero, Pneumatics 1.21, 2.11", "Hero, Dioptra 35"]
+    },
+    {
+      "year": 63,
+      "when": "c. AD 63-64",
+      "kind": "building",
+      "title": "Jerusalem's temple is finished",
+      "text": "Work on the temple Herod began around 20 BC was completed under Albinus, leaving some 18,000 workers without jobs. Six years later Roman armies destroyed it, as Jesus had foretold.",
+      "sources": ["Josephus, Antiquities 20.219-222", "John 2:20", "Luke 21:5-6"]
+    },
+    {
+      "year": 64,
+      "when": "July AD 64",
+      "kind": "disaster",
+      "title": "The Great Fire of Rome",
+      "text": "Fire burned for days. Of Rome's fourteen districts, three were destroyed and seven badly damaged. Nero then built his vast Golden House on the cleared land.",
+      "sources": ["Tacitus, Annals 15.38-43", "Suetonius, Nero 31, 38"]
+    },
+    {
+      "year": 64,
+      "when": "AD 64",
+      "kind": "church",
+      "title": "Nero blames and kills Christians",
+      "text": "To end rumours that he had started the fire, Nero blamed the Christians of Rome. Tacitus records a \"vast multitude\" put to death, some torn by dogs and some burned as torches.",
+      "sources": ["Tacitus, Annals 15.44", "Suetonius, Nero 16.2"]
+    },
+    {
+      "year": 65,
+      "when": "AD 65",
+      "kind": "rule",
+      "title": "A plot against Nero fails",
+      "text": "The Pisonian conspiracy to kill Nero was betrayed. Among those forced to take their own lives was Seneca, Nero's former tutor and the brother of Gallio, the governor who dismissed the case against Paul in Corinth.",
+      "sources": ["Tacitus, Annals 15.48-74", "Acts 18:12-17"]
+    },
+    {
+      "year": 66,
+      "when": "AD 66",
+      "kind": "war",
+      "title": "The Jewish revolt begins",
+      "text": "After Florus seized money from the temple treasury, Jerusalem rose against Rome and the daily sacrifice offered for the emperor was stopped. The war ended with Jerusalem and its temple destroyed in AD 70.",
+      "sources": ["Josephus, Jewish War 2.293-308, 2.409-410", "Luke 21:20-24"]
+    },
+    {
+      "year": 67,
+      "when": "AD 66-67",
+      "kind": "building",
+      "title": "Nero tours Greece and starts a canal at Corinth",
+      "text": "Nero competed in the Greek games and broke ground for a canal across the Isthmus of Corinth. The work stopped after his death; the canal was finally cut in 1893.",
+      "sources": ["Suetonius, Nero 19, 22-24"]
+    },
+    {
+      "year": 67,
+      "when": "c. AD 67",
+      "kind": "church",
+      "title": "Paul's death in Rome",
+      "text": "In his last letter Paul writes from prison that \"the time of my departure is at hand.\" Early Christian tradition says he was beheaded in Rome under Nero.",
+      "sources": ["2 Timothy 4:6-8", "Eusebius, Church History 2.25"]
+    },
+    {
+      "year": 68,
+      "when": "June AD 68",
+      "kind": "rule",
+      "title": "Nero dies",
+      "text": "Facing revolt in the provinces and declared an enemy by the Senate, Nero took his own life. Four emperors ruled in turn during the following year before Vespasian took power.",
+      "sources": ["Suetonius, Nero 47-49", "Tacitus, Histories 1.2"]
+    }
+  ],
+  "places": [
+    {
+      "slug": "ephesus",
+      "name": "Ephesus",
+      "summary": "Where Timothy was when Paul wrote. A port city on the west coast of today's Turkey and the greatest market of the province of Asia.",
+      "facts": [
+        {
+          "topic": "Port and trade",
+          "text": "Ephesus stood near the mouth of the Cayster River. Its harbor kept silting up, but its position made it, in Strabo's words, the greatest trading center of Asia this side of the Taurus mountains.",
+          "sources": ["Strabo, Geography 14.1.24"]
+        },
+        {
+          "topic": "The temple of Artemis (Diana)",
+          "text": "The city's great temple of Artemis was counted among the Seven Wonders of the World; Pliny gives it 127 columns and a length of 425 feet. Ephesus called itself the goddess's \"temple keeper,\" and the temple also held deposits of money, like a bank.",
+          "sources": ["Acts 19:27", "Acts 19:35", "Pliny, Natural History 36.95-97", "Dio Chrysostom, Orations 31.54"]
+        },
+        {
+          "topic": "A living made from the goddess",
+          "text": "Silversmiths made silver shrines of Artemis for sale. When people turned from idols under Paul's preaching, the silversmith Demetrius stirred up a riot to protect the trade and the temple.",
+          "sources": ["Acts 19:23-27"]
+        },
+        {
+          "topic": "Magic",
+          "text": "The \"Ephesian letters\" were magic words known across the ancient world. Many in Ephesus who believed burned their books of magic, worth 50,000 pieces of silver.",
+          "sources": ["Acts 19:18-19", "Plutarch, Table Talk 7.5"]
+        },
+        {
+          "topic": "The theater",
+          "text": "The city's theater, cut into the side of Mount Pion, held around 24,000 people. The crowd rushed there during the riot and shouted \"Great is Diana of the Ephesians\" for two hours.",
+          "sources": ["Acts 19:29", "Acts 19:34", "Austrian Archaeological Institute excavations at Ephesus"]
+        },
+        {
+          "topic": "The Jewish community",
+          "text": "Ephesus had a synagogue where Paul first taught. Roman decrees preserved by Josephus confirm the right of the Jews of Ephesus to keep the Sabbath and their own customs.",
+          "sources": ["Acts 18:19", "Acts 19:8", "Josephus, Antiquities 14.225-227, 14.262-264"]
+        },
+        {
+          "topic": "The church at Ephesus",
+          "text": "Priscilla and Aquila taught there, and Paul stayed about three years, teaching daily in the school of Tyrannus. Saying farewell to its elders, he warned that from among themselves men would arise \"speaking perverse things, to draw away disciples after them.\"",
+          "sources": ["Acts 18:24-26", "Acts 19:9-10", "Acts 20:17", "Acts 20:29-31"],
+          "verses": ["1:3-7", "4:1-3", "6:3-5"]
+        },
+        {
+          "topic": "Rome's gods in the city",
+          "text": "In 29 BC Augustus allowed the Romans living in Ephesus to dedicate a sacred precinct to the goddess Roma and the deified Julius Caesar, an early step in honoring emperors as gods in Asia.",
+          "sources": ["Cassius Dio, Roman History 51.20.6"]
+        },
+        {
+          "topic": "Decades later",
+          "text": "Revelation's letter to Ephesus praises the church for testing those who claimed to be apostles and finding them false, but rebukes it for leaving its first love.",
+          "sources": ["Revelation 2:1-7"],
+          "verses": ["1:3-7"]
+        }
+      ]
+    },
+    {
+      "slug": "macedonia",
+      "name": "Macedonia",
+      "summary": "Where Paul had gone after leaving Timothy in Ephesus. The Roman province north of Greece, home of the churches at Philippi, Thessalonica and Berea.",
+      "facts": [
+        {
+          "topic": "A Roman province",
+          "text": "Rome made Macedonia a province in 146 BC, with Thessalonica as its capital. The Via Egnatia, a Roman highway, crossed it from the Adriatic coast to the east, passing through Philippi and Thessalonica.",
+          "sources": ["Strabo, Geography 7.7.4", "Acts 17:1"]
+        },
+        {
+          "topic": "Paul's churches there",
+          "text": "Philippi was a Roman colony and Paul's first church in Europe. The Macedonian churches gave generously to Paul and to the poor in Jerusalem despite their own deep poverty.",
+          "sources": ["Acts 16:9-12", "Philippians 4:15-16", "2 Corinthians 8:1-5"]
+        },
+        {
+          "topic": "The road from Ephesus",
+          "text": "Paul had made the same journey before: after the riot in Ephesus he \"departed for to go into Macedonia.\"",
+          "sources": ["Acts 20:1"],
+          "verses": ["1:3"]
+        }
+      ]
+    }
+  ],
+  "life": [
+    {
+      "topic": "Praying for rulers",
+      "text": "Scripture had long told God's people to seek the peace of the city they lived in and to pray for the king. In Jerusalem a sacrifice was offered daily for the emperor until the revolt of AD 66 stopped it.",
+      "sources": ["Jeremiah 29:7", "Ezra 6:10", "Josephus, Jewish War 2.197, 2.409"],
+      "verses": ["2:1-2"]
+    },
+    {
+      "topic": "Lifting up hands in prayer",
+      "text": "Praying standing with hands raised was a familiar posture in Israel's worship.",
+      "sources": ["1 Kings 8:22", "Psalms 28:2", "Psalms 134:2", "Psalms 141:2"],
+      "verses": ["2:8"]
+    },
+    {
+      "topic": "Hair, gold and pearls",
+      "text": "Portraits of wealthy Roman women of the period show elaborately braided and piled hairstyles. Pliny tells of Lollia Paulina, once married to the emperor Caligula, wearing emeralds and pearls worth 40 million sesterces to an ordinary betrothal dinner. Peter's letter names the same adornments.",
+      "sources": ["Pliny, Natural History 9.117", "1 Peter 3:3-4"],
+      "verses": ["2:9-10"]
+    },
+    {
+      "topic": "Hospitality",
+      "text": "Christians travelling between cities depended on believers who would take them in, and the New Testament repeatedly urges it.",
+      "sources": ["Romans 12:13", "Hebrews 13:2", "3 John 1:5-8"],
+      "verses": ["3:2", "5:10"]
+    },
+    {
+      "topic": "Widows",
+      "text": "There was no public pension; a widow depended on her family. The Law commanded care for the widow, and the early church had a daily distribution for widows. Augustus's marriage laws pressed widows under fifty to remarry within two years.",
+      "sources": ["Deuteronomy 14:29", "Deuteronomy 24:19-21", "Acts 6:1", "James 1:27", "Ulpian, Rules 14"],
+      "verses": ["5:3-16"]
+    },
+    {
+      "topic": "Threshing with oxen",
+      "text": "Grain was threshed by driving oxen over it on a hard floor. The Law forbade muzzling an ox while it worked, a command Paul quotes twice.",
+      "sources": ["Deuteronomy 25:4", "1 Corinthians 9:9"],
+      "verses": ["5:18"]
+    },
+    {
+      "topic": "Wine as medicine",
+      "text": "Wine was an everyday drink and a common remedy; the Samaritan in Jesus' parable treats a wounded man's injuries with oil and wine.",
+      "sources": ["Luke 10:34", "Proverbs 31:6"],
+      "verses": ["5:23"]
+    },
+    {
+      "topic": "Slavery in the Roman world",
+      "text": "Slaves worked in nearly every kind of household and trade, as laborers, servants, teachers and managers, and many were later freed. Paul's letters address believing slaves and masters directly.",
+      "sources": ["1 Corinthians 7:21", "Ephesians 6:5-9", "Colossians 4:1", "Philemon 1:15-16"],
+      "verses": ["6:1-2"]
+    },
+    {
+      "topic": "Kidnapping for the slave trade",
+      "text": "Free people were kidnapped and sold as slaves. The Law of Moses made stealing a man to sell him a capital crime.",
+      "sources": ["Exodus 21:16", "Deuteronomy 24:7"],
+      "verses": ["1:10"]
+    },
+    {
+      "topic": "Athletic training",
+      "text": "Greek cities had gymnasia where young men trained their bodies, and athletic contests were part of public life. Paul uses runners and boxers as pictures of discipline.",
+      "sources": ["1 Corinthians 9:24-27"],
+      "verses": ["4:7-8"]
+    },
+    {
+      "topic": "Pontius Pilate",
+      "text": "Pilate governed Judea as prefect from AD 26 to 36, about thirty years before this letter. Tacitus also records that Christ was executed under him, and a stone found at Caesarea in 1961 bears his name and title.",
+      "sources": ["Luke 3:1", "Matthew 27:2", "Tacitus, Annals 15.44", "The Pilate Stone, Caesarea (found 1961)"],
+      "verses": ["6:13"]
+    }
+  ],
+  "basis": "Scripture first, then the ancient historians who wrote about these years (Tacitus, Suetonius, Josephus, Seneca, Pliny the Elder, Strabo, Cassius Dio). Dates are as those writers give them; approximate dates say so. Drafted by Claude and not yet reviewed by a person."
+}

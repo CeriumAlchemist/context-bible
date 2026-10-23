@@ -1,0 +1,176 @@
+{
+  "ref": {
+    "book": "2-john",
+    "chapter": 1,
+    "verse": 4
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:50:24.565Z",
+  "card": {
+    "in_context": {
+      "text": "After his greeting, the elder tells the lady he was very glad to find some of her children living in the truth, just as God the Father commanded. This joy leads straight into his main request that they love one another (1:5-6) and his warning about deceivers (1:7-11).",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "v:1.6",
+        "v:1.7",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" who does not give his name. Early Christian tradition says he is John the apostle. Some scholars think he was a different church leader.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "\"The elect lady and her children.\" This may be a Christian woman and her family, or a figure of speech for a local church and its members. The letter does not say which.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The lady's \"children\" whom the elder found walking in truth. The Greek wording points to some of them, not necessarily all.",
+        "sources": [
+          "v:1.4",
+          "w:G1537",
+          "w:G5043"
+        ]
+      }
+    },
+    "what": {
+      "text": "The elder says he rejoiced greatly because he found some of the lady's children walking in truth. He describes this as living in line with a commandment received from the Father. In verses 5-6 he names that commandment: love one another, and walk after God's commandments.",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "v:1.6",
+        "w:G5463",
+        "w:G3029",
+        "w:G1785"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The text does not say when or how the elder found these children walking in truth. It only says that he had found it to be so.",
+        "sources": [
+          "v:1.4",
+          "w:G2147"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, late in John's life, around the same time as 1 John. Scholarly view: most scholars also place it in the late first century.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written. Early tradition places John's last years in Ephesus. It went to a church or household the elder knew, likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The elder praises what is going well before he gives his request and his warning. His joy over those walking in truth sets up his call to keep walking in truth and love.",
+        "sources": [
+          "v:1.4",
+          "v:1.5",
+          "v:1.6",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "In John's letters, truth is something you live out, not only something you believe. Walking in the light, and walking as Jesus walked, are the signs of real fellowship with God.",
+        "sources": [
+          "x:1-john.1.6",
+          "x:1-john.1.7",
+          "x:1-john.2.6",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "The same joy shows up in 3 John: \"I have no greater joy than to hear that my children walk in truth.\" Leaders who care for others are glad when those people live out what they have been taught.",
+        "sources": [
+          "x:3-john.1.3",
+          "x:3-john.1.4"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4043",
+        "english": "walking",
+        "why_it_matters": {
+          "text": "The word means to walk, and is used figuratively of how a person lives and conducts themselves. So \"walking in truth\" means a way of life, as in 1 John 1:6-7, where people walk in darkness or in light.",
+          "sources": [
+            "w:G4043",
+            "x:1-john.1.6",
+            "x:1-john.1.7"
+          ]
+        }
+      },
+      {
+        "strong": "G0225",
+        "english": "truth",
+        "why_it_matters": {
+          "text": "The lexicon gives two senses. One is religious truth, especially Christian teaching. The other is truthfulness as sincerity and integrity of character, citing 3 John 3. In this letter, truth goes together with love (1:3).",
+          "sources": [
+            "w:G0225",
+            "v:1.3",
+            "x:3-john.1.3"
+          ]
+        }
+      },
+      {
+        "strong": "G1537",
+        "english": "[some] of",
+        "why_it_matters": {
+          "text": "This word means \"from out of\" or \"from among.\" It suggests the elder found some of the lady's children walking in truth, not necessarily all of them.",
+          "sources": [
+            "w:G1537",
+            "v:1.4"
+          ]
+        }
+      },
+      {
+        "strong": "G1785",
+        "english": "commandment",
+        "why_it_matters": {
+          "text": "The word means a charge, order, or command, especially a religious one. The next verses explain which command is meant: the old one, held from the beginning, that we love one another.",
+          "sources": [
+            "w:G1785",
+            "v:1.5",
+            "v:1.6"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Walking in truth means living out God's command to love one another, not just holding right ideas. The elder's great joy shows how much this mattered to him.",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "v:1.6",
+        "x:3-john.1.4"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.1",
+      "reason": "Verse 1:9 speaks of 'the doctrine of Christ' but never mentions truth. Saying the letter ties truth to that teaching is an interpretive link the cited text does not state.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

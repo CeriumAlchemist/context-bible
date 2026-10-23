@@ -1,0 +1,212 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 4
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.970Z",
+  "card": {
+    "in_context": {
+      "text": "Jude meant to write about the salvation he shared with his readers, but instead urged them to contend for the faith (1:3). Verse 4 gives the reason: ungodly men had slipped into the church unnoticed. They twisted God's grace into an excuse for immoral living and denied the Lord, and the rest of the letter describes them and their judgment (1:5-16).",
+      "sources": [
+        "v:1.3",
+        "v:1.4",
+        "v:1.5",
+        "v:1.16",
+        "w:G1063",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James. Tradition identifies him as one of Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers who are called, sanctified by God the Father and kept in Jesus Christ. The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients",
+          "b:destination"
+        ]
+      },
+      "affected": {
+        "text": "Certain ungodly men who had joined the believers' gatherings, even their shared meals, without being noticed (1:12). Jude says they live by their own lusts and do not have the Spirit.",
+        "sources": [
+          "v:1.4",
+          "v:1.12",
+          "v:1.16",
+          "v:1.19"
+        ]
+      }
+    },
+    "what": {
+      "text": "Jude makes a charge against these intruders. They came in secretly and are ungodly. They turn God's grace into a cover for loose, unrestrained living, \"denying the only Lord God, and our Lord Jesus Christ.\" Their condemnation was spoken of long before.",
+      "sources": [
+        "v:1.4",
+        "w:G3921",
+        "w:G3346",
+        "w:G0766",
+        "w:G4270"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The infiltration was happening in the readers' own day. Jude ties it to warnings given long before: Enoch's prophecy (1:14-15) and the apostles' words about mockers in the last time (1:17-18).",
+        "sources": [
+          "v:1.4",
+          "v:1.14",
+          "v:1.15",
+          "v:1.17",
+          "v:1.18",
+          "w:G3819"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name, while others defend Jude's authorship.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The text does not say where Jude wrote from or where the readers lived. Its many references to Israel's history and Jewish tradition suggest readers who knew them well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "b:setting"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse explains why Jude had to urge his readers to contend for the faith once delivered to the saints. That faith was being undermined from inside the church.",
+        "sources": [
+          "v:1.3",
+          "v:1.4",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Other Scripture gives the same warning. Paul speaks of false brethren \"unawares brought in\" (Galatians 2:4), and Peter of false teachers who \"privily\" bring in heresies, \"denying the Lord that bought them\" (2 Peter 2:1). Scripture also warns against using liberty as a cloak for evil (1 Peter 2:16) and against people who profess God but deny him by their works (Titus 1:16).",
+        "sources": [
+          "x:galatians.2.4",
+          "x:2-peter.2.1",
+          "x:1-peter.2.16",
+          "x:titus.1.16",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Grace never gives permission to sin. A person's way of life can deny the Lord even while that person sits among believers. Jude's answer is to build up the faith, pray, keep oneself in God's love, and show mercy to those wavering (1:20-23).",
+        "sources": [
+          "v:1.4",
+          "v:1.20",
+          "v:1.21",
+          "v:1.22",
+          "v:1.23",
+          "x:titus.1.16"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "The phrase \"before of old ordained to this condemnation\" renders a Greek word whose basic meaning is \"written before.\" Some read it as God appointing these men to judgment beforehand. Others read it as their judgment being written about long ago, as in the prophecy and warnings Jude cites (1:14-15, 1:17-18).",
+      "sources": [
+        "v:1.4",
+        "w:G4270",
+        "v:1.14",
+        "v:1.15",
+        "v:1.17",
+        "v:1.18"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G3921",
+        "english": "crept in unawares",
+        "why_it_matters": {
+          "text": "The word means to slip in secretly or steal in. These men were not open outsiders. They entered the church quietly, as Galatians 2:4 and 2 Peter 2:1 also describe.",
+          "sources": [
+            "w:G3921",
+            "x:galatians.2.4",
+            "x:2-peter.2.1"
+          ]
+        }
+      },
+      {
+        "strong": "G4270",
+        "english": "before ordained",
+        "why_it_matters": {
+          "text": "Its basic sense is \"to write before.\" It is used of what was written earlier in Romans 15:4 and Ephesians 3:3.",
+          "sources": [
+            "w:G4270"
+          ]
+        }
+      },
+      {
+        "strong": "G3346",
+        "english": "turning",
+        "why_it_matters": {
+          "text": "The word means to change or transfer. The lexicon says that in this verse it means making one thing a pretext for another: grace used as a cover for sin.",
+          "sources": [
+            "w:G3346"
+          ]
+        }
+      },
+      {
+        "strong": "G0766",
+        "english": "lasciviousness",
+        "why_it_matters": {
+          "text": "It means licentiousness, wantonness, or excess. The same word appears in lists of fleshly sins such as Galatians 5:19 and in 2 Peter 2:2, 7 and 18.",
+          "sources": [
+            "w:G0766"
+          ]
+        }
+      },
+      {
+        "strong": "G1203",
+        "english": "Lord (Master)",
+        "why_it_matters": {
+          "text": "This is a title for a master with full ownership and control. The same word is used in 2 Peter 2:1 of false teachers \"denying the Lord that bought them.\"",
+          "sources": [
+            "w:G1203",
+            "x:2-peter.2.1"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Jude warns that some people inside the church treat God's grace as permission to sin, and in doing so deny Jesus as Master. Believers should recognize this, hold to the faith, and keep themselves in God's love.",
+      "sources": [
+        "v:1.3",
+        "v:1.4",
+        "v:1.21",
+        "x:1-peter.2.16"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "what",
+      "reason": "The cited verse reads \"denying the only Lord God, and our Lord Jesus Christ,\" which names two titles. The claim gives only the reading where both refer to Jesus (\"the only Master and Lord, Jesus Christ\"). The lexicon itself hedges on this (\"R, txt. (but cf. mg.)\").",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.1",
+      "reason": "The claim says the phrase \"points to a judgment set down in writing long ago.\" That is one interpretation of προγράφω presented as the only one, even though the card's own christians_differ section notes others read it as God appointing them beforehand.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "key_words.4",
+      "reason": "The claim says the lexicon notes the word is used of Christ here, but the lexicon qualifies Jude 4 with \"R, txt. (but cf. mg.)\". Dropping that hedge overstates the source, and the claim treats the reading as settled.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

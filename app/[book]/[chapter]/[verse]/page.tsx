@@ -1,13 +1,17 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { BibleMap } from "@/components/BibleMap";
 import { ContextCardView } from "@/components/ContextCard";
 import { CrossReferences, Places, WordStudy } from "@/components/StudySections";
+import { VerseWorld } from "@/components/WorldAroundText";
 import { loadChapter } from "@/lib/bible";
 import { bookBySlug } from "@/lib/books";
 import { loadCard } from "@/lib/cards/store";
 import { formatReference, type Reference } from "@/lib/reference";
+import { placesBySlug, placesFor } from "@/lib/study";
 import { PRIMARY, TRANSLATIONS } from "@/lib/translations";
+import { loadWorld } from "@/lib/world";
 
 type Params = Promise<{ book: string; chapter: string; verse: string }>;
 
@@ -52,6 +56,29 @@ export default async function VersePage({ params }: { params: Params }) {
 
   // Cards are written per verse; a range shows the first verse's card.
   const card = await loadCard(book, chapter, start);
+  const world = await loadWorld(book);
+
+  // The Where map marks places named in the verse (or cited by the card) and the book's setting,
+  // with the book's other places drawn faintly for orientation.
+  const named = (await Promise.all(selected.map((v) => placesFor(book, chapter, v)))).flat();
+  const cited = (card?.card.where.sources ?? []).filter((s) => s.startsWith("p:")).map((s) => s.slice(2));
+  const setting = world?.map.primary ?? [];
+  const mapSlugs = [...new Set([...named.map((p) => p.slug), ...cited, ...setting])];
+  const mapPlaces = await placesBySlug(mapSlugs);
+  const highlight = named.length ? named.map((p) => p.slug) : setting;
+  const map =
+    mapPlaces.length > 0 ? (
+      <BibleMap
+        places={mapPlaces}
+        highlight={highlight}
+        focus={mapPlaces}
+        context={await placesBySlug(world?.map.places ?? [])}
+        regions={world?.map.regions}
+        seas={world?.map.seas}
+        minSpan={5}
+        aspect={4 / 3}
+      />
+    ) : undefined;
 
   const others = await Promise.all(
     TRANSLATIONS.filter((t) => t.id !== PRIMARY.id).map(async (t) => ({
@@ -81,7 +108,8 @@ export default async function VersePage({ params }: { params: Params }) {
         })}
       </section>
 
-      <ContextCardView book={book} stored={card} />
+      <ContextCardView book={book} stored={card} map={map} />
+      {world && <VerseWorld world={world} chapter={chapter} verse={start} bookSlug={book.slug} />}
 
       <Places book={book} chapter={chapter} verses={selected} />
       <WordStudy book={book} chapter={chapter} verses={selected} />

@@ -1,0 +1,185 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 12
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.974Z",
+  "card": {
+    "in_context": {
+      "text": "Jude is describing the ungodly men who had \"crept in unawares\" among believers (1:4). In 1:12 he paints them with a string of pictures: dangers at the church's love feasts, rainless clouds, and dead, uprooted trees. The point is that they look promising but give nothing and are headed for judgment (1:13).",
+      "sources": [
+        "v:1.4",
+        "v:1.12",
+        "v:1.13"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself \"the servant of Jesus Christ, and brother of James.\" Traditionally he is the Judas named among Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers who are \"sanctified by God the Father, and preserved in Jesus Christ, and called.\" The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients",
+          "b:destination"
+        ]
+      },
+      "affected": {
+        "text": "The \"ungodly men\" who had slipped into the church, turning God's grace into an excuse for immorality and denying the Lord.",
+        "sources": [
+          "v:1.4",
+          "v:1.8",
+          "v:1.16",
+          "v:1.19"
+        ]
+      }
+    },
+    "what": {
+      "text": "Jude says these men share the believers' love feasts (fellowship meals) but care only for themselves, with no fear. He compares them to clouds blown past without giving rain, and to trees in autumn with no fruit, dead twice over and torn out by the roots.",
+      "sources": [
+        "v:1.12",
+        "w:G0026",
+        "w:G4165",
+        "w:G0870",
+        "w:G5352",
+        "x:proverbs.25.14"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse describes a present problem in the readers' church: false teachers were already taking part in their shared meals (\"when they feast with you\").",
+        "sources": [
+          "v:1.4",
+          "v:1.12",
+          "w:G4910"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name while others defend Jude's authorship.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The scene is the church's love feasts, its shared fellowship meals. The letter does not say where it was written from or where the readers lived.",
+      "sources": [
+        "v:1.12",
+        "w:G0026",
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude wants believers to see through these men so they will \"earnestly contend for the faith\" and not be misled by people who seem part of the fellowship.",
+        "sources": [
+          "v:1.3",
+          "v:1.4",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "This verse is part of Jude's portrait of the ungodly, set beside examples of God's judgment from Israel's history. A close parallel in 2 Peter uses the same image: \"wells without water, clouds that are carried with a tempest.\"",
+        "sources": [
+          "b:outline",
+          "b:setting",
+          "v:1.11",
+          "x:2-peter.2.17"
+        ]
+      },
+      "for_readers": {
+        "text": "The contrast comes in 1:20-21: instead of being fruitless and rootless, believers are to build themselves up in faith, pray, and keep themselves in God's love. Jesus likewise taught that fruit comes only by abiding in him.",
+        "sources": [
+          "v:1.20",
+          "v:1.21",
+          "x:john.15.4"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4694",
+        "english": "spots (hidden reefs)",
+        "why_it_matters": {
+          "text": "The lexicon gives two meanings: a rock or reef the sea dashes over, used of people whose conduct endangers others, or in later writers a spot or stain. Either way they spoil or wreck the fellowship meal.",
+          "sources": [
+            "w:G4694",
+            "v:1.12"
+          ]
+        }
+      },
+      {
+        "strong": "G0026",
+        "english": "feasts of charity (love feasts)",
+        "why_it_matters": {
+          "text": "This is agape, \"love,\" used here in the plural for the church's love feasts. The men are abusing the very meals meant to express Christian love.",
+          "sources": [
+            "w:G0026"
+          ]
+        }
+      },
+      {
+        "strong": "G4165",
+        "english": "feeding (shepherding)",
+        "why_it_matters": {
+          "text": "The word means to act as shepherd, and is used of caring for God's flock (Acts 20:28, 1 Peter 5:2). \"Shepherding themselves\" echoes Ezekiel's rebuke of shepherds who \"fed themselves, and fed not my flock.\"",
+          "sources": [
+            "w:G4165",
+            "x:ezekiel.34.8"
+          ]
+        }
+      },
+      {
+        "strong": "G5352",
+        "english": "whose fruit withereth (autumnal)",
+        "why_it_matters": {
+          "text": "The word means \"autumnal\": trees in late autumn, without fruit at the very time fruit is expected. Their barrenness is shown up exactly when it should be harvest.",
+          "sources": [
+            "w:G5352",
+            "w:G0175"
+          ]
+        }
+      },
+      {
+        "strong": "G1610",
+        "english": "plucked up by the roots",
+        "why_it_matters": {
+          "text": "The word means to root out, and is also used in Matthew 15:13, where Jesus says every plant his Father has not planted \"shall be rooted up.\"",
+          "sources": [
+            "w:G1610",
+            "x:matthew.15.13"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Being present at the church's feasts of charity does not make someone a faithful shepherd or a fruitful tree. Jude's readers are to stay rooted in God's love themselves (1:20-21), as Jesus said, \"Abide in me\" (John 15:4).",
+      "sources": [
+        "v:1.12",
+        "v:1.20",
+        "v:1.21",
+        "x:john.15.4"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "takeaway",
+      "reason": "The cited verses do not show Jude telling believers to 'judge by the fruit.' Jude calls the men fruitless trees but gives no such instruction, so this attributes an exhortation to Jude that the text does not contain.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 22
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.965Z",
+  "card": {
+    "in_context": {
+      "text": "Jude has warned about ungodly men who crept into the church (1:4). He then tells the faithful to build themselves up and keep themselves in God's love (1:20-21). Verse 22 turns them outward: have compassion on some, while others must be saved with fear (1:23).",
+      "sources": [
+        "v:1.4",
+        "v:1.20",
+        "v:1.21",
+        "v:1.22",
+        "v:1.23"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James. Traditionally he is one of Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers Jude calls \"beloved,\" who are sanctified, preserved and called. The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "v:1.20",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "\"Some\" people the readers are to show mercy to. The text does not name them, but the next verse speaks of others who must be pulled \"out of the fire,\" so they seem to be people in spiritual danger.",
+        "sources": [
+          "v:1.22",
+          "v:1.23"
+        ]
+      }
+    },
+    "what": {
+      "text": "Jude tells believers to have mercy on some people. He sets this beside rescuing others with fear, so mercy is part of a wider call to help those at risk.",
+      "sources": [
+        "v:1.22",
+        "v:1.23",
+        "w:G1653",
+        "w:G3739"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The letter addresses a church where false teachers had already slipped in. Jude says the apostles had foretold such mockers in the last time.",
+        "sources": [
+          "v:1.4",
+          "v:1.17",
+          "v:1.18"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or where its readers lived. Its use of Israel's history suggests readers who knew Jewish tradition well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "After guarding themselves, believers are not to simply write off those who are struggling. They are to reach out with mercy and rescue.",
+        "sources": [
+          "v:1.21",
+          "v:1.22",
+          "v:1.23",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Other Scripture gives the same call. James says that whoever turns a sinner from error saves a soul from death. Paul tells the spiritual to restore someone overtaken in a fault, in meekness.",
+        "sources": [
+          "x:james.5.19",
+          "x:james.5.20",
+          "x:galatians.6.1"
+        ]
+      },
+      "for_readers": {
+        "text": "Standing firm for the faith goes together with compassion toward others. Believers are also to watch themselves while they help others (Galatians 6:1).",
+        "sources": [
+          "v:1.3",
+          "v:1.22",
+          "x:galatians.6.1"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "The Greek word behind \"making a difference\" can mean to distinguish or discern, and it can also mean to dispute or waver. Some read the verse as \"have mercy, making distinctions\" between cases. Others read it as \"have mercy on those who are doubting.\"",
+      "sources": [
+        "v:1.22",
+        "w:G1252",
+        "v:1.23"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G1653",
+        "english": "have compassion",
+        "why_it_matters": {
+          "text": "The word means to have pity or mercy on someone. It is the same word used when people cry to Jesus for mercy (Matthew 9:27; Mark 10:47), so believers are asked to show the kind of mercy they hope to receive (1:21).",
+          "sources": [
+            "w:G1653",
+            "v:1.21"
+          ]
+        }
+      },
+      {
+        "strong": "G1252",
+        "english": "making a difference",
+        "why_it_matters": {
+          "text": "The lexicon gives two senses: to separate or distinguish, and to dispute or contend. Here it is glossed \"are doubting.\" The second sense would point to the people receiving mercy rather than to the readers' judgment.",
+          "sources": [
+            "w:G1252"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Jude does not only warn against error. He sends faithful believers to have compassion on some and to rescue others from danger (1:23; James 5:20).",
+      "sources": [
+        "v:1.22",
+        "v:1.23",
+        "x:james.5.20"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "in_context",
+      "reason": "It describes the people in v22 as \"wavering,\" but the cited KJV text says only \"making a difference.\" Reading the word as doubting or wavering is one disputed interpretation, and no cited source here supports it.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "why.for_readers",
+      "reason": "It speaks of mercy \"toward those who waver\" as if that were the meaning of v22. The cited sources (1:3, the KJV of 1:22, Galatians 6:1) don't say the recipients are wavering, and that reading is contested.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "takeaway",
+      "reason": "It treats the \"doubting\" reading of v22 as settled by calling the recipients \"people who are wavering.\" The cited KJV says \"making a difference,\" and the card itself notes this is disputed.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

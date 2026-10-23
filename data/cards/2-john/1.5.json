@@ -1,0 +1,182 @@
+{
+  "ref": {
+    "book": "2-john",
+    "chapter": 1,
+    "verse": 5
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:50:24.566Z",
+  "card": {
+    "in_context": {
+      "text": "The elder has just rejoiced that some of the lady's children walk in truth (1:4). Now he asks her to keep the old command they have had from the beginning: that we love one another. He then defines that love as walking after God's commandments (1:6), before warning against deceivers (1:7-11).",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "v:1.6",
+        "v:1.7"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" who does not give his name. Early Christian tradition identifies him as John the apostle, and the letter's wording closely matches 1 John.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "\"The elect lady and her children.\" This may be a Christian woman and her family, or a figurative name for a local church and its members. The letter does not say which.",
+        "sources": [
+          "v:1.1",
+          "b:recipients",
+          "w:G2959"
+        ]
+      },
+      "affected": {
+        "text": "The command is for the whole fellowship. The elder says \"we,\" so it binds him and the readers alike.",
+        "sources": [
+          "v:1.5"
+        ]
+      }
+    },
+    "what": {
+      "text": "The elder makes a gentle request rather than a new rule. He is not writing a new commandment but the one they had from the start: to love one another. The same message appears in 1 John 3:11 and goes back to Jesus' own words in John 13:34 and John 15:12.",
+      "sources": [
+        "v:1.5",
+        "x:1-john.3.11",
+        "x:john.13.34",
+        "x:john.15.12"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse does not describe a specific event. It recalls a command the readers had \"from the beginning\" of their faith.",
+        "sources": [
+          "v:1.5",
+          "v:1.6"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 85-95, late in John's life, around the same time as 1 John. Scholarly: most also place it in the late first century, though some think \"the elder\" was a church leader other than the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or sent. Early tradition places John's last years in Ephesus, and the readers were likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The elder wants the readers to keep walking in truth and love. He then warns them not to welcome or support travelling teachers who deny that Jesus Christ has come in the flesh.",
+        "sources": [
+          "b:purpose",
+          "v:1.7",
+          "v:1.10"
+        ]
+      },
+      "big_picture": {
+        "text": "Truth and love belong together in this letter. Love is not a feeling cut loose from obedience. It is walking after God's commandments, alongside belief in Jesus Christ.",
+        "sources": [
+          "b:themes",
+          "v:1.3",
+          "v:1.6",
+          "x:1-john.3.23"
+        ]
+      },
+      "for_readers": {
+        "text": "Loving other believers is not an optional extra or a novel idea. It is the original mark of Jesus' disciples. It is shown in deeds, not just words.",
+        "sources": [
+          "x:john.13.35",
+          "x:1-john.3.14",
+          "x:1-john.3.18"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Readers differ on who \"lady\" is. Some take her as a real Christian woman and her family. Others take her as a figurative name for a local church, with \"her children\" as its members and \"thy elect sister\" as another church (1:13). The letter itself does not settle it.",
+      "sources": [
+        "v:1.1",
+        "v:1.13",
+        "b:recipients",
+        "w:G2959"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G2537",
+        "english": "new",
+        "why_it_matters": {
+          "text": "The word means new in form or quality, fresh, novel. Jesus called love for one another \"a new commandment\" (John 13:34). Here the elder stresses it is not new to these readers, because they have held it from the start.",
+          "sources": [
+            "w:G2537",
+            "x:john.13.34",
+            "v:1.5"
+          ]
+        }
+      },
+      {
+        "strong": "G0746",
+        "english": "beginning",
+        "why_it_matters": {
+          "text": "The word means beginning or origin. The same phrase \"from the beginning\" appears in 1 John 2:24 and 3:11. It points back to what the readers first heard. The elder is calling them back to the original message, not adding to it.",
+          "sources": [
+            "w:G0746",
+            "x:1-john.3.11",
+            "v:1.6"
+          ]
+        }
+      },
+      {
+        "strong": "G0025",
+        "english": "love",
+        "why_it_matters": {
+          "text": "The lexicon defines it as to feel and exhibit esteem and goodwill. The next verse shows that this love is lived out by walking after God's commandments.",
+          "sources": [
+            "w:G0025",
+            "v:1.6"
+          ]
+        }
+      },
+      {
+        "strong": "G2959",
+        "english": "lady",
+        "why_it_matters": {
+          "text": "The word simply means \"a lady.\" The lexicon lists it only at 2 John 1 and 5, and points to a discussion of how to interpret it.",
+          "sources": [
+            "w:G2959"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Love for one another is the commandment believers had \"from the beginning,\" given by Jesus himself. In this letter that love goes hand in hand with walking after God's commandments.",
+      "sources": [
+        "v:1.5",
+        "v:1.6",
+        "x:john.15.12",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.purpose",
+      "reason": "The source gives two separate aims: keep walking in truth and love, and do not welcome or support false teachers. The claim instead makes walking in truth and love the cause of standing firm against those teachers, which no source says. It also drops the actual warning against receiving them.",
+      "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "takeaway",
+      "reason": "Calling love for one another 'the oldest command Christians have' overstates the sources. They say only that the readers had it 'from the beginning', not that it is the oldest of all commands.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

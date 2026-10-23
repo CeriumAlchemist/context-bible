@@ -119,15 +119,7 @@
         ]
       }
     },
-    "christians_differ": {
-      "text": "Christians differ on how far this verse applies today. Some read it as a lasting pattern for women's household roles. Others read it as practical advice tied to a local problem with younger widows in Ephesus, to be weighed alongside Paul's praise of staying unmarried in 1 Corinthians 7:8.",
-      "sources": [
-        "v:5.11",
-        "v:5.14",
-        "x:1-corinthians.7.8",
-        "x:titus.2.5"
-      ]
-    },
+    "christians_differ": null,
     "key_words": [
       {
         "strong": "G3501",
@@ -185,12 +177,12 @@
       }
     ],
     "takeaway": {
-      "text": "Paul gives this advice about younger widows in Ephesus so that believers give critics no grounds to speak reproachfully of the church. Christians differ on how far it applies beyond that setting.",
+      "text": "Paul gives this advice about younger widows so that believers give critics no grounds to speak reproachfully of the church. Titus 2:5 gives the same reason for young women's conduct: \"that the word of God be not blasphemed.\"",
       "sources": [
         "v:5.11",
         "v:5.14",
         "v:5.15",
-        "b:themes"
+        "x:titus.2.5"
       ]
     }
   },
@@ -201,6 +193,16 @@
       "claim": "takeaway",
       "reason": "Calling the verse 'not a blanket rule for all women' states one interpretive position as settled fact. The card's own christians_differ entry notes that some Christians read it as a lasting pattern for women's household roles.",
       "fix": "claim rewritten to match its sources"
+    },
+    {
+      "claim": "takeaway",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
+    },
+    {
+      "claim": "christians_differ",
+      "reason": "Kourtland (2026-10-23): when the text and its context are clear, answer from Scripture instead of noting that Christians disagree.",
+      "fix": "hedge removed; answered from the text and other Scripture"
     }
   ]
 }

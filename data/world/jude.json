@@ -1,0 +1,339 @@
+{
+  "period": {
+    "label": "About AD 65-80",
+    "note": "This follows the traditional date. The letter gives no date or place; scholars' dates range from the 50s to the early second century."
+  },
+  "map": {
+    "places": [
+      "jerusalem",
+      "nazareth",
+      "egypt",
+      "sodom",
+      "gomorrah",
+      "salt-sea",
+      "rome",
+      "caesarea"
+    ],
+    "primary": [
+      "jerusalem"
+    ],
+    "regions": [
+      {
+        "name": "Macedonia",
+        "lat": 41.15,
+        "lon": 21.4
+      },
+      {
+        "name": "Achaia",
+        "lat": 38.5,
+        "lon": 21.9
+      },
+      {
+        "name": "Asia",
+        "lat": 39.2,
+        "lon": 28.9
+      },
+      {
+        "name": "Galatia",
+        "lat": 39.6,
+        "lon": 32.8
+      },
+      {
+        "name": "Phrygia",
+        "lat": 38.9,
+        "lon": 30.6
+      },
+      {
+        "name": "Italia",
+        "lat": 42.4,
+        "lon": 13.6
+      },
+      {
+        "name": "Syria",
+        "lat": 34.9,
+        "lon": 37.6
+      },
+      {
+        "name": "Judea",
+        "lat": 31.0,
+        "lon": 34.7
+      },
+      {
+        "name": "Egypt",
+        "lat": 28.2,
+        "lon": 30.4
+      }
+    ],
+    "seas": [
+      {
+        "name": "Mediterranean Sea",
+        "lat": 34.2,
+        "lon": 19.5
+      },
+      {
+        "name": "Aegean Sea",
+        "lat": 38.9,
+        "lon": 25.0
+      },
+      {
+        "name": "Black Sea",
+        "lat": 43.3,
+        "lon": 34.0
+      }
+    ]
+  },
+  "rulers": [
+    {
+      "name": "Nero, then Vespasian and Titus",
+      "role": "Roman emperors",
+      "years": "AD 54-68, 69-79, 79-81",
+      "text": "Nero's death in AD 68 was followed by civil war. Vespasian, the general fighting in Judea, won the throne in AD 69, and his son Titus finished the war and later succeeded him.",
+      "sources": [
+        "Suetonius, Vespasian 4-6",
+        "Tacitus, Histories 1.2",
+        "Josephus, Jewish War 4.588-604"
+      ]
+    },
+    {
+      "name": "Herod Agrippa II",
+      "role": "Jewish client king",
+      "years": "c. AD 50-90s",
+      "text": "Ruled territories north and east of Galilee under Rome. He tried to talk Jerusalem out of revolt in AD 66 and stayed on Rome's side.",
+      "sources": [
+        "Acts 25:13",
+        "Josephus, Jewish War 2.345-407"
+      ]
+    },
+    {
+      "name": "Roman governors of Judea",
+      "role": "Rulers of the province",
+      "years": "AD 44-66, then from AD 70",
+      "text": "Judea was ruled by Roman governors until the revolt. After AD 70 it became a separate province with a Roman legion stationed in ruined Jerusalem.",
+      "sources": [
+        "Josephus, Jewish War 2.271-308",
+        "Josephus, Jewish War 7.1-5"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "year": 62,
+      "when": "AD 62",
+      "kind": "church",
+      "title": "James, Jude's brother, is killed",
+      "text": "The high priest Ananus had \"James, the brother of Jesus who was called Christ\" stoned in Jerusalem. Jude names himself \"brother of James.\"",
+      "sources": [
+        "Josephus, Antiquities 20.197-203",
+        "Jude 1:1",
+        "Galatians 1:19"
+      ]
+    },
+    {
+      "year": 64,
+      "when": "AD 64",
+      "kind": "church",
+      "title": "Nero blames the Christians for Rome's fire",
+      "text": "After the Great Fire of Rome, Nero put a \"vast multitude\" of Christians to death.",
+      "sources": [
+        "Tacitus, Annals 15.38-44"
+      ]
+    },
+    {
+      "year": 66,
+      "when": "AD 66",
+      "kind": "war",
+      "title": "The Jewish revolt begins",
+      "text": "Jerusalem rose against Rome after the governor Florus seized money from the temple treasury.",
+      "sources": [
+        "Josephus, Jewish War 2.293-308, 2.409-410"
+      ]
+    },
+    {
+      "year": 69,
+      "when": "AD 68-69",
+      "kind": "rule",
+      "title": "The Year of the Four Emperors",
+      "text": "After Nero's suicide, Galba, Otho and Vitellius each seized power and fell within months, until Vespasian won.",
+      "sources": [
+        "Tacitus, Histories 1.1-2",
+        "Suetonius, Galba, Otho, Vitellius"
+      ]
+    },
+    {
+      "year": 70,
+      "when": "AD 70",
+      "kind": "war",
+      "title": "Jerusalem and its temple destroyed",
+      "text": "Titus took Jerusalem after a five-month siege and the temple was burned, as Jesus had foretold.",
+      "sources": [
+        "Josephus, Jewish War 6.249-287",
+        "Luke 19:41-44",
+        "Luke 21:20-24"
+      ]
+    },
+    {
+      "year": 73,
+      "when": "AD 73 or 74",
+      "kind": "war",
+      "title": "The fall of Masada",
+      "text": "The last rebels held out on the desert fortress of Masada above the Dead Sea until a Roman siege ramp reached its walls.",
+      "sources": [
+        "Josephus, Jewish War 7.252-406"
+      ]
+    },
+    {
+      "year": 79,
+      "when": "August AD 79",
+      "kind": "disaster",
+      "title": "Vesuvius buries Pompeii",
+      "text": "The eruption of Vesuvius buried Pompeii and Herculaneum in Italy.",
+      "sources": [
+        "Pliny the Younger, Letters 6.16, 6.20"
+      ]
+    },
+    {
+      "year": 80,
+      "when": "AD 80",
+      "kind": "building",
+      "title": "The Colosseum opens",
+      "text": "Titus opened the great amphitheater in Rome, built partly with spoils from the Jewish war.",
+      "sources": [
+        "Suetonius, Titus 7.3",
+        "Cassius Dio, Roman History 66.25"
+      ]
+    },
+    {
+      "year": 81,
+      "when": "c. AD 81-96",
+      "kind": "church",
+      "title": "Jude's grandsons before Domitian",
+      "text": "An early church historian records that Domitian summoned two grandsons of Jude, \"the brother of the Lord,\" as descendants of David. Finding them poor farmers with hard hands, he let them go.",
+      "sources": [
+        "Eusebius, Church History 3.19-20 (citing Hegesippus)"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "slug": "sodom",
+      "name": "Sodom and Gomorrha",
+      "summary": "Named by Jude as an example of judgment. Cities of the plain near the Dead Sea, destroyed in Abraham's day.",
+      "facts": [
+        {
+          "topic": "What Genesis records",
+          "text": "The LORD rained fire and brimstone on Sodom and Gomorrha after the men of Sodom tried to seize the two angels staying with Lot.",
+          "sources": [
+            "Genesis 19:1-11",
+            "Genesis 19:24-25"
+          ],
+          "verses": [
+            "1:7"
+          ]
+        },
+        {
+          "topic": "An example through Scripture",
+          "text": "The prophets, Jesus and Peter all point back to Sodom and Gomorrha as a warning of judgment.",
+          "sources": [
+            "Isaiah 1:9",
+            "Ezekiel 16:49-50",
+            "Matthew 10:15",
+            "2 Peter 2:6"
+          ],
+          "verses": [
+            "1:7"
+          ]
+        },
+        {
+          "topic": "Where they stood",
+          "text": "Genesis places them in the plain of Jordan near the Salt Sea (the Dead Sea). Their exact sites have never been agreed.",
+          "sources": [
+            "Genesis 13:10-12",
+            "Genesis 14:2-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "life": [
+    {
+      "topic": "Jesus' brothers",
+      "text": "The Gospels name Jesus' brothers as James, Joses, Simon and Judas (Jude). They did not believe in him during his ministry, but after the resurrection they were with the disciples praying.",
+      "sources": [
+        "Matthew 13:55",
+        "Mark 6:3",
+        "John 7:5",
+        "Acts 1:14",
+        "1 Corinthians 9:5"
+      ],
+      "verses": [
+        "1:1"
+      ]
+    },
+    {
+      "topic": "Michael and the body of Moses",
+      "text": "Deuteronomy says no one knows where Moses was buried. The story of Michael disputing with the devil over his body is not in the Old Testament; early Christian writers say it came from a Jewish book called the Assumption of Moses. Michael appears in Scripture as a chief angel.",
+      "sources": [
+        "Deuteronomy 34:5-6",
+        "Daniel 10:13",
+        "Daniel 12:1",
+        "Revelation 12:7",
+        "Origen, On First Principles 3.2.1"
+      ],
+      "verses": [
+        "1:9"
+      ]
+    },
+    {
+      "topic": "The prophecy of Enoch",
+      "text": "Genesis records Enoch, seventh from Adam, who \"walked with God.\" The words Jude quotes match a passage of 1 Enoch, a Jewish book widely read at the time; Aramaic fragments of it were found among the Dead Sea Scrolls.",
+      "sources": [
+        "Genesis 5:18-24",
+        "Hebrews 11:5",
+        "1 Enoch 1:9",
+        "Dead Sea Scrolls, Qumran Cave 4 (Enoch fragments)"
+      ],
+      "verses": [
+        "1:14-15"
+      ]
+    },
+    {
+      "topic": "Cain, Balaam and Core",
+      "text": "Each name points to an Old Testament story: Cain killed his brother, Balaam was hired to curse Israel, and Korah (Core) led a rebellion against Moses.",
+      "sources": [
+        "Genesis 4:3-8",
+        "Numbers 22:5-7",
+        "Numbers 31:16",
+        "Numbers 16:1-3",
+        "Numbers 16:31-33"
+      ],
+      "verses": [
+        "1:11"
+      ]
+    },
+    {
+      "topic": "Feasts of charity",
+      "text": "Early Christians shared common meals when they met, along with the Lord's Supper. Paul rebukes the Corinthians for selfishness at these meals.",
+      "sources": [
+        "Acts 2:46",
+        "1 Corinthians 11:20-22",
+        "2 Peter 2:13"
+      ],
+      "verses": [
+        "1:12"
+      ]
+    },
+    {
+      "topic": "Out of Egypt",
+      "text": "The LORD brought Israel out of Egypt, yet that generation died in the wilderness because they did not believe.",
+      "sources": [
+        "Numbers 14:26-35",
+        "1 Corinthians 10:1-5",
+        "Hebrews 3:16-19"
+      ],
+      "verses": [
+        "1:5"
+      ]
+    }
+  ],
+  "basis": "Scripture first, then ancient writers on these years (Josephus, Tacitus, Suetonius, Eusebius) and on the Jewish writings Jude draws on. Drafted by Claude and not yet reviewed by a person."
+}

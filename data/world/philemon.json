@@ -1,0 +1,359 @@
+{
+  "period": {
+    "label": "About AD 60-62",
+    "note": "This follows the traditional view that Paul wrote from Rome. If he wrote from Ephesus (about AD 54-55) or Caesarea (about AD 57-59), Nero was still emperor and the setting is much the same."
+  },
+  "map": {
+    "places": [
+      "colossae",
+      "laodicea",
+      "hierapolis",
+      "ephesus",
+      "rome",
+      "caesarea",
+      "jerusalem",
+      "miletus"
+    ],
+    "primary": [
+      "colossae"
+    ],
+    "regions": [
+      {
+        "name": "Macedonia",
+        "lat": 41.15,
+        "lon": 21.4
+      },
+      {
+        "name": "Achaia",
+        "lat": 38.5,
+        "lon": 21.9
+      },
+      {
+        "name": "Asia",
+        "lat": 39.2,
+        "lon": 28.9
+      },
+      {
+        "name": "Galatia",
+        "lat": 39.6,
+        "lon": 32.8
+      },
+      {
+        "name": "Phrygia",
+        "lat": 38.9,
+        "lon": 30.6
+      },
+      {
+        "name": "Italia",
+        "lat": 42.4,
+        "lon": 13.6
+      },
+      {
+        "name": "Syria",
+        "lat": 34.9,
+        "lon": 37.6
+      },
+      {
+        "name": "Judea",
+        "lat": 31.0,
+        "lon": 34.7
+      },
+      {
+        "name": "Egypt",
+        "lat": 28.2,
+        "lon": 30.4
+      }
+    ],
+    "seas": [
+      {
+        "name": "Mediterranean Sea",
+        "lat": 34.2,
+        "lon": 19.5
+      },
+      {
+        "name": "Aegean Sea",
+        "lat": 38.9,
+        "lon": 25.0
+      },
+      {
+        "name": "Black Sea",
+        "lat": 43.3,
+        "lon": 34.0
+      }
+    ]
+  },
+  "rulers": [
+    {
+      "name": "Nero",
+      "role": "Roman emperor",
+      "years": "AD 54-68",
+      "text": "Emperor over Rome, Asia and Judea. Paul, a Roman citizen, had appealed to Caesar, who in these years was Nero.",
+      "sources": [
+        "Acts 25:10-12",
+        "Acts 28:16",
+        "Suetonius, Nero",
+        "Tacitus, Annals 13-16"
+      ]
+    },
+    {
+      "name": "The proconsul of Asia",
+      "role": "Governor of the province where Colossae stood",
+      "years": "One-year terms",
+      "text": "Asia was governed by a proconsul appointed for a year at a time, who heard cases in the province's leading cities.",
+      "sources": [
+        "Acts 19:38",
+        "Strabo, Geography 17.3.25"
+      ]
+    },
+    {
+      "name": "Festus and Agrippa II",
+      "role": "Governor of Judea and Jewish client king",
+      "years": "c. AD 59-62; c. AD 50-90s",
+      "text": "Festus and King Agrippa heard Paul's defense in Caesarea and sent him on to Rome as he had asked.",
+      "sources": [
+        "Acts 25:12",
+        "Acts 25:23-26:32"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "year": 58,
+      "when": "AD 58-63",
+      "kind": "war",
+      "title": "Rome and Parthia fight over Armenia",
+      "text": "Roman armies under Corbulo campaigned in Armenia until the two empires made peace in AD 63.",
+      "sources": [
+        "Tacitus, Annals 13.34-41, 14.23-26, 15.1-17, 15.24-31"
+      ]
+    },
+    {
+      "year": 59,
+      "when": "c. AD 59-60",
+      "kind": "church",
+      "title": "Paul's voyage to Rome",
+      "text": "Paul sailed for Rome as a prisoner, was shipwrecked on Malta, and reached Rome the following spring.",
+      "sources": [
+        "Acts 27:1-28:16"
+      ]
+    },
+    {
+      "year": 60,
+      "when": "AD 60",
+      "kind": "disaster",
+      "title": "Earthquake in the Lycus valley",
+      "text": "An earthquake ruined Laodicea, about 16 km (10 miles) from Colossae; Laodicea rebuilt without Rome's help. A later Christian historian says Hierapolis and Colossae fell in the same disaster.",
+      "sources": [
+        "Tacitus, Annals 14.27",
+        "Orosius, History Against the Pagans 7.7.12",
+        "Colossians 4:13"
+      ]
+    },
+    {
+      "year": 60,
+      "when": "AD 60-61",
+      "kind": "war",
+      "title": "Boudica's revolt in Britain",
+      "text": "Boudica, queen of the Iceni, led a rising that burned Colchester, London and St Albans before the Romans defeated her.",
+      "sources": [
+        "Tacitus, Annals 14.29-39"
+      ]
+    },
+    {
+      "year": 60,
+      "when": "c. AD 60-62",
+      "kind": "church",
+      "title": "Paul under guard in Rome",
+      "text": "Paul lived two whole years in his own rented house, guarded by a soldier, receiving all who came to him. Colossians, Philemon, Ephesians and Philippians are traditionally dated to these years.",
+      "sources": [
+        "Acts 28:16",
+        "Acts 28:30-31",
+        "Philippians 1:13"
+      ]
+    },
+    {
+      "year": 61,
+      "when": "AD 61",
+      "kind": "rule",
+      "title": "A slave-owner's murder shakes Rome",
+      "text": "When the city prefect Pedanius Secundus was killed by one of his slaves, the Senate upheld the old law that all 400 slaves of his household be executed, despite protests from the crowd.",
+      "sources": [
+        "Tacitus, Annals 14.42-45"
+      ]
+    },
+    {
+      "year": 62,
+      "when": "AD 62",
+      "kind": "church",
+      "title": "James, the Lord's brother, is killed",
+      "text": "Between governors, the high priest Ananus had \"James, the brother of Jesus who was called Christ\" stoned in Jerusalem.",
+      "sources": [
+        "Josephus, Antiquities 20.197-203",
+        "Galatians 1:19"
+      ]
+    },
+    {
+      "year": 64,
+      "when": "AD 64",
+      "kind": "church",
+      "title": "Fire in Rome, and Nero blames the Christians",
+      "text": "After a great fire burned much of Rome, Nero blamed the Christians and put a \"vast multitude\" to death.",
+      "sources": [
+        "Tacitus, Annals 15.38-44",
+        "Suetonius, Nero 16.2"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "slug": "colossae",
+      "name": "Colossae",
+      "summary": "Where Philemon and the church in his house lived. A small town in the Lycus valley of Phrygia, in the Roman province of Asia, about 190 km (120 miles) east of Ephesus.",
+      "facts": [
+        {
+          "topic": "Three towns in one valley",
+          "text": "Colossae stood near Laodicea and Hierapolis. Paul names believers in all three, and the letters to Colossae and Laodicea were to be swapped and read in both churches.",
+          "sources": [
+            "Colossians 4:13",
+            "Colossians 4:15-16"
+          ]
+        },
+        {
+          "topic": "An old city past its prime",
+          "text": "The Greek historian Herodotus called Colossae \"a great city of Phrygia\" in the 400s BC. By Paul's day nearby Laodicea had outgrown it; Strabo lists it only as a small town.",
+          "sources": [
+            "Herodotus, Histories 7.30",
+            "Strabo, Geography 12.8.13"
+          ]
+        },
+        {
+          "topic": "Wool",
+          "text": "The valley was known for its wool. Pliny mentions a dye color named after Colossae, colossinus, a reddish purple.",
+          "sources": [
+            "Strabo, Geography 12.8.16",
+            "Pliny, Natural History 21.51"
+          ]
+        },
+        {
+          "topic": "The church there",
+          "text": "Paul had not visited it himself. Epaphras, a Colossian, first taught the gospel there, and the church met in homes such as Philemon's.",
+          "sources": [
+            "Colossians 1:4-7",
+            "Colossians 2:1",
+            "Colossians 4:12",
+            "Philemon 1:2"
+          ],
+          "verses": [
+            "1:2"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "rome",
+      "name": "Rome",
+      "summary": "Where Paul wrote from, on the traditional view: the capital of the empire, where he waited under guard to be heard by Caesar.",
+      "facts": [
+        {
+          "topic": "A prisoner in his own house",
+          "text": "Paul was allowed to live by himself with a soldier guarding him, bound with a chain, yet free to receive visitors and preach.",
+          "sources": [
+            "Acts 28:16",
+            "Acts 28:20",
+            "Acts 28:30-31"
+          ],
+          "verses": [
+            "1:1",
+            "1:9-10"
+          ]
+        },
+        {
+          "topic": "Friends with him",
+          "text": "The same people send greetings in Philemon and Colossians: Epaphras, Mark, Aristarchus, Demas and Luke.",
+          "sources": [
+            "Philemon 1:23-24",
+            "Colossians 4:10-14"
+          ],
+          "verses": [
+            "1:23-24"
+          ]
+        }
+      ]
+    }
+  ],
+  "life": [
+    {
+      "topic": "Slaves and masters",
+      "text": "Slaves served in households of every size, as laborers, servants, stewards and teachers, and many were later freed. Roman law gave a master almost complete power over a slave. Paul's letters address believing slaves and masters directly.",
+      "sources": [
+        "Colossians 3:22-4:1",
+        "Ephesians 6:5-9",
+        "1 Corinthians 7:21",
+        "Tacitus, Annals 14.42-45"
+      ],
+      "verses": [
+        "1:15-16"
+      ]
+    },
+    {
+      "topic": "A name that means \"useful\"",
+      "text": "Onesimus was a common name for slaves and means \"useful\" or \"profitable.\" Paul plays on it: once unprofitable, now profitable.",
+      "sources": [
+        "Philemon 1:11",
+        "Colossians 4:9"
+      ],
+      "verses": [
+        "1:10-11"
+      ]
+    },
+    {
+      "topic": "Asking a friend to plead",
+      "text": "Roman lawyers discussed slaves who went to a friend of their master to ask him to plead for them, and held that such a slave was not counted a runaway. Pliny the Younger wrote a letter of this kind, begging a friend to forgive a freedman who had come to him in tears.",
+      "sources": [
+        "Justinian, Digest 21.1.17.4 (citing Proculus)",
+        "Pliny the Younger, Letters 9.21, 9.24"
+      ],
+      "verses": [
+        "1:8-21"
+      ]
+    },
+    {
+      "topic": "Churches in homes",
+      "text": "Christians had no church buildings yet. They met in the homes of believers who had room to host them.",
+      "sources": [
+        "Romans 16:5",
+        "1 Corinthians 16:19",
+        "Colossians 4:15"
+      ],
+      "verses": [
+        "1:2"
+      ]
+    },
+    {
+      "topic": "Signed in his own hand",
+      "text": "Paul usually dictated his letters to a scribe and wrote a line or two himself as his mark.",
+      "sources": [
+        "Romans 16:22",
+        "Galatians 6:11",
+        "2 Thessalonians 3:17",
+        "Colossians 4:18"
+      ],
+      "verses": [
+        "1:19"
+      ]
+    },
+    {
+      "topic": "Guest rooms",
+      "text": "Travellers preferred to stay with friends rather than at inns. Paul asks Philemon to get a room ready, hoping to be released.",
+      "sources": [
+        "Philemon 1:22",
+        "Philippians 1:25-26",
+        "Romans 12:13"
+      ],
+      "verses": [
+        "1:22"
+      ]
+    }
+  ],
+  "basis": "Scripture first, then ancient writers on these years and places (Tacitus, Suetonius, Josephus, Strabo, Herodotus, Pliny, Roman law). Drafted by Claude and not yet reviewed by a person."
+}

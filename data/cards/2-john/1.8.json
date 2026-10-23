@@ -1,0 +1,174 @@
+{
+  "ref": {
+    "book": "2-john",
+    "chapter": 1,
+    "verse": 8
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:50:24.569Z",
+  "card": {
+    "in_context": {
+      "text": "Right after warning that many deceivers deny that Jesus Christ has come in the flesh, the elder tells his readers to watch themselves. They must not lose what has been worked for, but receive a full reward. The next verses say how: abide in the doctrine of Christ and do not welcome those who bring another teaching.",
+      "sources": [
+        "v:1.7",
+        "v:1.8",
+        "v:1.9",
+        "v:1.10"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" who does not give his name. Tradition says he is John the apostle. Some scholars think he was a different church leader.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "\"The elect lady and her children.\" This may be a Christian woman and her family, or a local church and its members. The letter does not say which.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The deceivers of verse 7 are the danger in view. The \"we\" who worked includes the elder and those who share the truth with him.",
+        "sources": [
+          "v:1.7",
+          "v:1.1",
+          "v:1.8"
+        ]
+      }
+    },
+    "what": {
+      "text": "A call to keep watch over oneself. Giving way to false teaching would mean losing the fruit of past labour. Staying faithful leads to receiving the reward in full.",
+      "sources": [
+        "v:1.8",
+        "w:G0991",
+        "w:G0622",
+        "w:G3408",
+        "w:G4134"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Travelling teachers moved between churches and relied on believers for housing. Some of them taught that Jesus Christ had not come in the flesh.",
+        "sources": [
+          "b:setting",
+          "v:1.7",
+          "v:1.10"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, late in John's life. Scholarly view: most scholars also place it in the late first century.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written. Early tradition places John's last years in Ephesus. It went to a church or household likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "To guard the readers against deceivers, so that their walk in truth and love does not come to nothing.",
+        "sources": [
+          "b:purpose",
+          "v:1.4",
+          "v:1.6",
+          "v:1.7"
+        ]
+      },
+      "big_picture": {
+        "text": "Scripture often links faithful labour with a reward from God. Paul says every man \"shall receive his own reward according to his own labour.\" Hebrews urges, \"Cast not away therefore your confidence, which hath great recompence of reward.\"",
+        "sources": [
+          "x:1-corinthians.3.8",
+          "x:1-corinthians.3.14",
+          "x:hebrews.10.35",
+          "x:revelation.3.11"
+        ]
+      },
+      "for_readers": {
+        "text": "Good beginnings need guarding. Like Paul's question, \"Have ye suffered so many things in vain?\", this verse warns that drifting from the truth can waste what was built.",
+        "sources": [
+          "x:galatians.3.4",
+          "x:hebrews.12.15",
+          "v:1.9"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G0991",
+        "english": "look to (watch)",
+        "why_it_matters": {
+          "text": "The word means to see, and it is also used of mental vision: to perceive or discern. \"Look to yourselves\" is a call to stay alert to danger, much as Jesus said \"take heed to yourselves\" in Mark 13:9.",
+          "sources": [
+            "w:G0991",
+            "x:mark.13.9"
+          ]
+        }
+      },
+      {
+        "strong": "G0622",
+        "english": "lose",
+        "why_it_matters": {
+          "text": "The lexicon gives the sense \"to lose utterly.\" It glosses the form here as \"you may lose.\" The danger named is real loss of what was gained.",
+          "sources": [
+            "w:G0622"
+          ]
+        }
+      },
+      {
+        "strong": "G2038",
+        "english": "wrought (worked for)",
+        "why_it_matters": {
+          "text": "This is the ordinary word for working or labouring. Here it is glossed \"we have worked for.\" The thing that could be lost is the fruit of shared labour.",
+          "sources": [
+            "w:G2038"
+          ]
+        }
+      },
+      {
+        "strong": "G3408",
+        "english": "reward",
+        "why_it_matters": {
+          "text": "The word means wages or hire, and more generally a reward. The lexicon lists this verse among its uses for divine rewards, along with 1 Corinthians 3:8 and 3:14.",
+          "sources": [
+            "w:G3408",
+            "x:1-corinthians.3.8",
+            "x:1-corinthians.3.14"
+          ]
+        }
+      },
+      {
+        "strong": "G4134",
+        "english": "full",
+        "why_it_matters": {
+          "text": "The word means full or complete. The lexicon cites this verse for a complete reward. The aim is to receive the reward whole, not reduced.",
+          "sources": [
+            "w:G4134"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Stay watchful and hold to the truth about Christ. Then the good already done is not lost, and the reward is received in full.",
+      "sources": [
+        "v:1.8",
+        "v:1.9",
+        "x:revelation.3.11"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

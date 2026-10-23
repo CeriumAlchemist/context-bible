@@ -1,0 +1,183 @@
+{
+  "ref": {
+    "book": "2-john",
+    "chapter": 1,
+    "verse": 1
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:50:24.564Z",
+  "card": {
+    "in_context": {
+      "text": "This is the opening greeting of a short letter. The writer calls himself \"the elder\" and writes to \"the elect lady and her children,\" whom he loves \"in the truth,\" along with all who know the truth. The word \"truth\" sets the theme for the letter, which ties truth and love together and warns against false teachers.",
+      "sources": [
+        "v:1.1",
+        "v:1.2",
+        "v:1.3",
+        "v:1.7",
+        "b:themes"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" who does not give his name. Early Christian tradition says he is John the apostle, and the letter's wording closely matches 1 John.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "\"The elect lady and her children.\" This may be a Christian woman and her family, or a figurative name for a local church and its members. The letter does not say which.",
+        "sources": [
+          "v:1.1",
+          "b:recipients",
+          "v:1.13"
+        ]
+      },
+      "affected": {
+        "text": "The elder says his love for them is shared by \"all they that have known the truth,\" meaning the wider body of believers.",
+        "sources": [
+          "v:1.1"
+        ]
+      }
+    },
+    "what": {
+      "text": "A greeting that names writer and readers and grounds their bond in truth. The elder loves them \"in the truth,\" and others who know the truth love them too, \"for the truth's sake, which dwelleth in us.\"",
+      "sources": [
+        "v:1.1",
+        "v:1.2"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse opens a letter rather than telling a story. The letter answers a time when travelling teachers were denying that Jesus Christ had come in the flesh.",
+        "sources": [
+          "v:1.7",
+          "v:1.10",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 85-95, late in John's life, around the time of 1 John. Scholarly: most also place it in the late first century, though some think \"the elder\" was a church leader other than the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written. Early tradition places John's last years in Ephesus. The readers were a church or household the elder hoped to visit, likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.12"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The greeting builds a bond of love rooted in truth. That bond prepares the readers for the call to walk in truth and love and the warning against deceivers.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "v:1.5",
+          "v:1.7",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Throughout the letter, truth and love belong together. The same pairing appears in 1 John 3:18: \"let us not love in word, neither in tongue; but in deed and in truth.\" Peter likewise links obeying the truth with love of the brethren.",
+        "sources": [
+          "b:themes",
+          "v:1.3",
+          "x:1-john.3.18",
+          "x:1-peter.1.22"
+        ]
+      },
+      "for_readers": {
+        "text": "Christian love here is not just warm feeling. It rests on shared truth about Jesus Christ, the truth that \"shall make you free.\"",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "x:john.8.32"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "Readers differ on who \"the elect lady\" is. One view takes her as a real Christian woman and her family. Another sees a figurative name for a local church and its members, with the \"elect sister\" of verse 13 as a sister church. The letter itself does not say which.",
+      "sources": [
+        "b:recipients",
+        "v:1.1",
+        "v:1.13",
+        "w:G2959"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G4245G",
+        "english": "elder",
+        "why_it_matters": {
+          "text": "The word can mean an older man or a leader of God's people. Peter uses it of himself in 1 Peter 5:1, \"who am also an elder,\" so the title can mark church leadership as well as age.",
+          "sources": [
+            "w:G4245G",
+            "x:1-peter.5.1"
+          ]
+        }
+      },
+      {
+        "strong": "G1588",
+        "english": "elect",
+        "why_it_matters": {
+          "text": "It means chosen, especially chosen by God, and can also mean choice or eminent. Calling the lady \"elect\" marks her, and her \"elect sister\" in verse 13, as belonging to God's chosen people.",
+          "sources": [
+            "w:G1588",
+            "v:1.13"
+          ]
+        }
+      },
+      {
+        "strong": "G2959",
+        "english": "lady",
+        "why_it_matters": {
+          "text": "The gloss is simply \"a lady.\" The lexicon lists it only in 2 John 1 and 5 and points readers to a discussion of how to interpret it. This is the root of the question of whether a woman or a church is meant.",
+          "sources": [
+            "w:G2959",
+            "x:2-john.1.5"
+          ]
+        }
+      },
+      {
+        "strong": "G0225",
+        "english": "truth",
+        "why_it_matters": {
+          "text": "The word can mean the real truth of a matter, including Christian teaching. It can also mean truthfulness and sincerity of character. Both senses fit here: the elder loves sincerely, and all who \"have known the truth\" share the teaching about Christ.",
+          "sources": [
+            "w:G0225",
+            "v:1.1",
+            "v:1.9"
+          ]
+        }
+      },
+      {
+        "strong": "G0025",
+        "english": "love",
+        "why_it_matters": {
+          "text": "The word means to feel and show esteem and goodwill toward a person. The letter defines it in action: \"this is love, that we walk after his commandments.\"",
+          "sources": [
+            "w:G0025",
+            "v:1.6"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "The elder's love for these believers rests on the truth they share, and that truth binds every believer who knows it. True love and true teaching go together.",
+      "sources": [
+        "v:1.1",
+        "v:1.2",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

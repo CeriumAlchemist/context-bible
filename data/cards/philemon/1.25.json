@@ -1,0 +1,156 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 25
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.929Z",
+  "card": {
+    "in_context": {
+      "text": "This is the closing blessing of Paul's short letter to Philemon. The letter opened with \"Grace to you\" (1:3), and it ends the same way, wishing the grace of Jesus Christ on its readers. The word \"your\" here is plural, as in 1:22, so the blessing reaches beyond Philemon to the whole church in his house (1:2).",
+      "sources": [
+        "v:1.25",
+        "v:1.3",
+        "v:1.22",
+        "v:1.2"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, who calls himself a prisoner of Jesus Christ, writing with Timothy.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, along with Apphia, Archippus, and the church that met in Philemon's house.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": null
+    },
+    "what": {
+      "text": "After sending greetings from Epaphras, Mark, Aristarchus, Demas and Luke (1:23-24), Paul prays that the grace of the Lord Jesus Christ would be with his readers' spirit, and seals it with \"Amen.\" Paul closes other letters with nearly the same words (Galatians 6:18; Romans 16:20; 2 Timothy 4:22).",
+      "sources": [
+        "v:1.23",
+        "v:1.24",
+        "v:1.25",
+        "x:galatians.6.18",
+        "x:romans.16.20",
+        "x:2-timothy.4.22"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "These are the last words of the letter, after Paul's appeal for Onesimus and his request for a lodging (1:8-22).",
+        "sources": [
+          "b:outline",
+          "v:1.22"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 60-62, during Paul's imprisonment in Rome. Scholarly: nearly all accept Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul wrote from prison; the letter does not name the city, though Rome is the traditional view. It was sent to Philemon's household, traditionally placed at Colossae.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.9"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The blessing closes a letter asking Philemon to receive Onesimus back as \"a brother beloved\" (1:16). Ending with Christ's grace puts that hard request under the same grace that greeted them at the start (1:3).",
+        "sources": [
+          "v:1.16",
+          "v:1.3",
+          "v:1.25",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Paul's letters often begin and end with grace, and his closings repeat this prayer that Christ's grace be with his readers (Galatians 6:18; Romans 16:20). In this letter, a servant becoming a brother and Paul taking on another's debt show that grace at work (1:16-19).",
+        "sources": [
+          "x:galatians.6.18",
+          "x:romans.16.20",
+          "v:1.16",
+          "v:1.18",
+          "v:1.19",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Paul closes as he began (1:3), with grace from the Lord Jesus Christ, prayed over the whole church.",
+        "sources": [
+          "v:1.3",
+          "v:1.25"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G5485",
+        "english": "grace",
+        "why_it_matters": {
+          "text": "The lexicon defines charis as that which causes favourable regard, graciousness. It is the same word of greeting in 1:3, so the letter begins and ends with Christ's favour.",
+          "sources": [
+            "w:G5485",
+            "v:1.3"
+          ]
+        }
+      },
+      {
+        "strong": "G4151G",
+        "english": "spirit",
+        "why_it_matters": {
+          "text": "Pneuma has the basic sense of breath or wind, and here means the inner person. Paul prays for grace to be with their spirit, as in Galatians 6:18 and 2 Timothy 4:22.",
+          "sources": [
+            "w:G4151G",
+            "x:galatians.6.18",
+            "x:2-timothy.4.22"
+          ]
+        }
+      },
+      {
+        "strong": "G0281",
+        "english": "Amen",
+        "why_it_matters": {
+          "text": "Amen comes from a Hebrew word meaning to be firm. The lexicon notes its use at the end of one's own prayer, which is how it seals this blessing.",
+          "sources": [
+            "w:G0281"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul ends a letter about forgiving and receiving a returning servant by praying Christ's grace over the whole church. The request and the reconciliation both rest on that grace.",
+      "sources": [
+        "v:1.25",
+        "v:1.16",
+        "v:1.2"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.for_readers",
+      "reason": "The cited verse 1:9 says Paul appeals 'for love's sake,' not on the basis of grace. The claim swaps love for grace and attributes that to 1:8-9. The cited verses also never say grace made Onesimus a brother; 1:16 says 'in the Lord.'",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

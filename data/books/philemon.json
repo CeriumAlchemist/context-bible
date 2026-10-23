@@ -1,0 +1,25 @@
+{
+  "author": "Paul, who calls himself \"a prisoner of Jesus Christ,\" writing with Timothy (1:1). He signs part of it in his own hand (1:19).",
+  "recipients": "Philemon, a believer and fellow-worker of Paul, with Apphia, Archippus, and the church that met in Philemon's house (1:1-2).",
+  "date": {
+    "traditional": "About AD 60-62, during Paul's imprisonment in Rome, at the same time as Colossians.",
+    "scholarly": "Nearly all scholars accept that Paul wrote it. Some place his imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59) instead of Rome."
+  },
+  "writtenFrom": "Prison (1:1, 1:9-10). The letter does not name the city; Rome is the traditional view.",
+  "destination": "Colossae, a town in the Lycus valley of the province of Asia. The letter does not name it, but Colossians names Onesimus as \"one of you\" and sends a message to Archippus (Colossians 4:9, 4:17).",
+  "purpose": "To appeal to Philemon to receive back Onesimus, his servant, who had left him and had become a believer through Paul, \"not now as a servant, but above a servant, a brother beloved\" (1:10-16). Paul offers to repay any debt himself (1:18-19).",
+  "setting": "Slavery was part of ordinary household life in the Roman world. Onesimus had been \"unprofitable\" to Philemon and had \"departed\" (1:11, 1:15). He travelled back with Tychicus, who also carried Colossians (Colossians 4:7-9).",
+  "outline": [
+    { "range": "1:1-3", "title": "Greeting" },
+    { "range": "1:4-7", "title": "Thanksgiving for Philemon's love and faith" },
+    { "range": "1:8-21", "title": "Paul's appeal for Onesimus" },
+    { "range": "1:22-25", "title": "A request for lodging; greetings" }
+  ],
+  "themes": [
+    "Paul appeals for love's sake rather than commanding (1:8-9).",
+    "In Christ a servant becomes \"a brother beloved\" (1:16).",
+    "Paul takes another's debt on himself (1:18-19).",
+    "Faith shows itself in love toward all the saints (1:5-7)."
+  ],
+  "basis": "From the letter's own text, compared with Colossians; dating views summarized from standard introductions."
+}

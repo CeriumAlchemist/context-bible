@@ -1,0 +1,174 @@
+{
+  "ref": {
+    "book": "2-john",
+    "chapter": 1,
+    "verse": 9
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:50:24.562Z",
+  "card": {
+    "in_context": {
+      "text": "The elder has just warned that many deceivers deny that Jesus Christ has come in the flesh (1:7). Here he gives the test: anyone who goes beyond the teaching of Christ and does not stay in it does not have God, but whoever stays in it has both the Father and the Son. This sets up his next command not to welcome such teachers (1:10-11).",
+      "sources": [
+        "v:1.7",
+        "v:1.9",
+        "v:1.10",
+        "v:1.11"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" who does not give his name. Early Christian tradition identifies him as John the apostle, and the letter's wording closely matches 1 John.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "\"The elect lady and her children.\" This may be a Christian woman and her family, or a figurative name for a local church and its members. The letter does not say which.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The verse describes two kinds of people. There are travelling teachers who deny that Jesus Christ has come in the flesh. There are also believers who keep to the teaching they heard from the beginning.",
+        "sources": [
+          "v:1.7",
+          "v:1.10",
+          "b:setting",
+          "x:1-john.2.24"
+        ]
+      }
+    },
+    "what": {
+      "text": "The verse draws a line between two groups. Those who move on past Christ's teaching and do not remain in it are without God. Those who remain in it have the Father and the Son together. 1 John 2:22-24 says the same: denying the Son means denying the Father, and keeping what was heard from the beginning means continuing in the Son and the Father.",
+      "sources": [
+        "v:1.9",
+        "x:1-john.2.22",
+        "x:1-john.2.24"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The letter answers a live situation. Teachers who had gone out from the churches were travelling and teaching that Jesus Christ had not come in the flesh.",
+        "sources": [
+          "b:setting",
+          "v:1.7"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, late in John's life, around the same time as 1 John. Scholarly view: most scholars also place it in the late first century, though some think \"the elder\" was a church leader other than the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or where it was sent. Early tradition places John's last years in Ephesus. The readers were a church or household he hoped to visit soon, likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.12"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse gives the readers a way to judge visiting teachers. Their test is whether a teacher stays in Christ's teaching, so that hospitality does not become support for deceivers.",
+        "sources": [
+          "v:1.9",
+          "v:1.10",
+          "b:purpose",
+          "b:themes"
+        ]
+      },
+      "big_picture": {
+        "text": "Across John's writings, staying in what was heard from the beginning means staying in fellowship with the Father and the Son (1 John 1:3, 2:24). Not abiding in Christ leaves a person like a cut-off branch (John 15:6). Jesus said his doctrine was not his own, but from the one who sent him (John 7:16).",
+        "sources": [
+          "x:1-john.1.3",
+          "x:1-john.2.24",
+          "x:john.15.6",
+          "x:john.7.16"
+        ]
+      },
+      "for_readers": {
+        "text": "Readers are urged to guard what they first received (\"look to yourselves,\" 1:8). They should not chase teaching that claims to move beyond Christ. Like the first believers, they are to continue steadfastly in the apostles' doctrine (Acts 2:42).",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "x:acts.2.42"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": {
+      "text": "\"The doctrine of Christ\" can be read two ways. Some take it as the teaching about Christ, especially that he came in the flesh, which fits the warning in 1:7. Others take it as the teaching Christ himself gave, as in John 7:16-17, where Jesus speaks of \"my doctrine.\"",
+      "sources": [
+        "v:1.7",
+        "v:1.9",
+        "x:john.7.16",
+        "x:john.7.17",
+        "w:G1322"
+      ]
+    },
+    "key_words": [
+      {
+        "strong": "G4254",
+        "english": "transgresseth (is progressing)",
+        "why_it_matters": {
+          "text": "The lexicon gloss is \"to go/bring before,\" meaning to lead on or go forward, and it is rendered \"is progressing\" here. The picture is of someone going ahead of, or beyond, the teaching instead of staying in it.",
+          "sources": [
+            "w:G4254",
+            "v:1.9"
+          ]
+        }
+      },
+      {
+        "strong": "G3306",
+        "english": "abideth",
+        "why_it_matters": {
+          "text": "The word means to stay, abide or remain. John uses the same word for Christ abiding in believers (John 15:4), for God abiding (1 John 4:15), and for the truth that dwells in us (2 John 2). Abiding in the teaching is tied to that ongoing union.",
+          "sources": [
+            "w:G3306",
+            "v:1.2",
+            "x:john.15.6"
+          ]
+        }
+      },
+      {
+        "strong": "G1322",
+        "english": "doctrine",
+        "why_it_matters": {
+          "text": "The word means teaching, or that which is taught. The lexicon lists it for Christ's teaching in John 7:17 and here in 2 John 9. Verse 10 uses it again for the teaching a visitor must bring.",
+          "sources": [
+            "w:G1322",
+            "x:john.7.17",
+            "v:1.10"
+          ]
+        }
+      },
+      {
+        "strong": "G2192",
+        "english": "hath",
+        "why_it_matters": {
+          "text": "The word means to have or hold. To \"have\" the Father and the Son matches 1 John 1:3, which speaks of fellowship with the Father and with his Son Jesus Christ.",
+          "sources": [
+            "w:G2192",
+            "x:1-john.1.3"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "You cannot have God the Father while leaving behind the truth about his Son. Staying in Christ's teaching, as first received, is how a believer has both the Father and the Son.",
+      "sources": [
+        "v:1.9",
+        "x:1-john.2.22",
+        "x:1-john.2.24"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

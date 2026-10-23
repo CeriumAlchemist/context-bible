@@ -1,0 +1,169 @@
+{
+  "ref": {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 12
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:41:21.928Z",
+  "card": {
+    "in_context": {
+      "text": "Paul is sending Onesimus, Philemon's servant who had left him, back to Philemon. He asks Philemon to receive him and calls Onesimus \"mine own bowels,\" meaning his very heart. The verse sits inside Paul's appeal for Onesimus, whom Paul had led to faith while in prison.",
+      "sources": [
+        "v:1.10",
+        "v:1.11",
+        "v:1.12",
+        "b:purpose",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Paul, writing from prison with Timothy.",
+        "sources": [
+          "v:1.1",
+          "v:1.9",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Philemon, a believer and fellow-worker of Paul. The letter also greets Apphia, Archippus, and the church that met in his house.",
+        "sources": [
+          "v:1.1",
+          "v:1.2",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "Onesimus, Philemon's servant who had \"departed.\" Paul calls him \"my son Onesimus, whom I have begotten in my bonds.\"",
+        "sources": [
+          "v:1.10",
+          "v:1.15",
+          "b:setting"
+        ]
+      }
+    },
+    "what": {
+      "text": "Paul has sent Onesimus back and asks Philemon to take him in. By calling Onesimus his own heart, Paul ties how Philemon treats Onesimus to how he treats Paul. He later says it outright: \"receive him as myself.\"",
+      "sources": [
+        "v:1.12",
+        "v:1.17",
+        "w:G0375",
+        "w:G4698"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "This happens when Onesimus, now a believer, returns to Philemon. He travelled back with Tychicus, who also carried Colossians.",
+        "sources": [
+          "v:1.10",
+          "v:1.11",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 60-62, during Paul's imprisonment in Rome. Scholarly view: nearly all scholars accept that Paul wrote it, but some place the imprisonment at Ephesus (about AD 54-55) or Caesarea (about AD 57-59).",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "Paul writes from prison, but the letter does not name the city; Rome is the traditional view. The letter went to Philemon's household, traditionally placed in Colossae, a town in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Paul wants Philemon to welcome Onesimus warmly rather than as a runaway. He asks for love's sake instead of giving an order, and he offers to pay any debt Onesimus owes.",
+        "sources": [
+          "v:1.8",
+          "v:1.9",
+          "v:1.14",
+          "v:1.18",
+          "v:1.19",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "In Christ a servant becomes \"a brother beloved.\" Scripture pictures this kind of tender welcome elsewhere: God's \"bowels are troubled\" for Ephraim his son, and a father runs to receive a returning son. Believers are called to be \"tenderhearted, forgiving one another.\"",
+        "sources": [
+          "v:1.16",
+          "x:jeremiah.31.20",
+          "x:luke.15.20",
+          "x:ephesians.4.32",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "Paul asks Philemon to receive Onesimus as he would receive Paul himself (1:17), and to put anything owed on Paul's account. Believers are to forgive as they have been forgiven.",
+        "sources": [
+          "v:1.17",
+          "v:1.18",
+          "x:matthew.6.14",
+          "x:mark.11.25",
+          "x:ephesians.4.32"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4698",
+        "english": "bowels / very heart",
+        "why_it_matters": {
+          "text": "The word literally means the inner parts, used for deep affection. Paul uses it three times in this short letter: the saints' hearts are \"refreshed\" (1:7), Onesimus is Paul's heart (1:12), and Paul asks Philemon to \"refresh my bowels\" (1:20).",
+          "sources": [
+            "w:G4698",
+            "v:1.7",
+            "v:1.12",
+            "v:1.20"
+          ]
+        }
+      },
+      {
+        "strong": "G0375",
+        "english": "I have sent back",
+        "why_it_matters": {
+          "text": "The word means to send up or send back, and the lexicon also lists it for sending to a higher authority (Luke 23:7). Here it marks Onesimus's return to Philemon.",
+          "sources": [
+            "w:G0375"
+          ]
+        }
+      },
+      {
+        "strong": "G4355",
+        "english": "receive",
+        "why_it_matters": {
+          "text": "The word means to take to oneself or receive, and is used of welcoming people. Paul uses it again in 1:17: \"receive him as myself.\"",
+          "sources": [
+            "w:G4355",
+            "v:1.17"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Paul sends Onesimus home as part of himself and asks Philemon to welcome him that way. The verse calls believers to receive one another, even those who once failed them, with the heart.",
+      "sources": [
+        "v:1.12",
+        "v:1.16",
+        "v:1.17",
+        "x:ephesians.4.32"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.for_readers",
+      "reason": "The cited sources do not say that receiving someone shows love to Christ. Philemon 1:17 ties receiving Onesimus to receiving Paul, not Christ. Philemon 1:18 also only raises the wrong as a possibility (\"If he hath wronged thee\").",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

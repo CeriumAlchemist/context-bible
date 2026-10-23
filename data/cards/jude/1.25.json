@@ -1,0 +1,177 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 25
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.968Z",
+  "card": {
+    "in_context": {
+      "text": "This is the last line of Jude's letter. After warning about ungodly men who had crept in, Jude ends by praising God, who is able to keep his readers from falling (1:24). Verse 25 gives that God all glory, majesty, dominion and power, now and for ever.",
+      "sources": [
+        "v:1.4",
+        "v:1.24",
+        "v:1.25",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James. Tradition identifies him with the Judas named among Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers who are \"sanctified by God the Father, and preserved in Jesus Christ, and called.\" The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients",
+          "b:destination"
+        ]
+      },
+      "affected": {
+        "text": "The verse is about God himself, called \"the only wise God our Saviour.\" He is the one who keeps believers from falling.",
+        "sources": [
+          "v:1.24",
+          "v:1.25"
+        ]
+      }
+    },
+    "what": {
+      "text": "This is a doxology, a short burst of praise that closes a letter. Jude names God as the only wise God and Saviour, ascribes four things to him (glory, majesty, dominion, power) for all time, and seals it with \"Amen.\"",
+      "sources": [
+        "v:1.25",
+        "b:outline",
+        "w:G0281"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "No event is described. The verse closes the letter after Jude's warnings and his call to keep in God's love.",
+        "sources": [
+          "v:1.20",
+          "v:1.21",
+          "v:1.24",
+          "b:outline"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly view: dates range from the 50s to the early second century, and some think a later follower wrote in Jude's name, while others defend Jude's authorship.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or where it was sent. Its many references to Israel's history suggest readers who knew Jewish tradition well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "Jude has warned of false teachers and urged readers to keep themselves in God's love. He ends by pointing them away from their own strength to God, who is able to keep them and present them faultless.",
+        "sources": [
+          "v:1.4",
+          "v:1.21",
+          "v:1.24",
+          "b:themes"
+        ]
+      },
+      "big_picture": {
+        "text": "The same kind of praise closes other New Testament passages. 1 Timothy 1:17 also calls God \"the only wise God,\" and 1 Peter 5:11 says \"To him be glory and dominion for ever and ever.\" In Revelation all creation gives blessing, honour, glory and power to God and the Lamb, and the response is \"Amen.\"",
+        "sources": [
+          "x:1-timothy.1.17",
+          "x:1-peter.5.11",
+          "x:revelation.5.13",
+          "x:revelation.5.14"
+        ]
+      },
+      "for_readers": {
+        "text": "A letter full of warnings ends in worship, not fear. Believers are told to keep themselves in God's love, yet the final word is that God keeps them, and all glory belongs to him.",
+        "sources": [
+          "v:1.21",
+          "v:1.24",
+          "v:1.25",
+          "b:themes"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G3441",
+        "english": "only",
+        "why_it_matters": {
+          "text": "Monos means \"alone\" or \"only.\" The lexicon lists it with \"God\" in John 5:44, John 17:3, Romans 16:27 and 1 Timothy 1:17, marking him as the one true God set against the false teachers' denial of \"the only Lord God\" (1:4).",
+          "sources": [
+            "w:G3441",
+            "x:john.5.44",
+            "x:1-timothy.1.17",
+            "v:1.4"
+          ]
+        }
+      },
+      {
+        "strong": "G4990",
+        "english": "Saviour",
+        "why_it_matters": {
+          "text": "Soter means saviour, deliverer or preserver. The lexicon notes the New Testament uses it of God himself, as in Luke 1:47 and 1 Timothy, which fits Jude's picture of God keeping and saving his people (1:5, 1:24).",
+          "sources": [
+            "w:G4990",
+            "v:1.5",
+            "v:1.24"
+          ]
+        }
+      },
+      {
+        "strong": "G3172",
+        "english": "majesty",
+        "why_it_matters": {
+          "text": "Megalosune means greatness or majesty. The lexicon lists its only other New Testament uses in Hebrews 1:3 and 8:1.",
+          "sources": [
+            "w:G3172"
+          ]
+        }
+      },
+      {
+        "strong": "G2904",
+        "english": "dominion",
+        "why_it_matters": {
+          "text": "Kratos means strength, power or might. The lexicon notes its use in doxologies, including 1 Peter 5:11, \"To him be glory and dominion for ever and ever.\"",
+          "sources": [
+            "w:G2904",
+            "x:1-peter.5.11"
+          ]
+        }
+      },
+      {
+        "strong": "G0165H",
+        "english": "ages",
+        "why_it_matters": {
+          "text": "Aion means an age or an indefinitely long period, eternity. Here it is part of a phrase the word list gives as \"to all the ages,\" stressing that God's glory has no end.",
+          "sources": [
+            "w:G0165H",
+            "w:G1519",
+            "w:G3956"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Jude's last word is praise to the only wise God, who saves and keeps his people. Whatever threats come, glory and power belong to him now and for ever.",
+      "sources": [
+        "v:1.24",
+        "v:1.25"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

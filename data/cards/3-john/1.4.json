@@ -1,0 +1,162 @@
+{
+  "ref": {
+    "book": "3-john",
+    "chapter": 1,
+    "verse": 4
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:39:21.969Z",
+  "card": {
+    "in_context": {
+      "text": "The elder has just said he rejoiced greatly when travelling believers reported that Gaius walks in the truth. Here he widens that joy into a rule: nothing makes him happier than hearing that his children in the faith live by the truth. This sets up his praise of Gaius's faithful care for visiting brethren.",
+      "sources": [
+        "v:1.3",
+        "v:1.4",
+        "v:1.5",
+        "b:recipients"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "\"The elder,\" an unnamed writer. Early Christian tradition identifies him as John the apostle. Some scholars think he was a different church leader.",
+        "sources": [
+          "v:1.1",
+          "b:author",
+          "b:date"
+        ]
+      },
+      "audience": {
+        "text": "Gaius, a believer the elder calls \"wellbeloved\" and counts among his children in the faith.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "\"My children\" means the believers the elder cares for as a spiritual father, Gaius among them. Paul uses the same family language for those he taught in the faith.",
+        "sources": [
+          "b:recipients",
+          "x:galatians.4.19",
+          "x:1-timothy.1.2"
+        ]
+      }
+    },
+    "what": {
+      "text": "The elder states that his greatest joy is to hear reports that those he shepherds are living in line with the truth. The report about Gaius came from brethren who came and testified of it.",
+      "sources": [
+        "v:1.3",
+        "v:1.4"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "Travelling Christian workers had visited Gaius's church and brought word back to the elder about his faithfulness.",
+        "sources": [
+          "v:1.3",
+          "v:1.7",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, near the time of 1 and 2 John. Scholarly view: most also place it in the late first century.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The text does not say where it was written; early tradition places John's last years in Ephesus. Gaius lived in a church the elder had written to before, likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.9"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The verse explains why the elder is so glad about Gaius and leads into praising him for receiving travelling believers. That praise stands in contrast with Diotrephes, who turned such believers away.",
+        "sources": [
+          "b:purpose",
+          "v:1.5",
+          "v:1.10"
+        ]
+      },
+      "big_picture": {
+        "text": "Walking in truth means a whole life shaped by what is true, as with David and Hezekiah who \"walked before\" God \"in truth.\" Proverbs likewise says a father rejoices greatly over a righteous child.",
+        "sources": [
+          "x:1-kings.3.6",
+          "x:2-kings.20.3",
+          "x:proverbs.23.24",
+          "b:themes"
+        ]
+      },
+      "for_readers": {
+        "text": "The elder measures success by faithful living, not by status. Diotrephes loved \"the preeminence,\" but the elder's joy is in others walking in truth.",
+        "sources": [
+          "v:1.4",
+          "v:1.9",
+          "b:themes"
+        ]
+      }
+    },
+    "misuse": {
+      "popular_reading": "Often quoted by parents about their own sons and daughters, as a verse about family parenting.",
+      "in_context_reading": {
+        "text": "Here \"my children\" are spiritual children, believers like Gaius whom the elder cares for in the faith. The joy of a parent over a righteous child is a true biblical idea (Proverbs 23:24), but this verse speaks of a church leader and those he shepherds.",
+        "sources": [
+          "b:recipients",
+          "w:G5043",
+          "x:galatians.4.19",
+          "x:proverbs.23.24"
+        ]
+      }
+    },
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G5043",
+        "english": "children",
+        "why_it_matters": {
+          "text": "The word means a child, but it is also used as a kindly address from an elder to a junior or a teacher to a disciple, as in Galatians 4:19. That fits the elder's spiritual care for Gaius.",
+          "sources": [
+            "w:G5043",
+            "x:galatians.4.19",
+            "b:recipients"
+          ]
+        }
+      },
+      {
+        "strong": "G4043",
+        "english": "walk",
+        "why_it_matters": {
+          "text": "Literally \"to walk,\" it is used figuratively of living and conducting oneself, as in 1 John 1:6-7. The elder means a way of life, not just agreeing with ideas.",
+          "sources": [
+            "w:G4043"
+          ]
+        }
+      },
+      {
+        "strong": "G0225",
+        "english": "truth",
+        "why_it_matters": {
+          "text": "The word can mean religious or Christian truth, and also truthfulness, sincerity and integrity of character. The lexicon cites 3 John 3 for that second sense, the verse just before this one.",
+          "sources": [
+            "w:G0225",
+            "v:1.3"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "The elder's greatest joy is not his own standing but hearing that those he cares for live out the truth. Gaius showed that truth in how he treated travelling believers.",
+      "sources": [
+        "v:1.4",
+        "v:1.5",
+        "v:1.6"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": []
+}

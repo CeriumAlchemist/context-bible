@@ -1,0 +1,171 @@
+{
+  "ref": {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 17
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:44:22.970Z",
+  "card": {
+    "in_context": {
+      "text": "Jude has just described ungodly men who crept into the church and walk after their own lusts (1:4, 1:16). Now he turns to his readers: \"But, beloved, remember.\" He points them to what the apostles had already foretold, that mockers would come in the last time (1:18).",
+      "sources": [
+        "v:1.4",
+        "v:1.16",
+        "v:1.17",
+        "v:1.18"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "Jude, who calls himself a servant of Jesus Christ and brother of James. Tradition identifies him as one of Jesus' brothers.",
+        "sources": [
+          "v:1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Believers who are \"sanctified by God the Father, and preserved in Jesus Christ, and called.\" The letter does not say where they lived.",
+        "sources": [
+          "v:1.1",
+          "b:recipients"
+        ]
+      },
+      "affected": {
+        "text": "The apostles, whose earlier words Jude recalls. Also the mockers they warned about, whom Jude links to the men troubling his readers (1:18-19).",
+        "sources": [
+          "v:1.17",
+          "v:1.18",
+          "v:1.19"
+        ]
+      }
+    },
+    "what": {
+      "text": "Jude tells his readers to call to mind what the apostles of the Lord Jesus Christ had said beforehand. Those words, he explains, warned that mockers would arise. So the troublemakers should not shake them; they were expected.",
+      "sources": [
+        "v:1.17",
+        "v:1.18",
+        "w:G4280"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The verse looks back to apostolic teaching already given to the readers (\"they told you,\" 1:18). The text does not say when or where the apostles spoke it.",
+        "sources": [
+          "v:1.17",
+          "v:1.18"
+        ]
+      },
+      "written": {
+        "text": "Traditional: about AD 65-80, by Jude the brother of James and of Jesus. Scholarly: views range from the 50s to the early second century, and some think a later follower wrote in Jude's name.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written or where its readers lived. Its many references to Israel's history suggest readers who knew Jewish tradition well.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "To steady believers facing false teachers by reminding them that the apostles had warned about such people. This leads into Jude's call to build themselves up and keep themselves in God's love (1:20-21).",
+        "sources": [
+          "v:1.17",
+          "v:1.18",
+          "v:1.20",
+          "v:1.21",
+          "b:purpose"
+        ]
+      },
+      "big_picture": {
+        "text": "Jude urges his readers to contend for \"the faith which was once delivered unto the saints\" (1:3). The apostles' words are part of that handed-down faith. 2 Peter 3:2 gives a closely parallel call to be mindful of the words of the prophets and apostles.",
+        "sources": [
+          "v:1.3",
+          "x:2-peter.3.2",
+          "b:setting"
+        ]
+      },
+      "for_readers": {
+        "text": "When error appears among God's people, the first response Jude gives is to remember what was already taught. Scripture often calls God's people to remember his word, as in Malachi 4:4 and Acts 20:35.",
+        "sources": [
+          "v:1.17",
+          "x:malachi.4.4",
+          "x:acts.20.35"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4771",
+        "english": "you yourselves",
+        "why_it_matters": {
+          "text": "The verse opens with an emphatic \"you,\" which the lexicon says can express opposition or distinction. It sets the readers apart from \"these\" ungodly men just described (1:16). Jude repeats the same contrast in 1:20: \"But ye, beloved.\"",
+          "sources": [
+            "w:G4771",
+            "v:1.16",
+            "v:1.20"
+          ]
+        }
+      },
+      {
+        "strong": "G3403",
+        "english": "remember",
+        "why_it_matters": {
+          "text": "The lexicon glosses it as remind oneself of, hence remember, and lists the same use in 2 Peter 3:2. Jude also says he writes to put his readers \"in remembrance\" (1:5).",
+          "sources": [
+            "w:G3403",
+            "x:2-peter.3.2",
+            "v:1.5"
+          ]
+        }
+      },
+      {
+        "strong": "G4280",
+        "english": "spoken beforehand",
+        "why_it_matters": {
+          "text": "It means to say before, and the lexicon lists Jude 17 under its use for prophecy, along with Matthew 24:25 and 2 Peter 3:2. The apostles' words were a warning given in advance.",
+          "sources": [
+            "w:G4280",
+            "v:1.18"
+          ]
+        }
+      },
+      {
+        "strong": "G0652",
+        "english": "apostles",
+        "why_it_matters": {
+          "text": "It means one sent on a mission. In the New Testament it is used especially of the Twelve. Jude points to their teaching as the standard to hold onto, as 1 John 4:6 and Ephesians 4:11 also give apostles a key role.",
+          "sources": [
+            "w:G0652",
+            "x:1-john.4.6",
+            "x:ephesians.4.11"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "False teachers should not surprise believers, because the apostles warned of them ahead of time. Jude's answer is to remember and hold to the apostles' words, and to keep yourselves in the love of God.",
+      "sources": [
+        "v:1.17",
+        "v:1.18",
+        "v:1.21"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "key_words.1",
+      "reason": "The lexicon only lists Luke 24:8 as a reference. Nothing cited says this is where the women remembered Jesus' words; that detail comes from outside the sources.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}

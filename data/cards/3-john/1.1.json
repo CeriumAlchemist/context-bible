@@ -1,0 +1,160 @@
+{
+  "ref": {
+    "book": "3-john",
+    "chapter": 1,
+    "verse": 1
+  },
+  "status": "ai-drafted",
+  "model": "claude-opus-5-5",
+  "generatedAt": "2026-10-23T00:39:21.969Z",
+  "card": {
+    "in_context": {
+      "text": "This is the opening greeting of a short personal letter. \"The elder\" writes to Gaius, calls him \"wellbeloved,\" and says he loves him \"in the truth.\" The rest of the letter praises Gaius for walking in the truth and for welcoming travelling believers.",
+      "sources": [
+        "v:1.1",
+        "v:1.3",
+        "v:1.5",
+        "b:outline"
+      ]
+    },
+    "who": {
+      "speaker": {
+        "text": "The writer calls himself only \"the elder,\" just as in 2 John. Early Christian tradition identifies him as John the apostle.",
+        "sources": [
+          "v:1.1",
+          "x:2-john.1.1",
+          "b:author"
+        ]
+      },
+      "audience": {
+        "text": "Gaius, a believer the elder counts among his children in the faith. Gaius was a common name, and this Gaius is not clearly the same as any other Gaius in the New Testament.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "b:recipients",
+          "w:G1050J",
+          "x:romans.16.23",
+          "x:acts.19.29",
+          "x:acts.20.4"
+        ]
+      },
+      "affected": null
+    },
+    "what": {
+      "text": "The elder names himself and his reader and states his love for Gaius. He ties that love to \"the truth,\" the same phrase he uses in his greeting in 2 John.",
+      "sources": [
+        "v:1.1",
+        "x:2-john.1.1"
+      ]
+    },
+    "when": {
+      "events": {
+        "text": "The letter comes at a time when Christian workers travelled \"for his name's sake\" and relied on churches to house them and send them on. A leader named Diotrephes was refusing to receive them.",
+        "sources": [
+          "v:1.7",
+          "v:1.9",
+          "v:1.10",
+          "b:setting"
+        ]
+      },
+      "written": {
+        "text": "Traditional view: about AD 85-95, around the time of 1 and 2 John. Scholarly view: most scholars also place it in the late first century, though some think \"the elder\" was a church leader other than the apostle.",
+        "sources": [
+          "b:date"
+        ]
+      }
+    },
+    "where": {
+      "text": "The letter does not say where it was written; early tradition places John's last years in Ephesus. It went to a church the elder had written to before, where Gaius lived, likely in the province of Asia.",
+      "sources": [
+        "b:writtenFrom",
+        "b:destination",
+        "v:1.9"
+      ]
+    },
+    "why": {
+      "purpose": {
+        "text": "The greeting opens a letter meant to commend Gaius for walking in the truth and receiving travelling brethren, to confront Diotrephes, and to commend Demetrius.",
+        "sources": [
+          "b:purpose",
+          "v:1.3",
+          "v:1.10",
+          "v:1.12"
+        ]
+      },
+      "big_picture": {
+        "text": "For the elder, love and truth belong together. He loves Gaius \"in the truth,\" and his greatest joy is hearing that his children \"walk in truth\" (1:4); 2 John opens the same way.",
+        "sources": [
+          "v:1.1",
+          "v:1.4",
+          "x:2-john.1.1"
+        ]
+      },
+      "for_readers": {
+        "text": "The verse shows Christian love as grounded in shared truth, not only in feeling. It invites readers to love fellow believers in ways that match the truth they hold.",
+        "sources": [
+          "v:1.1",
+          "v:1.3",
+          "x:1-john.3.18"
+        ]
+      }
+    },
+    "misuse": null,
+    "christians_differ": null,
+    "key_words": [
+      {
+        "strong": "G4245G",
+        "english": "elder",
+        "why_it_matters": {
+          "text": "The word can mean someone older in age, as with the elder son in Luke 15:25. It is also used of the religious leaders of the past. Here the writer uses it as his only title.",
+          "sources": [
+            "w:G4245G",
+            "v:1.1"
+          ]
+        }
+      },
+      {
+        "strong": "G0027",
+        "english": "beloved",
+        "why_it_matters": {
+          "text": "The word means \"beloved.\" It is used of those loved by God and of Christians toward one another, often as a form of address. The elder uses it again for Gaius in verses 2, 5 and 11.",
+          "sources": [
+            "w:G0027",
+            "v:1.2",
+            "v:1.5",
+            "v:1.11"
+          ]
+        }
+      },
+      {
+        "strong": "G0225",
+        "english": "truth",
+        "why_it_matters": {
+          "text": "The word can mean the real truth of a matter, especially Christian teaching, or truthfulness and integrity of character. The lexicon cites 3 John 3 for the second sense, so \"in the truth\" may involve both what Gaius believes and how he lives.",
+          "sources": [
+            "w:G0225",
+            "v:1.3"
+          ]
+        }
+      }
+    ],
+    "takeaway": {
+      "text": "Before any instruction or warning, the elder greets Gaius with warm love rooted in the truth. That pairing of love and truth shapes the whole letter.",
+      "sources": [
+        "v:1.1",
+        "v:1.3",
+        "v:1.8",
+        "b:themes"
+      ]
+    }
+  },
+  "problems": [],
+  "unsupported": [],
+  "resolved": [
+    {
+      "claim": "why.big_picture",
+      "reason": "It treats the author of 1 John as 'this writer.' The cited sources link the elder only to 2 John; none say he wrote 1 John, so quoting 1 John 3:18 as his own instruction assumes a common authorship the sources do not establish.",
+      "fix": "claim rewritten to match its sources"
+    }
+  ]
+}
